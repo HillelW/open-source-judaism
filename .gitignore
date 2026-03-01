@@ -1,15 +1,8 @@
-# macOS
-.DS_Store
+# Ignore everything by default
+*
 
-# Editor lock files
-.~lock.*
-
-# Archive folder (old versions, not for git)
-**/archive/
-
-# Build outputs
-site/
-
-# Python
-__pycache__/
-*.pyc
+# Allow these through
+!.gitignore
+!README.md
+!book/
+!book/**
