@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor lock files
+.~lock.*
+
+# Archive folder (old versions, not for git)
+**/archive/
+
+# Build outputs
+site/
+
+# Python
+__pycache__/
+*.pyc
