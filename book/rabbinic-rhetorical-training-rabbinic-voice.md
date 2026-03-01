@@ -238,9 +238,9 @@ Consider, too, the arrangement of the Mishnah's chapters within a tractate. Trac
 
 But the opening word of the entire Mishnah deserves special attention: *me'eimatai* -- "From what time?" The Mishnah does not begin with a statement but with a question. This is itself a principle of arrangement: begin with a question, and the listener is immediately engaged. He wants to hear the answer. If the Mishnah had begun with a declarative statement -- "One recites the evening Shema from such-and-such a time" -- the listener would receive the information passively. By beginning with a question, the Mishnah draws the listener into the argument as a participant. The student should remember this principle in his own discourse: a question at the beginning is worth more than a statement, because it activates the listener's mind.
 
-The student should also learn the arrangement of a halakhic argument (*sugyah*) as it unfolds in the Talmud: first the Mishnah states the law; then a question is raised (*maitibi*, "they objected"); then a resolution is offered; then further objections and resolutions follow, sometimes branching into tangential discussions before returning to the main theme. This structure -- thesis, objection, resolution, refinement -- is itself a form of arrangement, and the student who internalizes it will know how to organize his own legal arguments.
+The student should also learn the arrangement of a halakhic argument (*sugya*) as it unfolds in the Talmud: first the Mishnah states the law; then a question is raised (*maitibi*, "they objected"); then a resolution is offered; then further objections and resolutions follow, sometimes branching into tangential discussions before returning to the main theme. This structure -- thesis, objection, resolution, refinement -- is itself a form of arrangement, and the student who internalizes it will know how to organize his own legal arguments.
 
-But the sugyah has an additional feature that the student should study: the *tangential excursus* (*aggadeta de-agav*). In the midst of a halakhic discussion, the Talmud often digresses into an aggadic narrative, a biographical anecdote, or a theological reflection that seems unrelated to the legal question at hand. The untrained student may think this is a failure of arrangement -- a wandering from the point. But the skilled student will recognize that the digression is almost always thematically connected to the main discussion at a deeper level. The narrative may illustrate the human stakes of the legal question; the theological reflection may provide the conceptual framework within which the legal answer makes sense. The sugyah's arrangement is not linear but *organic*: it allows the discussion to breathe, to touch upon the human dimensions of the law, and to return to the legal question enriched by the detour.
+But the sugya has an additional feature that the student should study: the *tangential excursus* (*aggadeta de-agav*). In the midst of a halakhic discussion, the Talmud often digresses into an aggadic narrative, a biographical anecdote, or a theological reflection that seems unrelated to the legal question at hand. The untrained student may think this is a failure of arrangement -- a wandering from the point. But the skilled student will recognize that the digression is almost always thematically connected to the main discussion at a deeper level. The narrative may illustrate the human stakes of the legal question; the theological reflection may provide the conceptual framework within which the legal answer makes sense. The sugya's arrangement is not linear but *organic*: it allows the discussion to breathe, to touch upon the human dimensions of the law, and to return to the legal question enriched by the detour.
 
 The student who learns to arrange his own arguments this way -- stating the law, acknowledging the objection, resolving it, and then pausing to reflect on the deeper significance of the question before offering his final ruling -- will produce discourse that is not only correct but compelling. For the listener who hears only the bare ruling receives the answer; the listener who hears the ruling embedded in its human and theological context receives the *understanding*.
 
@@ -270,7 +270,7 @@ If the Torah itself, which values every letter, is willing to add extra letters 
 
 The student should also learn the distinction between *lashon ba'alei batim* (the language of householders -- ordinary, unadorned speech) and *lashon chakhamim* (the language of sages -- precise, technical, and often elegant). In the bet midrash, the language of sages is preferred: terms are used with precision, formulations follow established patterns, and the choice of words reflects the care of a craftsman selecting his tools. Yet in public preaching, the language of householders has its place -- for the preacher must be understood by all, and there is no virtue in precision that is unintelligible to the audience.
 
-The sages also recognized the power of *lashon meli(t)zah* -- elevated, poetic language. The prophets spoke in meli(t)zah, and the liturgical poets (*paytanim*) continued this tradition. There are moments in the bet midrash when plain speech is insufficient -- when the occasion demands a higher register, a more resonant mode of expression. The eulogy is such a moment; the festival derashah is another. The student should develop the ability to move between registers -- to speak plainly when clarity demands it and eloquently when the occasion warrants it.
+The sages also recognized the power of *lashon melitzah* -- elevated, poetic language. The prophets spoke in melitzah, and the liturgical poets (*paytanim*) continued this tradition. There are moments in the bet midrash when plain speech is insufficient -- when the occasion demands a higher register, a more resonant mode of expression. The eulogy is such a moment; the festival derashah is another. The student should develop the ability to move between registers -- to speak plainly when clarity demands it and eloquently when the occasion warrants it.
 
 And the student should know the three levels of style recognized by the tradition: the plain (*pashut*), the middle (*beinoni*), and the grand (*nisgav*). A halakhic ruling is stated plainly. An aggadic narrative is told in the middle style. A prophetic oracle or a liturgical poem is expressed in the grand style. Each level has its appropriate occasions, and the sage who uses the grand style for a minor ruling or the plain style for a cosmic declaration has misjudged his material.
 
@@ -987,7 +987,7 @@ Rabbi Yehoshua's deployment of Deuteronomy 30:12 to refute a heavenly voice -- u
 
 Consider also Hillel's wit with the convert who demanded to learn Torah on one foot. The pedagogical trap -- teaching the alphabet and then reversing it -- is itself a witty maneuver: it forces the convert to recognize that he already trusts Hillel's authority for the Written Torah, and therefore has no grounds to reject his authority for the Oral Torah. The wit lies in using the student's own logic against him.
 
-And the sage's quip at Pesachim 66b:
+And the sage's quip at Pesahim 66b:
 
 > <span dir="rtl">הניחו להם לישראל; אם אין נביאים הם, בני נביאים הם</span>
 >
@@ -1295,7 +1295,7 @@ May your Torah increase, may your wisdom increase, and may your counsel bring un
 
 [^2]: The companion catalog is organized according to Theon's categories as presented in Hock and O'Neil, *The Chreia in Ancient Rhetoric*, and covers types of chreiai, forms of expression, related forms, and exercises with chreiai, with tannaitic parallels for each category.
 
-[^3]: The phrase *hokhmah of ordered speech* is our reconstruction; no single rabbinic term corresponds exactly to the Greek *rhetorike*. The closest rabbinic concept may be *meli(t)zah* (eloquence) or *seder* (order) applied to discourse. On the absence of a single rabbinic term for rhetoric, see Hidary, *Rabbis and Classical Rhetoric*, 15-18.
+[^3]: The phrase *hokhmah of ordered speech* is our reconstruction; no single rabbinic term corresponds exactly to the Greek *rhetorike*. The closest rabbinic concept may be *melitzah* (eloquence) or *seder* (order) applied to discourse. On the absence of a single rabbinic term for rhetoric, see Hidary, *Rabbis and Classical Rhetoric*, 15-18.
 
 [^4]: Aristotle, *Rhetoric* 1.2 (1355b25-26): "the faculty of observing in any given case the available means of persuasion." Trans. Kennedy (New York: Oxford University Press, 2007).
 
@@ -1345,9 +1345,9 @@ May your Torah increase, may your wisdom increase, and may your counsel bring un
 
 [^27]: On the redactional principles of the Mishnah, see Epstein, *Mevo'ot le-Sifrut ha-Tanna'im* (Jerusalem: Magnes, 1957), and Albeck's introductions to his edition of the Mishnah.
 
-[^28]: BT Pesachim 3b. The principle of conciseness in teaching is also expressed at BT Hullin 63b. Compare Quintilian's emphasis on *brevitas* as a virtue of style (*Inst. Or.* 4.2.43-44).
+[^28]: BT Pesahim 3b. The principle of conciseness in teaching is also expressed at BT Hullin 63b. Compare Quintilian's emphasis on *brevitas* as a virtue of style (*Inst. Or.* 4.2.43-44).
 
-[^29]: BT Pesachim 3a. The Torah's avoidance of the word *teme'ah* (impure) in favor of the longer phrase *asher einennah tehorah* (which is not pure) is cited as a model for clean language. Cf. the discussion in Lieberman, *Hellenism in Jewish Palestine*, 38-39.
+[^29]: BT Pesahim 3a. The Torah's avoidance of the word *teme'ah* (impure) in favor of the longer phrase *asher einennah tehorah* (which is not pure) is cited as a model for clean language. Cf. the discussion in Lieberman, *Hellenism in Jewish Palestine*, 38-39.
 
 [^30]: On the *tanna* as professional reciter, see BT Sanhedrin 86a; Goodblatt, *Rabbinic Instruction in Sasanian Babylonia* (Leiden: Brill, 1975), 127-168.
 
@@ -2002,7 +2002,7 @@ The student must pay special attention to the *asmakhta* -- the practice of supp
 >
 > *It is merely a support [not a genuine derivation].*
 
-The asmakhta is not a proof that the teaching originates in Scripture; it is a *confirmation* -- a demonstration that the teaching is consistent with Scripture, even though it was originated by the sages. The student should understand the distinction: a genuine derivation (*derasha*) claims that the teaching is embedded in the text and extracted through interpretation. An asmakhta claims only that the text lends support -- that Scripture and the rabbinic teaching point in the same direction. The asmakhta is confirmation from consistency: the teaching, though rabbinic in origin, is shown to harmonize with the sacred text.[^138]
+The asmakhta is not a proof that the teaching originates in Scripture; it is a *confirmation* -- a demonstration that the teaching is consistent with Scripture, even though it was originated by the sages. The student should understand the distinction: a genuine derivation (*derashah*) claims that the teaching is embedded in the text and extracted through interpretation. An asmakhta claims only that the text lends support -- that Scripture and the rabbinic teaching point in the same direction. The asmakhta is confirmation from consistency: the teaching, though rabbinic in origin, is shown to harmonize with the sacred text.[^138]
 
 This is a subtle but important distinction, and the student who fails to grasp it will misunderstand much of talmudic reasoning. Not every verse cited in support of a teaching is a source; some are merely supports. The sage who conflates the two will attribute biblical authority to teachings that have only rabbinic authority -- an error that can have significant practical consequences.
 
@@ -2576,7 +2576,7 @@ The student should practice the following:
 
 [^133]: BT Berakhot 30b. This confirmation-from-Scripture is a paradigmatic example of the *mina lan? dikhtiv...* formula.
 
-[^134]: BT Pesachim 53b (Tosafot citing Midrash); cf. BT Berakhot 61b. The *kal va-chomer* from the frogs is one of the most famous examples of a fortiori reasoning in rabbinic literature. On *kal va-chomer* as a form of probable confirmation, see Schwarz, *Der hermeneutische Syllogismus in der talmudischen Litteratur* (Vienna: Israel-Theol. Lehranstalt, 1901), 3-28.
+[^134]: BT Pesahim 53b (Tosafot citing Midrash); cf. BT Berakhot 61b. The *kal va-chomer* from the frogs is one of the most famous examples of a fortiori reasoning in rabbinic literature. On *kal va-chomer* as a form of probable confirmation, see Schwarz, *Der hermeneutische Syllogismus in der talmudischen Litteratur* (Vienna: Israel-Theol. Lehranstalt, 1901), 3-28.
 
 [^135]: On the talmudic formulae *tanya nami hakhi* ("a baraita also teaches thus") and *leima mesaye'a leih* ("let us say this supports him") as modes of cumulative confirmation, see Jacobs, *The Talmudic Argument*, 79-96.
 
@@ -2584,7 +2584,7 @@ The student should practice the following:
 
 [^137]: BT Eruvin 13b. The preference for Beit Hillel's rulings on grounds of their character (gentle, humble, and willing to cite the opposing view first) is a remarkable instance of confirmation from moral character rather than from logical superiority.
 
-[^138]: On the distinction between *derasha* (genuine scriptural derivation) and *asmakhta* (scriptural support for a rabbinic ruling), see Halivni, *Peshat and Derash: Plain and Applied Meaning in Rabbinic Exegesis* (New York: Oxford University Press, 1991), 18-37; and the detailed treatment in Chernick, *Hermeneutical Studies in Talmudic and Midrashic Literatures* (Lod: Habermann Institute, 1984), 45-72.
+[^138]: On the distinction between *derashah* (genuine scriptural derivation) and *asmakhta* (scriptural support for a rabbinic ruling), see Halivni, *Peshat and Derash: Plain and Applied Meaning in Rabbinic Exegesis* (New York: Oxford University Press, 1991), 18-37; and the detailed treatment in Chernick, *Hermeneutical Studies in Talmudic and Midrashic Literatures* (Lod: Habermann Institute, 1984), 45-72.
 
 [^139]: The paired exercise of refutation and confirmation parallels the pedagogical principle articulated by Theon (*Progymnasmata* 3; Hock and O'Neil, 58-60) that students should practice both exercises on the same material. The talmudic ideal of arguing both sides (*shakla ve-tarya*) embodies this same principle.
 
@@ -4036,7 +4036,7 @@ This is the confirmatio at its most systematic: the farmer's declaration is the 
 
 #### Amplificatio: Emotional Crescendo
 
-After the confirmatio comes a section of emotional amplification: the enumeration of the ten plagues, the computation by Rabbi Yose ha-Gelili and Rabbi Akiva that multiplies the plagues to fifty, two hundred, or two hundred and fifty, and the singing of *Dayenu*:
+After the confirmatio comes a section of emotional amplification: the enumeration of the ten plagues, the computation by Rabbi Yose ha-Gelili, Rabbi Eliezer, and Rabbi Akiva that multiplies the plagues to fifty, two hundred, and two hundred and fifty, and the singing of *Dayenu*:
 
 > <span dir="rtl">כמה מעלות טובות למקום עלינו! אילו הוציאנו ממצרים ולא עשה בהם שפטים - דיינו. אילו עשה בהם שפטים ולא עשה באלהיהם - דיינו</span>
 >

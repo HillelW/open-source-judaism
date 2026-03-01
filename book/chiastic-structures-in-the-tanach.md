@@ -63,9 +63,13 @@ Chiasmus derives from the Greek letter chi (χ), written as an X. The term denot
 A simple example makes the pattern immediately visible. Genesis 9:6 compresses an entire chiasm into a single verse:
 
 > **A** — <span dir="rtl">שֹׁפֵךְ</span> / "Whoever sheds" (Gen 9:6a)
+>
 > > **B** — <span dir="rtl">דַּם הָאָדָם</span> / "the blood of man" (Gen 9:6a)
+> >
 > > > **X** — <span dir="rtl">בָּאָדָם</span> / **CENTER: "by man"** (Gen 9:6b)
+> >
 > > **B'** — <span dir="rtl">דָּמוֹ</span> / "his blood" (Gen 9:6b)
+>
 > **A'** — <span dir="rtl">יִשָּׁפֵךְ</span> / "shall be shed" (Gen 9:6b)
 
 The Hebrew reads: <span dir="rtl">שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ</span>. The word order mirrors itself perfectly around the central pivot <span dir="rtl">בָּאָדָם</span> ("by man"), placing human agency and accountability at the exact structural center. This is chiasmus at its most compressed and elegant.[^2]
@@ -90,7 +94,7 @@ The recognition of chiastic patterns in biblical texts has a long and uneven his
 
 **Michael Fishbane (1975).** Fishbane's article "Composition and Structure in the Jacob Cycle (Gen 25:19–35:22)" in the *Journal of Jewish Studies* provided one of the most influential demonstrations of grand chiastic structure in a major biblical narrative cycle, showing how the Jacob story is organized as a symmetrical arc with divine encounters at Bethel and Penuel framing Jacob's journey.[^12]
 
-**Gordon Wenham (1978).** Wenham's "The Coherence of the Flood Narrative" in *Vetus Testamentum* demonstrated a thirteen-element chiasm in the flood narrative (Gen 6:10–9:19), with "God remembered Noah" (Gen 8:1a) at the exact center. This analysis became perhaps the most widely cited and universally accepted example of biblical chiasm, effectively ending the source-critical fragmentation of the flood story into separate J and P documents by showing its unity as a single, deliberately structured composition.[^13]
+**Gordon Wenham (1978).** Wenham's "The Coherence of the Flood Narrative" in *Vetus Testamentum* demonstrated a thirteen-element chiasm in the flood narrative (Gen 6:9–9:19), with "God remembered Noah" (Gen 8:1a) at the exact center. This analysis became perhaps the most widely cited and universally accepted example of biblical chiasm, effectively ending the source-critical fragmentation of the flood story into separate J and P documents by showing its unity as a single, deliberately structured composition.[^13]
 
 **John W. Welch, ed. (1981).** The publication of *Chiasmus in Antiquity: Structures, Analyses, Exegesis* was a watershed. Contributors examined chiasmus across Sumero-Akkadian, Ugaritic, Hebrew biblical narrative, biblical Hebrew poetry, Aramaic contracts, Talmudic-Aggadic narrative, the New Testament, and Greek and Latin literatures. This comparative approach established chiasm as a pan-ancient literary phenomenon rather than a biblical peculiarity.[^14]
 
@@ -102,7 +106,7 @@ The recognition of chiastic patterns in biblical texts has a long and uneven his
 
 **Welch and Parry, eds. (2020).** *Chiasmus: The State of the Art*, published by BYU Studies, surveyed the field's methodological advances over the preceding four decades, including computational approaches and refined criteria for distinguishing genuine patterns from coincidental ones.[^18]
 
-**McGovern et al. (2025).** A computational study published in the proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL) applied tensor-based similarity algorithms and neural embeddings to systematically detect chiasms at the verse and half-verse levels throughout the Hebrew Bible, identifying over 2,700 candidate structures. This represented the first mathematical formalism and computational algorithm specifically designed for biblical chiasmus detection.[^19]
+**McGovern et al. (2025).** A computational study published in the proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL) applied cosine similarity measures and neural embeddings to systematically detect chiasms at the verse and half-verse levels throughout the Hebrew Bible, identifying over 2,700 candidate structures. This represented the first mathematical formalism and computational algorithm specifically designed for biblical chiasmus detection.[^19]
 
 ## I.C. Criteria for Identifying Genuine Chiasms
 
@@ -147,7 +151,7 @@ Chiasms vary considerably in scale, complexity, and function. The following taxo
 
 **Meso-chiasm.** Intermediate-scale structures spanning a literary unit of approximately five to thirty verses—the most commonly identified type in biblical scholarship. Psalm 23, with its five-element structure centering on the "valley of the shadow of death" (v. 4), is a widely recognized example.
 
-**Macro-chiasm.** Structures spanning multiple chapters or major sections of a book. The flood narrative (Gen 6:10–9:19), with its thirteen elements centering on "God remembered Noah" (Gen 8:1a), is the paradigmatic example.
+**Macro-chiasm.** Structures spanning multiple chapters or major sections of a book. The flood narrative (Gen 6:9–9:19), with its thirteen elements centering on "God remembered Noah" (Gen 8:1a), is the paradigmatic example.
 
 **Grand chiasm.** The largest structures, encompassing entire books or major biblical divisions. The Pentateuch as a whole, with Leviticus at its center, represents this category. So does the proposed Hexateuch chiasm (Genesis through Joshua) with the Sinai covenant at its climax.
 
@@ -194,11 +198,17 @@ The ubiquity of chiasm across ancient cultures suggests that it represents a fun
 This study displays chiastic structures using **nested blockquotes**, a formatting convention designed to make the mirror-structure visually apparent at a glance. Each level of nesting represents one concentric layer, creating a funnel that narrows toward the center and widens back outward:
 
 > **A** — Outer element (Reference)
+>
 > > **B** — Second layer (Reference)
+> >
 > > > **C** — Third layer (Reference)
+> > >
 > > > > **X** — **CENTER: Climactic element** (Reference)
+> > >
 > > > **C'** — Third layer, returning (Reference)
+> >
 > > **B'** — Second layer, returning (Reference)
+>
 > **A'** — Outer element, closing (Reference)
 
 The visual shape itself mirrors the literary structure: the reader's eye travels inward toward the center, then outward again, replicating the experience of following a chiastic text.
@@ -240,9 +250,13 @@ The five books of the Torah contain the densest concentration of chiastic struct
 Before examining individual books, the Pentateuch's own grand structure demands attention. Multiple scholars have proposed that the five books form a concentric arrangement with Leviticus at the center:[^34]
 
 > **A** — **Genesis**: Origins — Creation, patriarchs, descent into Egypt
+>
 > > **B** — **Exodus**: Redemption — Deliverance, covenant, tabernacle instructions
+> >
 > > > **X** — **Leviticus**: **CENTER — Holiness and Atonement** (Day of Atonement, Lev 16)
+> >
 > > **B'** — **Numbers**: Wilderness — Testing, rebellion, journey toward the land
+>
 > **A'** — **Deuteronomy**: Renewal — Second law, covenant renewal, death of Moses
 
 The correspondence between the outer books is thematic: Genesis narrates origins and the descent into Egypt; Deuteronomy recapitulates the law and narrates the end of the wilderness generation, looking forward to the entry into the land. The intermediate books mirror each other: Exodus recounts liberation and the giving of the law; Numbers recounts the consequences of Israel's response to that law. At the center stands Leviticus—specifically, the Day of Atonement in chapter 16—answering the question that the entire Pentateuch poses: How can a holy God dwell among a sinful people? Answer: through atonement.[^35]
@@ -260,11 +274,17 @@ The Book of Genesis exhibits an exceptionally rich network of chiastic structure
 The creation account exhibits chiastic architecture organized around the number seven. The Hebrew of Genesis 1:1 contains exactly seven words; Genesis 1:2 contains fourteen (7 × 2); and Genesis 2:1–3, the Sabbath conclusion, contains thirty-five (7 × 5). The days themselves form a binary parallel: Days 1–3 "form" the cosmos (light, sky/water, land/vegetation); Days 4–6 "fill" it (luminaries, birds/fish, animals/humans). The Sabbath stands at the apex.[^36]
 
 > **A** — <span dir="rtl">בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ</span> / "In the beginning God created the heavens and the earth" (Gen 1:1)
-> > **B** — <span dir="rtl">וַיֹּאמֶר אֱלֹהִים</span> / "And God said" — spoken nine times (Gen 1:3–26)
+>
+> > **B** — <span dir="rtl">וַיֹּאמֶר אֱלֹהִים</span> / "And God said" — spoken ten times (Gen 1:3–29)
+> >
 > > > **C** — <span dir="rtl">וַיַּרְא אֱלֹהִים כִּי־טוֹב</span> / "And God saw that it was good" — refrain (Gen 1:4–25)
+> > >
 > > > > **X** — <span dir="rtl">וַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ</span> / **CENTER: "And God blessed the seventh day and sanctified it"** (Gen 2:3)
+> > >
 > > > **C'** — <span dir="rtl">אֵלֶּה תוֹלְדוֹת הַשָּׁמַיִם וְהָאָרֶץ</span> / "These are the generations of the heavens and the earth" (Gen 2:4a)
+> >
 > > **B'** — <span dir="rtl">בְּיוֹם עֲשׂוֹת יְהוָה אֱלֹהִים</span> / "In the day the LORD God made" (Gen 2:4b)
+>
 > **A'** — <span dir="rtl">הַשָּׁמַיִם וְהָאָרֶץ בְּהִבָּרְאָם</span> / "The heavens and the earth when they were created" (Gen 2:4)
 
 The structure places the Sabbath—God's rest, blessing, and sanctification—at the theological and literary center, making the entire creation week a movement toward sacred time rather than merely toward the creation of humanity. The reappearance of "heavens and earth" and "created" in reverse order at the conclusion (A') frames the account as a completed and perfect whole.[^37]
@@ -275,18 +295,30 @@ The structure places the Sabbath—God's rest, blessing, and sanctification—at
 
 The flood narrative, as analyzed by Gordon Wenham (1978), presents perhaps the most celebrated and universally recognized example of biblical chiasmus. Its thirteen elements form a perfect mirror around a single theological fulcrum: "And God remembered Noah" (Gen 8:1a).[^38]
 
-> **A** — <span dir="rtl">אֵלֶּה תּוֹלְדֹת נֹחַ</span> / "These are the generations of Noah" (Gen 6:10)
+> **A** — <span dir="rtl">אֵלֶּה תּוֹלְדֹת נֹחַ</span> / "These are the generations of Noah" (Gen 6:9)
+>
 > > **B** — <span dir="rtl">וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱלֹהִים</span> / "The earth was corrupt before God" (Gen 6:11–12)
+> >
 > > > **C** — <span dir="rtl">עֲשֵׂה לְךָ תֵּבַת עֲצֵי־גֹפֶר</span> / "Make yourself an ark of gopher wood" (Gen 6:14–22)
+> > >
 > > > > **D** — <span dir="rtl">בֹּא אַתָּה וְכָל־בֵּיתְךָ אֶל־הַתֵּבָה</span> / "Come into the ark, you and all your household" (Gen 7:1–10)
+> > > >
 > > > > > **E** — <span dir="rtl">וַיָּבֹאוּ אֶל־נֹחַ אֶל־הַתֵּבָה שְׁנַיִם שְׁנַיִם</span> / "They came to Noah into the ark, two by two" (Gen 7:13–16)
+> > > > >
 > > > > > > **F** — <span dir="rtl">וַיִּגְבְּרוּ הַמַּיִם עַל־הָאָרֶץ</span> / "The waters prevailed upon the earth" (Gen 7:17–24)
+> > > > > >
 > > > > > > > **X** — <span dir="rtl">וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ</span> / **CENTER: "And God remembered Noah"** (Gen 8:1a)
+> > > > > >
 > > > > > > **F'** — <span dir="rtl">וַיָּשֻׁבוּ הַמַּיִם מֵעַל הָאָרֶץ</span> / "The waters receded from the earth" (Gen 8:1b–5)
+> > > > >
 > > > > > **E'** — <span dir="rtl">וַיְשַׁלַּח אֶת־הָעֹרֵב</span> / "He sent forth the raven" (Gen 8:6–12)
+> > > >
 > > > > **D'** — <span dir="rtl">צֵא מִן־הַתֵּבָה</span> / "Go out from the ark" (Gen 8:15–19)
+> > >
 > > > **C'** — <span dir="rtl">וַיִּבֶן נֹחַ מִזְבֵּחַ לַיהוָה</span> / "Noah built an altar to the LORD" (Gen 8:20–22)
+> >
 > > **B'** — <span dir="rtl">וַיְבָרֶךְ אֱלֹהִים אֶת־נֹחַ</span> / "God blessed Noah and his sons" (Gen 9:1–7)
+>
 > **A'** — <span dir="rtl">הִנְנִי מֵקִים אֶת־בְּרִיתִי אִתְּכֶם</span> / "Behold, I establish my covenant with you" (Gen 9:8–17)
 
 The narrative "descent" (corruption → ark construction → entering the ark → waters rising) mirrors the "ascent" (waters receding → sending birds → exiting the ark → altar and covenant). At the exact center stands God's *remembering*—not a passive recollection but an active turning of divine attention toward Noah. This single clause is the turning point between judgment and restoration, between the old world's destruction and the new world's blessing. The chiastic structure makes the theological argument inseparable from the literary form: divine mercy is not an afterthought appended to divine judgment but the very center around which the entire narrative revolves.[^39]
@@ -298,11 +330,17 @@ Wenham's analysis effectively demonstrated the flood story's literary unity, cha
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">וַיְהִי כָל־הָאָרֶץ שָׂפָה אֶחָת</span> / "The whole earth had one language" (Gen 11:1)
+>
 > > **B** — <span dir="rtl">וַיִּמְצְאוּ בִקְעָה בְּאֶרֶץ שִׁנְעָר</span> / "They migrated from the east and found a plain" (Gen 11:2)
+> >
 > > > **C** — <span dir="rtl">הָבָה נִלְבְּנָה לְבֵנִים</span> / "Come, let us build ourselves a city and a tower" (Gen 11:3–4)
+> > >
 > > > > **X** — <span dir="rtl">וַיֵּרֶד יְהוָה לִרְאֹת</span> / **CENTER: "The LORD came down to see the city and the tower"** (Gen 11:5)
+> > >
 > > > **C'** — <span dir="rtl">הָבָה נֵרְדָה וְנָבְלָה שָׁם שְׂפָתָם</span> / "Come, let us go down and confuse their language" (Gen 11:7)
+> >
 > > **B'** — <span dir="rtl">וַיָּפֶץ יְהוָה אֹתָם מִשָּׁם</span> / "The LORD scattered them from there" (Gen 11:8)
+>
 > **A'** — <span dir="rtl">כִּי שָׁם בָּלַל יְהוָה שְׂפַת כָּל־הָאָרֶץ</span> / "For there the LORD confused the language of all the earth" (Gen 11:9)
 
 The structure exhibits "inverted irony": the humans say "Come, let us build" (C); God responds with "Come, let us go down" (C'). Human unity of language (A) becomes confusion of language (A'). The center—God's descent to observe—stands as the pivot where divine judgment reverses human ambition. The structural form enacts the narrative's own theme of reversal.[^40]
@@ -314,11 +352,17 @@ The structure exhibits "inverted irony": the humans say "Come, let us build" (C)
 The Abraham cycle spans fourteen chapters and is organized concentrically around the covenant of the pieces (Gen 15):
 
 > **A** — <span dir="rtl">אֵלֶּה תּוֹלְדֹת תֶּרַח</span> / "These are the generations of Terah" — genealogy and call (Gen 11:27–12:9)
+>
 > > **B** — Sojourn in Egypt; wife endangered (Gen 12:10–20)
+> >
 > > > **C** — Separation from Lot; war of the kings (Gen 13:1–14:24)
+> > >
 > > > > **X** — <span dir="rtl">בְּרִית בֵּין הַבְּתָרִים</span> / **CENTER: Covenant between the pieces** (Gen 15:1–21)
+> > >
 > > > **C'** — Hagar and Ishmael; covenant of circumcision (Gen 16:1–17:27)
+> >
 > > **B'** — Sodom and Gerar; wife endangered again; Isaac's birth (Gen 18:1–21:34)
+>
 > **A'** — <span dir="rtl">לֶךְ־לְךָ אֶל־אֶרֶץ הַמֹּרִיָּה</span> / "Go to the land of Moriah" — the Akedah and aftermath (Gen 22:1–25:11)
 
 The opening command <span dir="rtl">לֶךְ־לְךָ</span> ("go forth," Gen 12:1) mirrors the second <span dir="rtl">לֶךְ־לְךָ</span> ("go to the land of Moriah," Gen 22:2)—the only two occurrences of this distinctive imperative in the Torah. Both demand absolute obedience and faith; both involve journeys toward an unknown destination. The covenant at the center provides the interpretive key: all of Abraham's trials and wanderings serve to deepen and confirm this central relationship with God.[^41]
@@ -330,13 +374,21 @@ The opening command <span dir="rtl">לֶךְ־לְךָ</span> ("go forth," Gen 1
 The Akedah, nested within the Abraham cycle at its outer frame (A'), is itself a tightly constructed chiasm:
 
 > **A** — <span dir="rtl">וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם</span> / "God tested Abraham" (Gen 22:1)
+>
 > > **B** — <span dir="rtl">קַח־נָא אֶת־בִּנְךָ אֶת־יְחִידְךָ</span> / "Take your son, your only one, Isaac" (Gen 22:2)
+> >
 > > > **C** — <span dir="rtl">וַיִּשָּׂא אַבְרָהָם אֶת־עֵינָיו וַיַּרְא אֶת־הַמָּקוֹם</span> / "Abraham lifted his eyes and saw the place" (Gen 22:3–6)
+> > >
 > > > > **D** — <span dir="rtl">וַיִּבֶן שָׁם אַבְרָהָם אֶת־הַמִּזְבֵּחַ</span> / "Abraham built the altar" (Gen 22:7–9)
+> > > >
 > > > > > **X** — <span dir="rtl">וַיִּשְׁלַח אַבְרָהָם אֶת־יָדוֹ וַיִּקַּח אֶת־הַמַּאֲכֶלֶת</span> / **CENTER: "Abraham stretched forth his hand and took the knife"** (Gen 22:10)
+> > > >
 > > > > **D'** — <span dir="rtl">וַיִּקְרָא אֵלָיו מַלְאַךְ יְהוָה מִן־הַשָּׁמַיִם</span> / "The angel of the LORD called from heaven" (Gen 22:11–12)
+> > >
 > > > **C'** — <span dir="rtl">וַיִּשָּׂא אַבְרָהָם אֶת־עֵינָיו וַיַּרְא וְהִנֵּה־אַיִל</span> / "Abraham lifted his eyes and saw—a ram" (Gen 22:13)
+> >
 > > **B'** — <span dir="rtl">וַיִּקַּח אֶת־הָאַיִל וַיַּעֲלֵהוּ לְעֹלָה תַּחַת בְּנוֹ</span> / "He took the ram and offered it instead of his son" (Gen 22:13b)
+>
 > **A'** — <span dir="rtl">וַיִּקְרָא מַלְאַךְ יְהוָה... וַיָּשָׁב אַבְרָהָם</span> / "The angel called... and Abraham returned" (Gen 22:15–19)
 
 The center is the moment of supreme obedience—Abraham reaching for the knife. This act of faith, structurally dominant, is framed by matching pairs: God's command to take Isaac (B) / provision of the ram instead (B'); Abraham seeing the place from afar (C) / Abraham seeing the ram (C'); the altar built (D) / the angel's intervention (D'). The chiasm makes the theological argument visceral: the knife-stroke that never falls is the pivot on which the narrative turns from trial to resolution, from demand to provision. The phrase <span dir="rtl">יְהוָה יִרְאֶה</span> ("the LORD will provide," Gen 22:14) names what the structure demonstrates.[^42]
@@ -350,13 +402,21 @@ The Akedah's nesting within the Abraham cycle creates a fractal effect: a chiasm
 Michael Fishbane's influential analysis (1975) demonstrated that the Jacob cycle forms a grand chiastic arc centered on Jacob's encounters with God:
 
 > **A** — <span dir="rtl">אֵלֶּה תּוֹלְדוֹת יִצְחָק</span> / "Generations of Isaac" — birth of twins, birthright (Gen 25:19–34)
+>
 > > **B** — Jacob deceives Isaac; flees Esau (Gen 27:1–28:10)
+> >
 > > > **C** — <span dir="rtl">וַיַּחֲלֹם וְהִנֵּה סֻלָּם</span> / Bethel: ladder vision, "gate of heaven" (Gen 28:11–22)
+> > >
 > > > > **D** — Arrival in Haran; meets Rachel (Gen 29:1–14)
+> > > >
 > > > > > **X** — <span dir="rtl">וַיַּעֲבֹד יַעֲקֹב בְּרָחֵל שֶׁבַע שָׁנִים</span> / **CENTER: Jacob's service for Rachel — seven years** (Gen 29:15–30)
+> > > >
 > > > > **D'** — Increase in Haran; conflict with Laban (Gen 30:1–31:55)
+> > >
 > > > **C'** — <span dir="rtl">וַיֵּאָבֵק אִישׁ עִמּוֹ</span> / Penuel: wrestling with the angel (Gen 32:24–32)
+> >
 > > **B'** — Jacob reconciles with Esau (Gen 33:1–15)
+>
 > **A'** — <span dir="rtl">אֵלֶּה תּוֹלְדוֹת יַעֲקֹב</span> / "Generations of Jacob" — aftermath, Dinah, settlement (Gen 33:16–36:43)
 
 The cycle's two divine encounters—Bethel (C) and Penuel (C')—frame Jacob's sojourn in Haran. The center, Jacob's fourteen years of labor for Rachel, positions love and devotion as the pivot between Jacob's flight from Esau and his return to face him. The deception practiced on Esau (B) is answered by Laban's deception of Jacob regarding Leah and Rachel, creating a moral symmetry that the chiastic structure makes visible. The wrestling at Penuel (C') transforms Jacob into Israel, answering the spiritual promise of the Bethel ladder (C) with a physical and existential encounter with God.[^43]
@@ -368,17 +428,29 @@ The cycle's two divine encounters—Bethel (C) and Penuel (C')—frame Jacob's s
 The Joseph narrative presents a fourteen-element chiasm—seven matched pairs—of extraordinary literary sophistication:
 
 > **A** — Joseph exalted in dreams; brothers' hatred (Gen 37:1–11)
+>
 > > **B** — Joseph sent to brothers; sold to merchants (Gen 37:12–36)
+> >
 > > > **C** — Judah's disgrace: deception of Tamar (Gen 38:1–30)
+> > >
 > > > > **D** — Joseph enslaved in Potiphar's house; rises (Gen 39:1–23)
+> > > >
 > > > > > **E** — Joseph interprets dreams of Pharaoh's servants (Gen 40:1–23)
+> > > > >
 > > > > > > **F** — The chief butler remembers Joseph; Pharaoh calls (Gen 41:1–13)
+> > > > > >
 > > > > > > > **X** — <span dir="rtl">אַתָּה תִּהְיֶה עַל־בֵּיתִי</span> / **CENTER: Joseph elevated — governor of Egypt** (Gen 41:14–45)
+> > > > > >
 > > > > > > **F'** — Joseph receives Egyptian name and wife; has sons (Gen 41:45–52)
+> > > > >
 > > > > > **E'** — Brothers come to Egypt; Joseph tests them (Gen 42:1–45:28)
+> > > >
 > > > > **D'** — Jacob's family descends to Egypt; Joseph provides (Gen 46:1–47:12)
+> > >
 > > > **C'** — Judah's honor: intercedes for Benjamin (Gen 44:18–34)
+> >
 > > **B'** — Joseph reveals himself; embraces brothers (Gen 45:1–15)
+>
 > **A'** — Joseph exalted through reconciliation; forgiveness (Gen 50:15–26)
 
 The central pivot (Gen 41:14–45) shows Joseph elevated from prisoner to governor—the exact reversal of the opening where he dreams of exaltation but is sold into slavery. The Judah pair (C/C') is particularly significant: in C, Judah acts disgracefully toward Tamar; in C', Judah intercedes sacrificially for Benjamin, offering himself as surety. This moral transformation, positioned symmetrically, reveals the narrative's deepest theme: not Joseph's personal rise but the redemption of the entire family. The theological center is not power but reconciliation, positioning Joseph's elevation as a means toward God's preservation of Israel.[^44]
@@ -390,11 +462,17 @@ The central pivot (Gen 41:14–45) shows Joseph elevated from prisoner to govern
 The blessings of Jacob's twelve sons exhibit a concentric pattern centered on a sudden cry of faith that interrupts the tribal sequence:
 
 > **A** — Reuben, Simeon, Levi (Gen 49:3–7)
+>
 > > **B** — Judah — royal lion (Gen 49:8–12)
+> >
 > > > **C** — Zebulun, Issachar (Gen 49:13–15)
+> > >
 > > > > **X** — <span dir="rtl">לִישׁוּעָתְךָ קִוִּיתִי יְהוָה</span> / **CENTER: "I wait for Your salvation, O LORD"** (Gen 49:18)
+> > >
 > > > **C'** — Dan, Gad (Gen 49:16–19)
+> >
 > > **B'** — Joseph — fruitful bough (Gen 49:22–26)
+>
 > **A'** — Benjamin; closing frame (Gen 49:27–28)
 
 The cry of Gen 49:18 breaks the pattern of tribal blessings to voice what no individual blessing can express: the longing for divine redemption. Its structural centrality transforms the entire blessing sequence from a tribal catalogue into a theological statement: the destiny of Israel's tribes converges on the hope of God's salvation.[^45]
@@ -408,11 +486,17 @@ The Book of Exodus demonstrates chiastic patterning at multiple scales, from the
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Moderate to Strong
 
 > **A** — Moses keeping Jethro's flock (Ex 3:1)
+>
 > > **B** — <span dir="rtl">וַיֵּרָא מַלְאַךְ יְהוָה אֵלָיו בְּלַבַּת־אֵשׁ</span> / "The angel of the LORD appeared in a flame of fire" (Ex 3:2–4a)
+> >
 > > > **C** — <span dir="rtl">רָאֹה רָאִיתִי אֶת־עֳנִי עַמִּי</span> / "I have surely seen the affliction of My people" (Ex 3:7–9)
+> > >
 > > > > **X** — **CENTER: Moses' doubt — "Suppose they will not believe me"** (Ex 4:1)
+> > >
 > > > **C'** — God provides signs: staff becomes serpent (Ex 4:2–4)
+> >
 > > **B'** — Moses' hand restored (Ex 4:6–7)
+>
 > **A'** — "That they may believe" (Ex 4:5)
 
 The center is a crisis of faith. Moses' doubt—"Suppose they will not believe me?"—becomes the pivot around which divine assurance answers human inadequacy. The burning bush that is not consumed mirrors God's promise to preserve Israel despite Egyptian oppression.[^46]
@@ -424,13 +508,21 @@ The center is a crisis of faith. Moses' doubt—"Suppose they will not believe m
 The Song of the Sea is a masterwork of poetic chiasmus, with internal sub-chiasms nested within the larger structure:
 
 > **A** — <span dir="rtl">אָשִׁירָה לַיהוָה כִּי־גָאֹה גָּאָה</span> / "I will sing to the LORD, for He is highly exalted" (Ex 15:1–3)
+>
 > > **B** — <span dir="rtl">מַרְכְּבֹת פַּרְעֹה וְחֵילוֹ יָרָה בַיָּם</span> / "Pharaoh's chariots and army He cast into the sea" (Ex 15:4–5)
+> >
 > > > **C** — <span dir="rtl">יְמִינְךָ יְהוָה נֶאְדָּרִי בַּכֹּחַ</span> / "Your right hand, O LORD, is majestic in power" (Ex 15:6–8)
+> > >
 > > > > **D** — The enemy's vain boast: "I will pursue, I will overtake" (Ex 15:9)
+> > > >
 > > > > > **X** — <span dir="rtl">נָשַׁפְתָּ בְרוּחֲךָ כִּסָּמוֹ יָם</span> / **CENTER: "You blew with Your wind; the sea covered them"** (Ex 15:10)
+> > > >
 > > > > **D'** — <span dir="rtl">מִי־כָמֹכָה בָּאֵלִם יְהוָה</span> / "Who is like You among the gods, O LORD?" (Ex 15:11)
+> > >
 > > > **C'** — "You guided Your people in Your strength to Your holy habitation" (Ex 15:13–16)
+> >
 > > **B'** — "The peoples heard and trembled" (Ex 15:14–16)
+>
 > **A'** — <span dir="rtl">יְהוָה יִמְלֹךְ לְעֹלָם וָעֶד</span> / "The LORD will reign forever and ever" (Ex 15:17–18)
 
 The outer frame (A/A') moves from celebration of God's victory to proclamation of His eternal reign. The enemy's boast (D) is answered by the rhetorical affirmation of God's incomparability (D'). The center—God's wind covering the enemy—is the decisive divine act that resolves the drama. The Song's internal sub-chiasms within sections C and C' create a fractal structure, discussed in Part VII.[^47]
@@ -440,9 +532,13 @@ The outer frame (A/A') moves from celebration of God's victory to proclamation o
 **Type:** Grand Chiasm | **Scale:** Macro | **Scholarly consensus:** Very Strong
 
 > **A** — <span dir="rtl">וַיִּחַן־שָׁם יִשְׂרָאֵל נֶגֶד הָהָר</span> / Covenant offered; Israel camps at the mountain (Ex 19:1–25)
+>
 > > **B** — <span dir="rtl">וַיְדַבֵּר אֱלֹהִים אֵת כָּל־הַדְּבָרִים הָאֵלֶּה</span> / The Decalogue — general law (Ex 20:1–17)
+> >
 > > > **X** — <span dir="rtl">וְכָל־הָעָם רֹאִים אֶת־הַקּוֹלֹת</span> / **CENTER: The people witnessed the thunder and were afraid** (Ex 20:18–21)
+> >
 > > **B'** — <span dir="rtl">וְאֵלֶּה הַמִּשְׁפָּטִים</span> / The Book of the Covenant — specific law (Ex 20:22–23:33)
+>
 > **A'** — <span dir="rtl">וַיִּקַּח מֹשֶׁה אֶת־הַדָּם וַיִּזְרֹק</span> / Covenant accepted; blood ceremony (Ex 24:1–11)
 
 The architecture is elegant: two narrative frames (covenant offered / covenant accepted) surround two law sections (general / specific), with the pivot at the people's direct encounter with God's terrifying presence. The central verses articulate the covenant's essential paradox—Moses says "Do not fear" (*al tira'u*), but the fear of God (*yir'ah*) must remain (Ex 20:20)—making the structural center also the theological center: awe, not terror, as the proper human response to divine revelation.[^48]
@@ -454,11 +550,17 @@ The architecture is elegant: two narrative frames (covenant offered / covenant a
 The entire second half of Exodus forms a grand chiasm with the Golden Calf at the center:
 
 > **A** — Tabernacle instructions: offerings, design, priesthood (Ex 25:1–31:11)
+>
 > > **B** — Sabbath commandment as boundary marker (Ex 31:12–17)
+> >
 > > > **C** — Moses descends with the tablets (Ex 31:18)
+> > >
 > > > > **X** — <span dir="rtl">וַיַּעֲשׂוּ לָהֶם עֵגֶל מַסֵּכָה</span> / **CENTER: The Golden Calf — covenant broken, then restored** (Ex 32:1–34:35)
+> > >
 > > > **C'** — Moses descends with new tablets; his face shining (Ex 34:29–35)
+> >
 > > **B'** — Sabbath rest and offerings (Ex 35:1–36:7)
+>
 > **A'** — Tabernacle execution: construction and God's glory fills the tabernacle (Ex 36:8–40:38)
 
 The Golden Calf stands at the exact center of a sixteen-chapter complex. Yet this center of *failure* is surrounded by God's persistent preparations for dwelling among Israel (instructions, A) and Israel's faithful execution of those preparations (construction, A'). The chiastic arrangement makes the theological message clear: God's commitment to dwell among Israel supersedes their unfaithfulness. The tabernacle emerges not as a reward for obedience but as grace extended despite rebellion.[^49]
@@ -474,16 +576,22 @@ Leviticus, often perceived as a dry legal compendium, exhibits perhaps the most 
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong to Very Strong
 
 > **A** — Laws of offerings: voluntary and mandatory sacrifices (Lev 1–7)
+>
 > > **B** — Priestly ordination and installation (Lev 8–10)
+> >
 > > > **C** — Laws of purity: what defiles the sanctuary (Lev 11–15)
+> > >
 > > > > **X** — <span dir="rtl">בְּזֹאת יָבֹא אַהֲרֹן אֶל־הַקֹּדֶשׁ</span> / **CENTER: Day of Atonement** (Lev 16)
+> > >
 > > > **C'** — Laws of holiness: what defiles the land (Lev 17–20)
+> >
 > > **B'** — Priestly regulations and disqualifications (Lev 21–22)
+>
 > **A'** — Holy seasons, Sabbatical/Jubilee, blessings and curses, vows (Lev 23–27)
 
 The structure poses and answers the Pentateuch's central question: How can a holy God dwell among an impure people? Offerings (A) are mirrored by festivals and dedications (A'), showing the reciprocal relationship between human approach and divine blessing. Priestly installation (B) corresponds to priestly regulation (B'). Purity laws (C) and holiness laws (C') frame the center from both directions: uncleanness must be purged, and holiness must be cultivated. At the structural center, the Day of Atonement provides the answer: through the annual ritual of atonement, the sanctuary is purified, the people are cleansed, and the covenant relationship is restored.[^52]
 
-David Kline (2015) argued that "structure is theology" in Leviticus—that the book's literary architecture is itself a theological argument, not merely a vehicle for conveying one. The concentric form embodies the theological content: just as the structure converges on a center, so the entire sacrificial system converges on atonement.[^53]
+Moshe Kline (2015) argued that "structure is theology" in Leviticus—that the book's literary architecture is itself a theological argument, not merely a vehicle for conveying one. The concentric form embodies the theological content: just as the structure converges on a center, so the entire sacrificial system converges on atonement.[^53]
 
 ### Leviticus 16 — The Day of Atonement
 
@@ -492,13 +600,21 @@ David Kline (2015) argued that "structure is theology" in Leviticus—that the b
 The center of Leviticus is itself a chiasm:
 
 > **A** — Context: death of Aaron's sons (Lev 16:1–2)
+>
 > > **B** — Aaron's preparation: garments, bull, goats (Lev 16:3–5)
+> >
 > > > **C** — Two goats: lots cast, scapegoat designated (Lev 16:6–10)
+> > >
 > > > > **D** — Atonement for the priest: blood sprinkled (Lev 16:11–14)
+> > > >
 > > > > > **X** — <span dir="rtl">וְשָׁחַט אֶת־שְׂעִיר הַחַטָּאת אֲשֶׁר לָעָם</span> / **CENTER: Atonement for the people** (Lev 16:15–19)
+> > > >
 > > > > **D'** — Scapegoat sent into the wilderness (Lev 16:20–22)
+> > >
 > > > **C'** — Purification: Aaron washes, changes garments (Lev 16:23–24)
+> >
 > > **B'** — Perpetual statute: "on the tenth day of the seventh month" (Lev 16:25–32)
+>
 > **A'** — Conclusion: "Aaron did as the LORD commanded" (Lev 16:33–34)
 
 The innermost center places the people's sin offering at the ritual's heart—corporate atonement is the climactic act. This chiasm-within-a-chiasm (the Day of Atonement centered within Leviticus centered within the Pentateuch) creates a three-level nested structure, a literary architecture of extraordinary intentionality.[^54]
@@ -512,13 +628,21 @@ The Book of Numbers, often perceived as disjointed, contains significant chiasti
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — Balak sends messengers to Balaam (Num 22:1–14)
+>
 > > **B** — God's word to Balaam: "Do not go" / "Go, but speak only what I tell you" (Num 22:15–21)
+> >
 > > > **C** — The donkey sees the angel; Balaam does not (Num 22:22–35)
+> > >
 > > > > **D** — First oracle: Israel blessed, not cursed (Num 23:1–12)
+> > > >
 > > > > > **X** — **CENTER: Second oracle — "God is not a man that He should lie"** (Num 23:13–26)
+> > > >
 > > > > **D'** — Third oracle: "How goodly are your tents, O Jacob" (Num 24:1–9)
+> > >
 > > > **C'** — Balaam's eyes opened; he sees Israel's future (Num 24:15–19)
+> >
 > > **B'** — Final oracles: prophecies against the nations (Num 24:20–24)
+>
 > **A'** — Balaam departs; Balak goes his way (Num 24:25)
 
 The center of the Balaam narrative contains the theological keystone: God's faithfulness and unchangeability. The donkey's vision (C) and Balaam's eventual prophetic sight (C') create an ironic pair—the beast sees what the prophet cannot, until God opens his eyes. The structure emphasizes that God's blessing of Israel cannot be reversed by any human agency, magical or political.[^56]
@@ -530,11 +654,17 @@ The center of the Balaam narrative contains the theological keystone: God's fait
 Several scholars have proposed a concentric structure for the entire book:
 
 > **A** — Census and camp organization at Sinai (Num 1–4)
+>
 > > **B** — Purity laws and Nazirite vow (Num 5–6)
+> >
 > > > **C** — Tabernacle dedication and departure from Sinai (Num 7–10)
+> > >
 > > > > **X** — **CENTER: Rebellion, failure, and the condemned generation** (Num 11–25)
+> > >
 > > > **C'** — Second census and preparation (Num 26–27)
+> >
 > > **B'** — Laws of vows and offerings (Num 28–30)
+>
 > **A'** — Conquest preparations, tribal allotments, boundaries (Num 31–36)
 
 The center of Numbers is the narrative of failure: the spies' report, the people's rebellion, the decree that the exodus generation will not enter the land. This structural placement transforms Numbers from a mere travelogue into a theological meditation on the consequences of faithlessness—the generation that departed Sinai (A) in order is not the generation that will enter the land (A').[^57]
@@ -548,9 +678,13 @@ Deuteronomy presents Moses' valedictory addresses as a carefully structured lite
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — Historical prologue: from Sinai to Moab (Deut 1–3)
+>
 > > **B** — Exhortation to obedience: "Hear, O Israel" (Deut 4–11)
+> >
 > > > **X** — **CENTER: The Law Code** (Deut 12–26)
+> >
 > > **B'** — Blessings and curses: consequences of obedience and disobedience (Deut 27–30)
+>
 > **A'** — Final acts: Song of Moses, blessing of the tribes, death of Moses (Deut 31–34)
 
 The law code at the center has itself been analyzed as a chiastic arrangement of topics by Stephen Kaufman and others, with laws proceeding through the Decalogue's order and then returning in reverse.[^58]
@@ -560,13 +694,21 @@ The law code at the center has itself been analyzed as a chiastic arrangement of
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — Invocation: heavens and earth as witnesses (Deut 32:1–4)
+>
 > > **B** — Israel's corruption: "a perverse and crooked generation" (Deut 32:5–6)
+> >
 > > > **C** — God's past faithfulness: "He found him in a desert land" (Deut 32:7–14)
+> > >
 > > > > **D** — Israel's apostasy: "Jeshurun grew fat and kicked" (Deut 32:15–18)
+> > > >
 > > > > > **X** — <span dir="rtl">וַיַּרְא יְהוָה וַיִּנְאָץ</span> / **CENTER: God's judgment — "I will hide My face"** (Deut 32:19–25)
+> > > >
 > > > > **D'** — God's restraint: "Were it not that I feared the enemy's provocation" (Deut 32:26–33)
+> > >
 > > > **C'** — God's future vindication: "I will avenge the blood of My servants" (Deut 32:34–42)
+> >
 > > **B'** — Call to rejoice: "Rejoice, O nations, with His people" (Deut 32:43)
+>
 > **A'** — Conclusion: Moses finishes speaking (Deut 32:44–47)
 
 The Song places divine judgment at its center, surrounded by the arc of Israel's history from election through apostasy to eventual restoration. The outer frame's invocation of cosmic witnesses (A) and closing commission (A') frame the entire song as covenant testimony.[^59]
@@ -584,9 +726,13 @@ The Former Prophets (Joshua, Judges, Samuel, Kings) narrate Israel's history fro
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — "Moses my servant is dead; arise, cross the Jordan" (Josh 1:1–2)
+>
 > > **B** — "Every place the sole of your foot treads, I have given you" (Josh 1:3–4)
+> >
 > > > **X** — <span dir="rtl">חֲזַק וֶאֱמָץ</span> / **CENTER: "Be strong and courageous"** (Josh 1:5–7)
+> >
 > > **B'** — "This book of the Torah shall not depart from your mouth" (Josh 1:8)
+>
 > **A'** — "Be strong and courageous; do not be afraid" (Josh 1:9)
 
 The threefold repetition of "be strong and courageous" (<span dir="rtl">חֲזַק וֶאֱמָץ</span>) structures the commission as a chiasm of encouragement, with the central instance bearing the most explicit promise of divine presence.[^61]
@@ -596,9 +742,13 @@ The threefold repetition of "be strong and courageous" (<span dir="rtl">חֲזַ
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — Assembly at Shechem; historical prologue (Josh 24:1–13)
+>
 > > **B** — "Choose this day whom you will serve" (Josh 24:14–15)
+> >
 > > > **X** — <span dir="rtl">וַיֹּאמֶר הָעָם חָלִילָה לָּנוּ מֵעֲזֹב אֶת־יְהוָה</span> / **CENTER: The people's confession — "Far be it from us to forsake the LORD"** (Josh 24:16–18)
+> >
 > > **B'** — Joshua warns: "You cannot serve the LORD" — the people insist (Josh 24:19–22)
+>
 > **A'** — Covenant made; stone of witness erected (Josh 24:23–28)
 
 The center contains the people's voluntary commitment, making covenant renewal a response to remembered history (A) and issuing in a permanent memorial (A').[^62]
@@ -608,9 +758,13 @@ The center contains the people's voluntary commitment, making covenant renewal a
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — Commission and entry into the land (Josh 1–5)
+>
 > > **B** — Conquest of the land (Josh 6–12)
+> >
 > > > **X** — **CENTER: Division of the land among the tribes** (Josh 13–21)
+> >
 > > **B'** — Settlement concerns: altar dispute resolved (Josh 22)
+>
 > **A'** — Farewell addresses and covenant renewal (Josh 23–24)
 
 The center is the allocation of inheritance—the fulfillment of the patriarchal promise—making the entire book a chiastic meditation on the theme of land as divine gift.[^63]
@@ -624,11 +778,17 @@ The center is the allocation of inheritance—the fulfillment of the patriarchal
 The Book of Judges exhibits a grand chiastic arrangement of its major judges, with Gideon's narrative at or near the center:
 
 > **A** — Othniel: model judge; brief, ideal deliverance (Judg 3:7–11)
+>
 > > **B** — Ehud: cunning deliverance; Moabite oppression (Judg 3:12–30)
+> >
 > > > **C** — Deborah and Barak: prophetic-military partnership; Canaanite oppression (Judg 4–5)
+> > >
 > > > > **X** — **CENTER: Gideon: called from weakness, defeats Midian with 300 men, then declines into idolatry** (Judg 6–8)
+> > >
 > > > **C'** — Jephthah: military leader; tragic vow; Ammonite oppression (Judg 10:6–12:7)
+> >
 > > **B'** — Samson: personal deliverance through strength; Philistine oppression (Judg 13–16)
+>
 > **A'** — No judge: anarchy — "everyone did what was right in his own eyes" (Judg 17–21)
 
 The structure traces a decline from ideal (Othniel) to anarchy. Gideon at the center represents the turning point: initially faithful (the fleece, the 300 warriors), he ends by making an ephod that becomes an idolatrous snare—foreshadowing the progressively worse judges that follow. The descent from B to B' parallels Ehud's clever strategy with Samson's brute force, reflecting diminished spiritual discernment. The chiasm makes the theological argument visible: when leadership deteriorates, society collapses.[^64]
@@ -640,11 +800,17 @@ The structure traces a decline from ideal (Othniel) to anarchy. Gideon at the ce
 The Song of Deborah (chapter 5) contains its own chiasm centered on Jael's decisive act:
 
 > **A** — Call to praise; leaders take charge (Judg 5:2–5)
+>
 > > **B** — Israel's distress under oppression (Judg 5:6–8)
+> >
 > > > **C** — Tribal muster: who came, who refused (Judg 5:9–18)
+> > >
 > > > > **X** — <span dir="rtl">מִן־שָׁמַיִם נִלְחָמוּ הַכּוֹכָבִים</span> / **CENTER: The battle — "From heaven the stars fought"** (Judg 5:19–22)
+> > >
 > > > **C'** — Curse of Meroz for not coming; blessing of Jael for acting (Judg 5:23–27)
+> >
 > > **B'** — Sisera's mother waits in vain (Judg 5:28–30)
+>
 > **A'** — Concluding formula: "So may all Your enemies perish, O LORD" (Judg 5:31)
 
 The cosmic imagery at the center—stars fighting from heaven—elevates the military engagement into a theophanic event, while the poignant scene of Sisera's mother (B') contrasts with Israel's earlier distress (B).[^65]
@@ -656,9 +822,13 @@ The cosmic imagery at the center—stars fighting from heaven—elevates the mil
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — Hannah's barrenness and prayer at Shiloh (1 Sam 1:1–18)
+>
 > > **B** — Samuel born, weaned, dedicated to the LORD (1 Sam 1:19–28)
+> >
 > > > **X** — <span dir="rtl">וַתִּתְפַּלֵּל חַנָּה</span> / **CENTER: Hannah's Song** (1 Sam 2:1–10)
+> >
 > > **B'** — Samuel ministers before the LORD; Eli's sons corrupt (1 Sam 2:11–36)
+>
 > **A'** — God's call to Samuel at Shiloh (1 Sam 3:1–21)
 
 Hannah's Song at the center is a theological manifesto—"The LORD kills and brings to life; He brings down to Sheol and raises up" (2:6)—that announces the reversal theme governing all of Samuel: the weak are exalted, the mighty are humbled.[^66]
@@ -668,9 +838,13 @@ Hannah's Song at the center is a theological manifesto—"The LORD kills and bri
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — Israel hears Goliath's challenge; all are afraid (1 Sam 17:1–11)
+>
 > > **B** — Saul offers David conventional armor; David refuses (1 Sam 17:31–39)
+> >
 > > > **X** — <span dir="rtl">וַיִּקַּח מַקְלוֹ בְּיָדוֹ... וַיְקַלַּע... וַתִּטְבַּע הָאֶבֶן בְּמִצְחוֹ</span> / **CENTER: David's stone strikes Goliath** (1 Sam 17:40–49)
+> >
 > > **B'** — David takes Goliath's sword — unconventional victory confirmed (1 Sam 17:50–51)
+>
 > **A'** — Israel hears of David's triumph; the women sing (1 Sam 17:52–18:7)
 
 The narrative's chiastic structure transforms it from a warrior tale into a theological argument about reliance on divine power versus human military technology. David's refusal of armor (B) and use of a shepherd's sling (center) establish the contrast; the women's song (A') marks his emergence as Israel's true deliverer.[^67]
@@ -682,10 +856,15 @@ The narrative's chiastic structure transforms it from a warrior tale into a theo
 The six-part appendix of 2 Samuel presents the most thoroughly documented chiastic structure in the Former Prophets:
 
 > **A** — Famine: divine judgment for Saul's bloodguilt; resolved by execution (2 Sam 21:1–14)
+>
 > > **B** — David's warriors defeat Philistine giants (2 Sam 21:15–22)
+> >
 > > > **C** — David's Song of Thanksgiving (2 Sam 22:1–51)
+> > >
 > > > > **X** — <span dir="rtl">וְאֵלֶּה דִּבְרֵי דָוִד הָאַחֲרֹנִים</span> / **CENTER: "The Last Words of David"** (2 Sam 23:1–7)
+> > >
 > > > **C'** — David's Mighty Men and their deeds (2 Sam 23:8–39)
+> >
 > > **B'** — Plague: divine judgment for David's census; resolved by altar (2 Sam 24:1–25)
 
 Karl Budde first identified this structure. The outer pair (A/B') both involve divine judgment resolved through ritual action—a remarkable correspondence that bookends the appendix. The inner pair (B/C') juxtaposes warriors and their exploits. At the center, David's final words declare the covenant's endurance: "One who rules over people justly, ruling in the fear of God" (23:3). This structural placement affirms that despite all the failures narrated in 2 Samuel—Bathsheba, Absalom, the census—the Davidic covenant stands.[^68]
@@ -695,11 +874,17 @@ Karl Budde first identified this structure. The outer pair (A/B') both involve d
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — Absalom conspires; steals the hearts of Israel (2 Sam 15:1–12)
+>
 > > **B** — David flees Jerusalem (2 Sam 15:13–16:14)
+> >
 > > > **C** — David organizes his army; remains in the city (2 Sam 18:1–5)
+> > >
 > > > > **X** — <span dir="rtl">וַיִּתָּקַע רֹאשׁ אַבְשָׁלוֹם בָּאֵלָה</span> / **CENTER: Absalom's death — caught in the oak** (2 Sam 18:6–15)
+> > >
 > > > **C'** — David receives news; mourns his son (2 Sam 18:31–19:8)
+> >
 > > **B'** — David returns to Jerusalem; Israel restored (2 Sam 19:9–43)
+>
 > **A'** — Sheba's rebellion suppressed; peace restored (2 Sam 20:1–22)
 
 Absalom's death is both the military turning point and the emotional nadir. The detail that his hair—the very symbol of his vanity (2 Sam 14:25–26)—catches in the oak makes his death the consequence of his character. The chiastic structure frames rebellion not as political drama but as family tragedy: David's grief (C') mirrors his military preparations (C), showing that even successful suppression of revolt carries the cost of a father's heartbreak.[^69]
@@ -711,11 +896,17 @@ Absalom's death is both the military turning point and the emotional nadir. The 
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — David's death; Solomon's accession (1 Kgs 1:1–2:46)
+>
 > > **B** — Solomon requests wisdom; God grants it abundantly (1 Kgs 3:1–15)
+> >
 > > > **C** — Solomon builds the Temple (seven years) and his palace (thirteen years) (1 Kgs 5–7)
+> > >
 > > > > **X** — <span dir="rtl">וַיַּקְהֵל שְׁלֹמֹה</span> / **CENTER: Temple dedication — the glory of the LORD fills the house** (1 Kgs 8:1–66)
+> > >
 > > > **C'** — Solomon's building projects, wealth, and fame (1 Kgs 9–10)
+> >
 > > **B'** — Solomon loves many foreign women; his heart turns away (1 Kgs 11:1–8)
+>
 > **A'** — God raises adversaries; kingdom divided after Solomon's death (1 Kgs 11:9–12:24)
 
 The structure traces an arc from wisdom to apostasy, with the Temple dedication as the apex. The B/B' pair is devastating: the king who requested wisdom (B) is undone by the women who turn his heart to other gods (B'). The Temple, built in seven years, represents perfect completion; the palace, built in thirteen, suggests misplaced priority. The chiasm reveals Solomon's reign as a theological parable: the highest spiritual achievement (Temple dedication) does not immunize against the deepest spiritual failure (idolatry).[^70]
@@ -725,11 +916,17 @@ The structure traces an arc from wisdom to apostasy, with the Temple dedication 
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — Elijah confronts Ahab: "How long will you limp between two opinions?" (1 Kgs 18:17–21)
+>
 > > **B** — Prophets of Baal prepare their sacrifice; call upon Baal (1 Kgs 18:22–29)
+> >
 > > > **C** — Elijah repairs the altar of the LORD; twelve stones (1 Kgs 18:30–35)
+> > >
 > > > > **X** — <span dir="rtl">וַתִּפֹּל אֵשׁ־יְהוָה</span> / **CENTER: "The fire of the LORD fell"** (1 Kgs 18:36–38)
+> > >
 > > > **C'** — The people fall on their faces: <span dir="rtl">יְהוָה הוּא הָאֱלֹהִים</span> / "The LORD, He is God!" (1 Kgs 18:39)
+> >
 > > **B'** — Prophets of Baal seized and executed (1 Kgs 18:40)
+>
 > **A'** — Rain comes; the drought ends (1 Kgs 18:41–46)
 
 The fire of the LORD at the center is the decisive theophany that resolves the contest. The structure frames the event as a liturgical drama: question (A) → false worship (B) → preparation of true altar (C) → divine answer (X) → confession (C') → judgment on false worship (B') → restoration (A').[^71]
@@ -739,9 +936,13 @@ The fire of the LORD at the center is the decisive theophany that resolves the c
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — Prophets at Jericho announce Elijah's departure (2 Kgs 2:1–6)
+>
 > > **B** — Elijah and Elisha cross the Jordan; Elijah parts the water (2 Kgs 2:7–8)
+> >
 > > > **X** — <span dir="rtl">יְהִי־נָא פִּי־שְׁנַיִם בְּרוּחֲךָ אֵלָי</span> / **CENTER: "Let a double portion of your spirit be upon me"** (2 Kgs 2:9–12)
+> >
 > > **B'** — Elisha returns across the Jordan; parts the water (2 Kgs 2:13–14)
+>
 > **A'** — Prophets at Jericho recognize: "The spirit of Elijah rests on Elisha" (2 Kgs 2:15–18)
 
 The crossing and re-crossing of the Jordan frames the succession, recalling Israel's entry into the land under Joshua. Elisha's request for a "double portion" at the center echoes the firstborn's inheritance right, positioning prophetic succession as spiritual inheritance rather than institutional appointment.[^72]
@@ -761,11 +962,17 @@ Isaiah contains more identified chiastic structures than any other prophetic boo
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">וָאֶרְאֶה אֶת־אֲדֹנָי יֹשֵׁב עַל־כִּסֵּא רָם וְנִשָּׂא</span> / "I saw the Lord seated on a throne, high and exalted" (Isa 6:1–2)
+>
 > > **B** — <span dir="rtl">קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ יְהוָה צְבָאוֹת</span> / "Holy, holy, holy is the LORD of hosts" (Isa 6:3)
+> >
 > > > **C** — <span dir="rtl">אוֹי־לִי כִי־נִדְמֵיתִי</span> / "Woe is me! I am ruined" (Isa 6:5)
+> > >
 > > > > **X** — <span dir="rtl">הִנְנִי שְׁלָחֵנִי</span> / **CENTER: "Here am I; send me!"** (Isa 6:8)
+> > >
 > > > **C'** — "Until cities lie waste without inhabitant" (Isa 6:11–12)
+> >
 > > **B'** — "Like the terebinth whose stump remains" (Isa 6:13a)
+>
 > **A'** — <span dir="rtl">זֶרַע קֹדֶשׁ מַצַּבְתָּהּ</span> / "The holy seed is its stump" (Isa 6:13b)
 
 The structure moves from vision (A) through awe (B) and despair (C) to the moment of commission at the center, then outward through judgment (C') toward a remnant hope (B'/A'). Isaiah's volunteer response is the structural pivot: the prophet's willingness transforms divine holiness from a source of destruction into a source of mission.[^75]
@@ -775,29 +982,43 @@ The structure moves from vision (A) through awe (B) and despair (C) to the momen
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">שִׁמְעוּ שָׁמַיִם</span> / "Hear, O heavens" — cosmic witnesses (Isa 1:2–3)
+>
 > > **B** — <span dir="rtl">הוֹי גּוֹי חֹטֵא</span> / "Ah, sinful nation" — lament over corruption (Isa 1:4–9)
+> >
 > > > **C** — <span dir="rtl">שִׁמְעוּ דְבַר־יְהוָה</span> / "Hear the word of the LORD" — rejection of empty ritual (Isa 1:10–17)
+> > >
 > > > > **X** — <span dir="rtl">לְכוּ־נָא וְנִוָּכְחָה</span> / **CENTER: "Come now, let us reason together"** (Isa 1:18–20)
+> > >
 > > > **C'** — "How the faithful city has become a harlot" (Isa 1:21–23)
+> >
 > > **B'** — Declaration of the Lord: purging judgment (Isa 1:24–28)
+>
 > **A'** — "They shall be ashamed of the oaks" — idolatry exposed (Isa 1:29–31)
 
 The center is an extraordinary invitation: God offers to reason with Israel, to transform scarlet sins to snow-white purity—but conditionally. This offer, structurally positioned between denunciations of empty worship and corrupt society, reveals the prophetic logic: the possibility of repentance stands at the heart of judgment.[^76]
 
 ### Isaiah 40–55 — Deutero-Isaiah: The Servant Songs
 
-**Type:** Macro-Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
+**Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 The Deutero-Isaiah section exhibits complex chiastic organization. The four Servant Songs (42:1–4; 49:1–6; 50:4–9; 52:13–53:12) function as structural pillars within the larger framework:
 
 > **A** — <span dir="rtl">נַחֲמוּ נַחֲמוּ עַמִּי</span> / "Comfort, comfort my people" (Isa 40:1–11)
+>
 > > **B** — Creator theology: "The everlasting God, the LORD" (Isa 40:12–31)
+> >
 > > > **C** — First Servant Song: "I have put my Spirit upon him" (Isa 42:1–4)
+> > >
 > > > > **D** — Second Servant Song: "Listen to me, O coastlands" (Isa 49:1–6)
+> > > >
 > > > > > **X** — Third Servant Song: **CENTER — "The Lord GOD has given me the tongue of the learned"** (Isa 50:4–9)
+> > > >
 > > > > **D'** — Fourth Servant Song: <span dir="rtl">הִנֵּה יַשְׂכִּיל עַבְדִּי</span> / "My servant shall prosper" — the suffering servant (Isa 52:13–53:12)
+> > >
 > > > **C'** — New covenant: "A covenant for the peoples, a light to the nations" (Isa 54:1–17)
+> >
 > > **B'** — <span dir="rtl">הוֹי כָּל־צָמֵא לְכוּ לַמַּיִם</span> / "Ho, everyone who thirsts, come to the waters" (Isa 55:1–11)
+>
 > **A'** — <span dir="rtl">כִּי בְשִׂמְחָה תֵצֵאוּ</span> / "You shall go out in joy and be led forth in peace" (Isa 55:12–13)
 
 The opening word of comfort (A) finds its resolution in the closing promise of joyful departure (A'). The third Servant Song at the center presents the servant's willing acceptance of suffering as the pivot between the servant's commission (C/D) and the servant's vindication (D'/C'). The fourth Song, with its explicit theology of vicarious suffering ("he was wounded for our transgressions," 53:5), is positioned as the counterpart to the second Song, deepening the servant's mission from proclamation to sacrificial atonement.[^77]
@@ -807,11 +1028,17 @@ The opening word of comfort (A) finds its resolution in the closing promise of j
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Very Strong
 
 > **A** — <span dir="rtl">הִנֵּה יַשְׂכִּיל עַבְדִּי יָרוּם וְנִשָּׂא וְגָבַהּ מְאֹד</span> / "My servant shall be exalted and lifted up and very high" (Isa 52:13–15)
+>
 > > **B** — <span dir="rtl">מִי הֶאֱמִין לִשְׁמֻעָתֵנוּ</span> / "Who has believed what we have heard?" (Isa 53:1)
+> >
 > > > **C** — "He grew up like a tender plant; despised and rejected" (Isa 53:2–3)
+> > >
 > > > > **X** — <span dir="rtl">אָכֵן חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם</span> / **CENTER: "Surely he has borne our infirmities and carried our sorrows"** (Isa 53:4–6)
+> > >
 > > > **C'** — "Like a lamb led to slaughter; he opened not his mouth" (Isa 53:7–9)
+> >
 > > **B'** — "He shall see light and be satisfied; by his knowledge he shall justify many" (Isa 53:10–11)
+>
 > **A'** — <span dir="rtl">לָכֵן אֲחַלֶּק־לוֹ בָרַבִּים</span> / "I will divide him a portion with the great" (Isa 53:12)
 
 The center contains the Song's most radical theological claim: vicarious, substitutionary suffering. The servant bears what the people deserved. The outer frame (A/A') moves from exaltation through suffering back to exaltation, but the center reveals the mechanism: it is *through* bearing others' pain that the servant is exalted. The chiastic structure makes this theology inescapable—one cannot reach the vindication without passing through the center of vicarious atonement.[^78]
@@ -825,9 +1052,13 @@ Jeremiah's fifty-two chapters are organized with the "Book of Comfort" (chapters
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">בְּטֶרֶם אֶצָּרְךָ בַבֶּטֶן יְדַעְתִּיךָ</span> / "Before I formed you in the womb I knew you" (Jer 1:4–5)
+>
 > > **B** — "Do not be afraid of them, for I am with you" (Jer 1:8)
+> >
 > > > **X** — <span dir="rtl">וַיִּשְׁלַח יְהוָה אֶת־יָדוֹ וַיִּגַּע עַל־פִּי</span> / **CENTER: "The LORD put forth His hand and touched my mouth"** (Jer 1:9)
+> >
 > > **B'** — "I have set you this day over nations and kingdoms" (Jer 1:10)
+>
 > **A'** — Visions of the almond rod and boiling pot; commission confirmed (Jer 1:11–19)
 
 The divine touch at the center is the moment of prophetic empowerment. The outer frame moves from divine foreknowledge (A) to divine commission (A'), with the center marking the transformation of a reluctant youth into an authoritative spokesman.[^80]
@@ -839,9 +1070,13 @@ The divine touch at the center is the moment of prophetic empowerment. The outer
 This passage, positioned at the center of the Book of Comfort (chs. 30–33), which is itself the center of the book, represents a chiasm within a chiasm within a chiasm:
 
 > **A** — <span dir="rtl">הִנֵּה יָמִים בָּאִים</span> / "Behold, the days are coming — I will make a new covenant" (Jer 31:31)
+>
 > > **B** — "Not like the covenant I made with their fathers" (Jer 31:32)
+> >
 > > > **X** — <span dir="rtl">נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם וְעַל־לִבָּם אֶכְתְּבֶנָּה</span> / **CENTER: "I will put my Torah within them, and write it on their hearts"** (Jer 31:33)
+> >
 > > **B'** — "They shall all know me, from the least to the greatest" (Jer 31:34a)
+>
 > **A'** — "I will forgive their iniquity, and remember their sin no more" (Jer 31:34b)
 
 The center—Torah inscribed on the heart rather than on stone—is the new covenant's defining innovation. The outer frame moves from promise (A) through contrast with the broken Sinai covenant (B) to the center's transformation, and outward through universal knowledge (B') to forgiveness (A'). This is one of the most structurally layered passages in the Hebrew Bible: the new covenant at the center of the Book of Comfort, at the center of Jeremiah, within the prophetic corpus at the center of the Tanach.[^81]
@@ -851,11 +1086,17 @@ The center—Torah inscribed on the heart rather than on stone—is the new cove
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">פִּתִּיתַנִי יְהוָה וָאֶפָּת</span> / "You deceived me, LORD, and I was deceived" (Jer 20:7)
+>
 > > **B** — "I have become a laughingstock all day long" (Jer 20:8)
+> >
 > > > **C** — "If I say I will not mention Him... there is in my bones a burning fire" (Jer 20:9)
+> > >
 > > > > **X** — <span dir="rtl">וַיהוָה אוֹתִי כְּגִבּוֹר עָרִיץ</span> / **CENTER: "The LORD is with me as a dread warrior"** (Jer 20:11)
+> > >
 > > > **C'** — "Sing to the LORD! He has delivered the life of the needy" (Jer 20:13)
+> >
 > > **B'** — "Cursed be the day I was born" (Jer 20:14–15)
+>
 > **A'** — "Why did I come out from the womb to see toil and sorrow?" (Jer 20:18)
 
 The extraordinary oscillation between praise and despair becomes structurally visible: the center affirms God's warrior-presence, but the surrounding layers alternate between trust and anguish without resolution. The chiasm's failure to "close" neatly—it ends in lament (A') rather than returning to the opening tone—captures the prophet's existential crisis. Form mirrors content: the structure is as tormented as the prophet.[^82]
@@ -869,11 +1110,17 @@ Ezekiel's prophecies exhibit extensive chiastic structuring. The book's opening 
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — "The heavens were opened and I saw visions of God" (Ezek 1:1–3)
+>
 > > **B** — Four living creatures with four faces and four wings (Ezek 1:4–14)
+> >
 > > > **C** — Wheels within wheels (Ezek 1:15–21)
+> > >
 > > > > **X** — <span dir="rtl">כְּמַרְאֵה הַקֶּשֶׁת... כֵּן מַרְאֵה הַכָּבוֹד</span> / **CENTER: The throne of sapphire — the appearance of the likeness of the glory of the LORD** (Ezek 1:22–28)
+> > >
 > > > **C'** — "Son of man, stand on your feet" — commission (Ezek 2:1–3:3)
+> >
 > > **B'** — The Spirit lifts Ezekiel; he goes in bitterness (Ezek 3:12–15)
+>
 > **A'** — Watchman appointment; the Spirit speaks (Ezek 3:16–27)
 
 The vision converges on the throne—or rather, on the "appearance of the likeness of the glory of the LORD" (<span dir="rtl">מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה</span>), that extraordinary triple hedge of indirectness that acknowledges the impossibility of seeing God directly. The chiastic structure mirrors the vision's own movement: inward through progressively stranger images (creatures, wheels) toward the unapproachable center, then outward into prophetic commission.[^84]
@@ -883,9 +1130,13 @@ The vision converges on the throne—or rather, on the "appearance of the likene
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Moderate
 
 > **A** — "The hand of the LORD was upon me; He set me down in a valley full of bones" (Ezek 37:1–3)
+>
 > > **B** — Ezekiel prophesies; bones come together, sinews and flesh appear (Ezek 37:4–8)
+> >
 > > > **X** — <span dir="rtl">וַתָּבוֹא בָהֶם הָרוּחַ וַיִּחְיוּ</span> / **CENTER: "Breath came into them, and they lived — an exceedingly great army"** (Ezek 37:9–10)
+> >
 > > **B'** — Interpretation: "These bones are the whole house of Israel" (Ezek 37:11–13)
+>
 > **A'** — "I will put my Spirit within you, and you shall live; I will place you in your own land" (Ezek 37:14)
 
 The center is the moment of resurrection—breath (*ruach*, also "spirit" and "wind") entering the dead bones. The chiastic movement from death (A) through reassembly (B) to life (X) and back through interpretation (B') to promise (A') makes the vision both a parable of national restoration and a statement about the power of divine breath to create life from nothing.[^85]
@@ -895,11 +1146,17 @@ The center is the moment of resurrection—breath (*ruach*, also "spirit" and "w
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — "In visions of God He brought me to the land of Israel" (Ezek 40:1–4)
+>
 > > **B** — Temple measurements and the return of God's glory (Ezek 40:5–43:12)
+> >
 > > > **C** — Laws of the Temple: altar, priests, festivals (Ezek 43:13–46:24)
+> > >
 > > > > **X** — <span dir="rtl">וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת</span> / **CENTER: The river flowing from the Temple threshold** (Ezek 47:1–12)
+> > >
 > > > **C'** — Division of the land among the tribes (Ezek 47:13–48:7)
+> >
 > > **B'** — Tribal allotments and city dimensions (Ezek 48:8–29)
+>
 > **A'** — <span dir="rtl">יְהוָה שָׁמָּה</span> / "The name of the city from that day shall be: THE LORD IS THERE" (Ezek 48:30–35)
 
 The river at the center flows from the Temple eastward, growing deeper as it goes, bringing life to the Dead Sea and producing trees whose leaves are for healing. This image—life-giving water from the divine presence—is the structural and theological center of Ezekiel's entire eschatological vision. The closing name, <span dir="rtl">יְהוָה שָׁמָּה</span> ("the LORD is there"), answers the opening vision's question about God's presence among the exiles.[^86]
@@ -913,11 +1170,17 @@ Scholarship by James Nogalski, Paul House, and Mark Schart has established that 
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Very Strong
 
 > **A** — <span dir="rtl">קוּם לֵךְ אֶל־נִינְוֵה</span> / "Arise, go to Nineveh" — Jonah flees (Jonah 1:1–3)
+>
 > > **B** — Storm at sea; sailors cast lots; Jonah cast overboard (Jonah 1:4–16)
+> >
 > > > **C** — <span dir="rtl">וַיִּתְפַּלֵּל יוֹנָה</span> / Jonah prays from the belly of the fish (Jonah 2:1–9)
+> > >
 > > > > **X** — <span dir="rtl">וַיֹּאמֶר יְהוָה לַדָּג וַיָּקֵא</span> / **CENTER: "The LORD commanded the fish, and it vomited Jonah onto dry land"** (Jonah 2:10)
+> > >
 > > > **C'** — Jonah proclaims; Nineveh repents; God relents (Jonah 3:1–10)
+>
 > **B'** — Jonah angry; the plant, worm, and scorching wind (Jonah 4:1–9)
+>
 > **A'** — <span dir="rtl">וַאֲנִי לֹא אָחוּס עַל־נִינְוֵה</span> / "Should I not pity Nineveh?" (Jonah 4:10–11)
 
 The center—Jonah expelled from the fish—marks the reversal from flight to mission. The outer A/A' pair creates the book's central irony: God's first command sends Jonah to Nineveh, and His final question concerns Nineveh's worth. The prophet who fled divine mercy for Gentiles is himself the recipient of that same mercy (rescued from drowning). Jonah's prayer (C) and Nineveh's repentance (C') are matched: both cry out and both are heard. The chiasm reveals that Jonah and Nineveh are structural twins—both recipients of a grace the prophet cannot accept.[^88]
@@ -929,11 +1192,17 @@ The center—Jonah expelled from the fish—marks the reversal from flight to mi
 The oracles follow a geographical chiasm, spiraling inward toward Israel:
 
 > **A** — Damascus (northeast) (Amos 1:3–5)
+>
 > > **B** — Gaza (southwest) (Amos 1:6–8)
+> >
 > > > **C** — Tyre (northwest) (Amos 1:9–10)
+> > >
 > > > > **D** — Edom (southeast) (Amos 1:11–12)
+> > >
 > > > **C'** — Ammon (east) (Amos 1:13–15)
+> >
 > > **B'** — Moab (south) (Amos 2:1–3)
+>
 > **A'** — **Israel (CENTER of the geographical spiral)** (Amos 2:6–16)
 
 The nations alternate between distant (A/A') and closer (B-D) neighbors, creating a tightening spiral that reaches Israel at its heart. Each oracle uses the same formula—"For three transgressions... and for four"—but the oracle against Israel is dramatically expanded, comprising the climax. The audience, nodding along as foreign nations are condemned, is ambushed: they are the ultimate target. The chiastic geography makes the rhetorical trap structurally visible.[^89]
@@ -943,11 +1212,17 @@ The nations alternate between distant (A/A') and closer (B-D) neighbors, creatin
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">שִׁמְעוּ עַמִּים כֻּלָּם</span> / "Hear, all you peoples" — theophany (Mic 1:1–2)
+>
 > > **B** — Judgment on Samaria and Jerusalem (Mic 1:3–3:12)
+> >
 > > > **C** — "In the latter days the mountain of the LORD's house" — eschatological hope (Mic 4:1–5:1)
+> > >
 > > > > **X** — <span dir="rtl">וְאַתָּה בֵּית־לֶחֶם אֶפְרָתָה</span> / **CENTER: "But you, Bethlehem Ephrathah... from you shall come forth one who is to be ruler in Israel"** (Mic 5:2)
+> > >
 > > > **C'** — "Hear what the LORD says" — covenant lawsuit (Mic 6:1–7:7)
+> >
 > > **B'** — "Do not rejoice over me, my enemy; when I fall, I shall rise" (Mic 7:8–17)
+>
 > **A'** — <span dir="rtl">מִי־אֵל כָּמוֹךָ</span> / "Who is a God like you, forgiving iniquity?" (Mic 7:18–20)
 
 The messianic promise of Bethlehem at the center is flanked by judgment and hope. The book's closing rhetorical question—"Who is a God like you?" (<span dir="rtl">מִי כָמוֹךָ</span>), punning on the prophet's own name—answers the opening summons. The entire book spirals toward the center's promise and then expands into the implications of that promise for Israel's future.[^90]
@@ -957,11 +1232,17 @@ The messianic promise of Bethlehem at the center is flanked by judgment and hope
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — "How long, O LORD?" — first complaint (Hab 1:2–4)
+>
 > > **B** — God's answer: "I am raising up the Chaldeans" (Hab 1:5–11)
+> >
 > > > **C** — Second complaint: "Why do you look on the treacherous?" (Hab 1:12–17)
+> > >
 > > > > **X** — <span dir="rtl">וְצַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה</span> / **CENTER: "The righteous shall live by his faith"** (Hab 2:1–5)
+> > >
 > > > **C'** — Five woes against the oppressor (Hab 2:6–20)
+> >
 > > **B'** — God's theophany: "God came from Teman" (Hab 3:1–15)
+>
 > **A'** — "Yet I will rejoice in the LORD" — resolution (Hab 3:16–19)
 
 The declaration that "the righteous shall live by his faith" (<span dir="rtl">בֶּאֱמוּנָתוֹ</span>) stands at the center of a theodicy dialogue. The movement from complaint (A) to complaint (C) converges on this affirmation, which then generates woe oracles (C') and a theophany (B') that answer the opening question. The chiasm gives structural form to the experience of faith: the believer passes through complaint and confusion to arrive at a central conviction, which then transforms the surrounding darkness into praise.[^91]
@@ -971,11 +1252,17 @@ The declaration that "the righteous shall live by his faith" (<span dir="rtl">ב
 **Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Strong
 
 > **A** — "I have loved you" — God's love for Jacob/Israel (Mal 1:2–5)
+>
 > > **B** — Corrupt worship: defiled offerings, contemptuous priests (Mal 1:6–2:9)
+> >
 > > > **C** — Breaking the marriage covenant; God hates divorce (Mal 2:10–16)
+> > >
 > > > > **X** — **CENTER: "You have wearied the LORD with your words" — the coming messenger of the covenant** (Mal 2:17–3:5)
+> > >
 > > > **C'** — Robbing God through failure to tithe (Mal 3:6–12)
+> >
 > > **B'** — Harsh words against God; yet those who fear Him are remembered (Mal 3:13–4:3)
+>
 > **A'** — <span dir="rtl">הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא</span> / "Behold, I will send you Elijah the prophet" (Mal 4:4–6)
 
 The center of the Tanach's final prophetic book announces a coming messenger who will purify the priesthood and restore right worship—answering the corruptions catalogued in the surrounding layers. The book's final words promise Elijah's return, linking Malachi's chiasm back to the Elijah narratives in Kings and forward to messianic expectation.[^92]
@@ -987,13 +1274,21 @@ The center of the Tanach's final prophetic book announces a coming messenger who
 When read as a single scroll, the Twelve exhibit macro-chiastic patterning:
 
 > **A** — Hosea: covenant unfaithfulness and divine love
+>
 > > **B** — Joel, Amos: prophetic call, judgment on Israel and the nations
+> >
 > > > **C** — Obadiah: judgment turned to salvation
+> > >
 > > > > **D** — Jonah: divine mercy extended to Gentiles
+> > > >
 > > > > > **X** — **CENTER: Micah — the Bethlehem promise** (Mic 5:2)
+> > > >
 > > > > **D'** — Nahum, Habakkuk: divine sovereignty and judgment
+> > >
 > > > **C'** — Zephaniah: repentance and restoration
+> >
 > > **B'** — Haggai, Zechariah: temple rebuilding and eschatological visions
+>
 > **A'** — Malachi: covenant restored, Elijah promised
 
 The Bethlehem promise at the center of Micah stands at the center of the Twelve, making the messianic hope the structural keystone of the entire minor prophetic corpus. This arrangement, whether produced by a single redactor or emerging through accumulated editorial decisions, creates a unified theological argument: from covenant failure (Hosea) through judgment and mercy to covenant renewal (Malachi), with the messianic promise at the pivot.[^93]
@@ -1013,9 +1308,13 @@ The Book of Psalms demonstrates chiastic structures at three levels: within indi
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">אַשְׁרֵי הָאִישׁ אֲשֶׁר לֹא הָלַךְ בַּעֲצַת רְשָׁעִים</span> / "Blessed is the man who walks not in the counsel of the wicked" (Ps 1:1a)
+>
 > > **B** — <span dir="rtl">וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד</span> / "Nor stands in the way of sinners" (Ps 1:1b)
+> >
 > > > **X** — <span dir="rtl">כִּי אִם בְּתוֹרַת יְהוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָיְלָה</span> / **CENTER: "But his delight is in the Torah of the LORD, and on His Torah he meditates day and night"** (Ps 1:2)
+> >
 > > **B'** — <span dir="rtl">לֹא־כֵן הָרְשָׁעִים כִּי אִם־כַּמֹּץ</span> / "Not so the wicked; they are like chaff" (Ps 1:4)
+>
 > **A'** — <span dir="rtl">כִּי־יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד</span> / "The LORD knows the way of the righteous, but the way of the wicked will perish" (Ps 1:6)
 
 The gateway psalm to the entire Psalter places Torah meditation at the structural center. The righteous (A) and their fate (A') frame the psalm; the wicked (B/B') serve as foils; but the center is neither the righteous nor the wicked—it is Torah itself, the defining practice that separates the two paths.[^95]
@@ -1025,11 +1324,17 @@ The gateway psalm to the entire Psalter places Torah meditation at the structura
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">יְהוָה אֲדֹנֵינוּ מָה־אַדִּיר שִׁמְךָ בְּכָל־הָאָרֶץ</span> / "O LORD, our Lord, how majestic is Your name in all the earth" (Ps 8:2)
+>
 > > **B** — "You have set Your glory above the heavens" (Ps 8:2b)
+> >
 > > > **C** — "From the mouths of infants You have established strength" (Ps 8:3)
+> > >
 > > > > **X** — <span dir="rtl">מָה־אֱנוֹשׁ כִּי־תִזְכְּרֶנּוּ</span> / **CENTER: "What is man that You are mindful of him?"** (Ps 8:5)
+> > >
 > > > **C'** — "You have made him a little lower than the angels; crowned him with glory" (Ps 8:6)
+> >
 > > **B'** — "You have put all things under his feet" (Ps 8:7–9)
+>
 > **A'** — <span dir="rtl">יְהוָה אֲדֹנֵינוּ מָה־אַדִּיר שִׁמְךָ בְּכָל־הָאָרֶץ</span> / "O LORD, our Lord, how majestic is Your name in all the earth" (Ps 8:10)
 
 The identical refrain (A/A') creates a perfect inclusio. The center is a question rather than a statement—"What is man?"—placing human wonderment at the heart of cosmic praise. The chiasm suggests that human consciousness of its own smallness before God's majesty is itself a form of worship.[^96]
@@ -1039,9 +1344,13 @@ The identical refrain (A/A') creates a perfect inclusio. The center is a questio
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">יְהוָה רֹעִי לֹא אֶחְסָר</span> / "The LORD is my shepherd; I shall not want" (Ps 23:1)
+>
 > > **B** — <span dir="rtl">בִּנְאוֹת דֶּשֶׁא יַרְבִּיצֵנִי עַל־מֵי מְנֻחוֹת יְנַהֲלֵנִי</span> / "He makes me lie down in green pastures; He leads me beside still waters" (Ps 23:2–3)
+> >
 > > > **X** — <span dir="rtl">גַּם כִּי־אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא־אִירָא רָע כִּי־אַתָּה עִמָּדִי</span> / **CENTER: "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me"** (Ps 23:4)
+> >
 > > **B'** — <span dir="rtl">תַּעֲרֹךְ לְפָנַי שֻׁלְחָן נֶגֶד צֹרְרָי דִּשַּׁנְתָּ בַשֶּׁמֶן רֹאשִׁי כּוֹסִי רְוָיָה</span> / "You prepare a table before me; You anoint my head with oil; my cup overflows" (Ps 23:5)
+>
 > **A'** — <span dir="rtl">אַךְ טוֹב וָחֶסֶד יִרְדְּפוּנִי כָּל־יְמֵי חַיַּי וְשַׁבְתִּי בְּבֵית־יְהוָה לְאֹרֶךְ יָמִים</span> / "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the LORD forever" (Ps 23:6)
 
 By placing the valley of the shadow of death at the exact center, the chiasm paradoxically transforms the psalm's darkest moment into its theological climax. The surrounding layers—pastoral provision (B), royal banquet (B'), confident opening (A), triumphant closing (A')—radiate outward from this center of trust-in-darkness. The structure argues that it is precisely in walking through death's shadow that one discovers the deepest reality of divine companionship.[^97]
@@ -1051,11 +1360,17 @@ By placing the valley of the shadow of death at the exact center, the chiasm par
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Strong
 
 > **A** — <span dir="rtl">הָבוּ לַיהוָה בְּנֵי אֵלִים</span> / "Ascribe to the LORD, O sons of God" (Ps 29:1–2)
+>
 > > **B** — <span dir="rtl">קוֹל יְהוָה עַל־הַמָּיִם</span> / "The voice of the LORD over the waters" (Ps 29:3)
+> >
 > > > **C** — <span dir="rtl">קוֹל יְהוָה בַּכֹּחַ קוֹל יְהוָה בֶּהָדָר</span> / "The voice of the LORD in power; the voice of the LORD in majesty" (Ps 29:4)
+> > >
 > > > > **X** — **CENTER: The voice of the LORD breaks cedars, shakes the wilderness, strips forests** (Ps 29:5–9)
+> > >
 > > > **C'** — <span dir="rtl">וּבְהֵיכָלוֹ כֻּלּוֹ אֹמֵר כָּבוֹד</span> / "In His temple all cry: Glory!" (Ps 29:9b)
+> >
 > > **B'** — "The LORD sat enthroned over the flood" (Ps 29:10)
+>
 > **A'** — <span dir="rtl">יְהוָה עֹז לְעַמּוֹ יִתֵּן יְהוָה יְבָרֵךְ אֶת־עַמּוֹ בַשָּׁלוֹם</span> / "The LORD gives strength to His people; the LORD blesses His people with peace" (Ps 29:11)
 
 Seven occurrences of "the voice of the LORD" (<span dir="rtl">קוֹל יְהוָה</span>) structure the psalm. The center depicts nature's response to God's overwhelming power, framed by calls to worship (A/A') and assertions of divine sovereignty (B/B'). The movement from cosmic violence (center) to peace (A') enacts the psalm's theology: the God whose voice shatters cedars is the same God who blesses His people with <span dir="rtl">שָׁלוֹם</span>.[^98]
@@ -1065,11 +1380,17 @@ Seven occurrences of "the voice of the LORD" (<span dir="rtl">קוֹל יְהו�
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Moderate to Strong
 
 > **A** — <span dir="rtl">חָנֵּנִי אֱלֹהִים כְּחַסְדֶּךָ</span> / "Be gracious to me, O God, according to Your lovingkindness" (Ps 51:3)
+>
 > > **B** — "Wash me thoroughly; cleanse me from my sin" (Ps 51:4)
+> >
 > > > **C** — "I know my transgressions; my sin is ever before me" (Ps 51:5)
+> > >
 > > > > **X** — <span dir="rtl">לְךָ לְבַדְּךָ חָטָאתִי וְהָרַע בְּעֵינֶיךָ עָשִׂיתִי</span> / **CENTER: "Against You, You only, have I sinned"** (Ps 51:6)
+> > >
 > > > **C'** — "In sin my mother conceived me" (Ps 51:7)
+> >
 > > **B'** — "You desire truth in the inward parts; teach me wisdom" (Ps 51:8)
+>
 > **A'** — <span dir="rtl">תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר</span> / "Purge me with hyssop and I shall be clean" (Ps 51:9)
 
 The inward movement progressively strips away self-justification until the psalmist reaches the irreducible center: acknowledgment that sin is ultimately against God alone. The return outward (C'→B'→A') traces the path from honest self-knowledge through desire for inner transformation to confident prayer for cleansing. The chiasm demonstrates that restoration begins not with ritual but with radical honesty.[^99]
@@ -1079,29 +1400,43 @@ The inward movement progressively strips away self-justification until the psalm
 **Type:** Meso-Chiasm | **Scale:** Meso | **Scholarly consensus:** Moderate
 
 > **A** — <span dir="rtl">בָּרְכִי נַפְשִׁי אֶת־יְהוָה</span> / "Bless the LORD, O my soul" (Ps 103:1–2)
+>
 > > **B** — "Who forgives all your iniquity; who heals all your diseases" (Ps 103:3–5)
+> >
 > > > **C** — "The LORD executes righteousness and justice for the oppressed" (Ps 103:6–7)
+> > >
 > > > > **X** — <span dir="rtl">רַחוּם וְחַנּוּן יְהוָה אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד</span> / **CENTER: "The LORD is merciful and gracious, slow to anger and abounding in steadfast love"** (Ps 103:8)
+> > >
 > > > **C'** — "As far as the east is from the west, so far He removes our transgressions" (Ps 103:9–12)
+> >
 > > **B'** — "As a father has compassion on his children" (Ps 103:13–18)
+>
 > **A'** — <span dir="rtl">בָּרְכִי נַפְשִׁי אֶת־יְהוָה</span> / "Bless the LORD, O my soul" (Ps 103:19–22)
 
 The center quotes the divine self-revelation from Exodus 34:6—the thirteen attributes of mercy proclaimed after the Golden Calf. This crucial intertext links the psalm's chiasm to the Exodus narrative's chiasm: the same divine character that restored the broken covenant at Sinai restores the individual worshiper now.[^100]
 
 ### Songs of Ascents (Psalms 120–134)
 
-**Type:** Macro-Chiasm | **Scale:** Collection | **Scholarly consensus:** Moderate
+**Type:** Macro-Chiasm | **Scale:** Macro | **Scholarly consensus:** Moderate
 
 The fifteen Songs of Ascents exhibit a concentric arrangement:
 
 > **A** — Psalm 120: Distress among the nations
+>
 > > **B** — Psalms 121–122: Help and joy in approaching Jerusalem
+> >
 > > > **C** — Psalms 123–124: Dependence on God; deliverance
+> > >
 > > > > **D** — Psalms 125–126: Security and restoration of Zion
+> > > >
 > > > > > **X** — **CENTER: Psalm 127 — "Unless the LORD builds the house"** and **Psalm 128 — "Blessed is everyone who fears the LORD"**
+> > > >
 > > > > **D'** — Psalms 129–130: Affliction and hope; "Out of the depths"
+> > >
 > > > **C'** — Psalms 131–132: Humble trust; David's oath to find a dwelling for God
+> >
 > > **B'** — Psalm 133: "How good and pleasant for brothers to dwell together"
+>
 > **A'** — Psalm 134: Blessing in the sanctuary
 
 The two center psalms—one about divine initiative in building and blessing, one about the blessedness of fearing God—form the theological heart of the pilgrimage collection. The outward movement traces the pilgrim's journey from exile distress (A) through approach (B), dependence (C), and hope (D) to arrival and blessing (A').[^101]
@@ -1115,11 +1450,17 @@ The two center psalms—one about divine initiative in building and blessing, on
 The introductory section of Proverbs exhibits concentric structure:
 
 > **A** — Father's instruction: "Hear, my son" (Prov 1:8–19)
+>
 > > **B** — Wisdom's public proclamation (Prov 1:20–33)
+> >
 > > > **C** — The rewards of seeking wisdom (Prov 2:1–4:27)
+> > >
 > > > > **X** — **CENTER: Warning against the strange woman / praise of the faithful wife** (Prov 5:1–7:27)
+> > >
 > > > **C'** — Wisdom's self-praise: "I was beside Him as a master craftsman" (Prov 8:1–36)
+> >
 > > **B'** — Wisdom builds her house; invites guests (Prov 9:1–6)
+>
 > **A'** — Folly's counter-invitation (Prov 9:13–18)
 
 The center's preoccupation with sexual fidelity is not incidental; in Proverbs' symbolic vocabulary, the "strange woman" represents folly and apostasy, while the faithful wife represents wisdom. The structural placement makes marital faithfulness a metaphor for the fundamental choice between wisdom and destruction.[^102]
@@ -1129,11 +1470,17 @@ The center's preoccupation with sexual fidelity is not incidental; in Proverbs' 
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — Prose prologue: Job's piety and suffering (Job 1–2)
+>
 > > **B** — Job's opening lament: "Let the day perish" (Job 3)
+> >
 > > > **C** — Three cycles of dialogue: Job and friends (Job 4–27)
+> > >
 > > > > **X** — **CENTER: The Hymn to Wisdom — "Where shall wisdom be found?"** (Job 28)
+> > >
 > > > **C'** — Job's final defense and oath of innocence (Job 29–31)
+> >
 > > **B'** — Elihu's speeches (Job 32–37)
+>
 > **A'** — God speaks from the whirlwind; prose epilogue: restoration (Job 38–42)
 
 Job 28, the poem on wisdom's hiddenness ("where shall wisdom be found?"), is widely recognized as the structural center of the book. Its answer—"The fear of the Lord, that is wisdom" (28:28)—provides the key that unlocks the dialogues: the friends' theology (C) and Job's protests (C') are both incomplete because both assume wisdom is accessible to human reasoning. The divine speeches (A') confirm what the center asserts: wisdom belongs to God alone.[^103]
@@ -1143,9 +1490,13 @@ Job 28, the poem on wisdom's hiddenness ("where shall wisdom be found?"), is wid
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — "Let him kiss me" — desire and seeking (Song 1:1–2:7)
+>
 > > **B** — "My beloved is mine and I am his" — mutual possession (Song 2:8–3:5)
+> >
 > > > **X** — **CENTER: The wedding procession and consummation** (Song 3:6–5:1)
+> >
 > > **B'** — "I am my beloved's and my beloved is mine" — mutual possession (reversed formula) (Song 5:2–8:4)
+>
 > **A'** — "Set me as a seal upon your heart" — love strong as death (Song 8:5–14)
 
 The reversal of the possession formula between B and B'—"My beloved is mine and I am his" becomes "I am my beloved's and my beloved is mine"—traces a shift from possessive desire to self-giving love. The center's consummation scene is the structural and emotional climax, framed by the arc of desire (A) and the affirmation of love's cosmic power (A').[^104]
@@ -1157,11 +1508,17 @@ The reversal of the possession formula between B and B'—"My beloved is mine an
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — Naomi's family goes to Moab; death and emptiness (Ruth 1:1–5)
+>
 > > **B** — Ruth's loyalty: "Where you go I will go" (Ruth 1:6–22)
+> >
 > > > **C** — Ruth gleans in Boaz's field; Boaz notices her (Ruth 2:1–23)
+> > >
 > > > > **X** — **CENTER: The threshing floor — Ruth asks Boaz to be her redeemer** (Ruth 3:1–18)
+> > >
 > > > **C'** — Boaz redeems at the gate; legal proceedings (Ruth 4:1–12)
+>
 > **B'** — Ruth becomes Boaz's wife; the women bless Naomi (Ruth 4:13–17)
+>
 > **A'** — Genealogy: from Perez to David — fullness restored (Ruth 4:18–22)
 
 The threshing floor scene at the center is the pivot between emptiness and fullness, between Moab and Bethlehem, between death and the Davidic line. The outer frame's movement from departure (A) to genealogy (A') places the entire story within the framework of divine providence: what appears to be personal tragedy (famine, death, childlessness) becomes the mechanism of messianic history.[^105]
@@ -1173,9 +1530,13 @@ The threshing floor scene at the center is the pivot between emptiness and fulln
 The five chapters form a concentric arrangement with chapter 3 at the center:
 
 > **A** — Chapter 1: Jerusalem desolate; "How lonely sits the city" (22 verses, single acrostic)
+>
 > > **B** — Chapter 2: God's anger has consumed; "How the Lord has covered Zion with a cloud" (22 verses, single acrostic)
+> >
 > > > **X** — **Chapter 3: CENTER — "I am the man who has seen affliction" / "The steadfast love of the LORD never ceases"** (66 verses, triple acrostic)
+> >
 > > **B'** — Chapter 4: "How the gold has grown dim" — further desolation (22 verses, single acrostic)
+>
 > **A'** — Chapter 5: "Remember, O LORD" — communal prayer (22 verses, no acrostic)
 
 Chapter 3 is three times the length of the surrounding chapters—a triple acrostic where each letter receives three verses instead of one—and contains both the deepest despair ("He has driven me into darkness," 3:2) and the most famous affirmation of hope in the Hebrew Bible: <span dir="rtl">חַסְדֵי יְהוָה כִּי לֹא־תָמְנוּ</span> ("The steadfast love of the LORD never ceases," 3:22). The chiastic structure places this coexistence of anguish and hope at the center of the entire book, making Lamentations a meditation on faith sustained within—not after—catastrophe.[^106]
@@ -1185,11 +1546,17 @@ Chapter 3 is three times the length of the surrounding chapters—a triple acros
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — <span dir="rtl">הֲבֵל הֲבָלִים</span> / "Vanity of vanities" — everything is <span dir="rtl">הֶבֶל</span> (Eccl 1:1–11)
+>
 > > **B** — Experiments with wisdom, pleasure, toil (Eccl 1:12–2:26)
+> >
 > > > **C** — "A time for everything" — catalogue of times (Eccl 3:1–15)
+> > >
 > > > > **X** — **CENTER: "God has made everything beautiful in its time; He has also set eternity in their hearts"** (Eccl 3:11)
+> > >
 > > > **C'** — Observations on injustice, oppression, loneliness (Eccl 3:16–6:12)
+> >
 > > **B'** — Wisdom's practical value; "the end of a matter is better than its beginning" (Eccl 7:1–11:6)
+>
 > **A'** — <span dir="rtl">הֲבֵל הֲבָלִים</span> / "Vanity of vanities" — "Fear God and keep His commandments" (Eccl 11:7–12:14)
 
 The center's claim—that God has placed <span dir="rtl">עֹלָם</span> (eternity, or the sense of transcendence) in the human heart—stands at the midpoint between the book's pervasive skepticism and its concluding affirmation. The chiasm reveals Ecclesiastes not as nihilism but as a carefully structured argument: human experience is indeed <span dir="rtl">הֶבֶל</span> (vapor, fleeting), yet the awareness of eternity persistently points beyond the vapor.[^107]
@@ -1199,15 +1566,25 @@ The center's claim—that God has placed <span dir="rtl">עֹלָם</span> (eter
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Strong
 
 > **A** — Ahasuerus's feast; Vashti deposed (Esth 1:1–22)
+>
 > > **B** — Esther chosen as queen (Esth 2:1–18)
+> >
 > > > **C** — Mordecai uncovers a plot against the king (Esth 2:19–23)
+> > >
 > > > > **D** — Haman elevated; plans genocide against the Jews (Esth 3:1–15)
+> > > >
 > > > > > **E** — Esther agrees to approach the king: "If I perish, I perish" (Esth 4:1–17)
+> > > > >
 > > > > > > **X** — **CENTER: The king's sleepless night; Mordecai's unrewarded loyalty is read aloud** (Esth 6:1–3)
+> > > > >
 > > > > > **E'** — Esther's second banquet; she reveals Haman's plot (Esth 7:1–10)
+> > > >
 > > > > **D'** — Haman executed; decree of protection for the Jews (Esth 8:1–17)
+> > >
 > > > **C'** — The Jews defend themselves; Mordecai elevated (Esth 9:1–19)
+> >
 > > **B'** — Purim established; Esther's authority confirmed (Esth 9:20–32)
+>
 > **A'** — Mordecai second to the king; greatness recorded (Esth 10:1–3)
 
 The center—the king's insomnia and the reading of the chronicles—is the most understated yet most consequential moment in the narrative. No one acts heroically; the king simply cannot sleep, and a scribe reads a record. Yet this "coincidence" reverses Haman's plot entirely. The chiastic structure reveals the book's hidden theology: in a text that never mentions God's name, the structural center points to divine providence operating through apparent accident.[^108]
@@ -1220,10 +1597,14 @@ The center—the king's insomnia and the reading of the chronicles—is the most
 
 The Aramaic section of Daniel (chapters 2–7) is one of the most widely recognized chiasms in the Hebrew Bible:
 
->> **A** — Dream of four kingdoms: statue of metals (Dan 2)
+> **A** — Dream of four kingdoms: statue of metals (Dan 2)
+>
 > > **B** — Deliverance from the fiery furnace (Dan 3)
+> >
 > > > **X** — **CENTER: Two kings humbled** — Nebuchadnezzar's madness (Dan 4) and Belshazzar's feast (Dan 5)
+> >
 > > **B'** — Deliverance from the lions' den (Dan 6)
+>
 > **A'** — Vision of four kingdoms: beasts from the sea (Dan 7)
 
 The A/A' pair presents the same theological message—the rise and fall of kingdoms under divine sovereignty—in two genres: Nebuchadnezzar's dream-statue (A) and Daniel's beast-vision (A'). The B/B' pair matches miraculous deliverances from fire and lions. The center depicts two kings brought low by divine judgment. The chiasm's bilingual boundary (chapters 2–7 are in Aramaic, embedded within the Hebrew of chapters 1 and 8–12) reinforces the structural unity of this section.[^109]
@@ -1233,11 +1614,17 @@ The A/A' pair presents the same theological message—the rise and fall of kingd
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — Cyrus's decree; return from exile (Ezra 1–2)
+>
 > > **B** — Temple rebuilding begun; opposition (Ezra 3–6)
+> >
 > > > **C** — Ezra's mission: Torah and intermarriage crisis (Ezra 7–10)
+> > >
 > > > > **X** — **CENTER: Nehemiah rebuilds the wall despite opposition** (Neh 1–7)
+> > >
 > > > **C'** — Public Torah reading; covenant renewal (Neh 8–10)
+> >
 > > **B'** — Wall dedication; temple service restored (Neh 11–12)
+>
 > **A'** — Nehemiah's reforms; purification (Neh 13)
 
 The wall at the center is both physical and theological: it defines the restored community's boundaries. The outer layers trace a movement from permission to return (A) through building projects (B/B') and communal reform (C/C') to the center's act of physical and spiritual construction.[^110]
@@ -1247,9 +1634,13 @@ The wall at the center is both physical and theological: it defines the restored
 **Type:** Grand Chiasm | **Scale:** Grand | **Scholarly consensus:** Moderate
 
 > **A** — Genealogies: from Adam to the restoration community (1 Chr 1–9)
+>
 > > **B** — David's reign: military victories, ark brought to Jerusalem (1 Chr 10–21)
+> >
 > > > **X** — **CENTER: Temple preparations and Solomon's Temple dedication** (1 Chr 22–2 Chr 7)
+> >
 > > **B'** — Solomon and subsequent kings: apostasy and reform (2 Chr 8–35)
+>
 > **A'** — Exile and Cyrus's decree: restoration (2 Chr 36)
 
 The Temple—its planning, construction, and dedication—stands at the structural center, making the Chronicler's theological point explicit: all of Israelite history converges on and radiates from the Temple as the locus of divine presence. The closing verse of Chronicles (2 Chr 36:23)—Cyrus's decree to rebuild the Temple—points back to the center, making the entire narrative arc a ring that begins and ends with Temple-directed hope.[^111]
@@ -1265,11 +1656,17 @@ The chiastic structures catalogued in Parts II–V operate within individual boo
 The six books from Genesis through Joshua, when read as a continuous narrative, form a grand chiasm with the Sinai covenant (Exodus 19:3–Numbers 10:10) at the structural center:
 
 > **A** — **Genesis 1–11**: Primeval history — creation, fall, flood, Babel; humanity scattered
+>
 > > **B** — **Genesis 12–50**: Patriarchal narratives — promises of land, seed, blessing; descent into Egypt
+> >
 > > > **C** — **Exodus 1–18**: Liberation — exodus from Egypt, journey to Sinai
+> > >
 > > > > **X** — **Exodus 19:3–Numbers 10:10**: **CENTER — The Sinai pericope: covenant, law, tabernacle, divine presence**
+> > >
 > > > **C'** — **Numbers 10:11–36:13**: Wilderness journey — from Sinai toward the land
+> >
 > > **B'** — **Deuteronomy**: Covenant renewal — recapitulation of law, preparation for the land
+>
 > **A'** — **Joshua**: Conquest and settlement — humanity (Israel) given a homeland
 
 The Sinai pericope at the center is massive—spanning from the arrival at Sinai to the departure—and encompasses the Decalogue, the Book of the Covenant, the tabernacle instructions and construction, the Golden Calf and covenant renewal, the priestly legislation of Leviticus, and the organization of the camp. This extended center occupies roughly one-third of the Hexateuch's total length, a disproportion that reflects its theological weight: everything before Sinai leads toward covenant, and everything after Sinai flows from it.[^113]
@@ -1283,11 +1680,17 @@ This Hexateuch chiasm, if accepted, has implications for the canonical debate ab
 The Deuteronomistic History (Deuteronomy through 2 Kings), viewed as a single editorial composition, traces an arc from covenant renewal to covenant failure. Several scholars have identified its grand structure as chiastic:
 
 > **A** — **Deuteronomy**: Covenant renewal at Moab — "Choose life"
+>
 > > **B** — **Joshua**: Conquest and settlement — covenant faithfulness rewarded
+> >
 > > > **C** — **Judges**: Cycle of apostasy and deliverance — decline begins
+> > >
 > > > > **X** — **CENTER: Samuel — the crisis of kingship; transition from judges to monarchy**
+> > >
 > > > **C'** — **1 Kings (latter half) – 2 Kings**: Cycle of faithful and unfaithful kings — decline accelerates
+> >
 > > **B'** — **2 Kings 17**: Northern kingdom destroyed — covenant unfaithfulness punished
+>
 > **A'** — **2 Kings 25**: Southern kingdom destroyed — exile
 
 The Samuel narrative at the center contains the fundamental question: Should Israel have a king? The answer is ambiguous—God permits kingship but warns of its costs (1 Sam 8). This structural placement makes the institution of monarchy the pivot on which Israel's history turns: before the monarchy, judges deliver through divine empowerment; after it, kings either uphold or betray the covenant, leading inexorably toward exile.[^115]
@@ -1301,9 +1704,13 @@ Within this grand structure, the individual books contribute their own chiastic 
 The Psalter's division into five books—traditionally seen as paralleling the five books of the Torah—exhibits its own concentric logic:
 
 > **A** — **Book I (Psalms 1–41)**: Davidic prayers — individual piety, trust, and lament
+>
 > > **B** — **Book II (Psalms 42–72)**: Davidic and Korahite psalms — national and royal themes
+> >
 > > > **X** — **CENTER: Book III (Psalms 73–89)**: Asaphite and Korahite psalms — **crisis of the covenant; Psalm 89 ends with the apparent failure of the Davidic promise**
+> >
 > > **B'** — **Book IV (Psalms 90–106)**: Moses and the LORD's kingship — "The LORD reigns"
+>
 > **A'** — **Book V (Psalms 107–150)**: Hallel collections — praise, thanksgiving, "Praise the LORD"
 
 Book III at the center contains the Psalter's theological crisis. Psalm 73 asks why the wicked prosper; Psalm 89 ends with the devastating question: <span dir="rtl">אַיֵּה חֲסָדֶיךָ הָרִאשֹׁנִים אֲדֹנָי</span> ("Where are Your former mercies, O Lord?", 89:50). The apparent failure of the Davidic covenant—the king defeated, the promises seemingly broken—is the dark center around which the Psalter revolves.[^116]
@@ -1617,7 +2024,7 @@ The history of chiasm studies—from Bengel's first observations in 1742 through
 
 **Ketuvim.** "Writings" — the third division of the Hebrew Bible, containing Psalms, Proverbs, Job, the Five Megillot, Daniel, Ezra-Nehemiah, and Chronicles.
 
-**Macro-chiasm.** A chiastic structure spanning multiple chapters or major sections of a book (e.g., the flood narrative, Gen 6:10–9:19).
+**Macro-chiasm.** A chiastic structure spanning multiple chapters or major sections of a book (e.g., the flood narrative, Gen 6:9–9:19).
 
 **Megillot.** The Five Scrolls (Ruth, Song of Songs, Ecclesiastes, Lamentations, Esther), each read on a specific Jewish festival.
 
@@ -1661,7 +2068,7 @@ The history of chiasm studies—from Bengel's first observations in 1742 through
 
 ### Reference Works on Chiasmus
 
-Bengel, Johann Albrecht. *Gnomon Novi Testamenti*. Tubingen, 1742. The first work to identify chiasmus as a formal technical category in biblical texts.
+Bengel, Johann Albrecht. *Gnomon Novi Testamenti*. Tübingen, 1742. The first work to identify chiasmus as a formal technical category in biblical texts.
 
 Blomberg, Craig L. "The Structure of 2 Corinthians 1–7." *Criswell Theological Review* 4, no. 1 (1989): 3–20. Proposes nine criteria for identifying genuine chiastic structures; widely cited methodological framework.
 
@@ -1683,11 +2090,11 @@ Alter, Robert. *The Art of Biblical Narrative*. New York: Basic Books, 1981. Fou
 
 Boda, Mark J. "Chiasmus in Ubiquity: Symmetrical Mirages in Nehemiah 9." *Journal for the Study of the Old Testament* 71 (1996): 55–70. Influential methodological caution against over-identification of chiasms.
 
-Budde, Karl. "The Original Form of the Narrative in 2 Samuel IX–XX and 1 Kings I–II." *Journal of Theological Studies* 8 (1907): 161–186. Pioneering structural analysis of the 2 Samuel appendix.
+Budde, Karl. *Die Bücher Samuel*. Tübingen: Mohr, 1902. First identification of the chiastic arrangement of 2 Samuel 21–24.
 
 Fishbane, Michael. "Composition and Structure in the Jacob Cycle (Gen 25:19–35:22)." *Journal of Jewish Studies* 26 (1975): 15–38. Influential demonstration of grand chiastic structure in the Jacob narrative.
 
-Kline, David. "Structure Is Theology: A Compositional Analysis of Leviticus." In *Current Issues in Priestly and Related Literature*, edited by Roy E. Gane and Ada Taggar-Cohen, 351–378. Atlanta: SBL Press, 2015. Argues that Leviticus's literary architecture constitutes a theological argument.
+Kline, Moshe. "Structure Is Theology: A Compositional Analysis of Leviticus." In *Current Issues in Priestly and Related Literature*, edited by Roy E. Gane and Ada Taggar-Cohen, 351–378. Atlanta: SBL Press, 2015. Argues that Leviticus's literary architecture constitutes a theological argument.
 
 Lowth, Robert. *De Sacra Poesi Hebraeorum Prælectiones*. Oxford: Clarendon Press, 1753. Foundational classification of Hebrew poetic parallelism into synonymous, antithetical, and synthetic types.
 
@@ -1741,17 +2148,61 @@ Whitman, Cedric H. *Homer and the Heroic Tradition*. Cambridge: Harvard Universi
 
 Avioz, Michael. *Nathan's Oracle (2 Samuel 7) and Its Interpreters*. Bern: Peter Lang, 2005.
 
+Cassuto, Umberto. *A Commentary on the Book of Genesis*. 2 vols. Jerusalem: Magnes Press, 1961–1964.
+
+Childs, Brevard S. *Memory and Tradition in Israel*. London: SCM Press, 1962.
+
 Clarke, Thomas B. *Joshua's Spiritual Warfare: Understanding the Chiasms of Joshua*. Shippensburg: Destiny Image, 2010.
 
+Cross, Frank Moore, and David Noel Freedman. *Studies in Ancient Yahwistic Poetry*. Missoula: Scholars Press, 1975.
+
 Evan, Michael. *Chiasmus as a Literary Device for Understanding Judges*. PhD diss., South African Theological Seminary, 2020.
+
+Freedman, David Noel. "The Formation of the Canon of the Old Testament." In *Religion and Law*, edited by Edwin Firmage, Bernard Weiss, and John Welch, 315–331. Winona Lake: Eisenbrauns, 1990.
+
+Goldin, Judah. "The Youngest Son or Where Does Genesis 38 Belong?" *Journal of Biblical Literature* 96, no. 1 (1977): 27–44.
+
+Goldingay, John. *Daniel*. Word Biblical Commentary. Dallas: Word, 1989.
 
 Gooding, D. W. "The Composition of the Book of Judges." *Eretz-Israel* 16 (1982): 70–79.
 
 Kaufman, Stephen A. "The Structure of the Deuteronomic Law." *Maarav* 1, no. 2 (1978–79): 105–158.
 
+Kikawada, Isaac, and Arthur Quinn. *Before Abraham Was: The Unity of Genesis 1–11*. Nashville: Abingdon, 1985.
+
+Kugel, James L. *The Idea of Biblical Poetry: Parallelism and Its History*. New Haven: Yale University Press, 1981.
+
 Kuruvilla, Abraham. "David v. Goliath (1 Samuel 17): The Theological Function of a Narrative." *Journal of the Evangelical Theological Society* 58, no. 3 (2015): 487–506.
 
+Lichtheim, Miriam. *Ancient Egyptian Literature*. 3 vols. Berkeley: University of California Press, 1973–1980.
+
+McCann, J. Clinton, Jr. "The Book of Psalms." In *The New Interpreter's Bible*, vol. 4, 639–1280. Nashville: Abingdon, 1996.
+
+Moberly, R. W. L. *At the Mountain of God: Story and Theology in Exodus 32–34*. Sheffield: JSOT Press, 1983.
+
+Moberly, R. W. L. *The Theology of the Book of Genesis*. Cambridge: Cambridge University Press, 2009.
+
+Newsom, Carol A. *The Self as Symbolic Space: Constructing Identity and Community at Qumran*. Leiden: Brill, 2004.
+
+Niditch, Susan. *Oral World and Written Word: Ancient Israelite Literature*. Louisville: Westminster John Knox, 1996.
+
+Olson, Dennis T. *The Death of the Old and the Birth of the New: The Framework of the Book of Numbers and the Pentateuch*. Brown Judaic Studies 71. Chico: Scholars Press, 1985.
+
+Pardee, Dennis. "Ugaritic." In Welch, *Chiasmus in Antiquity*, 69–86. Hildesheim: Gerstenberg, 1981.
+
+Rendsburg, Gary A. *The Redaction of Genesis*. Winona Lake: Eisenbrauns, 1986.
+
+Rhoads, David. "Performance Criticism: An Emerging Methodology in Second Testament Studies." *Biblical Theology Bulletin* 36, no. 3 (2006): 118–133.
+
+Sarna, Nahum M. *Genesis*. JPS Torah Commentary. Philadelphia: Jewish Publication Society, 1989.
+
 Tanner, J. Paul. "The Gideon Narrative as the Focal Point of Judges." *Bibliotheca Sacra* 149, no. 593 (1992): 146–161.
+
+Tsur, Reuven. *Toward a Theory of Cognitive Poetics*. 2nd ed. Brighton: Sussex Academic Press, 2008.
+
+van der Toorn, Karel. *Scribal Culture and the Making of the Hebrew Bible*. Cambridge: Harvard University Press, 2007.
+
+Watts, John D. W. *Isaiah 1–33*. Word Biblical Commentary. Waco: Word, 1985.
 
 Webb, Barry G. *The Book of the Judges: An Integrated Reading*. Sheffield: Sheffield Academic Press, 1990.
 
@@ -1891,7 +2342,7 @@ Webb, Barry G. *The Book of the Judges: An Integrated Reading*. Sheffield: Sheff
 
 [^67]: Kuruvilla, "David v. Goliath," *JETS* 58, no. 3 (2015): 487–506.
 
-[^68]: Budde, "The Original Form of the Narrative," *JTS* 8 (1907): 161–186. Dorsey, *Literary Structure*, 130–132.
+[^68]: Budde, *Die Bücher Samuel* (Tübingen: Mohr, 1902). Dorsey, *Literary Structure*, 130–132.
 
 [^69]: On the Absalom rebellion chiasm, see Dorsey, *Literary Structure*, 128–130; Walsh, *Style and Structure*, 150–167.
 
@@ -1909,7 +2360,7 @@ Webb, Barry G. *The Book of the Judges: An Integrated Reading*. Sheffield: Sheff
 
 [^76]: On Isaiah 1 as chiasm, see Dorsey, *Literary Structure*, 149–150; Watts, *Isaiah 1–33*, 15–25.
 
-[^77]: On the Deutero-Isaiah chiasm and Servant Songs as structural pillars, see Sweeney, *Isaiah 1–39*, 39–62 (on the book's overall structure); Dorsey, *Literary Structure*, 158–160.
+[^77]: On the Deutero-Isaiah chiasm and Servant Songs as structural pillars, see Dorsey, *Literary Structure*, 158–160.
 
 [^78]: On the Fourth Servant Song's internal chiasm, see Dorsey, *Literary Structure*, 159–160.
 

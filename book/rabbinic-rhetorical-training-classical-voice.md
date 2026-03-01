@@ -771,7 +771,7 @@ Representative examples:
 
 > <span dir="rtl">רבי עקיבא אומר: הכל צפוי, והרשות נתונה, ובטוב העולם נידון, והכל לפי רוב המעשה</span>
 >
-> *Rabbi Akiva says: Everything is foreseen, yet free will is given. The world is judged with goodness, and everything is according to the preponderance of deeds.* (Avot 3:17)
+> *Rabbi Akiva says: Everything is foreseen, yet free will is given. The world is judged with goodness, and everything is according to the preponderance of deeds.* (Avot 3:15)
 
 > <span dir="rtl">בן בג בג אומר: הפוך בה והפוך בה דכולא בה</span>
 >
@@ -1373,7 +1373,7 @@ This suggests that the Judaean rhetorical tradition, while structurally parallel
 
 [^5]: Cicero, *De Inventione* 1.5.6.
 
-[^6]: On the *bet midrash* as a rhetorical institution, see Hidary, *Rabbis and Classical Rhetoric*, 15-52; Lieberman, *Hellenism in Jewish Palestine*, 83-99; Catherine Hezser, *The Social Structure of the Rabbinic Movement in Roman Palestine* (Tubingen: Mohr Siebeck, 1997), 190-224.
+[^6]: On the *bet midrash* as a rhetorical institution, see Hidary, *Rabbis and Classical Rhetoric*, 15-52; Lieberman, *Hellenism in Jewish Palestine*, 83-99; Catherine Hezser, *The Social Structure of the Rabbinic Movement in Roman Palestine* (Tübingen: Mohr Siebeck, 1997), 190-224.
 
 [^7]: Babylonian Talmud, Eruvin 13b. On Rabbi Meir's dialectical abilities, see Hidary, *Rabbis and Classical Rhetoric*, 156-162.
 
@@ -2374,7 +2374,7 @@ The student should also note the practical consequence: a vituperation delivered
 
 [^79]: BT Berakhot 63a. On the concept of "small verses" that contain the whole Torah, cf. BT Makkot 23b-24a (Rabbi Simlai's derivation of the 613 commandments and their progressive condensation to a single principle).
 
-[^80]: Aristotle, *Rhetoric* 2.21, 1394b8. On the double maxim as a characteristic form of Judaean gnomology, see the extended analysis of Avot 3:17 in Fraenkel, *Darkhe ha-Aggadah ve-ha-Midrash* (Givatayim: Yad la-Talmud, 1991), 198-205.
+[^80]: Aristotle, *Rhetoric* 2.21, 1394b8. On the double maxim as a characteristic form of Judaean gnomology, see the extended analysis of Avot 3:17 in Fraenkel, *Darkhei ha-Aggadah ve-ha-Midrash* (Givatayim: Yad la-Talmud, 1991), 198-205.
 
 [^81]: On the fluidity of attribution in rabbinic tradition and the transformation of chreiai into maxims, see Alexander, "The Oral Law," in *The Cambridge History of Judaism*, vol. 3 (1999), 85-97; and Jaffee, *Torah in the Mouth: Writing and Oral Tradition in Palestinian Judaism 200 BCE -- 400 CE* (Oxford: Oxford University Press, 2001), 100-125.
 
@@ -2442,7 +2442,7 @@ The student should also note the practical consequence: a vituperation delivered
 
 [^113]: BT Arakhin 15b-16a. The entire passage constitutes one of the most sustained commonplace discourses in the Talmud. On its structure and rhetorical technique, cf. the model commonplace speeches in Aphthonius (*Progymnasmata* 7).
 
-[^114]: BT Bava Batra 9a-10a. The discourse on charity constitutes a sustained positive commonplace. On the Talmud's technique of ascending amplification in moral discourse, see Fraenkel, *Darkhe ha-Aggadah ve-ha-Midrash*, 245-260.
+[^114]: BT Bava Batra 9a-10a. The discourse on charity constitutes a sustained positive commonplace. On the Talmud's technique of ascending amplification in moral discourse, see Fraenkel, *Darkhei ha-Aggadah ve-ha-Midrash*, 245-260.
 
 [^115]: BT Yoma 9b. The attribution of the Temple's destruction to baseless hatred is the paradigmatic instance of historical amplification in rabbinic commonplace discourse. On the rhetorical and theological significance of this teaching, see Rubenstein, *Talmudic Stories*, 116-138.
 
@@ -2484,9 +2484,9 @@ The student should also note the practical consequence: a vituperation delivered
 
 [^134]: Numbers Rabbah 18:3. On Korach as a paradigm of the sophist who corrupts rhetorical skill, cf. Plato, *Gorgias* 456a-461b; and Hidary, *Rabbis and Classical Rhetoric*, 38-42.
 
-[^135]: Genesis Rabbah 26-28 (Theodor-Albeck ed.). On the principle of *middah keneged middah* (measure for measure) as a rhetorical device in midrashic vituperation, see Fraenkel, *Darkhe ha-Aggadah ve-ha-Midrash*, 320-335.
+[^135]: Genesis Rabbah 26-28 (Theodor-Albeck ed.). On the principle of *middah keneged middah* (measure for measure) as a rhetorical device in midrashic vituperation, see Fraenkel, *Darkhei ha-Aggadah ve-ha-Midrash*, 320-335.
 
-[^136]: BT Sanhedrin 106b. On Doeg and Ahitophel as paradigms of misused intellectual ability, see Fraenkel, *Darkhe ha-Aggadah ve-ha-Midrash*, 387-395. The concluding practical observation -- that misplaced talent leads to corruption -- transforms the vituperation into a didactic exemplum.
+[^136]: BT Sanhedrin 106b. On Doeg and Ahitophel as paradigms of misused intellectual ability, see Fraenkel, *Darkhei ha-Aggadah ve-ha-Midrash*, 387-395. The concluding practical observation -- that misplaced talent leads to corruption -- transforms the vituperation into a didactic exemplum.
 
 [^137]: Proverbs 24:17, cited in Mishnah Avot 4:19. Quintilian's parallel observation at *Inst. Or.* 6.1.28 concerns the orator's obligation to appear reluctant when attacking his opponent's character, lest the appearance of malice alienate the judges.
 
@@ -3183,7 +3183,7 @@ We may note, in closing this section of our treatise, that the Judaean tradition
 
 [^169]: BT Kiddushin 40b. On this passage as a paradigmatic thesis debate, see the discussion in section II.J above. In the context of the thesis exercise specifically, the passage exemplifies the ideal structure: a general question is formally posed, opposing positions are argued by named authorities, and a collective resolution is reached that preserves the insights of both sides through a causal synthesis.
 
-[^170]: BT Nedarim 37a; Mishnah Avot 1:13, 4:5. The distinction between teaching Torah itself (which must be gratuitous) and providing ancillary services (for which compensation is permitted) is a characteristic Judaean resolution of a thesis: the general principle is upheld in its full force, but a precise conceptual distinction is drawn that allows the system to function without violating the principle. On the economic dimensions of Torah teaching in the tannaitic period, see Hezser, *The Social Structure of the Rabbinic Movement in Roman Palestine* (Tubingen: Mohr Siebeck, 1997), 334-378.
+[^170]: BT Nedarim 37a; Mishnah Avot 1:13, 4:5. The distinction between teaching Torah itself (which must be gratuitous) and providing ancillary services (for which compensation is permitted) is a characteristic Judaean resolution of a thesis: the general principle is upheld in its full force, but a precise conceptual distinction is drawn that allows the system to function without violating the principle. On the economic dimensions of Torah teaching in the tannaitic period, see Hezser, *The Social Structure of the Rabbinic Movement in Roman Palestine* (Tübingen: Mohr Siebeck, 1997), 334-378.
 
 [^171]: BT Berakhot 5a. On the theology of suffering in Judaean literature, see Urbach, *The Sages*, 444-461; and Kraemer, *Responses to Suffering in Classical Rabbinic Literature* (New York: Oxford University Press, 1995), 73-125. The passage in Berakhot 5a-b is the *locus classicus* for the doctrine of *yissurin shel ahavah* (sufferings of love).
 
@@ -3201,7 +3201,7 @@ We may note, in closing this section of our treatise, that the Judaean tradition
 
 [^178]: Mishnah Sheviit 10:3-4. On the prozbul as a paradigmatic exercise in legislative argumentation, see Elon, *Jewish Law*, vol. 2, 421-425; and Urbach, *The Sages*, 570-578. The term *prozbul* is itself a Greek loanword (*prosbol* / *prosbolē* = a presentation to the court), illustrating the interpenetration of Greco-Roman and Judaean legal terminology.
 
-[^179]: Mishnah Gittin 4:2. On Rabban Gamaliel's enactments as social legislation designed to protect women's interests in the divorce process, see Hauptman, *Rereading the Mishnah: A New Approach to Ancient Jewish Texts* (Tubingen: Mohr Siebeck, 2005), 161-185; and Elon, *Jewish Law*, vol. 2, 533-540. The formula *mipnei tikkun ha-olam* ("for the betterment of the world") functions in Judaean legislative rhetoric as a comprehensive appeal to the public good.
+[^179]: Mishnah Gittin 4:2. On Rabban Gamaliel's enactments as social legislation designed to protect women's interests in the divorce process, see Hauptman, *Rereading the Mishnah: A New Approach to Ancient Jewish Texts* (Tübingen: Mohr Siebeck, 2005), 161-185; and Elon, *Jewish Law*, vol. 2, 533-540. The formula *mipnei tikkun ha-olam* ("for the betterment of the world") functions in Judaean legislative rhetoric as a comprehensive appeal to the public good.
 
 [^180]: Mishnah Yadayim 3:5. On the debate over the canonicity of Ecclesiastes and the Song of Songs as a form of legislative deliberation, see Leiman, *The Canonization of Hebrew Scripture: The Talmudic and Midrashic Evidence* (Hamden, CT: Archon Books, 1976), 86-102. Rabbi Akiva's defense of the Song of Songs deploys the rhetorical techniques of *praemunitio* (preemptive defense), *amplificatio* (magnification), and *definitio* (hierarchical classification). See also Lightstone, "The Rabbis' Bible," in *The Canon Debate*, ed. McDonald and Sanders (Peabody, MA: Hendrickson, 2002), 163-184.
 
@@ -3216,9 +3216,9 @@ We may note, in closing this section of our treatise, that the Judaean tradition
 
 ### III.A. The Four Questions (Stasis Theory)
 
-The theory of stasis, as Hermagoras of Temnos first systematized it in the second century before the common era, constitutes the foundation of all forensic and deliberative invention. Before the orator can discover what arguments to deploy, he must first determine what *kind* of question is at issue. The failure to identify the stasis correctly is the most fundamental error an advocate can commit --- more damaging than poor style, more fatal than weak delivery --- for it means that the entire discourse will address a question that is not, in fact, the question before the tribunal.[^184]
+The theory of stasis, as Hermagoras of Temnos first systematized it in the second century before the common era, constitutes the foundation of all forensic and deliberative invention. Before the orator can discover what arguments to deploy, he must first determine what *kind* of question is at issue. The failure to identify the stasis correctly is the most fundamental error an advocate can commit -- more damaging than poor style, more fatal than weak delivery -- for it means that the entire discourse will address a question that is not, in fact, the question before the tribunal.[^184]
 
-We possess Hermagoras's system not in his own words, which are largely lost to us, but through the testimony of those who built upon his foundation. Cicero presents the doctrine in the first book of *De Inventione* (1.8--10), where he identifies four constitutiones or states of the case: conjecture (*coniectura*), definition (*definitio*), quality (*qualitas*), and translative or procedural issues (*translatio*).[^185] Hermogenes of Tarsus, writing in the second century of the common era, elaborated the system into a more complex taxonomy in his treatise *On Stases*, distinguishing rational and legal stases and subdividing each with characteristic precision.[^186] Quintilian, in the third book of the *Institutio Oratoria* (3.6), provides his own magisterial synthesis, preferring a tripartite division --- conjecture, quality, and definition --- while acknowledging the translative question as a subordinate concern.[^187]
+We possess Hermagoras's system not in his own words, which are largely lost to us, but through the testimony of those who built upon his foundation. Cicero presents the doctrine in the first book of *De Inventione* (1.8--10), where he identifies four constitutiones or states of the case: conjecture (*coniectura*), definition (*definitio*), quality (*qualitas*), and translative or procedural issues (*translatio*).[^185] Hermogenes of Tarsus, writing in the second century of the common era, elaborated the system into a more complex taxonomy in his treatise *On Stases*, distinguishing rational and legal stases and subdividing each with characteristic precision.[^186] Quintilian, in the third book of the *Institutio Oratoria* (3.6), provides his own magisterial synthesis, preferring a tripartite division -- conjecture, quality, and definition -- while acknowledging the translative question as a subordinate concern.[^187]
 
 The student of rhetoric will observe that these four stases are not merely categories for the convenience of the theorist; they represent the four fundamental questions that any inquiry, in any legal system, must ultimately address. They are:
 
@@ -3227,7 +3227,7 @@ The student of rhetoric will observe that these four stases are not merely categ
 3. **What is its character?** (*quale sit* / *stasis poiotēs*): The question of quality or degree.
 4. **Before whom should it be adjudicated?** (*translatio* / *stasis metalēpsis*): The question of jurisdiction and procedure.
 
-What has not been sufficiently recognized by modern scholarship is that the Judaean legal tradition operates with a stasis framework as sophisticated as anything in the Greco-Roman tradition, and that the procedural texts of the Mishnah --- particularly tractate Sanhedrin and the related forensic tractates --- exhibit a systematic attention to stasis classification that bears close comparison with the theoretical writings of Hermagoras, Cicero, and Hermogenes.
+What has not been sufficiently recognized by modern scholarship is that the Judaean legal tradition operates with a stasis framework as sophisticated as anything in the Greco-Roman tradition, and that the procedural texts of the Mishnah -- particularly tractate Sanhedrin and the related forensic tractates -- exhibit a systematic attention to stasis classification that bears close comparison with the theoretical writings of Hermagoras, Cicero, and Hermogenes.
 
 #### The First Stasis: Conjecture (*Stasis Stochastikē* / *Ha-im Hayah?*)
 
@@ -3239,17 +3239,17 @@ We find among the Judaean sages a remarkably elaborate system for the adjudicati
 >
 > *They would examine the witnesses with seven examinations: In which septennate? In which year? In which month? On which day of the month? On which day of the week? At which hour? In which place?*[^190]
 
-The student of rhetoric will recognize that these seven questions constitute a systematic application of what the Greek rhetoricians call the *peristasis* --- the circumstances surrounding the act.[^191] Hermagoras himself taught that the circumstances of an act are determined by answering the questions of person (*quis*), act (*quid*), time (*quando*), place (*ubi*), manner (*quomodo*), and cause (*cur*). The Judaean *haqirot* address precisely the temporal and spatial dimensions of this circumstantial inquiry, and with a specificity that exceeds anything prescribed in the extant Greek rhetorical handbooks.
+The student of rhetoric will recognize that these seven questions constitute a systematic application of what the Greek rhetoricians call the *peristasis* -- the circumstances surrounding the act.[^191] Hermagoras himself taught that the circumstances of an act are determined by answering the questions of person (*quis*), act (*quid*), time (*quando*), place (*ubi*), manner (*quomodo*), and cause (*cur*). The Judaean *haqirot* address precisely the temporal and spatial dimensions of this circumstantial inquiry, and with a specificity that exceeds anything prescribed in the extant Greek rhetorical handbooks.
 
-The *bediqot*, by contrast, probe the sensory and material details of the event: What was the color of the garment? What type of fig tree was involved? Was the soil dark or light?[^192] These correspond to what Quintilian calls the *signa* or *semeia* --- the material signs from which the fact may be inferred (Inst. Or. 5.9). A witness who contradicts himself on a *haqirah* (fundamental examination) invalidates the entire testimony; a witness who contradicts himself on a *bediqah* (detailed investigation) merely weakens it. This hierarchical distinction between framework facts and evidentiary details parallels the rhetorical distinction between necessary and contingent signs (*tekmēria* and *sēmeia*) that Aristotle draws in the *Rhetoric* (1.2, 1357b).[^193]
+The *bediqot*, by contrast, probe the sensory and material details of the event: What was the color of the garment? What type of fig tree was involved? Was the soil dark or light?[^192] These correspond to what Quintilian calls the *signa* or *semeia* -- the material signs from which the fact may be inferred (Inst. Or. 5.9). A witness who contradicts himself on a *haqirah* (fundamental examination) invalidates the entire testimony; a witness who contradicts himself on a *bediqah* (detailed investigation) merely weakens it. This hierarchical distinction between framework facts and evidentiary details parallels the rhetorical distinction between necessary and contingent signs (*tekmēria* and *sēmeia*) that Aristotle draws in the *Rhetoric* (1.2, 1357b).[^193]
 
 The procedural goal of this elaborate system of conjecture-testing is made explicit in the Mishnah's own language:
 
 > <span dir="rtl">כל המרבה בבדיקות הרי זה משובח</span>
 >
-> *Whoever increases the number of investigations --- behold, this is praiseworthy.*[^194]
+> *Whoever increases the number of investigations -- behold, this is praiseworthy.*[^194]
 
-The more extensively the factual basis is probed, the more reliable the judgment. This principle --- that thoroughness in the conjectural stasis is a judicial virtue --- is precisely the counsel that Quintilian gives to the advocate: exhaust the available evidence before venturing an inference (Inst. Or. 5.9.1--9).
+The more extensively the factual basis is probed, the more reliable the judgment. This principle -- that thoroughness in the conjectural stasis is a judicial virtue -- is precisely the counsel that Quintilian gives to the advocate: exhaust the available evidence before venturing an inference (Inst. Or. 5.9.1--9).
 
 Furthermore, the Judaean system imposes a remarkable constraint upon conjecture that has no exact parallel in Greco-Roman procedure: the requirement of prior warning (*hatra'ah*). In capital cases, the witnesses must testify not merely that the accused committed the act, but that the accused was warned immediately before committing it, acknowledged the warning, and proceeded nonetheless:
 
@@ -3257,11 +3257,11 @@ Furthermore, the Judaean system imposes a remarkable constraint upon conjecture 
 >
 > *Until they have surrendered themselves to death.*[^195]
 
-This requirement effectively collapses the gap between conjecture and intention: by demanding proof that the accused acted with full and immediate knowledge of the consequences, the Judaean system eliminates the most difficult aspect of the conjectural stasis --- the inference of mental state from external action. The student of rhetoric will appreciate the elegance of this procedural device: rather than requiring the tribunal to *infer* intent (as Greco-Roman rhetoric requires through the analysis of motive, capacity, and character), the Judaean system requires that intent be *established as an observed fact* through the testimony of the warning witnesses.
+This requirement effectively collapses the gap between conjecture and intention: by demanding proof that the accused acted with full and immediate knowledge of the consequences, the Judaean system eliminates the most difficult aspect of the conjectural stasis -- the inference of mental state from external action. The student of rhetoric will appreciate the elegance of this procedural device: rather than requiring the tribunal to *infer* intent (as Greco-Roman rhetoric requires through the analysis of motive, capacity, and character), the Judaean system requires that intent be *established as an observed fact* through the testimony of the warning witnesses.
 
 #### The Second Stasis: Definition (*Stasis Horistikē* / *Mah Hu?*)
 
-The second stasis arises when the fact is conceded but its classification is disputed. Did Orestes kill his mother? That is not in question. The question is: what *kind* of act was it? Was it murder, or was it righteous vengeance? The stasis of definition --- *horistikē* in the Greek, *definitio* in the Latin --- is the stasis of naming, of categorization, of determining under which legal heading a conceded act falls.[^196]
+The second stasis arises when the fact is conceded but its classification is disputed. Did Orestes kill his mother? That is not in question. The question is: what *kind* of act was it? Was it murder, or was it righteous vengeance? The stasis of definition -- *horistikē* in the Greek, *definitio* in the Latin -- is the stasis of naming, of categorization, of determining under which legal heading a conceded act falls.[^196]
 
 In the Judaean legal tradition, definitional disputes pervade the entire halakhic corpus, and the system of classification is extraordinarily refined. The paradigmatic example is the Mishnah's enumeration of the thirty-nine categories of labor (*avot melakhah*) prohibited on the Sabbath:
 
@@ -3269,17 +3269,17 @@ In the Judaean legal tradition, definitional disputes pervade the entire halakhi
 >
 > *The principal categories of labor are forty less one: sowing, plowing, reaping, binding sheaves, threshing, winnowing, selecting, grinding, sifting, kneading, baking, shearing wool, bleaching it, combing it, dyeing it, spinning, stretching the warp, making two heddle loops, weaving two threads, separating two threads, tying, untying, sewing two stitches, tearing in order to sew two stitches, trapping a deer, slaughtering it, flaying it, salting it, tanning its hide, scraping it, cutting it, writing two letters, erasing in order to write two letters, building, demolishing, extinguishing a fire, kindling a fire, striking the final hammer blow, and carrying from one domain to another.*[^197]
 
-This catalogue is itself a masterwork of definitional rhetoric. Each of the thirty-nine categories functions as what the Greek rhetoricians would call a *horos* --- a boundary term that marks the limits of a class of prohibited actions.[^198] The question that arises with respect to any particular act on the Sabbath is definitional: under which of these thirty-nine headings does the act fall? Or does it fall under none of them, being instead a *toledah* (derivative) of one of the principal categories, or perhaps an act not prohibited at all?
+This catalogue is itself a masterwork of definitional rhetoric. Each of the thirty-nine categories functions as what the Greek rhetoricians would call a *horos* -- a boundary term that marks the limits of a class of prohibited actions.[^198] The question that arises with respect to any particular act on the Sabbath is definitional: under which of these thirty-nine headings does the act fall? Or does it fall under none of them, being instead a *toledah* (derivative) of one of the principal categories, or perhaps an act not prohibited at all?
 
-Consider the definitional complexity. A man moves an object from a private domain to a public domain. This falls under the thirty-ninth category: *ha-motzi me-reshut li-reshut* --- carrying from one domain to another. But what constitutes a "domain"? What constitutes "carrying"? If a man stands in a private domain and extends his arm into a public domain, holding an object --- has he "carried"? What if the object is placed in the public domain by another person after the first person extended his arm?[^199] These questions are not conjectural --- the facts are stipulated. They are definitional: the tribunal must determine whether the stipulated facts satisfy the definition of the prohibited category.
+Consider the definitional complexity. A man moves an object from a private domain to a public domain. This falls under the thirty-ninth category: *ha-motzi me-reshut li-reshut* -- carrying from one domain to another. But what constitutes a "domain"? What constitutes "carrying"? If a man stands in a private domain and extends his arm into a public domain, holding an object -- has he "carried"? What if the object is placed in the public domain by another person after the first person extended his arm?[^199] These questions are not conjectural -- the facts are stipulated. They are definitional: the tribunal must determine whether the stipulated facts satisfy the definition of the prohibited category.
 
-The student of rhetoric will observe that this mode of definitional argument employs the same analytical technique that Cicero prescribes in the *Topica* (26--28): the division of a genus into its species, the enumeration of the differentia that distinguish one species from another, and the testing of a particular case against the definition to determine whether all elements of the definition are satisfied. The Judaean sages call this process *haqdamat ha-geder* --- the establishment of the boundary --- and they pursue it with a rigor that would satisfy the most demanding Aristotelian logician.[^200]
+The student of rhetoric will observe that this mode of definitional argument employs the same analytical technique that Cicero prescribes in the *Topica* (26--28): the division of a genus into its species, the enumeration of the differentia that distinguish one species from another, and the testing of a particular case against the definition to determine whether all elements of the definition are satisfied. The Judaean sages call this process *haqdamat ha-geder* -- the establishment of the boundary -- and they pursue it with a rigor that would satisfy the most demanding Aristotelian logician.[^200]
 
 A further illustration may be drawn from the definitional disputes concerning the categories of ritual impurity. The Mishnah distinguishes *avot ha-tum'ah* (primary sources of impurity) from *toledot ha-tum'ah* (derivative sources), and each category carries different legal consequences.[^201] When the sages debate whether a particular substance or situation constitutes a primary or derivative source of impurity, they are engaged in precisely the kind of definitional argument that Hermogenes describes: the fact is not in dispute; what is disputed is the name, the category, the legal classification under which the fact falls.
 
 #### The Third Stasis: Quality (*Stasis Poiotēs* / *Keitzad Hu?*)
 
-The third stasis --- quality or qualification --- is the stasis in which both the fact and its definition are conceded, but the character, degree, or justifiability of the act is at issue. Hermogenes subdivides this stasis into the pragmatic (concerning the act itself) and the juridical (concerning the legal evaluation of the act).[^202] Quintilian, characteristically, provides a more expansive treatment: quality encompasses everything from the evaluation of motive to the assessment of mitigating circumstances to the weighing of competing values (Inst. Or. 3.6.36--82).
+The third stasis -- quality or qualification -- is the stasis in which both the fact and its definition are conceded, but the character, degree, or justifiability of the act is at issue. Hermogenes subdivides this stasis into the pragmatic (concerning the act itself) and the juridical (concerning the legal evaluation of the act).[^202] Quintilian, characteristically, provides a more expansive treatment: quality encompasses everything from the evaluation of motive to the assessment of mitigating circumstances to the weighing of competing values (Inst. Or. 3.6.36--82).
 
 The Judaean legal tradition has developed its own systematic treatment of qualitative stasis, centered on the fundamental distinction between *shogeg* (inadvertent transgression) and *meizid* (deliberate transgression):
 
@@ -3287,11 +3287,11 @@ The Judaean legal tradition has developed its own systematic treatment of qualit
 >
 > *Both the inadvertent and the deliberate transgressor [are liable] in matters of the profanation of God's Name.*[^203]
 
-This distinction permeates the entire system. A person who performs a prohibited act on the Sabbath inadvertently --- because he did not know it was the Sabbath, or because he did not know the act was prohibited --- is classified as a *shogeg* and is liable for a sin-offering. A person who performs the same act deliberately is a *meizid* and is, in principle, liable for the death penalty (in the case of Sabbath violation, stoning).[^204] The same physical act, falling under the same definitional category, receives radically different legal treatment depending on the qualitative assessment of the actor's mental state.
+This distinction permeates the entire system. A person who performs a prohibited act on the Sabbath inadvertently -- because he did not know it was the Sabbath, or because he did not know the act was prohibited -- is classified as a *shogeg* and is liable for a sin-offering. A person who performs the same act deliberately is a *meizid* and is, in principle, liable for the death penalty (in the case of Sabbath violation, stoning).[^204] The same physical act, falling under the same definitional category, receives radically different legal treatment depending on the qualitative assessment of the actor's mental state.
 
 The student of rhetoric will recognize this as a precise parallel to the Greco-Roman treatment of the juridical quality (*iuridicialis constitutio*). Cicero distinguishes between the *absolutum* (where the act is defended as right in itself) and the *adsumptivum* (where the defense is based on external circumstances, such as compulsion, accident, or mitigation). The Judaean categories of *shogeg* and *meizid* correspond broadly to Cicero's distinction, but the Judaean system develops the qualitative spectrum with considerably greater refinement.[^205]
 
-Between *shogeg* and *meizid*, the Judaean sages identify a spectrum of intermediate states. There is the category of *mitasseq* --- one who performs an act without any intention whatsoever, as when a person falls and in falling inadvertently causes damage or transgression.[^206] There is the *omer mutar* --- one who mistakenly believes the act is permitted, as distinguished from the *shogeg* who knows the act is prohibited but does not know that it applies to the present circumstances.[^207] There is the category of *ones* --- compulsion, where the actor performs the prohibited deed under duress:
+Between *shogeg* and *meizid*, the Judaean sages identify a spectrum of intermediate states. There is the category of *mitasseq* -- one who performs an act without any intention whatsoever, as when a person falls and in falling inadvertently causes damage or transgression.[^206] There is the *omer mutar* -- one who mistakenly believes the act is permitted, as distinguished from the *shogeg* who knows the act is prohibited but does not know that it applies to the present circumstances.[^207] There is the category of *ones* -- compulsion, where the actor performs the prohibited deed under duress:
 
 > <span dir="rtl">אונס רחמנא פטריה</span>
 >
@@ -3299,25 +3299,25 @@ Between *shogeg* and *meizid*, the Judaean sages identify a spectrum of intermed
 
 And there is the category of *meizid* that itself admits of degrees: the deliberate transgressor who acts from appetite is distinguished from the one who acts from spite (*le-hakh'is*), and the latter is treated with greater severity.[^209]
 
-This graduated scale of culpability --- from complete absence of intention (*mitasseq*) through various degrees of inadvertence (*shogeg*) and ignorance (*omer mutar*) to full deliberation (*meizid*) and beyond to spite (*le-hakh'is*) --- constitutes a taxonomy of the qualitative stasis that, in its precision and comprehensiveness, surpasses anything found in the extant Greek and Roman rhetorical handbooks. Quintilian recognizes that the qualitative stasis admits of degrees (Inst. Or. 7.4), but he does not develop a classification of those degrees with the systematicity that the Judaean sages bring to the task.
+This graduated scale of culpability -- from complete absence of intention (*mitasseq*) through various degrees of inadvertence (*shogeg*) and ignorance (*omer mutar*) to full deliberation (*meizid*) and beyond to spite (*le-hakh'is*) -- constitutes a taxonomy of the qualitative stasis that, in its precision and comprehensiveness, surpasses anything found in the extant Greek and Roman rhetorical handbooks. Quintilian recognizes that the qualitative stasis admits of degrees (Inst. Or. 7.4), but he does not develop a classification of those degrees with the systematicity that the Judaean sages bring to the task.
 
-Furthermore, the Judaean system recognizes mitigating and aggravating circumstances that function precisely as the Greco-Roman *color* --- the characterization of circumstance that determines the qualitative evaluation of the act. A theft committed by day is treated differently from a theft committed by night (because the nighttime intruder may be presumed to pose a mortal threat to the householder).[^210] A killing committed in self-defense (*rodef*) is not merely excused but affirmatively mandated:
+Furthermore, the Judaean system recognizes mitigating and aggravating circumstances that function precisely as the Greco-Roman *color* -- the characterization of circumstance that determines the qualitative evaluation of the act. A theft committed by day is treated differently from a theft committed by night (because the nighttime intruder may be presumed to pose a mortal threat to the householder).[^210] A killing committed in self-defense (*rodef*) is not merely excused but affirmatively mandated:
 
 > <span dir="rtl">הבא להורגך השכם להורגו</span>
 >
 > *If one comes to kill you, arise and kill him first.*[^211]
 
-This principle --- that the act of killing is evaluated not merely by the fact and the definition but by the entire circumstantial context in which it occurs --- is the essence of the qualitative stasis.
+This principle -- that the act of killing is evaluated not merely by the fact and the definition but by the entire circumstantial context in which it occurs -- is the essence of the qualitative stasis.
 
 #### The Fourth Stasis: Procedure (*Stasis Metalēpsis* / *Lifnei Mi?*)
 
-The fourth stasis is the translative or procedural question: not whether the act occurred, what it was, or what character it bears, but whether the present tribunal has jurisdiction to adjudicate it, and whether the proper procedures have been followed. In the Greco-Roman tradition, this stasis was sometimes treated as subordinate to the others, and Quintilian was inclined to subsume it under the general heading of quality (Inst. Or. 3.6.63). But Hermagoras, as reported by Cicero, gave it independent standing, and rightly so --- for a question of jurisdiction is prior to all questions of substance.[^212]
+The fourth stasis is the translative or procedural question: not whether the act occurred, what it was, or what character it bears, but whether the present tribunal has jurisdiction to adjudicate it, and whether the proper procedures have been followed. In the Greco-Roman tradition, this stasis was sometimes treated as subordinate to the others, and Quintilian was inclined to subsume it under the general heading of quality (Inst. Or. 3.6.63). But Hermagoras, as reported by Cicero, gave it independent standing, and rightly so -- for a question of jurisdiction is prior to all questions of substance.[^212]
 
 The Judaean legal system devotes extraordinary attention to the procedural stasis. The first chapter of Mishnah Sanhedrin establishes a comprehensive jurisdictional hierarchy:
 
 > <span dir="rtl">דיני ממונות בשלושה. גזילות וחבלות בשלושה. נזק וחצי נזק, תשלומי כפל ותשלומי ארבעה וחמישה בשלושה. האונס והמפתה והמוציא שם רע בשלושה, דברי רבי מאיר. וחכמים אומרים: מוציא שם רע בעשרים ושלושה, מפני שיש בו דיני נפשות</span>
 >
-> *Property cases [are adjudicated by a court of] three. Robbery and personal injury [by a court of] three. Damages and half-damages, double payment and fourfold and fivefold payment [by a court of] three. The rapist, the seducer, and the slanderer [by a court of] three --- the words of Rabbi Meir. But the Sages say: the slanderer [is adjudicated by a court of] twenty-three, because a capital charge may be involved.*[^213]
+> *Property cases [are adjudicated by a court of] three. Robbery and personal injury [by a court of] three. Damages and half-damages, double payment and fourfold and fivefold payment [by a court of] three. The rapist, the seducer, and the slanderer [by a court of] three -- the words of Rabbi Meir. But the Sages say: the slanderer [is adjudicated by a court of] twenty-three, because a capital charge may be involved.*[^213]
 
 The Mishnah continues with a systematic classification of which matters require a court of three, which require twenty-three, and which require the Great Sanhedrin of seventy-one:
 
@@ -3325,19 +3325,19 @@ The Mishnah continues with a systematic classification of which matters require 
 >
 > *Capital cases [are adjudicated by a court of] twenty-three... They may not judge a tribe, or a false prophet, or a High Priest except before a court of seventy-one. They may not declare a war of choice except before a court of seventy-one.*[^214]
 
-The student of rhetoric will observe that this jurisdictional taxonomy operates on a principle of proportionality: the gravity of the matter determines the size and authority of the tribunal. Property cases, where the stakes are financial, require only three judges. Capital cases, where a life is at stake, require twenty-three. Matters affecting the entire nation --- the judgment of a tribe, the authorization of war --- require the full seventy-one. This principle of proportional jurisdiction is itself a rhetorical argument, for it embodies and communicates a hierarchy of values: human life is more weighty than property, and national welfare is more weighty than individual life.
+The student of rhetoric will observe that this jurisdictional taxonomy operates on a principle of proportionality: the gravity of the matter determines the size and authority of the tribunal. Property cases, where the stakes are financial, require only three judges. Capital cases, where a life is at stake, require twenty-three. Matters affecting the entire nation -- the judgment of a tribe, the authorization of war -- require the full seventy-one. This principle of proportional jurisdiction is itself a rhetorical argument, for it embodies and communicates a hierarchy of values: human life is more weighty than property, and national welfare is more weighty than individual life.
 
 The procedural stasis also governs questions of standing, competence, and disqualification. The Mishnah specifies that certain persons are disqualified from serving as judges or witnesses: gamblers, usurers, pigeon-racers, and dealers in sabbatical-year produce.[^215] A relative of either party is disqualified, as is a person with a personal interest in the outcome.[^216] These rules of disqualification function as procedural arguments: before the substance of the case is reached, the composition and authority of the tribunal itself must be established as legitimate. The advocate who challenges the composition of the court is arguing in the translative stasis, and the Judaean system provides ample grounds for such challenges.
 
-In sum, the Judaean legal system operates with all four stases fully developed and systematically integrated. The examination of witnesses addresses the conjectural stasis. The classification of acts under legal categories addresses the definitional stasis. The evaluation of intent, circumstances, and degree of culpability addresses the qualitative stasis. And the hierarchical system of courts, the rules of disqualification, and the procedural requirements of warning and testimony address the translative stasis. No ancient legal system --- not the Athenian, not the Roman --- can claim a more comprehensive or systematic application of stasis theory to forensic practice.[^217]
+In sum, the Judaean legal system operates with all four stases fully developed and systematically integrated. The examination of witnesses addresses the conjectural stasis. The classification of acts under legal categories addresses the definitional stasis. The evaluation of intent, circumstances, and degree of culpability addresses the qualitative stasis. And the hierarchical system of courts, the rules of disqualification, and the procedural requirements of warning and testimony address the translative stasis. No ancient legal system -- not the Athenian, not the Roman -- can claim a more comprehensive or systematic application of stasis theory to forensic practice.[^217]
 
 ---
 
 ### III.B. The Topics of Invention (*Topoi* / *Middot*)
 
-The theory of topics (*topoi* in the Greek, *loci* in the Latin) is the theory of where arguments are found. Aristotle, in his treatise entitled precisely *Topics* (*Topika*), established the foundation: a topos is a "place" --- a category, a heading, a seat of argument --- to which the orator may resort when seeking premises for his reasoning.[^218] The topos is not itself an argument; it is a *source* of arguments, a generative principle from which specific arguments may be derived for specific cases. Cicero, in his own *Topica* --- composed, he tells us, from memory while sailing to Greece --- adapted Aristotle's system for Roman forensic practice, organizing the topics under the headings of definition, partition, etymology, genus, species, similarity, difference, contrary, consequence, antecedent, contradiction, cause, effect, and comparison.[^219] Quintilian devotes the greater part of Book 5 of the *Institutio* to the topics of invention, treating them as the practical instruments by which the orator discovers and marshals his proofs (Inst. Or. 5.10).[^220]
+The theory of topics (*topoi* in the Greek, *loci* in the Latin) is the theory of where arguments are found. Aristotle, in his treatise entitled precisely *Topics* (*Topika*), established the foundation: a topos is a "place" -- a category, a heading, a seat of argument -- to which the orator may resort when seeking premises for his reasoning.[^218] The topos is not itself an argument; it is a *source* of arguments, a generative principle from which specific arguments may be derived for specific cases. Cicero, in his own *Topica* -- composed, he tells us, from memory while sailing to Greece -- adapted Aristotle's system for Roman forensic practice, organizing the topics under the headings of definition, partition, etymology, genus, species, similarity, difference, contrary, consequence, antecedent, contradiction, cause, effect, and comparison.[^219] Quintilian devotes the greater part of Book 5 of the *Institutio* to the topics of invention, treating them as the practical instruments by which the orator discovers and marshals his proofs (Inst. Or. 5.10).[^220]
 
-What has been insufficiently appreciated --- though David Daube perceived it with characteristic acuity in his landmark 1949 essay, and Saul Lieberman confirmed it with his customary philological precision in 1950 --- is that the Judaean sages have codified their own system of topics with a degree of formalization that exceeds anything found in the Greco-Roman tradition.[^221] For whereas Aristotle's topics are presented discursively, and Cicero's are enumerated but without rigid formalization, the Judaean middot --- the hermeneutical rules by which Scripture is expounded and legal arguments are constructed --- are presented as a fixed, numbered, canonical list, recited daily as part of the liturgy, and transmitted with the authority of named masters.
+What has been insufficiently appreciated -- though David Daube perceived it with characteristic acuity in his landmark 1949 essay, and Saul Lieberman confirmed it with his customary philological precision in 1950 -- is that the Judaean sages have codified their own system of topics with a degree of formalization that exceeds anything found in the Greco-Roman tradition.[^221] For whereas Aristotle's topics are presented discursively, and Cicero's are enumerated but without rigid formalization, the Judaean middot -- the hermeneutical rules by which Scripture is expounded and legal arguments are constructed -- are presented as a fixed, numbered, canonical list, recited daily as part of the liturgy, and transmitted with the authority of named masters.
 
 The most celebrated of these codifications is the list of thirteen rules (*middot*) attributed to Rabbi Ishmael ben Elisha, a tanna of the early second century of the common era. This list, preserved in the *Baraita de-Rabbi Ishmael* that opens the tannaitic midrash *Sifra*, functions as the canonical enumeration of the topics of halakhic invention:
 
@@ -3355,21 +3355,21 @@ The first and most natural of the hermeneutical topics is the argument from the 
 
 *Example:* If the Sabbath, which is set aside by a merely negative commandment ("thou shalt not work"), overrides the performance of the daily offering, then Passover, which carries the penalty of *karet* (excision) for its violation, surely overrides the Sabbath. Thus we find in the Mekhilta:
 
-> <span dir="rtl">והלא דין הוא: ומה שבת שהיא חמורה, עבודת ציבור דוחה אותה --- פסח שהוא קל, אינו דין שתדחה את השבת?</span>
+> <span dir="rtl">והלא דין הוא: ומה שבת שהיא חמורה, עבודת ציבור דוחה אותה -- פסח שהוא קל, אינו דין שתדחה את השבת?</span>
 >
-> *Is this not a logical inference? If the Sabbath, which is stringent, is overridden by public sacrificial worship --- Passover, which is less stringent [in that it is merely a positive command], should it not logically override the Sabbath?*[^224]
+> *Is this not a logical inference? If the Sabbath, which is stringent, is overridden by public sacrificial worship -- Passover, which is less stringent [in that it is merely a positive command], should it not logically override the Sabbath?*[^224]
 
-The student will observe that the *qal va-homer* is subject to a formal constraint known as *dayyo* (sufficiency): the conclusion drawn from the a fortiori argument may not impose more than what is found in the source case.[^225] This constraint --- which is itself the subject of a famous dispute between Rabbi Ishmael and Rabbi Akiva --- functions as a logical safeguard against the overextension of analogical reasoning, and it has no precise parallel in the Greco-Roman treatment of the a fortiori argument.
+The student will observe that the *qal va-homer* is subject to a formal constraint known as *dayyo* (sufficiency): the conclusion drawn from the a fortiori argument may not impose more than what is found in the source case.[^225] This constraint -- which is itself the subject of a famous dispute between Rabbi Ishmael and Rabbi Akiva -- functions as a logical safeguard against the overextension of analogical reasoning, and it has no precise parallel in the Greco-Roman treatment of the a fortiori argument.
 
 **2. *Gezerah shavah* (verbal analogy):**
 
 > <span dir="rtl">גזירה שוה</span>
 
-The second topic is argument from shared terminology: when the same word or phrase appears in two distinct scriptural passages, the legal provisions of one passage may be transferred to the other. This is the topic of verbal equivalence --- a form of argument that relies on the assumption that the divine legislator employs language with perfect consistency, so that the recurrence of a term signals an intended connection between contexts.[^226]
+The second topic is argument from shared terminology: when the same word or phrase appears in two distinct scriptural passages, the legal provisions of one passage may be transferred to the other. This is the topic of verbal equivalence -- a form of argument that relies on the assumption that the divine legislator employs language with perfect consistency, so that the recurrence of a term signals an intended connection between contexts.[^226]
 
 *Example:* The word *mo'ed* ("appointed time") appears both in connection with the Passover offering (Numbers 9:2) and in connection with the daily offering (Numbers 28:2). From this shared term, the sages derive that the Passover offering, like the daily offering, overrides the Sabbath:
 
-> <span dir="rtl">נאמר "מועדו" בפסח ונאמר "מועדו" בתמיד --- מה מועדו האמור בתמיד דוחה את השבת, אף מועדו האמור בפסח דוחה את השבת</span>
+> <span dir="rtl">נאמר "מועדו" בפסח ונאמר "מועדו" בתמיד -- מה מועדו האמור בתמיד דוחה את השבת, אף מועדו האמור בפסח דוחה את השבת</span>
 >
 > *"Its appointed time" is said regarding the Passover and "its appointed time" is said regarding the daily offering. Just as "its appointed time" said regarding the daily offering overrides the Sabbath, so "its appointed time" said regarding the Passover overrides the Sabbath.*[^227]
 
@@ -3397,7 +3397,7 @@ The fourth topic extends the third: a general principle is constructed from *two
 
 The fifth topic addresses the relationship between general statements and specific instances in Scripture. When a general term is followed by a specific term, the general is restricted to the scope of the specific. This is the topic of limitation by specification.[^231]
 
-*Example:* "When a man brings an offering from among you, from the *animals* [general term] --- from the *cattle and from the flock* [specific terms]" (Leviticus 1:2). The general term "animals" might include wild game, but the specific terms "cattle" and "flock" limit the offering to domesticated livestock.
+*Example:* "When a man brings an offering from among you, from the *animals* [general term] -- from the *cattle and from the flock* [specific terms]" (Leviticus 1:2). The general term "animals" might include wild game, but the specific terms "cattle" and "flock" limit the offering to domesticated livestock.
 
 **6. *Perat u-khelal* (particular and general):**
 
@@ -3405,15 +3405,15 @@ The fifth topic addresses the relationship between general statements and specif
 
 The sixth topic is the reverse of the fifth: when a specific term is followed by a general term, the general term extends the scope beyond what the specific alone would indicate. This is the topic of amplification by generalization.[^232]
 
-*Example:* "If a man steal an *ox or a sheep* [specific] and slaughter it or sell it --- he shall pay five oxen for an ox and four sheep for a sheep" (Exodus 21:37). But the payment provisions apply to stolen *property* generally [general term], not merely to the specific animals mentioned.
+*Example:* "If a man steal an *ox or a sheep* [specific] and slaughter it or sell it -- he shall pay five oxen for an ox and four sheep for a sheep" (Exodus 21:37). But the payment provisions apply to stolen *property* generally [general term], not merely to the specific animals mentioned.
 
 **7. *Kelal u-ferat u-khelal* (general, particular, general):**
 
 > <span dir="rtl">כלל ופרט וכלל</span>
 
-The seventh topic addresses the more complex pattern in which a general term is followed by a specific term and then by another general term. In this case, the interpreter may include only things that are *similar* to the specific term --- the specific term functions as an exemplar, defining the character of the class that the general terms embrace. This is the topic of analogical extension guided by example.[^233]
+The seventh topic addresses the more complex pattern in which a general term is followed by a specific term and then by another general term. In this case, the interpreter may include only things that are *similar* to the specific term -- the specific term functions as an exemplar, defining the character of the class that the general terms embrace. This is the topic of analogical extension guided by example.[^233]
 
-*Example:* "If a man gives to his neighbor *money or vessels* [specific] to keep, and it is stolen from the man's house" (Exodus 22:6). The general context concerns entrusted property, the specifics are money and vessels, and the concluding generality extends the law to similar objects --- movable property that can be stolen, but not land or slaves.
+*Example:* "If a man gives to his neighbor *money or vessels* [specific] to keep, and it is stolen from the man's house" (Exodus 22:6). The general context concerns entrusted property, the specifics are money and vessels, and the concluding generality extends the law to similar objects -- movable property that can be stolen, but not land or slaves.
 
 **8. *Kelal she-hu tzarikh li-ferat, u-ferat she-hu tzarikh li-khelal* (a general term that needs a particular term, and a particular term that needs a general term):**
 
@@ -3425,11 +3425,11 @@ The eighth topic recognizes situations of mutual dependence: the general stateme
 
 **9. *Davar she-hayah bi-khelal ve-yatza min ha-kelal le-lammed* (something that was in a general category but was singled out to teach):**
 
-> <span dir="rtl">דבר שהיה בכלל ויצא מן הכלל ללמד --- לא ללמד על עצמו יצא אלא ללמד על הכלל כולו יצא</span>
+> <span dir="rtl">דבר שהיה בכלל ויצא מן הכלל ללמד -- לא ללמד על עצמו יצא אלא ללמד על הכלל כולו יצא</span>
 
 The ninth topic addresses the significance of legislative specificity: when a case that is logically included in a general rule is nonetheless stated separately, the separate statement was not made to teach about *that case alone* (which was already covered by the general rule) but to teach something about the *entire category*.[^235]
 
-*Example:* The prohibition against taking interest is stated generally. Yet Scripture separately prohibits taking interest on food loaned to the poor. Since the poor were already covered by the general prohibition, the specific statement must have been made to teach a broader lesson about the general category --- namely, that the prohibition extends to all forms of interest, including interest in kind.
+*Example:* The prohibition against taking interest is stated generally. Yet Scripture separately prohibits taking interest on food loaned to the poor. Since the poor were already covered by the general prohibition, the specific statement must have been made to teach a broader lesson about the general category -- namely, that the prohibition extends to all forms of interest, including interest in kind.
 
 **10. *Davar she-hayah bi-khelal ve-yatza lit'on to'an acher she-lo ke-inyano* (something that was in a general category but was singled out to address a different matter):**
 
@@ -3445,7 +3445,7 @@ The tenth topic addresses cases where an item is removed from the general catego
 
 The eleventh topic is closely related to the tenth: when an item is removed from its general category and placed under entirely new legal provisions, you may not restore the original provisions to it unless Scripture does so explicitly.[^237]
 
-*Example:* The laws of the *metzora* (one afflicted with a skin disease) include a novel purification process --- two birds, cedar wood, scarlet yarn, and hyssop --- that has no parallel in the general laws of impurity. Because the *metzora* has been given new and distinctive provisions, the general laws of impurity purification cannot be applied to him by analogy.
+*Example:* The laws of the *metzora* (one afflicted with a skin disease) include a novel purification process -- two birds, cedar wood, scarlet yarn, and hyssop -- that has no parallel in the general laws of impurity. Because the *metzora* has been given new and distinctive provisions, the general laws of impurity purification cannot be applied to him by analogy.
 
 **12. *Davar ha-lamed me-inyano ve-davar ha-lamed mi-sofo* (something learned from its context and something learned from the end of the passage):**
 
@@ -3453,25 +3453,25 @@ The eleventh topic is closely related to the tenth: when an item is removed from
 
 The twelfth topic is the topic of contextual interpretation: an ambiguous term is clarified by reference to its surrounding context or to the conclusion of the passage in which it appears. This corresponds directly to Aristotle's topic of context (*Topics* 1.15) and to the principle of *ex continentia* that Cicero recognizes in the *Topica*.[^238]
 
-*Example:* "You shall not steal" (Exodus 20:13) --- the Decalogue version. Taken in isolation, this could refer to theft of property or kidnapping. But the context --- sandwiched between "you shall not murder" and "you shall not commit adultery," all capital offenses --- indicates that this commandment too refers to a capital offense, namely kidnapping, not ordinary theft.
+*Example:* "You shall not steal" (Exodus 20:13) -- the Decalogue version. Taken in isolation, this could refer to theft of property or kidnapping. But the context -- sandwiched between "you shall not murder" and "you shall not commit adultery," all capital offenses -- indicates that this commandment too refers to a capital offense, namely kidnapping, not ordinary theft.
 
 **13. *Shnei ketuvim ha-makhchishim zeh et zeh* (two passages that contradict each other):**
 
-> <span dir="rtl">שני כתובים המכחישים זה את זה --- עד שיבוא הכתוב השלישי ויכריע ביניהם</span>
+> <span dir="rtl">שני כתובים המכחישים זה את זה -- עד שיבוא הכתוב השלישי ויכריע ביניהם</span>
 
-The thirteenth and final topic addresses the resolution of contradictions between scriptural passages: when two verses appear to conflict, a third verse is sought that reconciles them. This is the topic of harmonization through a *tertium quid* --- a mediating principle that resolves the apparent contradiction by showing that each verse addresses a different circumstance or aspect of the matter.[^239]
+The thirteenth and final topic addresses the resolution of contradictions between scriptural passages: when two verses appear to conflict, a third verse is sought that reconciles them. This is the topic of harmonization through a *tertium quid* -- a mediating principle that resolves the apparent contradiction by showing that each verse addresses a different circumstance or aspect of the matter.[^239]
 
-*Example:* One verse says, "And He came down upon Mount Sinai" (Exodus 19:20), while another says, "From the heavens He spoke to you" (Deuteronomy 4:36). One implies God descended to earth; the other implies He remained in heaven. A third verse resolves the contradiction: "From heaven He made you hear His voice to discipline you, and on earth He showed you His great fire" (Deuteronomy 4:36) --- God inclined the heavens toward the earth, speaking from heaven but manifesting upon the mountain.
+*Example:* One verse says, "And He came down upon Mount Sinai" (Exodus 19:20), while another says, "From the heavens He spoke to you" (Deuteronomy 4:36). One implies God descended to earth; the other implies He remained in heaven. A third verse resolves the contradiction: "From heaven He made you hear His voice to discipline you, and on earth He showed you His great fire" (Deuteronomy 4:36) -- God inclined the heavens toward the earth, speaking from heaven but manifesting upon the mountain.
 
-The student of rhetoric will observe that these thirteen topics, taken as a system, provide the Judaean sage with a comprehensive methodology of legal invention. The *qal va-homer* is a topic of degree. The *gezerah shavah* is a topic of verbal equivalence. The *binyan av* is a topic of induction. The *kelal u-ferat* rules are topics of genus-species analysis. The contextual rules are topics of circumstantial interpretation. And the harmonization rule is a topic of apparent contradiction and its resolution. No other ancient culture --- not the Greek, not the Roman, not the Persian, not the Egyptian --- has produced so systematic and codified an inventory of the topics of argumentative invention.[^240]
+The student of rhetoric will observe that these thirteen topics, taken as a system, provide the Judaean sage with a comprehensive methodology of legal invention. The *qal va-homer* is a topic of degree. The *gezerah shavah* is a topic of verbal equivalence. The *binyan av* is a topic of induction. The *kelal u-ferat* rules are topics of genus-species analysis. The contextual rules are topics of circumstantial interpretation. And the harmonization rule is a topic of apparent contradiction and its resolution. No other ancient culture -- not the Greek, not the Roman, not the Persian, not the Egyptian -- has produced so systematic and codified an inventory of the topics of argumentative invention.[^240]
 
 #### The Thirty-Two Rules of Rabbi Eliezer ben Yose ha-Gelili
 
-Beyond the thirteen middot of Rabbi Ishmael, which govern primarily halakhic (legal) exegesis, the Judaean tradition preserves a second system of thirty-two rules attributed to Rabbi Eliezer ben Yose ha-Gelili, designed primarily for aggadic (narrative, theological, and homiletical) interpretation.[^241] Where the thirteen rules of Rabbi Ishmael correspond to the topics of forensic and deliberative invention, the thirty-two rules of Rabbi Eliezer correspond more closely to the topics of epideictic and homiletical invention --- the discovery of arguments for the amplification, illustration, and adornment of narrative and theological themes.
+Beyond the thirteen middot of Rabbi Ishmael, which govern primarily halakhic (legal) exegesis, the Judaean tradition preserves a second system of thirty-two rules attributed to Rabbi Eliezer ben Yose ha-Gelili, designed primarily for aggadic (narrative, theological, and homiletical) interpretation.[^241] Where the thirteen rules of Rabbi Ishmael correspond to the topics of forensic and deliberative invention, the thirty-two rules of Rabbi Eliezer correspond more closely to the topics of epideictic and homiletical invention -- the discovery of arguments for the amplification, illustration, and adornment of narrative and theological themes.
 
 Several of these rules deserve the particular attention of the student of rhetoric:
 
-*Ribbui* (amplification): The rule that certain particles in Scripture (*et*, *gam*, *af*) function as inclusionary markers, expanding the scope of a statement beyond its explicit terms.[^242] This corresponds to the rhetorical topic of *amplificatio* --- the expansion of a proposition to encompass more than its surface meaning suggests.
+*Ribbui* (amplification): The rule that certain particles in Scripture (*et*, *gam*, *af*) function as inclusionary markers, expanding the scope of a statement beyond its explicit terms.[^242] This corresponds to the rhetorical topic of *amplificatio* -- the expansion of a proposition to encompass more than its surface meaning suggests.
 
 *Mi'ut* (limitation): The complementary rule that certain particles (*akh*, *raq*, *min*) function as exclusionary markers, restricting the scope of a statement. This is the topic of *diminutio* or restrictive qualification.[^243]
 
@@ -3479,19 +3479,19 @@ Several of these rules deserve the particular attention of the student of rhetor
 
 *Gematria* (numerical equivalence): The rule that the numerical values of Hebrew letters encode interpretive connections between words whose letter-values sum to the same total. We shall discuss this device at greater length in Part V, on figures and tropes.[^245]
 
-These thirty-two rules, taken together with the thirteen rules of Rabbi Ishmael, provide the Judaean sage-orator with a topical inventory of remarkable scope --- covering legal, narrative, homiletical, and theological argumentation within a single integrated system.
+These thirty-two rules, taken together with the thirteen rules of Rabbi Ishmael, provide the Judaean sage-orator with a topical inventory of remarkable scope -- covering legal, narrative, homiletical, and theological argumentation within a single integrated system.
 
 ---
 
 ### III.C. The Three Modes of Persuasion (*Pisteis*)
 
-Aristotle, in the opening chapters of the *Rhetoric*, establishes a tripartite classification of the means of persuasion (*pisteis*) that has governed all subsequent rhetorical theory. The three modes are: *ēthos*, the persuasive force of the speaker's character; *pathos*, the persuasive force of the audience's emotions; and *logos*, the persuasive force of the argument itself (Rhetoric 1.2, 1356a).[^246] Aristotle insists that all three are *entechnoi* --- products of the rhetorical art, not adventitious circumstances --- and that the complete orator must master all three. Quintilian endorses this classification and expands upon it: the art of moving the judges is treated at length in Book 6 of the *Institutio* (6.2), and the establishment of the orator's character is for Quintilian the very foundation of eloquence, encapsulated in his famous definition of the orator as *vir bonus dicendi peritus* --- "a good man skilled in speaking" (Inst. Or. 12.1.1).[^247]
+Aristotle, in the opening chapters of the *Rhetoric*, establishes a tripartite classification of the means of persuasion (*pisteis*) that has governed all subsequent rhetorical theory. The three modes are: *ēthos*, the persuasive force of the speaker's character; *pathos*, the persuasive force of the audience's emotions; and *logos*, the persuasive force of the argument itself (Rhetoric 1.2, 1356a).[^246] Aristotle insists that all three are *entechnoi* -- products of the rhetorical art, not adventitious circumstances -- and that the complete orator must master all three. Quintilian endorses this classification and expands upon it: the art of moving the judges is treated at length in Book 6 of the *Institutio* (6.2), and the establishment of the orator's character is for Quintilian the very foundation of eloquence, encapsulated in his famous definition of the orator as *vir bonus dicendi peritus* -- "a good man skilled in speaking" (Inst. Or. 12.1.1).[^247]
 
 We find among the Judaean sages not merely the practice of all three modes of persuasion but a sophisticated theoretical awareness of their distinct functions and their proper deployment.
 
 #### *Ēthos* (*Middot ha-Darshan*): The Character of the Sage as Proof
 
-In the Judaean rhetorical tradition, the sage's moral character is not incidental to his persuasive authority; it is constitutive of it. The very term by which the sages designate a worthy teacher --- *tokho ke-varo*, "his interior is like his exterior" --- is itself a principle of rhetorical ēthos: the effective speaker is the one whose public speech is consistent with his private character.[^248]
+In the Judaean rhetorical tradition, the sage's moral character is not incidental to his persuasive authority; it is constitutive of it. The very term by which the sages designate a worthy teacher -- *tokho ke-varo*, "his interior is like his exterior" -- is itself a principle of rhetorical ēthos: the effective speaker is the one whose public speech is consistent with his private character.[^248]
 
 The principle is stated with striking directness in the context of admission to the academy. When the doors of the house of study were opened after the deposition of Rabban Gamaliel, the Talmud records:
 
@@ -3509,27 +3509,27 @@ The power of ēthos as a mode of persuasion is vividly illustrated in the narrat
 
 Vespasian objected that he was a general, not a king, and that the greeting could be considered treasonous. But Rabban Yohanan ben Zakkai replied with a scriptural argument: "You must be a king, for the Temple will not be destroyed except by a king's hand, as it is written: 'And the Lebanon shall fall by a mighty one' (Isaiah 10:34)." At that moment, a messenger arrived from Rome announcing that the emperor had died and Vespasian had been proclaimed his successor.
 
-The persuasive force of this discourse rests not primarily on the scriptural proof (*logos*) or on the emotional appeal (*pathos*) but on the *ēthos* of the speaker: a man who has risked death to escape a besieged city, who addresses a military commander with prophetic authority, and whose prediction is immediately confirmed by events. The argument succeeds because the speaker has established himself --- through his actions, his composure, and his prophetic accuracy --- as a person worthy of belief. This is ēthos in its purest form.[^251]
+The persuasive force of this discourse rests not primarily on the scriptural proof (*logos*) or on the emotional appeal (*pathos*) but on the *ēthos* of the speaker: a man who has risked death to escape a besieged city, who addresses a military commander with prophetic authority, and whose prediction is immediately confirmed by events. The argument succeeds because the speaker has established himself -- through his actions, his composure, and his prophetic accuracy -- as a person worthy of belief. This is ēthos in its purest form.[^251]
 
-Quintilian teaches that ēthos may be quiet and gentle (*lenis*), winning the audience's trust through the speaker's manifest decency, or it may be commanding and authoritative, compelling belief through the sheer weight of character (Inst. Or. 6.2.8--19). Both modes are exemplified among the Judaean sages. Hillel the Elder represents the gentle ēthos --- the sage whose patience, humility, and accessibility are themselves arguments for the rightness of his positions:
+Quintilian teaches that ēthos may be quiet and gentle (*lenis*), winning the audience's trust through the speaker's manifest decency, or it may be commanding and authoritative, compelling belief through the sheer weight of character (Inst. Or. 6.2.8--19). Both modes are exemplified among the Judaean sages. Hillel the Elder represents the gentle ēthos -- the sage whose patience, humility, and accessibility are themselves arguments for the rightness of his positions:
 
 > <span dir="rtl">לעולם יהא אדם ענוותן כהלל ולא קפדן כשמאי</span>
 >
 > *A person should always be gentle like Hillel and not impatient like Shammai.*[^252]
 
-Rabbi Akiva, by contrast, represents the commanding ēthos --- the sage whose personal history (from illiterate shepherd to the greatest master of his generation), whose intellectual daring, and whose ultimate martyrdom constitute an irrefutable testimony to the truth of his teaching.[^253]
+Rabbi Akiva, by contrast, represents the commanding ēthos -- the sage whose personal history (from illiterate shepherd to the greatest master of his generation), whose intellectual daring, and whose ultimate martyrdom constitute an irrefutable testimony to the truth of his teaching.[^253]
 
 #### *Pathos* (*Hit'orerut*): The Stirring of Emotion
 
-The second mode of persuasion is *pathos* --- the arousal of emotion in the audience. Aristotle treats the emotions at length in Book 2 of the *Rhetoric* (2.1--11), cataloguing anger, calm, friendship, enmity, fear, confidence, shame, pity, indignation, envy, and emulation, and explaining how each may be aroused or allayed. Cicero, in *De Oratore* (2.42--53), insists that the ability to move the judges' emotions is the most powerful of the orator's weapons --- more powerful even than logical proof. Quintilian concurs: "For it is in this power of stirring emotion that the life and soul of oratory resides" (Inst. Or. 6.2.7).[^254]
+The second mode of persuasion is *pathos* -- the arousal of emotion in the audience. Aristotle treats the emotions at length in Book 2 of the *Rhetoric* (2.1--11), cataloguing anger, calm, friendship, enmity, fear, confidence, shame, pity, indignation, envy, and emulation, and explaining how each may be aroused or allayed. Cicero, in *De Oratore* (2.42--53), insists that the ability to move the judges' emotions is the most powerful of the orator's weapons -- more powerful even than logical proof. Quintilian concurs: "For it is in this power of stirring emotion that the life and soul of oratory resides" (Inst. Or. 6.2.7).[^254]
 
 The Judaean sages are masters of pathetic proof, though they do not theorize it in Aristotelian terms. Consider the extraordinary scene at the conclusion of tractate Makkot, in which four sages ascend to Jerusalem after the destruction of the Temple:
 
 > <span dir="rtl">שוב פעם אחת היו עולין לירושלים. כיון שהגיעו להר הצופים, קרעו בגדיהם. כיון שהגיעו להר הבית, ראו שועל שיצא מבית קדשי הקדשים. התחילו הן בוכין ורבי עקיבא מצחק. אמרו לו: מפני מה אתה מצחק? אמר להם: מפני מה אתם בוכים? אמרו לו: מקום שכתוב בו "והזר הקרב יומת" ועכשיו שועלים הלכו בו, ולא נבכה? אמר להן: לכך אני מצחק, דכתיב: "ואעידה לי עדים נאמנים את אוריה הכהן ואת זכריה בן יברכהו." מה עניין אוריה אצל זכריה?... אלא, תלה הכתוב נבואתו של זכריה בנבואתו של אוריה. באוריה כתיב: "ציון שדה תחרש"... בזכריה כתיב: "עוד ישבו זקנים וזקנות ברחובות ירושלים." עד שלא נתקיימה נבואתו של אוריה, הייתי מתיירא שלא תתקיים נבואתו של זכריה. עכשיו שנתקיימה נבואתו של אוריה, בידוע שנבואתו של זכריה מתקיימת. בלשון הזה אמרו לו: עקיבא, ניחמתנו. עקיבא, ניחמתנו</span>
 >
-> *On another occasion they were ascending to Jerusalem. When they reached Mount Scopus, they rent their garments. When they reached the Temple Mount, they saw a fox emerging from the Holy of Holies. They began to weep, but Rabbi Akiva laughed. They said to him: Why do you laugh? He said to them: Why do you weep? They said: The place of which it is written, "The stranger who approaches shall die" --- and now foxes walk upon it. Shall we not weep? He said to them: That is precisely why I laugh. For it is written: "I will call reliable witnesses --- Uriah the priest and Zechariah son of Jeberechiah." What has Uriah to do with Zechariah?... Rather, Scripture makes Zechariah's prophecy dependent upon Uriah's. Concerning Uriah it is written: "Zion shall be plowed as a field." Concerning Zechariah it is written: "Old men and old women shall yet sit in the streets of Jerusalem." Until Uriah's prophecy was fulfilled, I feared that Zechariah's prophecy might not be fulfilled. Now that Uriah's prophecy has been fulfilled, it is certain that Zechariah's prophecy will also be fulfilled. In these words they said to him: Akiva, you have comforted us. Akiva, you have comforted us.*[^255]
+> *On another occasion they were ascending to Jerusalem. When they reached Mount Scopus, they rent their garments. When they reached the Temple Mount, they saw a fox emerging from the Holy of Holies. They began to weep, but Rabbi Akiva laughed. They said to him: Why do you laugh? He said to them: Why do you weep? They said: The place of which it is written, "The stranger who approaches shall die" -- and now foxes walk upon it. Shall we not weep? He said to them: That is precisely why I laugh. For it is written: "I will call reliable witnesses -- Uriah the priest and Zechariah son of Jeberechiah." What has Uriah to do with Zechariah?... Rather, Scripture makes Zechariah's prophecy dependent upon Uriah's. Concerning Uriah it is written: "Zion shall be plowed as a field." Concerning Zechariah it is written: "Old men and old women shall yet sit in the streets of Jerusalem." Until Uriah's prophecy was fulfilled, I feared that Zechariah's prophecy might not be fulfilled. Now that Uriah's prophecy has been fulfilled, it is certain that Zechariah's prophecy will also be fulfilled. In these words they said to him: Akiva, you have comforted us. Akiva, you have comforted us.*[^255]
 
-The student of rhetoric will observe the masterly deployment of pathos in this narrative. The scene itself is saturated with emotion: the journey to the ruins, the tearing of garments, the fox in the Holy of Holies, the weeping of the sages. But Rabbi Akiva transforms the emotional register --- from despair to hope, from grief to comfort --- through a single argumentative move that is simultaneously *logos* (a scriptural proof linking two prophecies) and *pathos* (the reversal of an entire emotional orientation). The fox, which for the weeping sages is a sign of desolation, becomes for Rabbi Akiva a sign of future restoration. This is what Quintilian calls *metabolē* --- the turning of the emotional tenor of the discourse (Inst. Or. 6.2.29) --- and it is executed here with consummate skill.
+The student of rhetoric will observe the masterly deployment of pathos in this narrative. The scene itself is saturated with emotion: the journey to the ruins, the tearing of garments, the fox in the Holy of Holies, the weeping of the sages. But Rabbi Akiva transforms the emotional register -- from despair to hope, from grief to comfort -- through a single argumentative move that is simultaneously *logos* (a scriptural proof linking two prophecies) and *pathos* (the reversal of an entire emotional orientation). The fox, which for the weeping sages is a sign of desolation, becomes for Rabbi Akiva a sign of future restoration. This is what Quintilian calls *metabolē* -- the turning of the emotional tenor of the discourse (Inst. Or. 6.2.29) -- and it is executed here with consummate skill.
 
 The conventions of the eulogy (*hesped*) provide another arena for the study of pathetic proof. The Talmud in tractate Mo'ed Qatan (25a--b) preserves elaborate formulae of lamentation that employ the full resources of heightened language:
 
@@ -3537,11 +3537,11 @@ The conventions of the eulogy (*hesped*) provide another arena for the study of 
 >
 > *If the academy of the master has lost its great man, what shall become of it? If the ship of the master has sunk, what shall become of it?*[^256]
 
-These eulogistic formulae employ metaphor, rhetorical question, and emotional amplification --- the very devices that Quintilian catalogues under the heading of *adfectus* (Inst. Or. 6.2). The eulogizer does not merely report the sage's death; he transforms it into an occasion for communal emotional catharsis, drawing the audience through grief toward renewed commitment to the values the deceased embodied.
+These eulogistic formulae employ metaphor, rhetorical question, and emotional amplification -- the very devices that Quintilian catalogues under the heading of *adfectus* (Inst. Or. 6.2). The eulogizer does not merely report the sage's death; he transforms it into an occasion for communal emotional catharsis, drawing the audience through grief toward renewed commitment to the values the deceased embodied.
 
 #### *Logos* (*Ra'ayah*): Proof Through Argument
 
-The third mode of persuasion, and the one to which Aristotle accords primacy, is *logos* --- proof through rational argument. Logos encompasses both deductive reasoning (*syllogismos*, *enthymēma*) and inductive reasoning (*paradeigma*, *epagōgē*). The enthymeme --- the rhetorical syllogism, which typically suppresses one premise as obvious --- is for Aristotle "the body of proof" (Rhetoric 1.1, 1354a).[^257]
+The third mode of persuasion, and the one to which Aristotle accords primacy, is *logos* -- proof through rational argument. Logos encompasses both deductive reasoning (*syllogismos*, *enthymēma*) and inductive reasoning (*paradeigma*, *epagōgē*). The enthymeme -- the rhetorical syllogism, which typically suppresses one premise as obvious -- is for Aristotle "the body of proof" (Rhetoric 1.1, 1354a).[^257]
 
 The Judaean sages are overwhelmingly practitioners of logical proof. The *qal va-homer* is itself an enthymematic argument: "If X is the case in the lesser instance [suppressed premise: and the greater instance is more compelling], then surely Y is the case in the greater instance." The *gezerah shavah* is a form of analogical reasoning. The *binyan av* is a form of induction. Every *sugyah* (Talmudic discussion) is a sustained exercise in dialectical logic, proceeding through a sequence of propositions, objections, counter-arguments, distinctions, and resolutions.
 
@@ -3551,17 +3551,17 @@ The characteristic form of Talmudic logical proof is the pattern:
 >
 > *One might think [X]... but the text teaches [Y].*[^258]
 
-This formula, which pervades the tannaitic midrashim, is the Judaean equivalent of the enthymematic proof: a proposition is advanced (*yakhol* --- "one might think"), a counter-proposition is derived from scriptural evidence (*talmud lomar* --- "the text teaches"), and the conclusion follows. The student of rhetoric will recognize this as a form of *refutatio* embedded within *confirmatio* --- the proof advances by first entertaining and then eliminating the alternative.
+This formula, which pervades the tannaitic midrashim, is the Judaean equivalent of the enthymematic proof: a proposition is advanced (*yakhol* -- "one might think"), a counter-proposition is derived from scriptural evidence (*talmud lomar* -- "the text teaches"), and the conclusion follows. The student of rhetoric will recognize this as a form of *refutatio* embedded within *confirmatio* -- the proof advances by first entertaining and then eliminating the alternative.
 
-Another distinctive form of logical proof in the Judaean tradition is argument from precedent (*ma'aseh*). When a sage cites a case --- "It happened that Rabbi X did Y" --- the case functions as an inductive proof, a particular instance from which a general rule may be inferred:
+Another distinctive form of logical proof in the Judaean tradition is argument from precedent (*ma'aseh*). When a sage cites a case -- "It happened that Rabbi X did Y" -- the case functions as an inductive proof, a particular instance from which a general rule may be inferred:
 
 > <span dir="rtl">אין מביאין ראיה מן המעשה</span>
 >
 > *One does not bring proof from a [mere] occurrence.*[^259]
 
-This cautionary principle --- that a single precedent is insufficient proof --- is itself evidence of the sages' logical sophistication: they recognize the limitations of inductive reasoning and require either multiple precedents or the corroboration of deductive proof.
+This cautionary principle -- that a single precedent is insufficient proof -- is itself evidence of the sages' logical sophistication: they recognize the limitations of inductive reasoning and require either multiple precedents or the corroboration of deductive proof.
 
-In sum, the three Aristotelian modes of persuasion --- ēthos, pathos, and logos --- are all fully operative in the Judaean rhetorical tradition. The sage's moral authority (ēthos) establishes his right to speak. The stirring of emotion (pathos) engages the audience's heart. And the marshaling of scriptural, logical, and precedential proofs (logos) establishes the case on rational grounds. What distinguishes the Judaean deployment of the *pisteis* from their Greco-Roman counterpart is not a difference in kind but a difference in source: where the Greek orator draws his logos from probability, testimony, and common opinion, the Judaean sage draws his logos primarily from Scripture and from the chain of received tradition --- sources that carry, within the system, an authority that no merely human testimony can match.[^260]
+In sum, the three Aristotelian modes of persuasion -- ēthos, pathos, and logos -- are all fully operative in the Judaean rhetorical tradition. The sage's moral authority (ēthos) establishes his right to speak. The stirring of emotion (pathos) engages the audience's heart. And the marshaling of scriptural, logical, and precedential proofs (logos) establishes the case on rational grounds. What distinguishes the Judaean deployment of the *pisteis* from their Greco-Roman counterpart is not a difference in kind but a difference in source: where the Greek orator draws his logos from probability, testimony, and common opinion, the Judaean sage draws his logos primarily from Scripture and from the chain of received tradition -- sources that carry, within the system, an authority that no merely human testimony can match.[^260]
 
 ---
 
@@ -3569,29 +3569,29 @@ In sum, the three Aristotelian modes of persuasion --- ēthos, pathos, and logos
 
 ### IV.A. The Parts of a Complete Oration
 
-The arrangement of discourse --- *dispositio* in the Latin, *taxis* in the Greek --- is the second of the five faculties of the orator, and it is the faculty that transforms a collection of arguments into a coherent and persuasive whole. Cicero, in *De Inventione* (1.19--56), identifies six parts of the complete oration: the exordium, narratio, divisio (or partitio), confirmatio, refutatio, and peroratio. The anonymous author of the *Rhetorica ad Herennium* (1.4) provides substantially the same division, and Quintilian endorses it with his customary comprehensive authority (Inst. Or. 3.9).[^261]
+The arrangement of discourse -- *dispositio* in the Latin, *taxis* in the Greek -- is the second of the five faculties of the orator, and it is the faculty that transforms a collection of arguments into a coherent and persuasive whole. Cicero, in *De Inventione* (1.19--56), identifies six parts of the complete oration: the exordium, narratio, divisio (or partitio), confirmatio, refutatio, and peroratio. The anonymous author of the *Rhetorica ad Herennium* (1.4) provides substantially the same division, and Quintilian endorses it with his customary comprehensive authority (Inst. Or. 3.9).[^261]
 
-The student of rhetoric will observe that these six parts are not arbitrary divisions but reflect the natural logic of persuasion: the orator must first capture attention and establish goodwill (exordium), then present the relevant facts (narratio), then divide the question into its constituent issues (divisio), then prove his case (confirmatio), then refute the opposing case (refutatio), and finally recapitulate and move the audience to action or judgment (peroratio). This sequence is found, with local variations, in every mature rhetorical tradition --- and the Judaean tradition is no exception.
+The student of rhetoric will observe that these six parts are not arbitrary divisions but reflect the natural logic of persuasion: the orator must first capture attention and establish goodwill (exordium), then present the relevant facts (narratio), then divide the question into its constituent issues (divisio), then prove his case (confirmatio), then refute the opposing case (refutatio), and finally recapitulate and move the audience to action or judgment (peroratio). This sequence is found, with local variations, in every mature rhetorical tradition -- and the Judaean tradition is no exception.
 
 What is remarkable about the Judaean tradition is not merely that its structured discourses follow this arrangement (though they do) but that each of the six parts has been developed into a distinctive Judaean form, with its own conventions, its own technical vocabulary, and its own characteristic devices.
 
 #### *Exordium* (*Petihta*): The Judaean Proem
 
-The exordium --- the opening of the discourse --- serves two functions: it secures the audience's attention (*attentum parare*) and establishes their goodwill (*benevolum parare*). Cicero distinguishes two types of exordium: the direct opening (*principium*), in which the orator proceeds immediately to his theme, and the indirect opening (*insinuatio*), in which the orator approaches his theme obliquely, through an apparently unrelated starting point (De Inventione 1.20).[^262]
+The exordium -- the opening of the discourse -- serves two functions: it secures the audience's attention (*attentum parare*) and establishes their goodwill (*benevolum parare*). Cicero distinguishes two types of exordium: the direct opening (*principium*), in which the orator proceeds immediately to his theme, and the indirect opening (*insinuatio*), in which the orator approaches his theme obliquely, through an apparently unrelated starting point (De Inventione 1.20).[^262]
 
-The Judaean homiletical tradition has developed the indirect opening into a distinctive art form of extraordinary sophistication: the *petihta* (proem). The petihta begins not with the scriptural reading of the day but with a verse from a distant book --- typically from the Writings (*Ketuvim*) or the Prophets (*Nevi'im*) --- and proceeds, through a chain of interpretive links, to arrive at the opening verse of the Torah portion. The entire movement of the petihta is one of apparent digression and eventual convergence: the audience does not know, at the outset, how the opening verse connects to the reading of the day, and the pleasure of the discourse lies in the gradual revelation of the connection.[^263]
+The Judaean homiletical tradition has developed the indirect opening into a distinctive art form of extraordinary sophistication: the *petihta* (proem). The petihta begins not with the scriptural reading of the day but with a verse from a distant book -- typically from the Writings (*Ketuvim*) or the Prophets (*Nevi'im*) -- and proceeds, through a chain of interpretive links, to arrive at the opening verse of the Torah portion. The entire movement of the petihta is one of apparent digression and eventual convergence: the audience does not know, at the outset, how the opening verse connects to the reading of the day, and the pleasure of the discourse lies in the gradual revelation of the connection.[^263]
 
-Consider the form more closely. A petihta on the reading of Genesis 1:1 ("In the beginning God created the heavens and the earth") might open with Psalm 104:24 ("How manifold are your works, O Lord! In wisdom you have made them all"). The preacher then expounds the Psalm verse, exploring the concept of divine wisdom. He cites Proverbs 8:22 ("The Lord created me at the beginning of His way"), identifying Wisdom with Torah. He then demonstrates that Torah preceded the creation, functioning as the "blueprint" by which God created the world. Step by step, each link supported by scriptural proof, the preacher arrives at Genesis 1:1: "In the beginning" --- *be-reshit*, which can be read as "with the beginning-thing," namely Torah, which is called *reshit* --- "God created the heavens and the earth."[^264]
+Consider the form more closely. A petihta on the reading of Genesis 1:1 ("In the beginning God created the heavens and the earth") might open with Psalm 104:24 ("How manifold are your works, O Lord! In wisdom you have made them all"). The preacher then expounds the Psalm verse, exploring the concept of divine wisdom. He cites Proverbs 8:22 ("The Lord created me at the beginning of His way"), identifying Wisdom with Torah. He then demonstrates that Torah preceded the creation, functioning as the "blueprint" by which God created the world. Step by step, each link supported by scriptural proof, the preacher arrives at Genesis 1:1: "In the beginning" -- *be-reshit*, which can be read as "with the beginning-thing," namely Torah, which is called *reshit* -- "God created the heavens and the earth."[^264]
 
-The student of rhetoric will recognize that this form is a species of Cicero's *insinuatio* --- the indirect exordium that approaches the theme through an unexpected avenue, thereby capturing the audience's attention through the element of surprise. But the Judaean petihta goes beyond anything described in the Greco-Roman handbooks: it transforms the exordium from a brief introductory gesture into a sustained intellectual performance, a miniature oration within the oration, that establishes the preacher's interpretive virtuosity and draws the audience into a collaborative act of discovery.
+The student of rhetoric will recognize that this form is a species of Cicero's *insinuatio* -- the indirect exordium that approaches the theme through an unexpected avenue, thereby capturing the audience's attention through the element of surprise. But the Judaean petihta goes beyond anything described in the Greco-Roman handbooks: it transforms the exordium from a brief introductory gesture into a sustained intellectual performance, a miniature oration within the oration, that establishes the preacher's interpretive virtuosity and draws the audience into a collaborative act of discovery.
 
-The petihta also functions as a theological argument: by demonstrating that a verse from the Writings connects to a verse from the Torah, the preacher enacts the unity of Scripture --- the principle that all of sacred writ is a single, interconnected web of meaning. The exordium is therefore not merely an attention-getting device; it is an implicit proof of the hermeneutical principles upon which the entire discourse rests.
+The petihta also functions as a theological argument: by demonstrating that a verse from the Writings connects to a verse from the Torah, the preacher enacts the unity of Scripture -- the principle that all of sacred writ is a single, interconnected web of meaning. The exordium is therefore not merely an attention-getting device; it is an implicit proof of the hermeneutical principles upon which the entire discourse rests.
 
 #### *Narratio* (*Ma'aseh*): Background Narrative
 
-The narratio --- the statement of the relevant facts --- is, as Quintilian observes, "the basis of the entire case" (Inst. Or. 4.2.1). It must be clear, brief, and plausible (*lucida, brevis, verisimilis*) --- the three virtues of narration that Cicero prescribes in *De Inventione* (1.20.28).[^265]
+The narratio -- the statement of the relevant facts -- is, as Quintilian observes, "the basis of the entire case" (Inst. Or. 4.2.1). It must be clear, brief, and plausible (*lucida, brevis, verisimilis*) -- the three virtues of narration that Cicero prescribes in *De Inventione* (1.20.28).[^265]
 
-In the Judaean rhetorical tradition, the narratio takes two characteristic forms. In halakhic discourse, it is the statement of the case (*ma'aseh*) --- the factual situation that gives rise to the legal question:
+In the Judaean rhetorical tradition, the narratio takes two characteristic forms. In halakhic discourse, it is the statement of the case (*ma'aseh*) -- the factual situation that gives rise to the legal question:
 
 > <span dir="rtl">מעשה שבא לפני רבי עקיבא</span>
 >
@@ -3599,11 +3599,11 @@ In the Judaean rhetorical tradition, the narratio takes two characteristic forms
 
 These case-narratives are models of Ciceronian brevity: only the facts necessary to frame the legal question are included, and every extraneous detail is stripped away. The Mishnah's case-narratives are, in their economy and precision, among the most accomplished examples of legal narration in any ancient literature.
 
-In aggadic discourse, the narratio is more expansive. The preacher recounts a scriptural narrative, a biographical anecdote, or a parable, and the narration itself carries persuasive weight --- not as logical proof but as what Aristotle calls *paradeigma* (example), the inductive mode of rhetorical proof (Rhetoric 1.2, 1356b).[^267]
+In aggadic discourse, the narratio is more expansive. The preacher recounts a scriptural narrative, a biographical anecdote, or a parable, and the narration itself carries persuasive weight -- not as logical proof but as what Aristotle calls *paradeigma* (example), the inductive mode of rhetorical proof (Rhetoric 1.2, 1356b).[^267]
 
 #### *Divisio* (*Haqdamah*): Division of the Topic
 
-The divisio or partitio --- the division of the question into its component parts --- is the structural armature of the discourse. Cicero recommends that the orator announce at the outset how many points he intends to address and in what order (De Inventione 1.22.31--33). This enables the audience to follow the argument and to know, at each stage, where the discourse stands in relation to its overall plan.[^268]
+The divisio or partitio -- the division of the question into its component parts -- is the structural armature of the discourse. Cicero recommends that the orator announce at the outset how many points he intends to address and in what order (De Inventione 1.22.31--33). This enables the audience to follow the argument and to know, at each stage, where the discourse stands in relation to its overall plan.[^268]
 
 The Judaean tradition is remarkably attentive to the division of topics. The Mishnah itself is organized by division and subdivision: six orders, further divided into tractates, further divided into chapters, further divided into individual rulings. And within individual teachings, numerical division is a constant structural device:
 
@@ -3623,7 +3623,7 @@ These numerical divisions function as *partitiones* in the Ciceronian sense: the
 
 #### *Confirmatio* (*Hokhahah*): Marshaling Proofs
 
-The confirmatio --- the positive proof of the case --- is the heart of the discourse. It is here that the orator deploys his arguments, marshaling the evidence discovered through invention and presenting it in the arrangement determined by the dispositio.[^272]
+The confirmatio -- the positive proof of the case -- is the heart of the discourse. It is here that the orator deploys his arguments, marshaling the evidence discovered through invention and presenting it in the arrangement determined by the dispositio.[^272]
 
 In the Judaean tradition, the confirmatio takes the characteristic form of scriptural proof (*ra'ayah min ha-katuv*). The preacher or legal authority advances a proposition and then supports it with one or more scriptural citations, each interpreted through the hermeneutical rules (middot) discussed in Part III:
 
@@ -3631,13 +3631,13 @@ In the Judaean tradition, the confirmatio takes the characteristic form of scrip
 >
 > *As it is said...*[^273]
 
-This formula --- *she-ne'emar*, "as it is said" --- is the standard introduction to a scriptural proof and serves the same function as the orator's citation of authority in Greco-Roman forensic practice. The citation is itself a form of *testimonium* --- the appeal to a witness --- and because the witness in this case is Scripture itself, the appeal carries an authority that no human testimony can match.
+This formula -- *she-ne'emar*, "as it is said" -- is the standard introduction to a scriptural proof and serves the same function as the orator's citation of authority in Greco-Roman forensic practice. The citation is itself a form of *testimonium* -- the appeal to a witness -- and because the witness in this case is Scripture itself, the appeal carries an authority that no human testimony can match.
 
-The Judaean confirmatio may also proceed through logical argument (*sevarah*), precedent (*ma'aseh*), or the authoritative statement of a named master (*amar Rabbi Ploni* --- "Rabbi So-and-so said"). These multiple modes of proof correspond to Quintilian's classification of the types of confirming evidence: testimony, logical demonstration, and precedent (Inst. Or. 5.1--11).
+The Judaean confirmatio may also proceed through logical argument (*sevarah*), precedent (*ma'aseh*), or the authoritative statement of a named master (*amar Rabbi Ploni* -- "Rabbi So-and-so said"). These multiple modes of proof correspond to Quintilian's classification of the types of confirming evidence: testimony, logical demonstration, and precedent (Inst. Or. 5.1--11).
 
 #### *Refutatio* (*Teshuvah*): The "Yakhol... Talmud Lomar" Pattern
 
-The refutatio --- the refutation of the opposing case --- is, as Quintilian observes, often more difficult than the confirmatio, because the orator must anticipate and dismantle arguments he has not chosen and may not fully control (Inst. Or. 5.13).[^274]
+The refutatio -- the refutation of the opposing case -- is, as Quintilian observes, often more difficult than the confirmatio, because the orator must anticipate and dismantle arguments he has not chosen and may not fully control (Inst. Or. 5.13).[^274]
 
 The Judaean tradition has developed a distinctive and highly formalized pattern of refutatio that pervades the tannaitic midrashim. It takes the form:
 
@@ -3645,27 +3645,27 @@ The Judaean tradition has developed a distinctive and highly formalized pattern 
 >
 > *One might think [X]... but the text teaches [Y].*[^275]
 
-The *yakhol* ("one might think") introduces the opposing position --- the interpretation that the text might bear if read without the guidance of the hermeneutical tradition. The *talmud lomar* ("the text teaches") introduces the refutation --- the scriptural evidence that contradicts the proposed interpretation and establishes the correct one. This pattern is so pervasive in the tannaitic midrashim (Mekhilta, Sifra, Sifrei) that it functions as the standard formula of refutatio in Judaean legal rhetoric.[^276]
+The *yakhol* ("one might think") introduces the opposing position -- the interpretation that the text might bear if read without the guidance of the hermeneutical tradition. The *talmud lomar* ("the text teaches") introduces the refutation -- the scriptural evidence that contradicts the proposed interpretation and establishes the correct one. This pattern is so pervasive in the tannaitic midrashim (Mekhilta, Sifra, Sifrei) that it functions as the standard formula of refutatio in Judaean legal rhetoric.[^276]
 
-The student of rhetoric will observe that this pattern embodies a fundamental principle of effective refutation: the orator does not ignore the opposing position but *states it explicitly* before demolishing it. By presenting the *yakhol* fairly and clearly --- often in a form that is initially quite plausible --- the sage demonstrates his mastery of the full range of interpretive possibilities, and his refutation carries the greater force for having engaged the strongest version of the alternative.
+The student of rhetoric will observe that this pattern embodies a fundamental principle of effective refutation: the orator does not ignore the opposing position but *states it explicitly* before demolishing it. By presenting the *yakhol* fairly and clearly -- often in a form that is initially quite plausible -- the sage demonstrates his mastery of the full range of interpretive possibilities, and his refutation carries the greater force for having engaged the strongest version of the alternative.
 
 This practice corresponds precisely to Quintilian's advice that the orator should not merely attack the weakest version of the opposing argument but should confront its strongest formulation (Inst. Or. 5.13.2). The *yakhol... talmud lomar* pattern institutionalizes this principle: the sage-orator is trained to *generate* the strongest opposing interpretation before refuting it.
 
 #### *Peroratio* (*Chatimah*): Closing with Comfort
 
-The peroratio --- the conclusion of the discourse --- serves two functions: the recapitulation of the argument (*enumeratio*) and the final arousal of emotion (*amplificatio* or *adfectus*). Cicero prescribes that the peroration should leave the audience with a strong and favorable impression, and Quintilian elaborates: "In the peroration, we must gather up the whole force of the case and impress it upon the judges' minds" (Inst. Or. 6.1.1).[^277]
+The peroratio -- the conclusion of the discourse -- serves two functions: the recapitulation of the argument (*enumeratio*) and the final arousal of emotion (*amplificatio* or *adfectus*). Cicero prescribes that the peroration should leave the audience with a strong and favorable impression, and Quintilian elaborates: "In the peroration, we must gather up the whole force of the case and impress it upon the judges' minds" (Inst. Or. 6.1.1).[^277]
 
-The Judaean homiletical tradition has developed a distinctive convention for the peroratio: the *chatimah* (seal or closing), which characteristically ends with a word of consolation or eschatological hope. Whatever the theme of the discourse --- even if the body has been occupied with rebuke, warning, or lamentation --- the preacher concludes with a message of comfort and redemption.[^278]
+The Judaean homiletical tradition has developed a distinctive convention for the peroratio: the *chatimah* (seal or closing), which characteristically ends with a word of consolation or eschatological hope. Whatever the theme of the discourse -- even if the body has been occupied with rebuke, warning, or lamentation -- the preacher concludes with a message of comfort and redemption.[^278]
 
 This convention is so deeply embedded in Judaean rhetorical practice that it shapes even the arrangement of the scriptural readings themselves. The *haftarah* (prophetic reading) for a Sabbath of rebuke is chosen so that it ends on a note of consolation. The seven haftarot that follow the fast of the Ninth of Av are all prophecies of consolation. The annual cycle of readings is arranged so that the final impression left upon the congregation is one of hope.
 
-The student of rhetoric will observe that this convention is an application of the principle of *recency* --- the psychological principle that the last impression is the strongest. By ending with comfort, the Judaean preacher ensures that the emotional residue of the discourse is positive, even when the substance has been severe. This is wise counsel for the orator in any tradition: the peroratio determines the audience's final emotional state, and therefore determines what they will remember and how they will act.
+The student of rhetoric will observe that this convention is an application of the principle of *recency* -- the psychological principle that the last impression is the strongest. By ending with comfort, the Judaean preacher ensures that the emotional residue of the discourse is positive, even when the substance has been severe. This is wise counsel for the orator in any tradition: the peroratio determines the audience's final emotional state, and therefore determines what they will remember and how they will act.
 
 ---
 
 ### IV.B. The Yelamdenu Form as Complete Oration
 
-Among the most distinctive forms of Judaean public discourse is the *Yelamdenu* --- literally, "Let our master teach us" --- a homiletical form that appears prominently in the Tanhuma-Yelamdenu midrashic literature and represents, in the judgment of this analysis, the most complete realization of the classical oration in Judaean rhetorical practice.[^279]
+Among the most distinctive forms of Judaean public discourse is the *Yelamdenu* -- literally, "Let our master teach us" -- a homiletical form that appears prominently in the Tanhuma-Yelamdenu midrashic literature and represents, in the judgment of this analysis, the most complete realization of the classical oration in Judaean rhetorical practice.[^279]
 
 The Yelamdenu discourse takes its name from its characteristic opening: a member of the congregation poses a halakhic question, introduced with the formula:
 
@@ -3677,23 +3677,23 @@ This opening is itself a brilliant exordial device. By framing the discourse as 
 
 The discourse then proceeds through the following stages:
 
-1. **Halakhic ruling (*pesaq*)**: The preacher provides a brief, authoritative answer to the halakhic question. This corresponds to the *propositio* or *thesis* of the classical oration --- the central claim that the discourse will elaborate and defend.
+1. **Halakhic ruling (*pesaq*)**: The preacher provides a brief, authoritative answer to the halakhic question. This corresponds to the *propositio* or *thesis* of the classical oration -- the central claim that the discourse will elaborate and defend.
 
 2. **Transition to aggadah (*petihta*)**: The preacher moves from the halakhic answer to an aggadic development, typically through a proem (*petihta*) that begins from a remote scriptural verse and works its way toward the Torah reading of the day. This corresponds to the *narratio* and *digressio* of the classical oration.
 
-3. **Aggadic expansion (*amplificatio*)**: The preacher develops the theme through parable (*mashal*), narrative (*ma'aseh*), scriptural interpretation, and theological reflection. This is the *confirmatio* and *amplificatio* of the discourse --- the section in which the full resources of invention and style are deployed.
+3. **Aggadic expansion (*amplificatio*)**: The preacher develops the theme through parable (*mashal*), narrative (*ma'aseh*), scriptural interpretation, and theological reflection. This is the *confirmatio* and *amplificatio* of the discourse -- the section in which the full resources of invention and style are deployed.
 
-4. **Return to the halakhic question (*chatimah*)**: The discourse concludes by returning to the original question, either restating the ruling in light of the aggadic development or drawing a practical lesson that connects the aggadic material to the halakhic starting point. This is the *peroratio* --- the recapitulation and closure.[^281]
+4. **Return to the halakhic question (*chatimah*)**: The discourse concludes by returning to the original question, either restating the ruling in light of the aggadic development or drawing a practical lesson that connects the aggadic material to the halakhic starting point. This is the *peroratio* -- the recapitulation and closure.[^281]
 
-The student of rhetoric will observe that this fourfold structure exhibits all the essential parts of a classical oration: exordium (the question), propositio (the ruling), amplificatio (the aggadic development), and peroratio (the return to the question). The Yelamdenu form is therefore not merely a homiletical convention but a complete rhetorical structure, adapted to the distinctive conditions of the Judaean synagogue --- where the audience expects both legal instruction and spiritual edification, and where the preacher must demonstrate mastery of both halakhic precision and aggadic eloquence.
+The student of rhetoric will observe that this fourfold structure exhibits all the essential parts of a classical oration: exordium (the question), propositio (the ruling), amplificatio (the aggadic development), and peroratio (the return to the question). The Yelamdenu form is therefore not merely a homiletical convention but a complete rhetorical structure, adapted to the distinctive conditions of the Judaean synagogue -- where the audience expects both legal instruction and spiritual edification, and where the preacher must demonstrate mastery of both halakhic precision and aggadic eloquence.
 
-Joseph Heinemann, in his landmark study of the ancient synagogue homily, recognized the Yelamdenu as a distinctive literary form and traced its development across several centuries of Palestinian preaching practice.[^282] What Heinemann did not fully appreciate, however, is the degree to which the Yelamdenu form corresponds to the structure of the classical oration as described by the Greco-Roman handbooks. The correspondence is not superficial: the Yelamdenu discourse accomplishes, in its own idiom and with its own materials, precisely what the Ciceronian oration accomplishes --- the systematic persuasion of an audience through the ordered deployment of ethos, logos, and pathos within a formally structured whole.
+Joseph Heinemann, in his landmark study of the ancient synagogue homily, recognized the Yelamdenu as a distinctive literary form and traced its development across several centuries of Palestinian preaching practice.[^282] What Heinemann did not fully appreciate, however, is the degree to which the Yelamdenu form corresponds to the structure of the classical oration as described by the Greco-Roman handbooks. The correspondence is not superficial: the Yelamdenu discourse accomplishes, in its own idiom and with its own materials, precisely what the Ciceronian oration accomplishes -- the systematic persuasion of an audience through the ordered deployment of ēthos, logos, and pathos within a formally structured whole.
 
 ---
 
 ### IV.C. The Passover Haggadah as Model Oration
 
-Perhaps no single text from any ancient tradition provides so complete an example of a fully arranged oration as the Judaean Seder Haggadah --- the text recited at the Passover meal on the fourteenth of Nisan.[^283] The Haggadah is not merely a liturgical document; it is a carefully composed rhetorical performance, designed to lead a specific audience (the family gathered at the table, including children and the uninstructed) through a complete arc of persuasion, from initial engagement to final catharsis.
+Perhaps no single text from any ancient tradition provides so complete an example of a fully arranged oration as the Judaean Seder Haggadah -- the text recited at the Passover meal on the fourteenth of Nisan.[^283] The Haggadah is not merely a liturgical document; it is a carefully composed rhetorical performance, designed to lead a specific audience (the family gathered at the table, including children and the uninstructed) through a complete arc of persuasion, from initial engagement to final catharsis.
 
 Let us map the parts of the Haggadah onto the classical structure of the oration.
 
@@ -3705,15 +3705,15 @@ The Haggadah opens with two exordial elements. The first is the declaration *Ha 
 >
 > *This is the bread of affliction that our ancestors ate in the land of Egypt. Let all who are hungry come and eat; let all who are in need come and celebrate the Passover. Now we are here; next year in the land of Israel. Now we are slaves; next year free people.*[^284]
 
-This opening performs the classical function of the exordium: it establishes the theme (the transition from slavery to freedom), secures the audience's emotional engagement (through the identification with ancestral suffering), and creates goodwill (through the invitation to share the meal). The language is Aramaic --- the vernacular of the people, not the Hebrew of the academy --- signaling that this discourse is addressed to all, not merely to the learned.
+This opening performs the classical function of the exordium: it establishes the theme (the transition from slavery to freedom), secures the audience's emotional engagement (through the identification with ancestral suffering), and creates goodwill (through the invitation to share the meal). The language is Aramaic -- the vernacular of the people, not the Hebrew of the academy -- signaling that this discourse is addressed to all, not merely to the learned.
 
-The second exordial element is the *Mah Nishtanah* --- the Four Questions, traditionally posed by the youngest child:
+The second exordial element is the *Mah Nishtanah* -- the Four Questions, traditionally posed by the youngest child:
 
 > <span dir="rtl">מה נשתנה הלילה הזה מכל הלילות</span>
 >
 > *Why is this night different from all other nights?*[^285]
 
-The Four Questions are a masterwork of exordial technique. By placing the questions in the mouth of a child, the Haggadah accomplishes what Quintilian recommends for the exordium: it creates a sense of occasion, it establishes the audience as active participants in the discourse (rather than passive recipients), and it frames the entire subsequent narrative as a response to genuine inquiry.[^286] The questions also create what the rhetoricians call *suspensio* --- the state of suspended attention in which the audience awaits an answer.
+The Four Questions are a masterwork of exordial technique. By placing the questions in the mouth of a child, the Haggadah accomplishes what Quintilian recommends for the exordium: it creates a sense of occasion, it establishes the audience as active participants in the discourse (rather than passive recipients), and it frames the entire subsequent narrative as a response to genuine inquiry.[^286] The questions also create what the rhetoricians call *suspensio* -- the state of suspended attention in which the audience awaits an answer.
 
 #### Narratio: "We Were Slaves"
 
@@ -3723,7 +3723,7 @@ The narratio of the Haggadah is the response to the Four Questions:
 >
 > *We were slaves to Pharaoh in Egypt, and the Lord our God brought us out from there with a mighty hand and an outstretched arm. Had the Holy One, blessed be He, not brought our ancestors out of Egypt, then we, and our children, and our children's children would still be enslaved to Pharaoh in Egypt.*[^287]
 
-This narratio satisfies Cicero's three requirements: it is clear (the facts are stated simply), it is brief (the entire national history is compressed into two sentences), and it is plausible (the counterfactual --- "we would still be enslaved" --- makes the divine intervention vivid and personal). The student of rhetoric will also observe the temporal shift: the narratio moves from the historical past ("we were slaves") to the counterfactual present ("we would still be enslaved"), collapsing the distance between the ancient event and the contemporary audience. This is a form of what Quintilian calls *evidentia* --- making the past event present to the audience's imagination (Inst. Or. 8.3.61--71).
+This narratio satisfies Cicero's three requirements: it is clear (the facts are stated simply), it is brief (the entire national history is compressed into two sentences), and it is plausible (the counterfactual -- "we would still be enslaved" -- makes the divine intervention vivid and personal). The student of rhetoric will also observe the temporal shift: the narratio moves from the historical past ("we were slaves") to the counterfactual present ("we would still be enslaved"), collapsing the distance between the ancient event and the contemporary audience. This is a form of what Quintilian calls *evidentia* -- making the past event present to the audience's imagination (Inst. Or. 8.3.61--71).
 
 #### Divisio: The Four Sons
 
@@ -3733,33 +3733,33 @@ The *divisio* of the Haggadah is the passage of the Four Sons (*arba'ah banim*):
 >
 > *Corresponding to four sons the Torah speaks: one wise, one wicked, one simple, and one who does not know how to ask.*[^288]
 
-This passage is a *partitio* in the fullest Ciceronian sense: it divides the audience into four categories, each requiring a different mode of address, and it announces in advance that the discourse will address each category in turn. The division also functions as a theory of rhetorical adaptation --- the principle that the same message must be presented differently depending on the character, capacity, and disposition of the listener. This is precisely the principle of *aptum* or *prepon* --- rhetorical appropriateness --- that Cicero and Quintilian regard as the supreme virtue of the orator (Cicero, *Orator* 21.70; Quintilian, Inst. Or. 11.1).[^289]
+This passage is a *partitio* in the fullest Ciceronian sense: it divides the audience into four categories, each requiring a different mode of address, and it announces in advance that the discourse will address each category in turn. The division also functions as a theory of rhetorical adaptation -- the principle that the same message must be presented differently depending on the character, capacity, and disposition of the listener. This is precisely the principle of *aptum* or *prepon* -- rhetorical appropriateness -- that Cicero and Quintilian regard as the supreme virtue of the orator (Cicero, *Orator* 21.70; Quintilian, Inst. Or. 11.1).[^289]
 
-The wise son receives a detailed halakhic answer. The wicked son receives a sharp rebuke. The simple son receives a straightforward narrative explanation. The son who does not know how to ask receives an unprompted narration --- for the orator must speak even when the audience does not know what to ask. Each response demonstrates a different rhetorical strategy, calibrated to a different audience. The Haggadah is, in effect, a handbook of audience adaptation embedded within a liturgical text.
+The wise son receives a detailed halakhic answer. The wicked son receives a sharp rebuke. The simple son receives a straightforward narrative explanation. The son who does not know how to ask receives an unprompted narration -- for the orator must speak even when the audience does not know what to ask. Each response demonstrates a different rhetorical strategy, calibrated to a different audience. The Haggadah is, in effect, a handbook of audience adaptation embedded within a liturgical text.
 
 #### Confirmatio: The Midrash on Deuteronomy 26
 
-The confirmatio of the Haggadah is the extended midrash on the passage from Deuteronomy 26:5--8 --- the declaration that the Israelite farmer recites when bringing his first fruits to the Temple:
+The confirmatio of the Haggadah is the extended midrash on the passage from Deuteronomy 26:5--8 -- the declaration that the Israelite farmer recites when bringing his first fruits to the Temple:
 
 > <span dir="rtl">ארמי אובד אבי, וירד מצרימה ויגר שם במתי מעט, ויהי שם לגוי גדול עצום ורב</span>
 >
 > *A wandering Aramean was my father, and he went down to Egypt and sojourned there, few in number, and there he became a great, mighty, and numerous nation.*[^290]
 
-The Haggadah subjects each clause of this passage to detailed midrashic commentary, supporting each point with additional scriptural proofs. This is *confirmatio* in its purest form: the central narrative of the Exodus is *proved* through the systematic marshaling of scriptural evidence, clause by clause, verse by verse. The method is exhaustive and cumulative --- each proof building upon the last, creating an overwhelming weight of evidence.
+The Haggadah subjects each clause of this passage to detailed midrashic commentary, supporting each point with additional scriptural proofs. This is *confirmatio* in its purest form: the central narrative of the Exodus is *proved* through the systematic marshaling of scriptural evidence, clause by clause, verse by verse. The method is exhaustive and cumulative -- each proof building upon the last, creating an overwhelming weight of evidence.
 
 #### Amplificatio: The Plagues and Dayenu
 
-The *amplificatio* of the Haggadah is the section devoted to the plagues and the hymn *Dayenu*. The enumeration of the plagues is itself an act of rhetorical amplification --- each plague is named, enumerated, and in some versions elaborated through midrashic expansion. Rabbi Yose ha-Gelili, Rabbi Eliezer, and Rabbi Akiva engage in a characteristic rabbinic *amplificatio*: they multiply the number of plagues from ten to fifty, from fifty to two hundred, from two hundred to two hundred and fifty, through increasingly intricate hermeneutical reasoning.[^291]
+The *amplificatio* of the Haggadah is the section devoted to the plagues and the hymn *Dayenu*. The enumeration of the plagues is itself an act of rhetorical amplification -- each plague is named, enumerated, and in some versions elaborated through midrashic expansion. Rabbi Yose ha-Gelili, Rabbi Eliezer, and Rabbi Akiva engage in a characteristic rabbinic *amplificatio*: they multiply the number of plagues from ten to fifty, from fifty to two hundred, from two hundred to two hundred and fifty, through increasingly intricate hermeneutical reasoning.[^291]
 
-This escalation is a sustained exercise in *auxēsis* --- the rhetorical figure of gradual amplification that Quintilian treats under the heading of *amplificatio* (Inst. Or. 8.4). Each stage of the escalation builds upon the previous one, and the cumulative effect is one of overwhelming divine power and mercy.
+This escalation is a sustained exercise in *auxēsis* -- the rhetorical figure of gradual amplification that Quintilian treats under the heading of *amplificatio* (Inst. Or. 8.4). Each stage of the escalation builds upon the previous one, and the cumulative effect is one of overwhelming divine power and mercy.
 
 The hymn *Dayenu* ("It would have been enough") is itself a masterpiece of rhetorical structure:
 
 > <span dir="rtl">כמה מעלות טובות למקום עלינו: אילו הוציאנו ממצרים ולא עשה בהם שפטים, דיינו. אילו עשה בהם שפטים ולא עשה באלהיהם, דיינו</span>
 >
-> *How many good things has the Omnipresent bestowed upon us! Had He brought us out of Egypt and not executed judgments upon them --- it would have been enough. Had He executed judgments upon them and not upon their gods --- it would have been enough.*[^292]
+> *How many good things has the Omnipresent bestowed upon us! Had He brought us out of Egypt and not executed judgments upon them -- it would have been enough. Had He executed judgments upon them and not upon their gods -- it would have been enough.*[^292]
 
-The student of rhetoric will recognize this as a sustained application of *climax* or *gradatio* --- the figure in which each successive clause builds upon the previous one, creating a staircase of ascending significance. The refrain *dayenu* functions as an *epiphonema* --- a summarizing exclamation that punctuates each stage of the ascent. The cumulative effect is one of overwhelming gratitude --- a pathos that is generated not by a single emotional appeal but by the relentless accumulation of fifteen successive instances of divine beneficence.
+The student of rhetoric will recognize this as a sustained application of *climax* or *gradatio* -- the figure in which each successive clause builds upon the previous one, creating a staircase of ascending significance. The refrain *dayenu* functions as an *epiphonema* -- a summarizing exclamation that punctuates each stage of the ascent. The cumulative effect is one of overwhelming gratitude -- a pathos that is generated not by a single emotional appeal but by the relentless accumulation of fifteen successive instances of divine beneficence.
 
 #### Peroratio: "In Every Generation" and Hallel
 
@@ -3771,9 +3771,9 @@ The peroratio of the Haggadah begins with the declaration:
 
 This statement is the rhetorical *summum* of the Haggadah: it collapses the historical narrative into a personal, present-tense experience, demanding that the listener not merely *know* the story of the Exodus but *identify* with it. This is the ultimate goal of the oration: not mere intellectual assent but existential transformation.
 
-The peroratio continues with the singing of *Hallel* (Psalms 113--118) --- psalms of praise and thanksgiving that provide the final emotional catharsis. The progression from slavery to freedom, from affliction to redemption, from historical narrative to personal identification, culminates in spontaneous praise. This is the *adfectus* --- the final emotional arousal --- that Cicero and Quintilian recommend for the peroratio: the audience is moved not merely to agree with the argument but to *celebrate* it.
+The peroratio continues with the singing of *Hallel* (Psalms 113--118) -- psalms of praise and thanksgiving that provide the final emotional catharsis. The progression from slavery to freedom, from affliction to redemption, from historical narrative to personal identification, culminates in spontaneous praise. This is the *adfectus* -- the final emotional arousal -- that Cicero and Quintilian recommend for the peroratio: the audience is moved not merely to agree with the argument but to *celebrate* it.
 
-In sum, the Passover Haggadah exhibits every element of the classical oration: exordium (*Ha Lahma Anya*, *Mah Nishtanah*), narratio ("We were slaves"), divisio (Four Sons), confirmatio (Deuteronomy 26 midrash), amplificatio (plagues, Dayenu), and peroratio ("In every generation," Hallel). It accomplishes this within a liturgical framework that integrates the oration with ritual action --- the eating of matzah and bitter herbs, the drinking of four cups of wine --- so that the persuasion is enacted bodily as well as verbally. No text from any ancient tradition provides a more complete, more sophisticated, or more effective example of a fully arranged rhetorical performance.[^294]
+In sum, the Passover Haggadah exhibits every element of the classical oration: exordium (*Ha Lahma Anya*, *Mah Nishtanah*), narratio ("We were slaves"), divisio (Four Sons), confirmatio (Deuteronomy 26 midrash), amplificatio (plagues, Dayenu), and peroratio ("In every generation," Hallel). It accomplishes this within a liturgical framework that integrates the oration with ritual action -- the eating of matzah and bitter herbs, the drinking of four cups of wine -- so that the persuasion is enacted bodily as well as verbally. No text from any ancient tradition provides a more complete, more sophisticated, or more effective example of a fully arranged rhetorical performance.[^294]
 
 ---
 
@@ -3781,17 +3781,17 @@ In sum, the Passover Haggadah exhibits every element of the classical oration: e
 
 ### V.A. The Three Levels of Style
 
-The third of the five faculties of the orator --- style, or *elocutio* --- is the art of clothing the discovered arguments in appropriate language. Cicero, in the *Orator* (20--21), establishes the doctrine of the three levels of style --- the *tria genera dicendi* --- that has governed all subsequent discussion of rhetorical register. The anonymous author of the *Rhetorica ad Herennium* provides the fullest early treatment (4.8--11), and Quintilian synthesizes the tradition with his customary magisterial comprehensiveness (Inst. Or. 12.10.58--72).[^295]
+The third of the five faculties of the orator -- style, or *elocutio* -- is the art of clothing the discovered arguments in appropriate language. Cicero, in the *Orator* (20--21), establishes the doctrine of the three levels of style -- the *tria genera dicendi* -- that has governed all subsequent discussion of rhetorical register. The anonymous author of the *Rhetorica ad Herennium* provides the fullest early treatment (4.8--11), and Quintilian synthesizes the tradition with his customary magisterial comprehensiveness (Inst. Or. 12.10.58--72).[^295]
 
 The three levels are:
 
-1. **The Grand Style** (*genus grande* / *genus sublime*): characterized by gravity of diction, elaborate periodic structure, emotional intensity, and the full deployment of figures and tropes. This is the style appropriate to the most weighty subjects --- matters of life and death, of cosmic significance, of supreme moral urgency. Cicero associates it with the power to move (*movere*) the audience.
+1. **The Grand Style** (*genus grande* / *genus sublime*): characterized by gravity of diction, elaborate periodic structure, emotional intensity, and the full deployment of figures and tropes. This is the style appropriate to the most weighty subjects -- matters of life and death, of cosmic significance, of supreme moral urgency. Cicero associates it with the power to move (*movere*) the audience.
 
 2. **The Middle Style** (*genus medium* / *genus mediocre*): characterized by smoothness, moderate ornamentation, and a balanced tone that is neither plain nor grand. This is the style of explanation, of persuasion through charm and clarity, of instruction that engages without overwhelming. Cicero associates it with the power to please (*delectare*).
 
 3. **The Plain Style** (*genus tenue* / *genus subtile*): characterized by simplicity of diction, brevity, precision, and the avoidance of ornament except where absolutely necessary. This is the style of proof, of logical demonstration, of instruction that illuminates through clarity rather than through emotional force. Cicero associates it with the power to teach (*docere*).[^296]
 
-The student of rhetoric will find all three levels fully exemplified in the literary production of the Judaean sages, and will observe that the Judaean tradition exhibits a remarkably refined awareness --- both theoretical and practical --- of the distinction among registers.
+The student of rhetoric will find all three levels fully exemplified in the literary production of the Judaean sages, and will observe that the Judaean tradition exhibits a remarkably refined awareness -- both theoretical and practical -- of the distinction among registers.
 
 #### The Grand Style (*Genus Grande* / *Lashon Gavo'ah*)
 
@@ -3806,15 +3806,15 @@ Consider the description of the High Priest's emergence from the Holy of Holies 
 > *like the sun shining upon the Temple of the Most High,*
 > *like the rainbow appearing among the clouds of glory.*[^297]
 
-This is the grand style in its full elaboration: extended simile, parallelism, accumulated imagery, cosmic reference. Every device of heightened language is deployed to convey the transcendent grandeur of the scene. The rhetorical purpose is *movere* --- to overwhelm the audience with the sublimity of the subject, to make them feel, through the force of language, what the original witnesses felt in the presence of the ritual itself.
+This is the grand style in its full elaboration: extended simile, parallelism, accumulated imagery, cosmic reference. Every device of heightened language is deployed to convey the transcendent grandeur of the scene. The rhetorical purpose is *movere* -- to overwhelm the audience with the sublimity of the subject, to make them feel, through the force of language, what the original witnesses felt in the presence of the ritual itself.
 
 The Mishnah's own description of the Yom Kippur service in tractate Yoma, while more restrained than Ben Sira, nonetheless rises to the grand style at its climactic moments:
 
 > <span dir="rtl">ובא לו אצל שעיר המשתלח, וסמך שתי ידיו עליו והתודה. וכך היה אומר: אנא ה', חטאו, עוו, פשעו לפניך עמך בית ישראל. אנא בשם, כפר נא לחטאים ולעוונות ולפשעים שחטאו ושעוו ושפשעו לפניך עמך בית ישראל. ככתוב בתורת משה עבדך לאמור: כי ביום הזה יכפר עליכם לטהר אתכם מכל חטאתיכם לפני ה' תטהרו</span>
 >
-> *He came to the scapegoat and laid both his hands upon it and confessed. And thus he would say: "Please, O Lord --- they have sinned, they have transgressed, they have committed iniquity before You, Your people the House of Israel. Please, in the Name --- grant atonement for the sins, transgressions, and iniquities that they have sinned, transgressed, and committed before You, Your people the House of Israel. As it is written in the Torah of Moses Your servant: For on this day shall atonement be made for you, to cleanse you from all your sins; before the Lord you shall be clean."*[^298]
+> *He came to the scapegoat and laid both his hands upon it and confessed. And thus he would say: "Please, O Lord -- they have sinned, they have transgressed, they have committed iniquity before You, Your people the House of Israel. Please, in the Name -- grant atonement for the sins, transgressions, and iniquities that they have sinned, transgressed, and committed before You, Your people the House of Israel. As it is written in the Torah of Moses Your servant: For on this day shall atonement be made for you, to cleanse you from all your sins; before the Lord you shall be clean."*[^298]
 
-The threefold repetition --- sins, transgressions, iniquities --- is a form of *congeries* or *accumulatio*, the heaping of near-synonyms for the purpose of emotional amplification. The invocation of the divine Name, the direct address to God, the liturgical solemnity of the formula --- all mark this as grand-style discourse, appropriate to the gravest occasion in the Judaean liturgical calendar.
+The threefold repetition -- sins, transgressions, iniquities -- is a form of *congeries* or *accumulatio*, the heaping of near-synonyms for the purpose of emotional amplification. The invocation of the divine Name, the direct address to God, the liturgical solemnity of the formula -- all mark this as grand-style discourse, appropriate to the gravest occasion in the Judaean liturgical calendar.
 
 And when the Mishnah records the response of the assembled people:
 
@@ -3822,7 +3822,7 @@ And when the Mishnah records the response of the assembled people:
 >
 > *And the priests and the people standing in the Temple court, when they heard the Explicit Name issuing from the mouth of the High Priest, would bow and prostrate themselves and fall upon their faces, saying: "Blessed be the Name of His glorious kingdom forever and ever."*[^299]
 
-Here the grand style reaches its apex: the Name that is never spoken is spoken, the people prostrate themselves, and the response itself --- "Blessed be the Name of His glorious kingdom forever and ever" --- is a doxology of cosmic scope. The Mishnah's narration is restrained, but the restraint is itself a rhetorical device: by understating the emotional impact, the text compels the reader to supply it from his own imagination.
+Here the grand style reaches its apex: the Name that is never spoken is spoken, the people prostrate themselves, and the response itself -- "Blessed be the Name of His glorious kingdom forever and ever" -- is a doxology of cosmic scope. The Mishnah's narration is restrained, but the restraint is itself a rhetorical device: by understating the emotional impact, the text compels the reader to supply it from his own imagination.
 
 #### The Middle Style (*Genus Medium* / *Lashon Beinonit*)
 
@@ -3834,9 +3834,9 @@ The characteristic Mishnaic teaching passage exemplifies this register:
 >
 > *Rabbi Hananiah ben Akashya says: The Holy One, blessed be He, wished to grant merit to Israel; therefore He multiplied for them Torah and commandments, as it is said: "The Lord desired, for the sake of His righteousness, to make Torah great and glorious" (Isaiah 42:21).*[^300]
 
-This is neither grand nor plain: it contains a theological proposition, supported by a scriptural proof, expressed in clear and moderately adorned language. The style is appropriate to its purpose --- instruction --- and it achieves its effect through clarity and authority rather than through emotional force or extreme compression.
+This is neither grand nor plain: it contains a theological proposition, supported by a scriptural proof, expressed in clear and moderately adorned language. The style is appropriate to its purpose -- instruction -- and it achieves its effect through clarity and authority rather than through emotional force or extreme compression.
 
-The sugyot (Talmudic discussions) of the Babylonian Talmud generally operate in the middle style as well: the exchange of propositions and objections, the citation of authorities, the resolution of contradictions --- all are conducted in a register that is precise without being austere, articulate without being ornate.
+The sugyot (Talmudic discussions) of the Babylonian Talmud generally operate in the middle style as well: the exchange of propositions and objections, the citation of authorities, the resolution of contradictions -- all are conducted in a register that is precise without being austere, articulate without being ornate.
 
 #### The Plain Style (*Genus Tenue* / *Lashon Peshutah*)
 
@@ -3852,7 +3852,7 @@ The great exemplar of the plain style among the Judaean sages is Hillel the Elde
 >
 > *If I am not for myself, who is for me? And when I am only for myself, what am I? And if not now, when?*[^302]
 
-Three questions, eighteen words in the Hebrew, containing a complete philosophy of moral agency. There is no ornament, no figure, no elaboration --- only the irreducible clarity of the thought itself. This is the plain style at its most powerful: not plain because it lacks art, but plain because the art has been so thoroughly absorbed that it is invisible.
+Three questions, eighteen words in the Hebrew, containing a complete philosophy of moral agency. There is no ornament, no figure, no elaboration -- only the irreducible clarity of the thought itself. This is the plain style at its most powerful: not plain because it lacks art, but plain because the art has been so thoroughly absorbed that it is invisible.
 
 Similarly:
 
@@ -3862,15 +3862,15 @@ Similarly:
 
 Seven words. No qualification, no explanation, no scriptural proof. The aphorism stands alone, and its force derives entirely from the precision with which it captures a universal moral truth in the fewest possible words. This is what Quintilian means when he speaks of the *virtus* of brevity: "not to say less than is necessary, but never to say more" (Inst. Or. 8.2.22).
 
-The student of rhetoric should observe that the Judaean sage is instructed to default to the plain style --- "teach always in concise language" --- and to reserve the grand and middle styles for occasions that warrant them. This preference for plainness as the default register is itself a stylistic choice of great sophistication: it ensures that when the sage *does* rise to the grand style, the elevation is felt as a genuine departure, and its emotional impact is correspondingly greater.
+The student of rhetoric should observe that the Judaean sage is instructed to default to the plain style -- "teach always in concise language" -- and to reserve the grand and middle styles for occasions that warrant them. This preference for plainness as the default register is itself a stylistic choice of great sophistication: it ensures that when the sage *does* rise to the grand style, the elevation is felt as a genuine departure, and its emotional impact is correspondingly greater.
 
 ---
 
 ### V.B. Figures of Speech (*Schemata Lexeos*)
 
-The *figurae verborum* (figures of speech) --- called *schēmata lexeōs* by the Greeks --- are the patterns of language through which the orator shapes his utterances for maximum effect. They are not ornaments added to discourse from without; they are the structural principles by which language is organized to reinforce meaning. As Quintilian observes, a figure is "a form of expression that departs from the straight and simple mode" (Inst. Or. 9.1.4), and the departure serves a purpose: emphasis, clarity, memorability, or emotional force.[^304]
+The *figurae verborum* (figures of speech) -- called *schēmata lexeōs* by the Greeks -- are the patterns of language through which the orator shapes his utterances for maximum effect. They are not ornaments added to discourse from without; they are the structural principles by which language is organized to reinforce meaning. As Quintilian observes, a figure is "a form of expression that departs from the straight and simple mode" (Inst. Or. 9.1.4), and the departure serves a purpose: emphasis, clarity, memorability, or emotional force.[^304]
 
-The *Rhetorica ad Herennium* provides the most systematic early catalogue of the figures (4.13--46), and Quintilian's treatment in Books 8 and 9 of the *Institutio* remains the most comprehensive in antiquity. The student of rhetoric will find that the Judaean literary corpus --- particularly the Mishnah, the tannaitic midrashim, and Pirkei Avot --- exhibits a remarkably rich deployment of these same figures, often in forms that rival the most accomplished specimens of Greco-Roman oratory.
+The *Rhetorica ad Herennium* provides the most systematic early catalogue of the figures (4.13--46), and Quintilian's treatment in Books 8 and 9 of the *Institutio* remains the most comprehensive in antiquity. The student of rhetoric will find that the Judaean literary corpus -- particularly the Mishnah, the tannaitic midrashim, and Pirkei Avot -- exhibits a remarkably rich deployment of these same figures, often in forms that rival the most accomplished specimens of Greco-Roman oratory.
 
 #### Anaphora (*Epanaphora* / Repetition at the Start)
 
@@ -3882,7 +3882,7 @@ The Judaean tradition provides extraordinary examples of sustained anaphora. The
 >
 > *When Rabbi Meir died, the composers of parables ceased. When Ben Azzai died, the diligent students ceased. When Ben Zoma died, the expositors ceased. When Rabbi Yehoshua died, goodness departed from the world. When Rabban Shimon ben Gamaliel died, locusts came and troubles multiplied. When Rabbi Eliezer ben Azariah died, wealth departed from the sages. When Rabbi Akiva died, the glory of Torah ceased. When Rabbi Hanina ben Dosa died, the men of deeds ceased. When Rabbi Yose the Small died, the pious ones ceased.*[^306]
 
-The anaphora *mi-she-met* ("when X died") is repeated nine times, each repetition driving deeper the theme of irreplaceable loss. The figure creates a sense of cumulative devastation: each death is presented as the extinction of an entire category of human excellence, and the succession of losses conveys the image of a civilization declining sage by sage toward spiritual impoverishment. This is anaphora employed not merely for emphasis but for the construction of a historical argument --- the argument that the golden age is past and each generation is diminished from its predecessor.
+The anaphora *mi-she-met* ("when X died") is repeated nine times, each repetition driving deeper the theme of irreplaceable loss. The figure creates a sense of cumulative devastation: each death is presented as the extinction of an entire category of human excellence, and the succession of losses conveys the image of a civilization declining sage by sage toward spiritual impoverishment. This is anaphora employed not merely for emphasis but for the construction of a historical argument -- the argument that the golden age is past and each generation is diminished from its predecessor.
 
 #### Antithesis (*Antitheton*)
 
@@ -3906,7 +3906,7 @@ Here the antithesis between exterior (*qanqan*, the vessel) and interior (*mah s
 
 #### Erotesis (Rhetorical Question)
 
-Erotesis --- the rhetorical question, asked not to elicit information but to make a point --- is perhaps the most pervasive figure in the Talmudic literary corpus. Quintilian notes that the rhetorical question "adds great force to oratory" (Inst. Or. 9.2.6), and the Judaean sages deploy it constantly.[^310]
+Erotesis -- the rhetorical question, asked not to elicit information but to make a point -- is perhaps the most pervasive figure in the Talmudic literary corpus. Quintilian notes that the rhetorical question "adds great force to oratory" (Inst. Or. 9.2.6), and the Judaean sages deploy it constantly.[^310]
 
 The characteristic Talmudic formula of rhetorical questioning is:
 
@@ -3934,7 +3934,7 @@ The most celebrated example of gradatio in the entire Judaean literary corpus is
 >
 > *Rabbi Pinhas ben Yair says: Diligence leads to cleanliness, and cleanliness leads to purity, and purity leads to abstinence, and abstinence leads to holiness, and holiness leads to humility, and humility leads to fear of sin, and fear of sin leads to piety, and piety leads to the Holy Spirit, and the Holy Spirit leads to the resurrection of the dead.*[^313]
 
-This is gradatio of the purest form: a ten-stage ascending chain in which each virtue gives rise to the next, climbing from the most accessible human effort (diligence) to the most transcendent divine gift (resurrection). The figure creates an irresistible sense of progression --- the listener is carried upward as if on a staircase, each step making the next seem both natural and inevitable.
+This is gradatio of the purest form: a ten-stage ascending chain in which each virtue gives rise to the next, climbing from the most accessible human effort (diligence) to the most transcendent divine gift (resurrection). The figure creates an irresistible sense of progression -- the listener is carried upward as if on a staircase, each step making the next seem both natural and inevitable.
 
 The student of rhetoric will observe that this chain functions simultaneously as a figure of style and as an argument of substance: it is a theory of moral development expressed in the form of a climactic figure. The style *is* the argument. This fusion of form and content is the hallmark of the most accomplished rhetoric in any tradition.
 
@@ -3948,7 +3948,7 @@ Pirkei Avot is a treasury of isocolic construction:
 >
 > *On three things the world stands: on Torah, on worship, and on deeds of lovingkindness.*[^315]
 
-Three cola, each consisting of a preposition (*al*) followed by an abstract noun preceded by the definite article, perfectly balanced in length and structure. The tricolon is the most natural form of isocolon, and the Judaean sages employ it with extraordinary frequency --- as if they had absorbed Quintilian's observation that "three is the most complete number for rhetorical purposes" (Inst. Or. 9.3.77).
+Three cola, each consisting of a preposition (*al*) followed by an abstract noun preceded by the definite article, perfectly balanced in length and structure. The tricolon is the most natural form of isocolon, and the Judaean sages employ it with extraordinary frequency -- as if they had absorbed Quintilian's observation that "three is the most complete number for rhetorical purposes" (Inst. Or. 9.3.77).
 
 #### Chiasmus (*Chiasmos*)
 
@@ -3968,19 +3968,19 @@ Midrashic literature employs chiasmus on a larger scale as well. Extended passag
 
 Asyndeton is the omission of conjunctions between successive clauses or items in a series, creating an effect of rapidity, urgency, or overwhelming accumulation. Quintilian treats it as a figure of "animated and excited speech" (Inst. Or. 9.3.50).[^319]
 
-The Mishnah's characteristic legal style is asyndetic. Consider the enumeration of the thirty-nine prohibited labors on the Sabbath (Shabbat 7:2), quoted in full above in section III.B. The list is delivered without a single connecting conjunction --- each labor is simply placed next to the last, creating an effect of relentless accumulation:
+The Mishnah's characteristic legal style is asyndetic. Consider the enumeration of the thirty-nine prohibited labors on the Sabbath (Shabbat 7:2), quoted in full above in section III.B. The list is delivered without a single connecting conjunction -- each labor is simply placed next to the last, creating an effect of relentless accumulation:
 
 > <span dir="rtl">הזורע, והחורש, והקוצר, והמעמר, הדש, והזורה, הבורר, הטוחן...</span>
 >
 > *Sowing, plowing, reaping, binding sheaves, threshing, winnowing, selecting, grinding...*[^320]
 
-The asyndeton --- the absence of any connecting particle beyond the simple *vav* (and) --- creates a sense of comprehensiveness and finality: these are not arbitrary selections but an exhaustive taxonomy, and the bare listing style conveys the impression that every possible labor has been catalogued.
+The asyndeton -- the absence of any connecting particle beyond the simple *vav* (and) -- creates a sense of comprehensiveness and finality: these are not arbitrary selections but an exhaustive taxonomy, and the bare listing style conveys the impression that every possible labor has been catalogued.
 
 #### Polysyndeton
 
 Polysyndeton is the opposite of asyndeton: the repeated use of conjunctions between successive clauses, creating an effect of solemn accumulation and ceremonial weight. Quintilian notes that polysyndeton "adds a certain weight and impressiveness" (Inst. Or. 9.3.50).[^321]
 
-The Judaean liturgical tradition provides the finest examples. The litany of divine attributes in the High Holiday liturgy --- the *Thirteen Attributes of Mercy* --- employs polysyndeton to create a sense of overwhelming divine compassion:
+The Judaean liturgical tradition provides the finest examples. The litany of divine attributes in the High Holiday liturgy -- the *Thirteen Attributes of Mercy* -- employs polysyndeton to create a sense of overwhelming divine compassion:
 
 > <span dir="rtl">ה' ה' אל רחום וחנון, ארך אפים ורב חסד ואמת, נוצר חסד לאלפים, נושא עון ופשע וחטאה ונקה</span>
 >
@@ -3990,7 +3990,7 @@ The repeated *and* (*ve-*) connecting each attribute creates a sense of liturgic
 
 #### Parison / Parallelism (*Parisōsis*)
 
-Parison --- the structuring of successive clauses in parallel grammatical patterns --- is the most pervasive figure in Mishnaic style. Quintilian identifies it as a fundamental principle of prose rhythm (Inst. Or. 9.3.79--80), and the *Rhetorica ad Herennium* treats it alongside isocolon as a figure of balanced construction (4.20.27).[^323]
+Parison -- the structuring of successive clauses in parallel grammatical patterns -- is the most pervasive figure in Mishnaic style. Quintilian identifies it as a fundamental principle of prose rhythm (Inst. Or. 9.3.79--80), and the *Rhetorica ad Herennium* treats it alongside isocolon as a figure of balanced construction (4.20.27).[^323]
 
 The Mishnah's dispute formulae are paradigmatically parallel:
 
@@ -3998,21 +3998,21 @@ The Mishnah's dispute formulae are paradigmatically parallel:
 >
 > *Beit Shammai say... and Beit Hillel say...*[^324]
 
-The syntactic parallelism --- identical grammatical structure on both sides of the dispute --- enacts the rhetorical equality of the two positions: each school is given the same formal weight, the same structural dignity, even when the halakhah follows one against the other. The parallelism is not ornamental; it is a structural expression of the principle that both positions are "words of the living God."
+The syntactic parallelism -- identical grammatical structure on both sides of the dispute -- enacts the rhetorical equality of the two positions: each school is given the same formal weight, the same structural dignity, even when the halakhah follows one against the other. The parallelism is not ornamental; it is a structural expression of the principle that both positions are "words of the living God."
 
 ---
 
 ### V.C. Tropes (*Tropoi*)
 
-If figures of speech are patterns of arrangement --- ways of organizing words and clauses for effect --- tropes are modes of *substitution*: they replace a literal or expected term with a figurative one, creating a new meaning through the tension between what is said and what is meant. Quintilian defines a trope as "the artistic alteration of a word or phrase from its proper meaning to another" (Inst. Or. 8.6.1), and he catalogues the principal tropes in Book 8, chapter 6, of the *Institutio*.[^325]
+If figures of speech are patterns of arrangement -- ways of organizing words and clauses for effect -- tropes are modes of *substitution*: they replace a literal or expected term with a figurative one, creating a new meaning through the tension between what is said and what is meant. Quintilian defines a trope as "the artistic alteration of a word or phrase from its proper meaning to another" (Inst. Or. 8.6.1), and he catalogues the principal tropes in Book 8, chapter 6, of the *Institutio*.[^325]
 
 The student of rhetoric will find all the major tropes of the Greco-Roman tradition abundantly exemplified in the Judaean literary corpus, often deployed with a sophistication that reveals conscious artistry.
 
 #### Metaphor (*Metaphora* / *Mashal*)
 
-Metaphor --- the application of a name or description belonging to one thing to another on the basis of some resemblance --- is, as Aristotle says, "the most important thing by far" in the poet's and the orator's art (Poetics 1459a). Quintilian agrees: "On the whole, metaphor is a shorter form of simile" and "it adds greatly to the ornament of style" (Inst. Or. 8.6.8).[^326]
+Metaphor -- the application of a name or description belonging to one thing to another on the basis of some resemblance -- is, as Aristotle says, "the most important thing by far" in the poet's and the orator's art (Poetics 1459a). Quintilian agrees: "On the whole, metaphor is a shorter form of simile" and "it adds greatly to the ornament of style" (Inst. Or. 8.6.8).[^326]
 
-The Judaean sages have developed a rich tradition of metaphorical language, particularly in the characterization of Torah itself. The dominant metaphors for Torah are drawn from the natural elements --- water, fire, wine, honey, milk --- each capturing a different aspect of the Torah's nature:
+The Judaean sages have developed a rich tradition of metaphorical language, particularly in the characterization of Torah itself. The dominant metaphors for Torah are drawn from the natural elements -- water, fire, wine, honey, milk -- each capturing a different aspect of the Torah's nature:
 
 > <span dir="rtl">אין מים אלא תורה, שנאמר: "הוי כל צמא לכו למים"</span>
 >
@@ -4024,7 +4024,7 @@ And further, in the extended simile preserved in Ta'anit 7a:
 >
 > *Why are the words of Torah compared to water? Just as water leaves a high place and flows to a low place, so the words of Torah endure only in one whose mind is humble.*[^328]
 
-The student of rhetoric will observe that this is not a single metaphor but an *extended* metaphor --- what the Greek rhetoricians call *allēgoria* (see below) --- in which the physical properties of water are systematically mapped onto the spiritual properties of Torah. The humility of water (its tendency to flow downward) corresponds to the humility required of the student; the accessibility of water (its availability to all) corresponds to the universality of Torah; the necessity of water for life corresponds to the necessity of Torah for the soul. Each element of the metaphor carries its own argument.
+The student of rhetoric will observe that this is not a single metaphor but an *extended* metaphor -- what the Greek rhetoricians call *allēgoria* (see below) -- in which the physical properties of water are systematically mapped onto the spiritual properties of Torah. The humility of water (its tendency to flow downward) corresponds to the humility required of the student; the accessibility of water (its availability to all) corresponds to the universality of Torah; the necessity of water for life corresponds to the necessity of Torah for the soul. Each element of the metaphor carries its own argument.
 
 Torah is also compared to fire:
 
@@ -4032,11 +4032,11 @@ Torah is also compared to fire:
 >
 > *Just as fire does not burn in isolation, so the words of Torah do not endure in one who studies alone.*[^329]
 
-Here the metaphor serves a social argument: Torah, like fire, requires the friction of contact, the interaction of minds, the communal setting of the bet midrash. The metaphor is not decorative but argumentative --- it does not merely illustrate the proposition but *proves* it, by appealing to a universally observed physical phenomenon.
+Here the metaphor serves a social argument: Torah, like fire, requires the friction of contact, the interaction of minds, the communal setting of the bet midrash. The metaphor is not decorative but argumentative -- it does not merely illustrate the proposition but *proves* it, by appealing to a universally observed physical phenomenon.
 
 #### Metonymy (*Metōnymia* / *Kinui*)
 
-Metonymy is the substitution of a related term for the proper one --- cause for effect, container for contained, attribute for subject. Quintilian treats it as the simplest and most common of the tropes (Inst. Or. 8.6.23--28).[^330]
+Metonymy is the substitution of a related term for the proper one -- cause for effect, container for contained, attribute for subject. Quintilian treats it as the simplest and most common of the tropes (Inst. Or. 8.6.23--28).[^330]
 
 The most characteristic metonymy in Judaean discourse is the substitution of "Heaven" (*shamayim*) for God:
 
@@ -4044,7 +4044,7 @@ The most characteristic metonymy in Judaean discourse is the substitution of "He
 >
 > *One who fears Heaven*[^331]
 
---- meaning one who fears God. The term "Heaven" (*shamayim*) is used throughout rabbinic literature as a metonymic substitute for the divine name, out of reverence --- a practice that Quintilian would recognize as metonymy of the dwelling-place for the dweller, or of the location for the authority that resides there.
+--- meaning one who fears God. The term "Heaven" (*shamayim*) is used throughout rabbinic literature as a metonymic substitute for the divine name, out of reverence -- a practice that Quintilian would recognize as metonymy of the dwelling-place for the dweller, or of the location for the authority that resides there.
 
 Similarly, "the Name" (*ha-Shem*) is used for God, "the Torah" for the entire body of divine law and teaching, "the House" (*ha-bayit*) for the Temple, and "the Seat" (*ha-maqom*, literally "the Place") for the divine Presence. Each of these metonymies is conventional and instantly understood, demonstrating that metonymic substitution is a deeply embedded feature of Judaean rhetorical practice.
 
@@ -4058,7 +4058,7 @@ The phrase "all Israel" (*kol Yisrael*) is a characteristic Judaean synecdoche:
 >
 > *All Israel has a share in the world to come.*[^333]
 
-Here "all Israel" stands for the community as a whole, understood as a corporate entity. The synecdoche conveys the theological principle that Israel is a collective --- that the fate of the individual is bound up with the fate of the people, and that the promise of the world to come is addressed to the nation as a whole, not merely to its individual members.
+Here "all Israel" stands for the community as a whole, understood as a corporate entity. The synecdoche conveys the theological principle that Israel is a collective -- that the fate of the individual is bound up with the fate of the people, and that the promise of the world to come is addressed to the nation as a whole, not merely to its individual members.
 
 #### Hyperbole (*Hyperbolē* / *Guzma*)
 
@@ -4080,7 +4080,7 @@ Furthermore, the Talmud extends the principle of *guzma* beyond Scripture to rab
 >
 > *[This is] exaggeration.*[^336]
 
-This one-word gloss --- applied to various rabbinic statements that appear to claim impossibly large numbers, impossibly rapid events, or impossibly comprehensive knowledge --- functions as a technical rhetorical annotation: it alerts the student that the statement is not to be taken literally but as a figure of amplification. The very existence of this technical term demonstrates that the Judaean sages possessed a metalinguistic awareness of their own figurative practices.
+This one-word gloss -- applied to various rabbinic statements that appear to claim impossibly large numbers, impossibly rapid events, or impossibly comprehensive knowledge -- functions as a technical rhetorical annotation: it alerts the student that the statement is not to be taken literally but as a figure of amplification. The very existence of this technical term demonstrates that the Judaean sages possessed a metalinguistic awareness of their own figurative practices.
 
 #### Irony (*Eirōneia*)
 
@@ -4092,7 +4092,7 @@ The supreme example of irony in the Judaean scriptural tradition is the prophet 
 >
 > *And it was at noon that Elijah mocked them and said: "Call in a loud voice, for he is a god! Perhaps he is engaged in business, or perhaps he has stepped away, or perhaps he is on a journey. Perhaps he is asleep and will awaken."*[^338]
 
-The irony is devastating: Elijah ostensibly encourages the prophets of Baal while in fact exposing the absurdity of their worship. The "perhaps he is asleep" is not genuine speculation but mordant sarcasm --- a rhetorical strategy that works by appearing to take the opponent's position seriously while in fact demolishing it. This is precisely what Quintilian calls *eirōneia* in its purest form: the speaker says one thing and means its opposite, and the audience --- who shares the speaker's knowledge that Baal is powerless --- participates in the ironic understanding.
+The irony is devastating: Elijah ostensibly encourages the prophets of Baal while in fact exposing the absurdity of their worship. The "perhaps he is asleep" is not genuine speculation but mordant sarcasm -- a rhetorical strategy that works by appearing to take the opponent's position seriously while in fact demolishing it. This is precisely what Quintilian calls *eirōneia* in its purest form: the speaker says one thing and means its opposite, and the audience -- who shares the speaker's knowledge that Baal is powerless -- participates in the ironic understanding.
 
 #### Allegory (*Allēgoria* / *Remez*)
 
@@ -4114,9 +4114,9 @@ The Judaean literary tradition employs personification extensively. Torah itself
 
 > <span dir="rtl">בשעה שעלה משה למרום, אמרו מלאכי השרת לפני הקדוש ברוך הוא: רבונו של עולם, מה לילוד אישה בינינו? אמר להן: לקבל תורה בא. אמרו לפניו: חמודה גנוזה שגנוזה לך תשע מאות ושבעים וארבעה דורות קודם שנברא העולם, אתה מבקש ליתנה לבשר ודם?</span>
 >
-> *When Moses ascended on high, the ministering angels said before the Holy One, blessed be He: Master of the Universe, what is one born of woman doing among us? He said to them: He has come to receive the Torah. They said before Him: The precious treasure that has been hidden by You for nine hundred and seventy-four generations before the world was created --- You seek to give it to flesh and blood?*[^342]
+> *When Moses ascended on high, the ministering angels said before the Holy One, blessed be He: Master of the Universe, what is one born of woman doing among us? He said to them: He has come to receive the Torah. They said before Him: The precious treasure that has been hidden by You for nine hundred and seventy-four generations before the world was created -- You seek to give it to flesh and blood?*[^342]
 
-In this narrative, the Torah is personified as a "precious treasure" that speaks (through the angels) of its own desire to remain in heaven, and Moses must argue for its descent to earth. Wisdom (*hokhmah*) is similarly personified in Proverbs 8, where she declares: "The Lord created me at the beginning of His way" --- a personification that profoundly influenced both Judaean and Christian theological speculation.
+In this narrative, the Torah is personified as a "precious treasure" that speaks (through the angels) of its own desire to remain in heaven, and Moses must argue for its descent to earth. Wisdom (*hokhmah*) is similarly personified in Proverbs 8, where she declares: "The Lord created me at the beginning of His way" -- a personification that profoundly influenced both Judaean and Christian theological speculation.
 
 Death, too, is personified as a speaking character in rabbinic narrative. The Angel of Death appears as an interlocutor in numerous stories, engaging the sages in dialogue:
 
@@ -4124,19 +4124,19 @@ Death, too, is personified as a speaking character in rabbinic narrative. The An
 >
 > *When Rabbi Yehoshua ben Levi was dying, they said to the Angel of Death: Go and fulfill his wish.*[^343]
 
-The personification of Death as a negotiating partner transforms an abstract and terrifying concept into a character with whom the sage can reason, bargain, and ultimately triumph through wit. This is prosopopoeia deployed for theological purposes --- the sage's rhetorical mastery extends even beyond the boundaries of life itself.
+The personification of Death as a negotiating partner transforms an abstract and terrifying concept into a character with whom the sage can reason, bargain, and ultimately triumph through wit. This is prosopopoeia deployed for theological purposes -- the sage's rhetorical mastery extends even beyond the boundaries of life itself.
 
 ---
 
 ### V.D. Wordplay as Rhetorical Device
 
-The final category of stylistic devices to be considered is wordplay --- the exploitation of the phonetic, graphic, and numerical properties of language for argumentative or ornamental purposes. Quintilian treats wordplay under the heading of wit and humor (Inst. Or. 6.3), but acknowledges that it extends well beyond the merely humorous to encompass serious argumentative techniques.[^344]
+The final category of stylistic devices to be considered is wordplay -- the exploitation of the phonetic, graphic, and numerical properties of language for argumentative or ornamental purposes. Quintilian treats wordplay under the heading of wit and humor (Inst. Or. 6.3), but acknowledges that it extends well beyond the merely humorous to encompass serious argumentative techniques.[^344]
 
 The Judaean tradition has developed wordplay into a systematic hermeneutical method, with several distinct species of phonetic and graphic manipulation, each with its own technical name and established conventions of use.
 
 #### Paronomasia: *Al Tiqrei* (Sound-Alike Readings)
 
-The most characteristic form of Judaean wordplay is the *al tiqrei* formula --- literally, "do not read [it as X] but rather [as Y]" --- in which a word in Scripture is re-vocalized to yield a different meaning. Since the Hebrew consonantal text admits of multiple vocalizations, the *al tiqrei* exploits this ambiguity to generate additional interpretations.[^345]
+The most characteristic form of Judaean wordplay is the *al tiqrei* formula -- literally, "do not read [it as X] but rather [as Y]" -- in which a word in Scripture is re-vocalized to yield a different meaning. Since the Hebrew consonantal text admits of multiple vocalizations, the *al tiqrei* exploits this ambiguity to generate additional interpretations.[^345]
 
 The most celebrated example appears at the conclusion of tractate Berakhot (64a):
 
@@ -4144,7 +4144,7 @@ The most celebrated example appears at the conclusion of tractate Berakhot (64a)
 >
 > *Do not read "your children" [*banayikh*] but "your builders" [*bonayikh*].*[^346]
 
-The verse in question is Isaiah 54:13: "And all your children (*banayikh*) shall be taught of the Lord, and great shall be the peace of your children." By re-vocalizing *banayikh* (your children) as *bonayikh* (your builders), the sages transform the verse from a promise about children into a statement about scholars: "All your builders --- that is, the scholars who study Torah --- shall be taught of the Lord, and great shall be the peace of your builders." The scholars who study Torah are the true builders of peace.
+The verse in question is Isaiah 54:13: "And all your children (*banayikh*) shall be taught of the Lord, and great shall be the peace of your children." By re-vocalizing *banayikh* (your children) as *bonayikh* (your builders), the sages transform the verse from a promise about children into a statement about scholars: "All your builders -- that is, the scholars who study Torah -- shall be taught of the Lord, and great shall be the peace of your builders." The scholars who study Torah are the true builders of peace.
 
 Another celebrated *al tiqrei*:
 
@@ -4154,7 +4154,7 @@ Another celebrated *al tiqrei*:
 
 The verse is Exodus 32:16: "And the tablets were the work of God, and the writing was the writing of God, engraved (*harut*) upon the tablets." By reading *harut* (engraved) as *herut* (freedom), the sages derive the principle: "There is no free person except one who occupies himself with the study of Torah." The wordplay is not frivolous; it is the vehicle for a serious theological argument about the nature of true freedom.
 
-The student of rhetoric will observe that the *al tiqrei* technique functions as a species of paronomasia --- the rhetorical figure of the pun or near-pun. Quintilian discusses paronomasia at length in his treatment of wit (Inst. Or. 6.3.53--56), and he recognizes that the figure can be employed for serious as well as humorous purposes. The Judaean *al tiqrei* is paronomasia in the service of scriptural interpretation: it exploits the phonetic similarity between two words to discover a new meaning in the sacred text.
+The student of rhetoric will observe that the *al tiqrei* technique functions as a species of paronomasia -- the rhetorical figure of the pun or near-pun. Quintilian discusses paronomasia at length in his treatment of wit (Inst. Or. 6.3.53--56), and he recognizes that the figure can be employed for serious as well as humorous purposes. The Judaean *al tiqrei* is paronomasia in the service of scriptural interpretation: it exploits the phonetic similarity between two words to discover a new meaning in the sacred text.
 
 #### Gematria: Numerical Equivalence
 
@@ -4166,7 +4166,7 @@ The classic example appears in Nedarim 32a:
 >
 > *Eliezer, the servant of Abraham: "Eliezer" by gematria equals three hundred and eighteen.*[^349]
 
-This is correlated with Genesis 14:14: "When Abram heard that his kinsman had been taken captive, he armed his trained men, born in his household --- three hundred and eighteen --- and pursued as far as Dan." The gematria of "Eliezer" (318) is equal to the number of Abram's trained men, suggesting that Eliezer alone was equivalent in power to all 318 fighters --- or, alternatively, that Abram's entire fighting force consisted of Eliezer alone.
+This is correlated with Genesis 14:14: "When Abram heard that his kinsman had been taken captive, he armed his trained men, born in his household -- three hundred and eighteen -- and pursued as far as Dan." The gematria of "Eliezer" (318) is equal to the number of Abram's trained men, suggesting that Eliezer alone was equivalent in power to all 318 fighters -- or, alternatively, that Abram's entire fighting force consisted of Eliezer alone.
 
 #### Notarikon: Acronymic Reading
 
@@ -4174,21 +4174,21 @@ Notarikon is the technique of reading the letters of a word as the initial lette
 
 An example from Shabbat 55a:
 
-> <span dir="rtl">"נמרצת" --- נ: נאה, מ: מוכחת, ר: רוח הקודש, צ: צדקת, ת: תמימה</span>
+> <span dir="rtl">"נמרצת" -- נ: נאה, מ: מוכחת, ר: רוח הקודש, צ: צדקת, ת: תמימה</span>
 >
-> *"Nimretzet" [forceful] --- Nun: beautiful; Mem: persuasive; Resh: [inspired by] the Holy Spirit; Tzadi: righteous; Tav: perfect.*[^351]
+> *"Nimretzet" [forceful] -- Nun: beautiful; Mem: persuasive; Resh: [inspired by] the Holy Spirit; Tzadi: righteous; Tav: perfect.*[^351]
 
-Each letter of the word is read as the initial of an adjective, transforming a single word into a five-part description. The technique functions as a form of analytical expansion --- a single term is unpacked into its constituent elements, revealing (or constructing) a richer meaning than the surface word alone conveys.
+Each letter of the word is read as the initial of an adjective, transforming a single word into a five-part description. The technique functions as a form of analytical expansion -- a single term is unpacked into its constituent elements, revealing (or constructing) a richer meaning than the surface word alone conveys.
 
 #### Atbash: Letter-Substitution
 
-Atbash is a cipher system in which the first letter of the alphabet is substituted for the last, the second for the second-to-last, and so on (aleph-tav, bet-shin, hence "atbash"). This technique is employed in Scripture itself --- the word "Sheshakh" in Jeremiah 25:26 and 51:41 is an atbash rendering of "Babel" (Babylon) --- and the sages continued to employ it as an interpretive device.[^352]
+Atbash is a cipher system in which the first letter of the alphabet is substituted for the last, the second for the second-to-last, and so on (aleph-tav, bet-shin, hence "atbash"). This technique is employed in Scripture itself -- the word "Sheshakh" in Jeremiah 25:26 and 51:41 is an atbash rendering of "Babel" (Babylon) -- and the sages continued to employ it as an interpretive device.[^352]
 
-The student of rhetoric will observe that these four species of wordplay --- paronomasia (*al tiqrei*), gematria, notarikon, and atbash --- constitute a systematic exploitation of the formal properties of the Hebrew language for argumentative purposes. They may appear whimsical to the uninitiated, but the student of rhetoric who has read Quintilian's treatment of wit and wordplay (Inst. Or. 6.3) will recognize that they serve the same fundamental function as the wordplay praised in the Greco-Roman tradition: they create memorable, striking, and intellectually stimulating arguments that engage the audience's attention and reward their linguistic sensitivity.[^353]
+The student of rhetoric will observe that these four species of wordplay -- paronomasia (*al tiqrei*), gematria, notarikon, and atbash -- constitute a systematic exploitation of the formal properties of the Hebrew language for argumentative purposes. They may appear whimsical to the uninitiated, but the student of rhetoric who has read Quintilian's treatment of wit and wordplay (Inst. Or. 6.3) will recognize that they serve the same fundamental function as the wordplay praised in the Greco-Roman tradition: they create memorable, striking, and intellectually stimulating arguments that engage the audience's attention and reward their linguistic sensitivity.[^353]
 
-Indeed, these devices serve a deeper function than mere cleverness. By demonstrating that the sacred text yields meaning not only through its semantic content but also through its phonetic, graphic, and numerical properties, the Judaean sages enact a theory of language in which every dimension of the word --- sound, shape, number, and sense --- is charged with interpretive potential. The text is not merely read; it is *explored*, layer by layer, dimension by dimension, with an intensity that treats every property of every letter as potentially significant. This hermeneutical maximalism has no precise parallel in Greco-Roman literary criticism, and it represents a distinctive Judaean contribution to the theory and practice of textual interpretation.
+Indeed, these devices serve a deeper function than mere cleverness. By demonstrating that the sacred text yields meaning not only through its semantic content but also through its phonetic, graphic, and numerical properties, the Judaean sages enact a theory of language in which every dimension of the word -- sound, shape, number, and sense -- is charged with interpretive potential. The text is not merely read; it is *explored*, layer by layer, dimension by dimension, with an intensity that treats every property of every letter as potentially significant. This hermeneutical maximalism has no precise parallel in Greco-Roman literary criticism, and it represents a distinctive Judaean contribution to the theory and practice of textual interpretation.
 
-No other ancient culture has developed so comprehensive a taxonomy of wordplay techniques, systematically named them, assigned them formal rules of application, and integrated them into a canonical hermeneutical method. These devices, far from being peripheral curiosities, stand at the center of the Judaean interpretive enterprise --- and the student of rhetoric who would understand that enterprise must master them.[^354]
+No other ancient culture has developed so comprehensive a taxonomy of wordplay techniques, systematically named them, assigned them formal rules of application, and integrated them into a canonical hermeneutical method. These devices, far from being peripheral curiosities, stand at the center of the Judaean interpretive enterprise -- and the student of rhetoric who would understand that enterprise must master them.[^354]
 
 ---
 
@@ -4290,7 +4290,7 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 
 [^232]: Sifra, Introduction, middah 6; see Chernick, *Hermeneutical Studies*, 135--145.
 
-[^233]: Sifra, Introduction, middah 7. This rule is particularly important because it establishes the principle of analogical extension guided by a paradigmatic example --- a principle that has significant structural parallels to Aristotle's *paradeigma* (Rhetoric 1.2, 1356b). See Chernick, *Hermeneutical Studies*, 145--155.
+[^233]: Sifra, Introduction, middah 7. This rule is particularly important because it establishes the principle of analogical extension guided by a paradigmatic example -- a principle that has significant structural parallels to Aristotle's *paradeigma* (Rhetoric 1.2, 1356b). See Chernick, *Hermeneutical Studies*, 145--155.
 
 [^234]: Sifra, Introduction, middah 8. On this middah as a principle of mutual illumination, see Chernick, *Hermeneutical Studies*, 155--165.
 
@@ -4326,7 +4326,7 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 
 [^250]: BT Gittin 56a--b. On Rabban Yohanan ben Zakkai's embassy to Vespasian, see Alon, *Jews, Judaism, and the Classical World* (Jerusalem: Magnes Press, 1977), 269--313; and the rhetorical analysis in Hidary, *Rabbis and Classical Rhetoric*, 201--210.
 
-[^251]: The rhetorical effectiveness of the episode is analyzed from the perspective of ēthos by Hidary, *Rabbis and Classical Rhetoric*, 205--208, who notes that the sage's prophetic authority is established through a combination of personal risk (ethos of courage), scriptural citation (logos), and the dramatic confirmation by the messenger (a providential reversal that functions as a divine endorsement of the speaker's character).
+[^251]: The rhetorical effectiveness of the episode is analyzed from the perspective of ēthos by Hidary, *Rabbis and Classical Rhetoric*, 205--208, who notes that the sage's prophetic authority is established through a combination of personal risk (ēthos of courage), scriptural citation (logos), and the dramatic confirmation by the messenger (a providential reversal that functions as a divine endorsement of the speaker's character).
 
 [^252]: BT Shabbat 30b--31a. The stories of Hillel's patience with questioners are classic demonstrations of gentle ēthos.
 
@@ -4350,7 +4350,7 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 
 [^262]: Cicero, *De Inventione* 1.20.15--21.25. On the distinction between *principium* and *insinuatio*, see Quintilian, Inst. Or. 4.1.42--50.
 
-[^263]: On the *petihta* as a distinctive form of rabbinic proem, see Heinemann, "The Proem in the Aggadic Midrashim: A Form-Critical Study," *Scripta Hierosolymitana* 22 (1971): 100--122; and Goldberg, "Die Petiha --- ein tannaitischer Midraschtyp," *Frankfurter Judaistische Beiträge* 10 (1982): 1--39.
+[^263]: On the *petihta* as a distinctive form of rabbinic proem, see Heinemann, "The Proem in the Aggadic Midrashim: A Form-Critical Study," *Scripta Hierosolymitana* 22 (1971): 100--122; and Goldberg, "Die Petiha -- ein tannaitischer Midraschtyp," *Frankfurter Judaistische Beiträge* 10 (1982): 1--39.
 
 [^264]: The specific petihta described here is reconstructed from materials in Bereshit Rabbah 1:1 and parallels. On the proem to Bereshit Rabbah and its rhetorical structure, see Heinemann, *Scripta Hierosolymitana* 22, 105--112.
 
@@ -4376,7 +4376,7 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 
 [^275]: On the *yakhol... talmud lomar* pattern, see Chernick, *Hermeneutical Studies*, 35--44; and Hidary, *Rabbis and Classical Rhetoric*, 165--170, who draws the comparison with Greco-Roman *refutatio*.
 
-[^276]: A quantitative study of the *yakhol... talmud lomar* formula in the Mekhilta, Sifra, and Sifrei would show it to be one of the most frequently recurring patterns in tannaitic literature --- appearing hundreds of times in the Sifra alone.
+[^276]: A quantitative study of the *yakhol... talmud lomar* formula in the Mekhilta, Sifra, and Sifrei would show it to be one of the most frequently recurring patterns in tannaitic literature -- appearing hundreds of times in the Sifra alone.
 
 [^277]: Cicero, *De Inventione* 1.52.98--56.109; Quintilian, Inst. Or. 6.1. On the emotional function of the peroratio, see also *Rhetorica ad Herennium* 2.30.47--31.50.
 
@@ -4533,14 +4533,6 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 [^353]: The comparison between rabbinic wordplay and Quintilian's treatment of wit is not merely formal. Quintilian recognizes that wordplay (*paronomasia*, *antanaclasis*, *syllepsis*) serves serious argumentative purposes: "I would not have anyone think that I rank these among the less important forms of wit; on the contrary, they give great pleasure" (Inst. Or. 6.3.53). The rabbinic tradition would concur: the wordplay is the vehicle, and the argument is the cargo.
 
 [^354]: On the uniqueness and significance of the rabbinic system of wordplay techniques, see Lieberman, *Hellenism in Jewish Palestine*, ch. 4 ("The Hermeneutical Rules"), 47--82, which remains the most authoritative treatment of the subject. See also Hidary, *Rabbis and Classical Rhetoric*, 270--285, for a comparative analysis of rabbinic and Greco-Roman approaches to wordplay.
-# Institutio Oratoria Hebraica
-
-## Parts VI--VIII and Back Matter
-
-*In which the art of memory, the art of delivery, and the advanced exercises of declamation are examined in the light of the Judaean sages' achievements, and the student is provided with a glossary of rhetorical terms, a comprehensive bibliography, and concluding reflections on the relationship between the Greco-Roman and Judaean rhetorical traditions.*
-
----
-
 ## PART VI: MEMORY (MEMORIA)
 
 > <span dir="rtl">עשה תורתך קבע</span>
@@ -4549,7 +4541,7 @@ No other ancient culture has developed so comprehensive a taxonomy of wordplay t
 
 > *Memoria est firma animi rerum ac verborum ad inventionem perceptio.*
 >
-> *Memory is the firm perception in the mind of things and words relevant to invention.* (*Rhetorica ad Herennium* 1.3.3)
+> *Memory is the firm perception in the mind of things and words relevant to invention.* (*Rhetorica ad Herennium* 3.16.28)
 
 The art of memory, which Cicero calls the treasure-house of all knowledge and the guardian of all the other parts of rhetoric, has nowhere been cultivated with greater rigor, greater system, or greater consequence than among the sages of Judaea.[^355] We have now traversed the arts of invention, arrangement, and style; but all of these are rendered void if the orator cannot retain in his mind the materials he has discovered, the order he has imposed upon them, and the language in which he has chosen to express them. Quintilian devotes the whole of his eleventh book's second chapter to this faculty, and he is right to place it among the essential competencies of the orator. Yet what Quintilian describes as a desirable accomplishment, the Judaean sages treated as an absolute necessity -- for in a culture where the foundational law was transmitted orally, without written texts, memory was not an auxiliary skill but the very medium of jurisprudence, pedagogy, and worship.
 
@@ -5335,7 +5327,7 @@ These conclusions are not merely historical; they have implications for the prac
 
 The student should carry these conclusions forward as he enters the world of independent study and public discourse. He has been trained in two traditions -- the Greco-Roman and the Judaean -- and he is equipped to draw on both.
 
-The Greco-Roman tradition gives him a vocabulary for analyzing rhetorical technique, a set of categories for classifying argumentative strategies, and a body of theoretical reflection on the nature and purposes of persuasive speech. He has learned from Aristotle to distinguish the three modes of persuasion -- logos, ethos, and pathos -- and to analyze any argument in terms of its logical, ethical, and emotional components. He has learned from Quintilian to attend to the practical dimensions of rhetorical performance -- the management of voice, gesture, and physical bearing. He has learned from Cicero that the ideal orator must be not merely skilled but wise, not merely eloquent but good.
+The Greco-Roman tradition gives him a vocabulary for analyzing rhetorical technique, a set of categories for classifying argumentative strategies, and a body of theoretical reflection on the nature and purposes of persuasive speech. He has learned from Aristotle to distinguish the three modes of persuasion -- logos, ēthos, and pathos -- and to analyze any argument in terms of its logical, ethical, and emotional components. He has learned from Quintilian to attend to the practical dimensions of rhetorical performance -- the management of voice, gesture, and physical bearing. He has learned from Cicero that the ideal orator must be not merely skilled but wise, not merely eloquent but good.
 
 The Judaean tradition gives him a corpus of material to study, a set of hermeneutical tools for interpreting that material, and a tradition of dialectical inquiry that values truth above victory and comprehensiveness above efficiency. He has learned from the sages that every argument must be traced to its textual source (*minayin?*), that both sides of every dispute deserve articulation and preservation (*eilu va-eilu*), that memory is the foundation of all learning, and that delivery is not merely a performing art but a sacral act.
 

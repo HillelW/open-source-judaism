@@ -6,9 +6,9 @@
 
 ---
 
-> <span dir="rtl">אמר רבי אבא: לא עמדו פילוסופין בעולם כבלעם בן בעור וכאונומוס איש גדרה</span>
+> <span dir="rtl">אמר רבי אבא בר כהנא: לא עמדו פילוסופין בעולם כבלעם בן בעור וכאונומוס איש גדרה</span>
 >
-> *Rabbi Abba said: No philosophers have been as great as Balaam son of Beor or Oenomaus of Gadara.*
+> *Rabbi Abba bar Kahana said: No philosophers have been as great as Balaam son of Beor or Oenomaus of Gadara.*
 > — Bereshit Rabbah 65:20
 
 ---
@@ -73,7 +73,7 @@ Dio's Oration 4 is particularly significant: it presents Diogenes lecturing Alex
 
 ### I.B.5. Lucian of Samosata
 
-Lucian of Samosata (c. 125–180 CE), a Syrian satirist writing in Greek, is one of our most important sources for later Cynicism, though his attitude toward the Cynics is deeply ambivalent — mixing admiration with biting satire. His relevant works include:
+Lucian of Samosata (c. 125–after 180 CE), a Syrian satirist writing in Greek, is one of our most important sources for later Cynicism, though his attitude toward the Cynics is deeply ambivalent — mixing admiration with biting satire. His relevant works include:
 
 - *Philosophies for Sale* (*Biōn Prasis*): a comic auction in which philosophical schools, including Cynicism, are sold as slaves — each school represented by its founder
 - *The Dead Come to Life* (*Anabiountes*): philosophers return from the dead to confront Lucian for his satires
@@ -85,7 +85,7 @@ Lucian's significance for the study of rabbinic parallels is twofold. First, his
 
 ### I.B.6. Julian the Apostate on Cynicism
 
-The Roman Emperor Julian (331–363 CE), known as "the Apostate" for his attempt to restore paganism, composed two orations on Cynicism: *Against the Uneducated Cynics* (Oration 6) and *Against Heraclius the Cynic* (Oration 7). Julian presents an idealized portrait of ancient Cynicism — dignified, austere, pious — and castigates contemporary Cynics for degrading the tradition through vulgarity and charlatanism. His account is valuable for two reasons: it preserves a fourth-century perspective on the Cynic tradition, and it articulates the distinction between genuine philosophical Cynicism and its debased popular form — a distinction that mirrors rabbinic ambivalence toward Cynic-like behavior.[^21]
+The Roman Emperor Julian (331–363 CE), known as "the Apostate" for his attempt to restore paganism, composed two orations on Cynicism: *To the Uneducated Cynics* (Oration 6) and *To the Cynic Heracleios* (Oration 7). Julian presents an idealized portrait of ancient Cynicism — dignified, austere, pious — and castigates contemporary Cynics for degrading the tradition through vulgarity and charlatanism. His account is valuable for two reasons: it preserves a fourth-century perspective on the Cynic tradition, and it articulates the distinction between genuine philosophical Cynicism and its debased popular form — a distinction that mirrors rabbinic ambivalence toward Cynic-like behavior.[^21]
 
 Julian identifies the core of authentic Cynicism as "know thyself" (*gnōthi sauton*) and self-sufficiency (*autarkeia*), achieved through rigorous self-discipline (*askēsis*). He explicitly connects Cynicism to Socratic philosophy and argues that Diogenes's provocative behavior was not mere exhibitionism but a deliberate pedagogical method. This interpretation — Cynicism as serious ethical discipline rather than mere social provocation — corresponds closely to the aspects of Cynicism that rabbinic literature appears to admire (see Part V.A).[^22]
 
@@ -113,7 +113,7 @@ Oenomaus (fl. c. 120 CE) is the Cynic philosopher most directly connected to the
 
 Oenomaus's work is remarkable for the violence of its attacks on oracles and the gods who supposedly inspire them. He declares the oracle at Delphi a fraud, accuses the gods of injustice and incompetence, and argues that fate and free will are incompatible with the oracular enterprise. His literary style draws on the tradition of Diogenes (whose *Politeia* he imitated), Crates (whose verse parodies he echoed), and his fellow Gadarene Menippus (whose *Exposure of the Charlatans* provided his model).[^30]
 
-The rabbinic response to Oenomaus is the subject of one of the most remarkable passages in midrashic literature. In Bereshit Rabbah 65:20, Rabbi Abba declares:
+The rabbinic response to Oenomaus is the subject of one of the most remarkable passages in midrashic literature. In Bereshit Rabbah 65:20, Rabbi Abba bar Kahana declares:
 
 > <span dir="rtl">לא עמדו פילוסופין בעולם כבלעם בן בעור וכאונומוס איש גדרה</span>
 >
@@ -125,7 +125,7 @@ This extraordinary statement — placing a Cynic philosopher on par with the gre
 
 Menippus of Gadara (3rd century BCE), like Oenomaus a native of the Decapolis city on the border of Jewish settlement, created the literary genre that bears his name: Menippean satire (*spoudogeloion*, "serious-laughing"). None of Menippus's own works survive, but his literary method can be reconstructed from the works of Lucian of Samosata (who explicitly imitated him in the *Icaromenippus*, *Necyomantia*, and other dialogues) and Varro (whose *Saturae Menippeae* adapted the form for Latin literature).[^32]
 
-Menippean satire is characterized by a distinctive combination of features: the mixing of prose and verse, the blending of serious philosophical argument with grotesque comedy, dialogues between the living and the dead, fantastic journeys to heaven or the underworld, scenes that test philosophical positions through extreme or absurd situations, and a pervasive self-referentiality in which the author's own intellectual enterprise is simultaneously asserted and undermined. Mikhail Bakhtin's influential analysis in *Problems of Dostoevsky's Poetics* (1963) identifies fifteen defining characteristics of the genre (see Part III.C).[^33]
+Menippean satire is characterized by a distinctive combination of features: the mixing of prose and verse, the blending of serious philosophical argument with grotesque comedy, dialogues between the living and the dead, fantastic journeys to heaven or the underworld, scenes that test philosophical positions through extreme or absurd situations, and a pervasive self-referentiality in which the author's own intellectual enterprise is simultaneously asserted and undermined. Mikhail Bakhtin's influential analysis in *Problems of Dostoevsky's Poetics* (1963) identifies fourteen defining characteristics of the genre (see Part III.C).[^33]
 
 The relevance of Menippean satire for rabbinic studies was argued most forcefully by Daniel Boyarin, who proposed that the Babylonian Talmud itself should be understood as a form of Menippean satire — a text that simultaneously asserts the authority of rabbinic dialectic and subjects it to carnivalesque subversion (see Part III.C).[^34]
 
@@ -229,7 +229,7 @@ The question of cultural contact between Cynics and rabbis is not merely theoret
 
 ### I.E.1. Gadara as Philosophical Center
 
-Gadara (modern Umm Qais, Jordan) was one of the cities of the Decapolis — a loose federation of Hellenistic cities in the eastern Mediterranean. Located approximately ten kilometers southeast of the Sea of Galilee, on a ridge overlooking the Yarmouk River valley, Gadara was renowned in antiquity as a center of Greek culture and learning. Strabo calls it the "Athens of the East," and the city produced a remarkable concentration of literary and philosophical figures: the epigrammatist Meleager (1st century BCE), the Epicurean philosopher Philodemus (1st century BCE), the satirist Menippus, and the Cynic philosopher Oenomaus.[^58]
+Gadara (modern Umm Qais, Jordan) was one of the cities of the Decapolis — a loose federation of Hellenistic cities in the eastern Mediterranean. Located approximately ten kilometers southeast of the Sea of Galilee, on a ridge overlooking the Yarmouk River valley, Gadara was renowned in antiquity as a center of Greek culture and learning. The poet Meleager called it an "Attic fatherland" (Greek Anthology 7.419), and the city produced a remarkable concentration of literary and philosophical figures: the epigrammatist Meleager (1st century BCE), the Epicurean philosopher Philodemus (1st century BCE), the satirist Menippus, and the Cynic philosopher Oenomaus.[^58]
 
 The significance of Gadara for the present study lies in its proximity to the major centers of rabbinic activity. Tiberias, where the Palestinian Talmud was compiled and which served as the seat of the Sanhedrin from the mid-second century CE, lies approximately twenty kilometers northwest of Gadara — less than a day's walk. The Galilean villages where many tannaim lived and taught were even closer. The archaeological evidence from the region — bilingual inscriptions, shared material culture, commercial networks linking Greek and Jewish settlements — confirms that the Greek-speaking and Aramaic/Hebrew-speaking populations of the region were in regular contact.[^59]
 
@@ -344,7 +344,7 @@ Henry Fischel's pioneering work established that many rabbinic anecdotes — par
 
 The formal parallels are striking. Consider the structural comparison:
 
-**Cynic chreia (DL 6.40)**:
+**Cynic chreia (DL 6.37)**:
 > *Seeing a boy drinking with his hands, [Diogenes] threw away the cup he kept in his knapsack, saying, "A child has outdone me in frugality."*
 
 **Rabbinic chreia (Avot 2:7)**:
@@ -376,7 +376,7 @@ Saul Lieberman's foundational studies documented hundreds of Greek loanwords in 
 
 Several rabbinic figures are explicitly associated with knowledge of Greek language and culture:
 
-- **Rabban Gamaliel I and II**: The house of Gamaliel is associated with permission to study Greek wisdom. The Talmud records: <span dir="rtl">בדקו ומצאו שאין בית שלא היו בה חמש מאות תינוקות של בית רבן שילמדו חכמת יוונית</span> — "They checked and found that there was not a household [of the house of Gamaliel] that did not have five hundred children studying Greek wisdom" (BT Sotah 49b).[^84]
+- **Rabban Gamaliel I and II**: The house of Gamaliel is associated with permission to study Greek wisdom. The Talmud records that Rabban Simeon ben Gamaliel said: <span dir="rtl">אלף ילדים היו בבית אבא, חמש מאות למדו תורה וחמש מאות למדו חכמת יוונית</span> — "There were a thousand children in my father's house; five hundred studied Torah and five hundred studied Greek wisdom" (BT Sotah 49b).[^84]
 
 - **Rabbi Meir**: Identified in some scholarly traditions with the student of Elisha ben Abuya ("Acher"), who is himself associated with Greek philosophy. Rabbi Meir is also linked with Oenomaus of Gadara (identified as *Abnimos ha-Gardi*) in several midrashic passages.[^85]
 
@@ -386,9 +386,9 @@ Several rabbinic figures are explicitly associated with knowledge of Greek langu
 
 Against this evidence of engagement stands the explicit prohibition of "Greek wisdom" (*chokhmat Yevanit*):
 
-> <span dir="rtl">בפולמוס של טיטוס גזרו על עטרות חתנים... בפולמוס האחרון גזרו שלא ילמד אדם את בנו יוונית</span>
+> <span dir="rtl">בפולמוס של אספסיינוס גזרו על עטרות חתנים ועל האירוס. בפולמוס של טיטוס גזרו על עטרות כלות ושלא ילמד אדם את בנו יוונית</span>
 >
-> *During the war of Titus they decreed against the crowns of bridegrooms... During the last war they decreed that a person should not teach his son Greek.* (Mishnah Sotah 9:14)[^87]
+> *In the war of Vespasian they decreed against the crowns of bridegrooms and against the drums. In the war of Titus they decreed against the crowns of brides and that a person should not teach his son Greek.* (Mishnah Sotah 9:14)[^87]
 
 The scope and enforcement of this prohibition is debated. Some scholars understand it as a narrow ban on Greek rhetoric (*chokhmat Yevanit* as distinct from *lashon Yevani*, the Greek language), enacted in the context of military conflict and not necessarily enforced outside that context. Others see it as evidence of a deep ambivalence within rabbinic culture toward Hellenistic learning. The tension between engagement and resistance is itself central to the story of Cynic-rabbinic interaction.[^88]
 
@@ -441,8 +441,8 @@ Ben Zoma's fourfold redefinition operates on the same principle as the Cynic par
 
 Fischel identified a particularly illuminating parallel in the "patience chreia" — a narrative type in which a sage demonstrates extraordinary patience in the face of repeated provocation:
 
-**Cynic example (DL 6.41)**:
-> *Being asked by a tyrant what bronze is best for a statue, [Diogenes] said: "That of which Harmodius and Aristogeiton were cast." When a man kept pestering him with questions, he said: "My fine fellow, I've had enough of you."*
+**Cynic example (DL 6.50)**:
+> *Being asked by a tyrant what bronze is best for a statue, [Diogenes] said: "That of which Harmodius and Aristogeiton were cast."*
 
 **Rabbinic parallel (BT Shabbat 31a — Hillel and the provocateur)**:
 > <span dir="rtl">מעשה בנכרי אחד שבא לפני שמאי... בא לפני הלל. גייריה</span>
@@ -477,7 +477,7 @@ The most famous Hillel chreia — teaching the entire Torah "on one foot" — ha
 >
 > *A gentile came before Hillel. He said: Convert me on the condition that you teach me the entire Torah while I stand on one foot. He said to him: That which is hateful to you, do not do to your neighbor — this is the entire Torah, and the rest is its commentary. Go and learn.*
 
-The structural elements — the impossible demand, the sage's unflappable composure, the brilliant reductio of an entire philosophical system to a single principle — are hallmarks of the Cynic chreia. Compare Diogenes's response when asked to summarize his philosophy: he simply raised his middle finger (DL 6.34) — a gestural reduction of his entire worldview to a single provocative act. Hillel's verbal reduction is more dignified but structurally identical: the demand for total compression is met with a response that is simultaneously complete and maximally concise.[^95]
+The structural elements — the impossible demand, the sage's unflappable composure, the brilliant reductio of an entire philosophical system to a single principle — are hallmarks of the Cynic chreia. Compare Diogenes pointing out the orator Demosthenes with a single extended finger, dismissing him as "the demagogue of Athens" (DL 6.34) — a gestural reduction of an entire critique to a single provocative act. Hillel's verbal reduction is more dignified but structurally identical: the demand for total compression is met with a response that is simultaneously complete and maximally concise.[^95]
 
 ### III.B.3. Democratization of the Prophetic Model
 
@@ -493,7 +493,7 @@ The transition from Elijah running before a king to Hillel running before a paup
 
 ## III.C. Menippean Satire and the Talmud
 
-### III.C.1. Bakhtin's Fifteen Characteristics
+### III.C.1. Bakhtin's Fourteen Characteristics
 
 Mikhail Bakhtin, in *Problems of Dostoevsky's Poetics* (1963, revised 1984), identifies the following characteristics that distinguish Menippean satire from other comparable genres:
 
@@ -510,8 +510,9 @@ Mikhail Bakhtin, in *Problems of Dostoevsky's Poetics* (1963, revised 1984), ide
 11. Elements of social utopia introduced through dreams and journeys
 12. Wide use of inserted genres — stories within stories, poems within prose
 13. Multi-styled and multi-toned narrative
-14. Concern with current and topical issues
-15. A carnival sense of the world — transformation, relativization of established values[^97]
+14. Concern with current and topical issues[^97]
+
+Bakhtin situates these fourteen characteristics within his broader framework of "carnivalization" — the carnival sense of the world that transforms and relativizes established values — which he sees as animating the entire family of serio-comic genres, including but not limited to the Menippea.
 
 ### III.C.2. Boyarin's Thesis: The Bavli as Menippean Satire
 
@@ -991,9 +992,9 @@ At the same time, Oenomaus's attack on oracles raised a profound problem: if *al
 The prohibition of *chokhmat Yevanit* ("Greek wisdom") appears in several rabbinic sources:
 
 **Mishnah Sotah 9:14**:
-> <span dir="rtl">בפולמוס של טיטוס גזרו על עטרות חתנים... בפולמוס האחרון גזרו שלא ילמד אדם את בנו יוונית</span>
+> <span dir="rtl">בפולמוס של אספסיינוס גזרו על עטרות חתנים ועל האירוס. בפולמוס של טיטוס גזרו על עטרות כלות ושלא ילמד אדם את בנו יוונית</span>
 >
-> *During the war of Titus they decreed against the crowns of bridegrooms... During the last war they decreed that a person should not teach his son Greek.*
+> *In the war of Vespasian they decreed against the crowns of bridegrooms and against the drums. In the war of Titus they decreed against the crowns of brides and that a person should not teach his son Greek.*
 
 **BT Sotah 49b**:
 > <span dir="rtl">ת"ר: כשצרו מלכי בית חשמונאי זה על זה... אמרו: ארור אדם שיגדל חזירים, וארור אדם שילמד את בנו חכמת יונית</span>
@@ -1268,10 +1269,10 @@ This part provides a systematic catalog of all identified parallels between Cyni
 | Cynic Source | Rabbinic Source | Theme |
 |-------------|----------------|-------|
 | Diogenes: "Asked what was the most beautiful thing in the world, he said, '*Parrhēsia*'" (DL 6.69) | Hillel: <span dir="rtl">אם אין אני לי, מי לי?</span> — "If I am not for myself, who is for me?" (Avot 1:14) | Self-assertion as philosophical/ethical principle |
-| Diogenes: "I am a citizen of the world" (DL 6.63) | Hillel: <span dir="rtl">אם אני כאן, הכל כאן</span> — "If I am here, everyone is here" (Mishnah Sukkah 5:4) | Universal significance of the individual philosopher/sage |
+| Diogenes: "I am a citizen of the world" (DL 6.63) | Hillel: <span dir="rtl">אם אני כאן, הכל כאן</span> — "If I am here, everyone is here" (BT Sukkah 53a) | Universal significance of the individual philosopher/sage |
 | Diogenes: threw away his cup upon seeing a boy drink with his hands (DL 6.37) | Hillel: <span dir="rtl">על דאטפת אטפוך</span> — "Because you drowned others, they drowned you" (Avot 2:7) | Circumstantial chreia: sage observes, draws moral lesson |
 | Diogenes: "Learn to live on lentils, and you will not have to be subservient to the king" (DL 6.58) | Hillel: <span dir="rtl">נגד שמא אבד שמה</span> — "A name made great is a name destroyed" (Avot 1:13) | Inversion of conventional values regarding wealth and status |
-| Diogenes: When asked to summarize his philosophy, he replied with a single gesture (DL 6.34) | Hillel: <span dir="rtl">דעלך סני לחברך לא תעביד — זו היא כל התורה כולה</span> — "What is hateful to you, do not do to your neighbor — this is the entire Torah" (BT Shabbat 31a) | Radical compression of an entire philosophical/religious system |
+| Diogenes: dismisses the orator Demosthenes with a single pointed finger (DL 6.34) | Hillel: <span dir="rtl">דעלך סני לחברך לא תעביד — זו היא כל התורה כולה</span> — "What is hateful to you, do not do to your neighbor — this is the entire Torah" (BT Shabbat 31a) | Radical compression of an entire philosophical/religious system |
 | Epictetus: The Cynic must love those who flog him (Discourse III.22.54) | Hillel: <span dir="rtl">הוי מתלמידיו של אהרן, אוהב שלום ורודף שלום</span> — "Be of the disciples of Aaron, loving peace and pursuing peace" (Avot 1:12) | Non-retaliation and active peace-making |[^187]
 
 ### VIII.A.2. Ben Zoma
@@ -1288,7 +1289,7 @@ This part provides a systematic catalog of all identified parallels between Cyni
 | Cynic Source | Rabbinic Source | Theme |
 |-------------|----------------|-------|
 | Socrates' final words: "Crito, we owe a cock to Asclepius" (Plato, Phaedo 118a) | <span dir="rtl">שני דרכים לפני, אחת של גן עדן ואחת של גיהנם</span> — "Two paths lie before me" (BT Berakhot 28b) | The sage's deathbed pronouncement as chreia |
-| Diogenes: "Send the students out and see" (DL 6.64) | <span dir="rtl">צאו וראו איזוהי דרך ישרה</span> — "Go out and see what is the right path" (Avot 2:9) | Master sends students to discover truth through observation |
+| Diogenes enters a theater as everyone is leaving, against the crowd (DL 6.64) | <span dir="rtl">צאו וראו איזוהי דרך ישרה</span> — "Go out and see what is the right path" (Avot 2:9) | Master sends students to discover truth through observation |
 | Plato's praise of Aristotle's diligence (DL 3.46) | <span dir="rtl">אם יהיו כל חכמי ישראל בכף מאזנים ואליעזר בן הורקנוס בכף שנייה</span> — "If all the sages of Israel were on one side and Eliezer ben Hyrcanus on the other" (ARN A ch. 14) | Teacher publicly praising student's excellence |[^189]
 
 ### VIII.A.4. Rabbi Akiva
@@ -1297,7 +1298,7 @@ This part provides a systematic catalog of all identified parallels between Cyni
 |-------------|----------------|-------|
 | Seneca: "Love your neighbor" (Epistles 47.11) | <span dir="rtl">ואהבת לרעך כמוך — זה כלל גדול בתורה</span> — "Love your neighbor — this is a great principle" (Sifra Qedoshim 4:12) | Golden Rule as summary of ethical system |
 | Epictetus: "All humans are children of Zeus" (Discourses I.13.3–4) | <span dir="rtl">חביב אדם שנברא בצלם</span> — "Beloved is the human being, created in the divine image" (Avot 3:14) | Universal human dignity grounded in divine relationship |
-| Stoic: "Everything is fated, yet we are free" (Cicero, De Fato 42–45) | <span dir="rtl">הכל צפוי, והרשות נתונה</span> — "Everything is foreseen, yet free will is given" (Avot 3:17) | The paradox of determinism and free will |[^190]
+| Stoic: "Everything is fated, yet we are free" (Cicero, De Fato 42–45) | <span dir="rtl">הכל צפוי, והרשות נתונה</span> — "Everything is foreseen, yet free will is given" (Avot 3:15) | The paradox of determinism and free will |[^190]
 
 ### VIII.A.5. Other Sages
 
@@ -1315,7 +1316,7 @@ This part provides a systematic catalog of all identified parallels between Cyni
 | Cynic Act | Rabbinic *Ma'aseh* | Theme |
 |----------|-------------------|-------|
 | Diogenes sleeps in a jar to demonstrate self-sufficiency (DL 6.23) | Hillel sleeps on the roof of the study house in the snow (BT Yoma 35b) | Sage endures extreme deprivation for the sake of wisdom/Torah |
-| Diogenes walks through Athens with a lantern "looking for an honest man" (DL 6.41) | R. Shimon bar Yohai emerges from the cave and sees a man plowing: <span dir="rtl">מניחין חיי עולם ועוסקין בחיי שעה</span> — "They abandon eternal life for temporal life" (Sifre Deut. 305) | Sage returns from philosophical/spiritual retreat and is bewildered by ordinary human activity |
+| Diogenes walks through Athens with a lantern "looking for an honest man" (DL 6.41) | R. Shimon bar Yohai emerges from the cave and sees a man plowing: <span dir="rtl">מניחין חיי עולם ועוסקין בחיי שעה</span> — "They abandon eternal life for temporal life" (BT Shabbat 33b) | Sage returns from philosophical/spiritual retreat and is bewildered by ordinary human activity |
 | Diogenes enters the theater as others are leaving (DL 6.64) | R. Yehoshua: <span dir="rtl">מה מדבר הפקר לכל, אף תורה הפקר לכל</span> — "Just as the wilderness is ownerless for all, so the Torah is ownerless for all" (Mekhilta Bahodesh 8) | Reversal of conventional spatial/institutional expectations |
 | Crates enters any house uninvited to offer philosophical counsel | Hillel runs before a poor man for three mil (BT Ketubot 67b) | Sage actively seeks out those who need his help |
 | Diogenes confronts Alexander the Great (DL 6.38) | R. Yohanan b. Zakkai confronts Vespasian: <span dir="rtl">תן לי יבנה וחכמיה</span> — "Give me Yavneh and its sages" (BT Gittin 56b) | Sage addresses supreme political power with moral authority |[^192]
@@ -1397,7 +1398,7 @@ Conversely, the rabbinic transformation of Cynic themes illuminates the strength
 
 ### IX.C.1. Novardok Musar as Neo-Cynicism
 
-The modern Jewish movement that most closely parallels Cynic practice is the Novardok school of musar — the early twentieth-century Lithuanian ethical movement founded by Rabbi Yosef Yozel Horowitz (the "Alter of Novardok," 1849–1919). Students of Novardok engaged in deliberate practices of self-humiliation strikingly reminiscent of Cynic *anaideia*: wearing old, patched clothing in public; entering shops and asking for products not sold there (such as requesting screws in a bakery); and sharing all personal possessions to eliminate attachment to material goods.[^200]
+The modern Jewish movement that most closely parallels Cynic practice is the Novardok school of musar — the early twentieth-century Lithuanian ethical movement founded by Rabbi Yosef Yozel Horowitz (the "Alter of Novardok," 1847–1919). Students of Novardok engaged in deliberate practices of self-humiliation strikingly reminiscent of Cynic *anaideia*: wearing old, patched clothing in public; entering shops and asking for products not sold there (such as requesting screws in a bakery); and sharing all personal possessions to eliminate attachment to material goods.[^200]
 
 The Novardok practices represent a remarkable convergence: a Jewish ethical movement, operating entirely within the framework of halakhah and musar, independently arrived at behavioral practices nearly identical to those of the ancient Cynics. Whether this convergence reflects buried cultural memory, independent parallel development, or the natural logic of any tradition that takes self-transcendence seriously as an ethical goal remains an open question — but it confirms that the tension between conventional dignity and radical authenticity that animates both Cynicism and aspects of rabbinic thought remains alive in Jewish intellectual life.[^201]
 
@@ -1492,29 +1493,55 @@ This study raises several questions that merit further investigation:
 ## Secondary Scholarship
 
 - Bakhtin, Mikhail. *Problems of Dostoevsky's Poetics*. Edited and translated by Caryl Emerson. Minneapolis: University of Minnesota Press, 1984.
+- Baskin, Judith. *Pharaoh's Counsellors: Job, Jethro, and Balaam in Rabbinic and Patristic Tradition*. Brown Judaic Studies 47. Chico, CA: Scholars Press, 1983.
+- Boyarin, Daniel. *Border Lines: The Partition of Judaeo-Christianity*. Philadelphia: University of Pennsylvania Press, 2004.
 - Boyarin, Daniel. *Socrates and the Fat Rabbis*. Chicago: University of Chicago Press, 2009.
 - Bultmann, Rudolf. *Der Stil der paulinischen Predigt und die kynisch-stoische Diatribe*. Göttingen: Vandenhoeck & Ruprecht, 1910.
+- Cohen, Stuart. *The Three Crowns: Structures of Communal Politics in Early Rabbinic Jewry*. Cambridge: Cambridge University Press, 1990.
 - Daube, David. "Rabbinic Methods of Interpretation and Hellenistic Rhetoric." *Hebrew Union College Annual* 22 (1949): 239–264.
 - Daube, David. *The New Testament and Rabbinic Judaism*. London: Athlone Press, 1956.
 - Desmond, William D. *Cynics*. Ancient Philosophies. Berkeley: University of California Press, 2008.
 - Fischel, Henry A. "Studies in Cynicism and the Ancient Near East: The Transformation of a Chria." In *Religions in Antiquity: Essays in Memory of Erwin Ramsdell Goodenough*, edited by Jacob Neusner, 372–411. Leiden: Brill, 1968.
 - Fischel, Henry A. *Rabbinic Literature and Greco-Roman Philosophy: A Study of Epicurea and Rhetorica in Early Midrashic Writings*. Leiden: Brill, 1973.
+- Goldin, Judah, trans. *The Fathers According to Rabbi Nathan*. New Haven: Yale University Press, 1955.
+- Goulet-Cazé, Marie-Odile. "Le cynisme à l'époque impériale." *ANRW* II.36.4 (1990): 2720–2833.
 - Goulet-Cazé, Marie-Odile. *Les Cyniques grecs: Fragments et témoignages*. Paris: Librairie Générale Française, 1992.
 - Goulet-Cazé, Marie-Odile, and Richard Goulet, eds. *Le Cynisme ancien et ses prolongements*. Paris: Presses Universitaires de France, 1993.
-- Heinemann, Joseph. *Darkhei ha-Aggadah* [Public Sermons in the Talmudic Period]. Jerusalem: Magnes Press, 1970. [Hebrew.]
+- Heinemann, Isaac. *Darkhei ha-Aggadah* [The Methods of the Aggadah]. Jerusalem: Magnes Press, 1970. [Hebrew.]
+- Hezser, Catherine. *The Social Structure of the Rabbinic Movement in Roman Palestine*. Tübingen: Mohr Siebeck, 1997.
 - Hidary, Richard. *Rabbis and Classical Rhetoric: Sophistic Education and Oratory in the Talmud and Midrash*. Cambridge: Cambridge University Press, 2018.
+- Hirschfeld, Yizhar. "Tiberias." In *New Encyclopedia of Archaeological Excavations in the Holy Land*, Vol. 4, 1464–1473. Jerusalem: Israel Exploration Society, 1993.
 - Hirshman, Marc. *A Rivalry of Genius: Jewish and Christian Biblical Interpretation in Late Antiquity*. Albany: SUNY Press, 1996.
 - Hock, Ronald F., and Edward N. O'Neil. *The Chreia in Ancient Rhetoric, Vol. I: The Progymnasmata*. Atlanta: Scholars Press, 1986.
 - Hock, Ronald F., and Edward N. O'Neil. *The Chreia and Ancient Rhetoric: Classroom Exercises*. Atlanta: Society of Biblical Literature, 2002.
+- Isaac, Benjamin. *The Near East under Roman Rule: Selected Papers*. Leiden: Brill, 1998.
+- Jaffee, Martin. *Torah in the Mouth: Writing and Oral Tradition in Palestinian Judaism, 200 BCE–400 CE*. Oxford: Oxford University Press, 2001.
+- Jones, C.P. *Culture and Society in Lucian*. Cambridge, MA: Harvard University Press, 1986.
+- Katz, Dov. *The Mussar Movement: Its History, Leading Personalities and Doctrines*. Jerusalem: Feldheim, 1975.
+- Kindstrand, Jan Fredrik. *Bion of Borysthenes: A Collection of the Fragments with Introduction and Commentary*. Uppsala: Acta Universitatis Upsaliensis, 1976.
+- Kloppenborg, John S. "The Formation of Q and Antique Instructional Genres." *Journal of Biblical Literature* 105.3 (1986): 443–462.
+- Konstan, David, et al., eds. *Philodemus: On Frank Criticism*. Atlanta: Scholars Press, 1998.
 - Lieberman, Saul. *Greek in Jewish Palestine*. New York: Jewish Theological Seminary, 1942.
 - Lieberman, Saul. *Hellenism in Jewish Palestine*. New York: Jewish Theological Seminary, 1950.
+- Long, A.A. *Epictetus: A Stoic and Socratic Guide to Life*. Oxford: Clarendon Press, 2002.
 - Luz, Menahem. "Oenomaus and Talmudic Anecdote." *Journal for the Study of Judaism* 23.1 (1992): 42–80.
 - Mack, Burton L., and Vernon K. Robbins. *Patterns of Persuasion in the Gospels*. Sonoma, CA: Polebridge Press, 1989.
+- Malherbe, Abraham J. *The Cynic Epistles: A Study Edition*. Society of Biblical Literature Sources for Biblical Study 12. Missoula, MT: Scholars Press, 1977.
+- Meyers, Eric. "Roman Sepphoris in Light of New Archaeological Evidence." In *The Galilee in Late Antiquity*, edited by Lee Levine, 321–338. New York: Jewish Theological Seminary, 1992.
 - Moeser, Marion C. *The Anecdote in Mark, the Classical World, and the Rabbis*. Journal for the Study of the New Testament Supplement Series 227. Sheffield: Sheffield Academic Press, 2002.
+- Moles, John. "The Cynics and Politics." In *Justice and Generosity*, edited by André Laks and Malcolm Schofield, 129–158. Cambridge: Cambridge University Press, 1995.
+- Neusner, Jacob. *Judaism: The Evidence of the Mishnah*. Chicago: University of Chicago Press, 1981.
+- Novak, David. *The Image of the Non-Jew in Judaism: An Historical and Constructive Study of the Noahide Laws*. New York: Edwin Mellen Press, 1983.
+- Relihan, Joel C. *Ancient Menippean Satire*. Baltimore: Johns Hopkins University Press, 1993.
+- Rubenstein, Jeffrey. *Talmudic Stories: Narrative Art, Composition, and Culture*. Baltimore: Johns Hopkins University Press, 1999.
 - Schmeller, Thomas. *Paulus und die "Diatribe": Eine vergleichende Stilinterpretation*. Münster: Aschendorff, 1987.
+- Stern, David. *Parables in Midrash: Narrative and Exegesis in Rabbinic Literature*. Cambridge, MA: Harvard University Press, 1991.
 - Stern, David. *Midrash and Theory: Ancient Jewish Exegesis and Contemporary Literary Studies*. Evanston: Northwestern University Press, 1996.
 - Stowers, Stanley K. *The Diatribe and Paul's Letter to the Romans*. SBL Dissertation Series 57. Chico, CA: Scholars Press, 1981.
+- Strack, H.L., and Günter Stemberger. *Introduction to the Talmud and Midrash*. Translated by Markus Bockmuehl. Minneapolis: Fortress Press, 1996.
+- Urbach, Ephraim. *The Sages: Their Concepts and Beliefs*. Translated by Israel Abrahams. Jerusalem: Magnes Press, 1975.
 - Visotzky, Burton L. *Fathers of the World: Essays in Rabbinic and Patristic Literatures*. Tübingen: Mohr Siebeck, 1995.
+- Weber, Thomas. "Gadara Decapolitana: Untersuchungen zur Topographie, Geschichte, Architektur und der Bildenden Kunst einer 'Polis Hellenis' im Ostjordanland." *Zeitschrift des Deutschen Palästina-Vereins* 110 (1994): 53–76.
 
 ---
 
@@ -1676,7 +1703,7 @@ This study raises several questions that merit further investigation:
 
 [^78]: Fischel, "Studies in Cynicism" (1968), esp. 383–395; Fischel, *Rabbinic Literature and Greco-Roman Philosophy* (1973), passim.
 
-[^79]: DL 6.40; Avot 2:7. The structural comparison is discussed in detail in the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*, section I.A.1.b.
+[^79]: DL 6.37; Avot 2:7. The structural comparison is discussed in detail in the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*, section I.A.1.b.
 
 [^80]: See the companion document *Tannaitic Parallels*, Introduction and Part I.A.1.a.
 
@@ -1918,7 +1945,7 @@ This study raises several questions that merit further investigation:
 
 [^199]: On the philosophical significance of the rabbinic critique of Cynicism, this analysis is original to the present study.
 
-[^200]: On the Novardok musar school, see David Katz, *The Mussar Movement* (Jerusalem: Feldheim, 1975), Vol. 2. The parallels with Cynic practice are noted in the source text *Cynic Forms and Ideas in Jewish Thought*, lines 382–384.
+[^200]: On the Novardok musar school, see Dov Katz, *The Mussar Movement* (Jerusalem: Feldheim, 1975), Vol. 2. The parallels with Cynic practice are noted in the source text *Cynic Forms and Ideas in Jewish Thought*, lines 382–384.
 
 [^201]: This is an open question posed for future research.
 
