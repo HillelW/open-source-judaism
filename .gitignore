@@ -6,3 +6,11 @@
 !README.md
 !book/
 !book/**
+
+# Block working/scratch files even inside book/
+book/*-editorial-summary.md
+book/*-review.md
+book/*-notes.md
+book/*-scratch.md
+book/*-draft.md
+book/*-checklist.md
