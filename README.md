@@ -16,7 +16,8 @@ A collection of scholarly essays exploring Jewish textual tradition through the 
 
 - [Chiastic Structures in the Tanach](book/rhetoric/chiastic-structures-in-the-tanach.md) — Inverted parallelism across the Hebrew Bible.
 - [Chiastic Structures in Ritual](book/rhetoric/chiastic-structures-in-ritual.md) — Concentric symmetry in Jewish worship.
-- [Mastering Rhetoric Through Rabbinic Literature](book/rhetoric/mastering-rhetoric-through-rabbinic-literature.md) — A rhetorical curriculum from Mishnah, Talmud, and Midrash.
+- [Rhetoric Through Rabbinic Literature](book/rhetoric/rhetoric-through-rabbinic-literature.md) — A rhetorical curriculum from Mishnah, Talmud, and Midrash.
+- [Rhetoric Through Rabbinic Literature — Workbook](book/rhetoric/rhetoric-through-rabbinic-literature-workbook.md) — Companion exercises for the rhetoric curriculum.
 - [Tannaitic Chreia Parallels](book/rhetoric/tannaitic-chreia-parallels.md) — A catalog of chreia-like passages organized by Progymnasmata categories.
 
 ### Philosophy & Theology
@@ -27,6 +28,7 @@ A collection of scholarly essays exploring Jewish textual tradition through the 
 - [Cynic Philosophy and Rabbinic Thought](book/philosophy/cynic-philosophy-and-rabbinic-thought.md) — Parallels and tensions between Cynic and rabbinic traditions.
 - [Minimalism in Rabbinic Literature](book/philosophy/minimalism-in-rabbinic-literature.md) — The aesthetics of less across legal, ethical, and ritual dimensions.
 - [Left, Right, and Center in Jewish Thought](book/philosophy/left-right-and-center-in-jewish-thought.md) — Spatial metaphors for moral, political, and theological orientation.
+- [Madness in Jewish Thought and Philosophy](book/philosophy/madness-in-jewish-thought-and-philosophy.md) — Five kinds of madness from prophetic ecstasy to holy folly.
 
 ## License
 
