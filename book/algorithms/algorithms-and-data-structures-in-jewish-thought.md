@@ -8,9 +8,9 @@
 
 From First Principles to a Unified Theory of Torah, Mitzvot, Ethics, and Human Agency
 
-*We shall not cease from exploration*
-*And the end of all our exploring*
-*Will be to arrive where we started*
+*We shall not cease from exploration*<br>
+*And the end of all our exploring*<br>
+*Will be to arrive where we started*<br>
 *And know the place for the first time.*
 
 — T.S. Eliot, "Little Gidding"
