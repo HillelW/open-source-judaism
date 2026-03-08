@@ -154,7 +154,7 @@ Perhaps the most celebrated example of Mishnaic compression is the opening of Av
 
 In a single sentence, the Mishnah compresses the entire chain of transmission from Sinai to the Second Temple period — roughly a millennium of history — into a genealogical chain of five links. No dates, no narrative events, no theological reflection on the nature of revelation or the mechanics of transmission. The sentence does not even specify what "Torah" means in this context — whether it refers to the Written Torah, the Oral Torah, or both. Every one of these lacunae became the subject of extensive commentary and debate, but the Mishnah itself declines to elaborate. It states the chain and moves on.
 
-What produces this compression? The standard explanation — that the Mishnah was designed for oral memorization and therefore needed to be brief — contains truth but is insufficient. Martin Jaffee's research has demonstrated that the Mishnah emerged from a "continuous circuit of oral performance and written recension" in which oral and written modes of composition interpenetrated. The Mishnah's compression reflects not a purely oral medium but what Jaffee calls "a written word closely in touch with aural requirements and oral rhythms of diction."[^19] The compression is a literary achievement that exploits the possibilities of both oral mnemonic structuring and written editorial precision.
+What produces this compression? The standard explanation — that the Mishnah was designed for oral memorization and therefore needed to be brief — contains truth but is insufficient. Martin Jaffee's research has demonstrated that the Mishnah emerged from "the continuous loop of manuscript and performance" in which oral and written modes of composition interpenetrated. The Mishnah's compression reflects not a purely oral medium but what Jaffee calls "a written word closely in touch with aural requirements and oral rhythms of diction."[^19] The compression is a literary achievement that exploits the possibilities of both oral mnemonic structuring and written editorial precision.
 
 Jaffee identified specific mnemonic technologies embedded in Mishnaic prose: formulaic balance, chiastic arrangement, paired oppositions, and numerical lists. These structures serve dual functions — they facilitate memorization (oral economy) and they compress information (literary economy). The Mishnah's prose is not merely short; it is structured so that its brevity carries maximum informational density. Each word does multiple jobs: establishing a legal category, evoking its scriptural source, and positioning itself within a formulaic pattern that aids recall.[^20]
 
@@ -310,7 +310,7 @@ The *sugya* begins with Rabbi Yose's view regarding the showbread, which leads t
 
 But the *sugya* does not rest with this minimalist position. It moves immediately to the maximalist extreme: Rabbi Ishmael's position that even one who has "studied the entire Torah" may not study Greek wisdom, because Torah is all-consuming — "go and find a time that is neither day nor night, and then you can study Greek wisdom."[^56]
 
-The *sugya* concludes with a formulation that dissolves the false dichotomy: "The words of Torah should not be an obligation upon you, but neither are you free to release yourself from them." Saiman read this as a deliberate refusal to choose between the minimalist and maximalist poles: "When one approaches Torah as a regulatory burden, one of two extremes will likely emerge. The first is reductive and looks for the easiest method of discharging the obligation... At the other extreme is the totalizing encounter with God that leaves no room for human thought."[^57] The Talmud insists that neither extreme is adequate — that the authentic relationship to Torah occupies the space between them.
+The *sugya* concludes with a formulation that dissolves the false dichotomy: "The words of Torah should not be an obligation upon you, but neither are you free to release yourself from them." Saiman read this as a deliberate refusal to choose between the minimalist and maximalist poles: "When one approaches Torah as a regulatory burden, one of two extremes will likely emerge. The first is reductive and looks for the easiest method of discharging the obligation... At the other extreme is the totalizing encounter with God that leaves no room for human thought or accomplishment."[^57] The Talmud insists that neither extreme is adequate — that the authentic relationship to Torah occupies the space between them.
 
 The halakhic vocabulary for navigating this space is remarkably rich. Saiman catalogued the terminology: *le-khatechilah* vs. *be-di'eved*; *mehadrin* (those who beautify their observance) vs. the merely compliant; *lifnim mi-shurat ha-din* (beyond the letter of the law) vs. bare compliance; *naval bi-reshut ha-Torah* (a scoundrel within the bounds of Torah) for one who is technically compliant but morally deficient; *patur aval asur* (exempt but forbidden) for acts that carry no legal penalty but remain improper; *patur be-dinei adam ve-chayyav be-dinei shamayim* (exempt under human law but liable under heavenly law) for the gap between human and divine judgment.[^58]
 
@@ -552,11 +552,11 @@ The story of Kamtza and Bar Kamtza (b. Gittin 55b–56a) — the tale of a socia
 
 The relationship between the mashal-proper and the nimshal represents a distinctive form of interpretive compression. Stern's central argument was that the nimshal is not a "translation" of the mashal into theological terms but a "continuation of the narrative" that can "extend the narrative, revise it, or reinterpret its meaning."[^102] The movement from mashal to nimshal is not a movement from story to meaning (as if meaning were something different from story) but a movement from one narrative register to another — from fictional illustration to theological application.
 
-This movement creates interpretive compression because the two registers do not map onto each other perfectly. Stern argued that the mashal contains "multiple fabulae" — multiple narrative layers that intersect within a single text. "The full meaning of the mashal lies not in any one of these narratives alone but in their combination and their intersection within the mashal."[^103] The audience must hold multiple narrative frames simultaneously and navigate between them, constructing meaning from the resonances and tensions between the frames rather than from any single frame alone.
+This movement creates interpretive compression because the two registers do not map onto each other perfectly. Stern argued that the mashal contains multiple fabulae — multiple narrative layers that intersect within a single text. "The full meaning of the mashal lies not in any one of these narratives alone but in their combination and their intersection within the mashal."[^103] The audience must hold multiple narrative frames simultaneously and navigate between them, constructing meaning from the resonances and tensions between the frames rather than from any single frame alone.
 
 The result is a form of meaning that resists paraphrase — a minimalist meaning in the sense that it cannot be reduced to a propositional summary without losing what makes it distinctive. As Stern noted, "a mashal's message can rarely be paraphrased in a single statement like an epimythium."[^104] The meaning is not in the statement but in the movement — the shift between registers, the tension between mashal and nimshal, the audience's active construction of connections that the text itself leaves implicit.
 
-The rabbis themselves were aware of the mashal's paradoxical nature — its combination of apparent triviality with profound utility. Shir ha-Shirim Rabbah 1:1.8 compares the mashal to a "penny-candle" used to find a lost gold coin: the mashal is a trivial thing — a fictional narrative with "no inherent, substantive value of its own" — whose value lies entirely in its ability to illuminate Torah. As Stern observed, the rabbis' own assessment of the mashal as a disposable tool paradoxically confirms its status as "pure functional narrative, stripped to its exegetical purpose" — narrative reduced to its minimum functional essence.[^105]
+The rabbis themselves were aware of the mashal's paradoxical nature — its combination of apparent triviality with profound utility. Shir ha-Shirim Rabbah 1:1.8 compares the mashal to a "penny-candle" used to find a lost gold coin: the mashal is a trivial thing — a fictional narrative with "no inherent, substantive value of its own" — whose value lies entirely in its ability to illuminate Torah. The rabbis' own assessment of the mashal as a disposable tool paradoxically confirms its status as pure functional narrative, stripped to its exegetical purpose — narrative reduced to its minimum functional essence.[^105]
 
 ## VII.D. Narrative Economy as Aesthetic Principle
 
@@ -600,7 +600,7 @@ Several ritual observances illustrate the minimalist principle with particular c
 
 **Yom Kippur.** The Day of Atonement is the liturgical year's most intensive exercise in ritual minimalism. The five abstentions — from food and drink, washing, anointing, wearing leather shoes, and sexual relations (m. Yoma 8:1) — define the day by what is removed rather than what is added. The white garments worn by the High Priest in the Temple (m. Yoma 3:4), replacing the golden vestments of ordinary service, enact a visual minimalism — the stripping away of ornament in the presence of the Holy of Holies. The liturgy of the day moves toward a single moment of maximum theological density: the High Priest's entry into the Holy of Holies, a space defined by its emptiness (the Ark had been absent since the destruction of the First Temple). The entire ritual arc of Yom Kippur moves toward less — less food, less adornment, less mediation — until it reaches the still center of an empty room.[^113]
 
-**Shavuot.** The festival of Shavuot represents what the source text for this study calls "the zenith of minimalism" in the festival calendar. Unlike Sukkot (which has the sukkah, lulav, and etrog), Passover (which has matzah, maror, the Seder), and Rosh Hashanah (which has the shofar), Shavuot has no distinctive positive commandment associated with it beyond the standard festival observances. There is no special ritual object, no unique food, no prescribed physical act beyond the Temple offerings. The day commemorates the giving of the Torah — arguably the most important event in Jewish sacred history — yet the rabbinic tradition declined to mark it with distinctive ritual apparatus. The absence is striking and perhaps deliberate: the Torah itself, received on this day, is the only "object" needed, and adding ritual apparatus would dilute the purity of the intellectual-spiritual encounter.[^114]
+**Shavuot.** The festival of Shavuot represents the zenith of minimalism in the festival calendar. Unlike Sukkot (which has the sukkah, lulav, and etrog), Passover (which has matzah, maror, the Seder), and Rosh Hashanah (which has the shofar), Shavuot has no distinctive positive commandment associated with it beyond the standard festival observances. There is no special ritual object, no unique food, no prescribed physical act beyond the Temple offerings. The day commemorates the giving of the Torah — arguably the most important event in Jewish sacred history — yet the rabbinic tradition declined to mark it with distinctive ritual apparatus. The absence is striking and perhaps deliberate: the Torah itself, received on this day, is the only "object" needed, and adding ritual apparatus would dilute the purity of the intellectual-spiritual encounter.[^114]
 
 ## VIII.C. Bal Tosif in Ritual Practice
 
@@ -722,7 +722,7 @@ This historical explanation should not be pressed too far. The minimalist tenden
 
 Martin Jaffee's work on the "oral-literary interface" in rabbinic literature provides a framework for understanding one dimension of rabbinic minimalism — its relationship to the cognitive economics of oral transmission.
 
-Jaffee argued that the Mishnah emerged from "a continuous circuit of oral performance and written recension" — a process in which oral and written modes of composition interpenetrated. The Mishnah's compressed, formulaic style reflects not a purely oral medium but what Jaffee called "a written word closely in touch with aural requirements and oral rhythms of diction."[^129] The compression is functional: it facilitates memorization. But it is also literary: it achieves an aesthetic economy that goes beyond what memorization alone requires.
+Jaffee argued that the Mishnah emerged from "the continuous loop of manuscript and performance" — a process in which oral and written modes of composition interpenetrated. The Mishnah's compressed, formulaic style reflects not a purely oral medium but what Jaffee called "a written word closely in touch with aural requirements and oral rhythms of diction."[^129] The compression is functional: it facilitates memorization. But it is also literary: it achieves an aesthetic economy that goes beyond what memorization alone requires.
 
 Jaffee identified specific mnemonic technologies — formulaic balance, chiastic arrangement, paired oppositions, numerical lists — that serve the dual function of aiding recall and compressing information. The Mishnah's chiastic patterns (ABBA structures), its balanced dispute-forms ("Rabbi X says... Rabbi Y says..."), and its enumerated lists ("three things... four things...") are simultaneously mnemonic devices and literary structures. They compress complex legal information into patterns that can be memorized and transmitted orally while also achieving an elegance that operates at the level of literary art.[^130]
 
@@ -856,7 +856,7 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 **Elbogen, Ismar.** *Jewish Liturgy: A Comprehensive History.* Trans. Raymond P. Scheindlin. Philadelphia: Jewish Publication Society, 1993. Originally published in German, 1913. Comprehensive history of Jewish liturgical development from antiquity through the modern period.
 
-**Fleischer, Ezra.** "The Yozer: Its Emergence and Development." In various publications. Foundational study of the *yotzer* piyyut form and the historical process of liturgical elaboration.
+**Fleischer, Ezra.** *The Yozer: Its Emergence and Development.* Jerusalem: Magnes Press, 1984. [In Hebrew.] Foundational study of the *yotzer* piyyut form and the historical process of liturgical elaboration.
 
 **Fraenkel, Jonah.** *Darkhei ha-Aggadah ve-ha-Midrash* [The Ways of the Aggadah and the Midrash]. Givatayim: Yad la-Talmud, 1991. [In Hebrew.] Landmark analysis of aggadic narrative techniques, including compression, strategic omission, and literary economy. [Verify: specific chapter references needed from Fraenkel]
 
@@ -930,7 +930,7 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^18]: m. Avot 1:1. This chain of transmission (*shalshelet ha-qabbalah*) serves as the legitimating preamble for the entire tractate.
 
-[^19]: Jaffee, *Torah in the Mouth*, pp. 124–125. Jaffee's key formulation: "The Mishnah is hardly a linear culmination of early oral tradition now breaking into written textuality for the first time. Rather, at any stage of Mishnaic tradition we can presently isolate, we are confronted with an 'orality' which is at the same time a reflection and a creation of writing."
+[^19]: Jaffee, *Torah in the Mouth*, pp. 124–125. Jaffee's key formulation: "The Mishnah is hardly a linear culmination of early oral tradition now breaking into written textuality for the first time. Rather, at any stage of Mishnaic tradition we can presently isolate, we are confronted with an 'orality' which is at the same time a reflection and a creation of writing." Jaffee also characterizes the process as "the continuous loop of manuscript and performance" (p. 124).
 
 [^20]: Jaffee, *Torah in the Mouth*, pp. 106–111. Jaffee's analysis of m. Eruvin 10:10–14 and m. Pesachim 2:5–6 demonstrates the mnemonic technologies embedded in Mishnaic prose.
 
@@ -1006,7 +1006,7 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^56]: Saiman, *Halakhah*, p. 80, citing b. Menahot 99b.
 
-[^57]: Saiman, *Halakhah*, p. 82.
+[^57]: Saiman, *Halakhah*, p. 81.
 
 [^58]: Saiman, *Halakhah*, pp. 217–218. The terminology catalogued here represents the halakhic system's graded vocabulary for positions between minimum compliance and maximal aspiration.
 
@@ -1022,7 +1022,7 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^64]: On the relationship between monotheism and theological minimalism, compare the rich polytheistic cosmologies of ancient Near Eastern religions — with their elaborate pantheons, mythological narratives, and divine hierarchies — with the austere simplicity of the Shema's declaration of divine unity.
 
-[^65]: Deuteronomy 6:4. On the Shema as creedal statement, see Urbach, *The Sages*, pp. 19–21: the Shema provides "the absolute negation" of polytheism that the Decalogue's "Thou shalt have no other gods before Me" does not fully supply.
+[^65]: Deuteronomy 6:4. On the Shema as creedal statement, see Urbach, *The Sages*, pp. 19–21: the Shema provides "the complete negation" of polytheism that the Decalogue's "Thou shalt have no other gods before Me" does not fully supply.
 
 [^66]: y. Nedarim 9:4. Rabbi Akiva's identification of "Love your neighbor as yourself" as <span dir="rtl">כלל גדול בתורה</span> ("a great principle of the Torah").
 
@@ -1038,11 +1038,11 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^72]: m. Hagigah 2:1. The three-tiered restriction system — sexual prohibitions (not before three), creation (not before two), chariot (not before one) — establishes a hierarchy of increasingly restricted topics.
 
-[^73]: y. Hagigah 2:1, 77a, as cited in Halbertal, *Concealment and Revelation*, p. 14.
+[^73]: y. Hagigah 2:1, 77a, as cited in Halbertal, *Concealment and Revelation*, p. 13.
 
 [^74]: Halbertal, *Concealment and Revelation*, pp. 15–16, citing Leviticus Rabbah 20:10.
 
-[^75]: Halbertal, *Concealment and Revelation*, p. 17, citing Bereshit Rabbah 1:1.
+[^75]: Halbertal, *Concealment and Revelation*, p. 16, citing Bereshit Rabbah 1:1.
 
 [^76]: Halbertal, *Concealment and Revelation*, p. 142.
 
@@ -1098,7 +1098,7 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^102]: Stern, *Parables in Midrash*, p. 69.
 
-[^103]: Stern, *Parables in Midrash*, p. 70.
+[^103]: Stern, *Parables in Midrash*, p. 70. Stern argues that the mashal's sjuzhet may correspond to several distinct fabulae — the biblical narrative, the theological application, and the rabbinic exegetical context — which intersect within a single text.
 
 [^104]: Stern, *Parables in Midrash*, p. 15.
 
@@ -1132,15 +1132,15 @@ What this study has established, it is hoped, is that minimalism is not a margin
 
 [^119]: b. Menahot 29b. The aggadah of Moses ascending to heaven and finding God tying crowns to the letters of the Torah.
 
-[^120]: On the early paytanim and their literary character, see Elbogen, *Jewish Liturgy*, and the studies by Ezra Fleischer on the development of the *yotzer* form.
+[^120]: On the early paytanim and their literary character, see Elbogen, *Jewish Liturgy*, and Ezra Fleischer, *The Yozer: Its Emergence and Development* (Jerusalem: Magnes Press, 1984).
 
-[^121]: Fleischer, "The Yozer: Its Emergence and Development." Fleischer documented the progressive elaboration of the morning blessings through the addition of increasingly complex poetic compositions.
+[^121]: Fleischer, *The Yozer: Its Emergence and Development* (Jerusalem: Magnes Press, 1984). Fleischer documented the progressive elaboration of the morning blessings through the addition of increasingly complex poetic compositions.
 
 [^122]: On Maimonides' opposition to piyyutim, see Rambam, Responsa, ed. Joshua Blau, no. 254. The tension between the piyyut tradition and halakhic preference for liturgical restraint is documented in the discussions of the rishonim and acharonim.
 
-[^123]: Boyarin, *Socrates and the Fat Rabbis*, pp. 193–222 (Chapter 5, "Read Lucian!"). Boyarin's central thesis: "the yoking of the narrative with the halakhic dialectic, like an ox with a donkey, in the talmudic field...renders the Talmud a dialogical text" (p. 208).
+[^123]: Boyarin, *Socrates and the Fat Rabbis*, pp. 193–222 (Chapter 5, "Read Lucian!"). Boyarin's central thesis: "the yoking of the narrative with the halakhic dialectic, like an ox with a donkey, in the talmudic field...renders the Talmud a dialogical text" (p. 207).
 
-[^124]: Boyarin, *Socrates and the Fat Rabbis*, pp. 141–152. On the *stamma*'s construction of artificial dialogues from originally independent *memrot*: "these are the product of artfully constructed rhetorical composition practices that make use of existing halakhic sayings in order to construct the dialectic" (p. 144).
+[^124]: Boyarin, *Socrates and the Fat Rabbis*, pp. 141–152. On the *stamma*'s construction of dialogues from originally independent *memrot*: "they are the product of artfully constructed rhetorical composition practices that make use of existing halakhic sayings in order to construct the dialectic" (p. 143).
 
 [^125]: Boyarin, *Socrates and the Fat Rabbis*, pp. 168–169. The *stamma*'s principle that every word in the Mishnah must contribute new information treats the Mishnah as a maximally compressed text demanding expansion.
 

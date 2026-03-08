@@ -25,6 +25,7 @@
   - [III.B. The Yom Kippur Service: Mishnah Yoma](#iiib-the-yom-kippur-service-mishnah-yoma)
   - [III.C. Sacred Space as Chiasm: Mishnah Middot](#iiic-sacred-space-as-chiasm-mishnah-middot)
   - [III.D. Festival Offerings: Numbers 28–29 and Mishnah Sukkah](#iiid-festival-offerings-numbers-2829-and-mishnah-sukkah)
+  - [III.E. Sacred Objects as Chiasm](#iiie-sacred-objects-as-chiasm)
 - [Part IV: THE SEDER](#part-iv-the-seder)
   - [IV.A. The Fifteen Simanim](#iva-the-fifteen-simanim)
   - [IV.B. The Maggid Section](#ivb-the-maggid-section)
@@ -152,9 +153,11 @@ The opening legislative section of Leviticus presents the five major categories 
 
 The structure places the mandatory offerings for sin at the center, framed by the voluntary offerings of devotion. Theologically, this arrangement declares that while voluntary worship (the burnt offering, expressing total devotion) and communal fellowship (the <span dir="rtl">שְׁלָמִים</span>) are important, the sacrificial system's core purpose is the remediation of human sinfulness.[^11]
 
-But does this textual arrangement correspond to actual sacrificial practice? The evidence is mixed. The Mishnah's description of the daily Tamid service (discussed in Part III) follows a fixed sequence that does not replicate this chiastic order: the daily burnt offering (<span dir="rtl">עוֹלַת הַתָּמִיד</span>) was offered morning and afternoon as the anchoring sacrifice, with other offerings interposed between them.[^12] The textual chiasm of Leviticus 1–7, then, is best understood as a literary and theological arrangement of the sacrificial categories rather than a performance script. The text's structure makes a theological argument—sin offering at the center—that the daily service enacts differently, through the temporal frame of morning and evening burnt offerings.
+But does this textual arrangement correspond to actual sacrificial practice? At the level of the daily calendar, the Mishnah's description of the Tamid service (discussed in Part III) follows a fixed sequence that does not replicate this chiastic order.[^12]
 
-This distinction between textual arrangement and performance order will recur throughout this study. It does not diminish the significance of either pattern; rather, it reveals two complementary chiastic logics operating simultaneously: one in the literary organization of law, the other in the temporal rhythm of practice.
+At the level of the individual offering, however, the enacted ritual traces its own chiastic arc. The procedure for a burnt offering (Lev 1:3–9) prescribes a spatial choreography: the worshipper approaches the entrance of the Tent of Meeting → lays hands on the animal's head (<span dir="rtl">וְסָמַךְ יָדוֹ עַל רֹאשׁ הָעֹלָה</span>) → the animal is slaughtered → the priests manipulate the blood against the altar (the climactic center) → the portions are arranged and burned on the fire → the worshipper withdraws.[^91] The altar stands at the spatial and ritual center of this sequence: everything before it moves the worshipper inward toward the sacred fire, and everything after it moves outward toward ordinary life. The individual sacrifice is thus a spatial chiasm enacted through the body—an arc of approach and withdrawal around the moment of blood and flame.
+
+This distinction between textual arrangement and enacted performance will recur throughout this study. It reveals complementary chiastic logics operating simultaneously: one in the literary organization of law, another in the spatial choreography of individual offerings.
 
 ## II.B. The Day of Atonement: Leviticus 16
 
@@ -208,7 +211,9 @@ The Passover legislation in Exodus 12:1–13:16 presents a grand chiasm that the
 
 The chiasm's theological argument is striking: the ritual instructions (A, B, C and A', B', C') surround the historical event itself (X). The text enacts what it prescribes: just as the Passover ritual commemoratively surrounds the Exodus, so the text about the ritual literally surrounds the narrative of the Exodus. The medium is the message.[^18]
 
-For the question of ritual chiasm, however, the Passover narrative introduces a distinction crucial to this study. The original Passover in Egypt was a one-time historical event, not a repeatable ritual. The annual Passover celebration that commemorates it is the ritual—and its structure developed over centuries, ultimately crystallizing in the rabbinic Seder (analyzed in Part IV). The textual chiasm of Exodus 12–13 thus prescribes not a single chiastic ritual but a chiastic relationship between event and commemoration: the historical exodus at the center, ritual instructions framing it on all sides, and the command to transmit the story to future generations at the outermost layer (A': "you shall tell your son").
+The original Passover night, as narrated in Exodus 12, also exhibits an enacted spatial chiasm. The Israelites' experience traces a concentric arc: ordinary life in Egypt → gathering inside the house → applying blood to the lintel and doorposts (the threshold/pivot) → eating the lamb within, in haste, with loins girded → remaining inside until morning while the destroyer passes → emerging at dawn into freedom.[^92] The blood-marked doorframe functions as the chiastic pivot—a visible boundary between death outside and life inside. The household moves inward through successive layers of protection (gathering, threshold-marking, enclosed eating) and then outward through the marked door into a transformed world. This is a spatial chiasm enacted through the household's relationship to its own doorway: the doorframe is the physical center, and the movement inward and outward through it structures the night's experience.
+
+For the question of repeatable ritual chiasm, however, a distinction is crucial. The original Passover was a one-time historical event, not a repeatable ritual. The annual celebration that commemorates it developed over centuries, crystallizing in the rabbinic Seder (analyzed in Part IV). The textual chiasm of Exodus 12–13 prescribes a chiastic relationship between event and commemoration: the historical exodus at the center, ritual instructions framing it on all sides, and the command to transmit the story to future generations at the outermost layer (A': "you shall tell your son").
 
 This structure anticipates the Seder's own chiastic logic, where the narrative of the Exodus (<span dir="rtl">מַגִּיד</span>) occupies a central position in the evening's ritual sequence, framed by preparatory rites and concluding celebrations.
 
@@ -248,7 +253,9 @@ The purity laws of Numbers 5:1–6:21 form a meso-chiasm that spans two distinct
 
 The chiasm juxtaposes two ritual trajectories: one moving from defilement toward purification (A → B → X), the other from purification toward consecration (X → B' → A'). At the center stands the <span dir="rtl">סוֹטָה</span> ritual, the trial by bitter water—an ordeal that places guilt or innocence in God's hands. The center thus marks the threshold between the two paths: remediation of wrong (the first half) and pursuit of holiness (the second half).[^22]
 
-As enacted rituals, both the <span dir="rtl">סוֹטָה</span> trial and the Nazirite vow involve their own internal sequences of actions. The Sotah ritual described in Numbers 5:11–31 follows a notably concentric procedure: the priest brings the woman forward → prepares the water → writes the curses → dissolves the ink → administers the water → observes the result. The preparation and administration of the water frame the central act of writing and dissolving the curses—an act that symbolically transfers the written word into the physical realm, making text become substance. The Mishnah's elaboration of this ritual (Sotah 1:1–3:4) preserves and extends this concentric structure, adding layers of priestly action around the central ordeal.[^23]
+As enacted rituals, both the <span dir="rtl">סוֹטָה</span> trial and the Nazirite vow involve their own internal sequences of actions. The Sotah ritual described in Numbers 5:11–31 follows a notably concentric procedure: the priest brings the woman forward → prepares the water → writes the curses → dissolves the ink → administers the water → observes the result. The preparation and administration of the water frame the central act of writing and dissolving the curses. The Mishnah's elaboration of this ritual (Sotah 1:1–3:4) preserves and extends this concentric structure, adding layers of priestly action around the central ordeal.[^23]
+
+The Nazirite vow (Num 6:1–21) enacts a temporal chiasm through the body itself. The person's physical state is the chiastic medium: ordinary life → consecration (hair begins growing uncut, wine is abstained, corpse contact is forbidden) → the period of holiness intensifies as the hair lengthens → the climactic offering at the entrance of the Tent of Meeting (Num 6:13–17) → the hair is shaved and burned in the fire of the peace offering → wine is once again permitted → return to ordinary life.[^93] The Nazirite's body traces a concentric arc: it enters a state of visible, physical consecration (marked most dramatically by the uncut hair), reaches a climax at the sacrificial moment, and then reverses—the hair is removed, the restrictions are lifted, and the person reenters ordinary existence. The center of this chiasm is not a text or a space but a moment of sacrificial offering, and the mirroring elements are not words but bodily states.
 
 The red heifer ritual of Numbers 19, though not part of this chiastic unit, merits brief attention. The <span dir="rtl">פָּרָה אֲדֻמָּה</span> ritual is structured around a paradox: the person who prepares the purification water becomes temporarily impure, while the impure person who is sprinkled with it becomes pure. This paradoxical exchange has a chiastic logic—pure becomes impure, impure becomes pure—though it operates at the conceptual rather than sequential level. The Mishnah Parah elaborates the red heifer's preparation with careful attention to spatial movement (outside the camp → burning site → collection of ashes → preparation of water → sprinkling on the impure person → return to purity), creating a ritual arc that, while not strictly chiastic, exhibits the concentric departure-and-return pattern characteristic of purity rites.[^24]
 
@@ -285,6 +292,8 @@ This chiastic reading is suggestive rather than certain. The correspondences bet
 However, the pairing is imperfect: Shavuot has no exact counterpart in the fall sequence, and the Shabbat frame is more of an inclusio than a chiastic element. Mary Douglas, in *Leviticus as Literature*, argued that the entire book of Leviticus exhibits concentric structure with Yom Kippur at its center, which supports a chiastic reading of the festival calendar within that larger architecture. But she did not make the specific claim that the festival calendar itself is chiastic in its internal arrangement.[^26]
 
 The more defensible claim is that the annual ritual calendar exhibits a **concentric temporal structure** with the Tishrei holy days at the center of gravity: the year's ritual intensity builds from the spring festivals through the summer months to the dense cluster of Rosh Hashanah, Yom Kippur, and Sukkot, then recedes. Whether this constitutes chiasm in the strict sense—with element-by-element correspondence between the first and second halves—or simply a crescendo-and-decrescendo pattern is a question of definitional precision. This study classifies it as probable chiasm with the caveat that the correspondences are thematic rather than verbal.[^27]
+
+Within the individual pilgrimage festivals, a further concentric temporal structure operates. Both Pesach and Sukkot are bounded by days of full sanctity (<span dir="rtl">יוֹם טוֹב</span>) with intermediate days (<span dir="rtl">חוֹל הַמּוֹעֵד</span>) between them: holy day → intermediate days → holy day. The festival's holiness is not uniform but chiastic—it intensifies at the boundaries and relaxes at the center, creating a sacred frame that encloses a period of modified ordinary activity. This internal durational chiasm operates at the scale of individual festivals just as the annual calendar's concentric structure operates at the scale of the year.[^94]
 
 ---
 
@@ -409,6 +418,62 @@ While this descending sequence is linear rather than chiastic, the Sukkot festiv
 The Tishrei season thus traces a chiastic arc from judgment (Rosh Hashanah) through repentance (Aseret Yemei Teshuvah) and atonement (Yom Kippur) to joy (Sukkot) and back through final judgment (Hoshana Rabbah) to intimate celebration (Shemini Atzeret/Simchat Torah). The center is Sukkot's commandment to rejoice—making joy, not judgment, the structural and theological heart of the season.[^36]
 
 The Mishnah's treatment of Sukkot (tractate Sukkah) reinforces this reading. The four species (<span dir="rtl">אַרְבַּעַת הַמִּינִים</span>)—lulav, etrog, myrtle, and willow—are held together and waved in six directions: forward, right, backward, left, upward, and downward. This ritual gesture creates a three-dimensional chiasm in space, radiating outward from the worshipper's body and returning to center. The Talmud (Sukkah 37b) interprets this waving as encompassing the entirety of space, acknowledging God's sovereignty in all directions—a spatial chiasm enacted through bodily movement.[^37]
+
+## III.E. Sacred Objects as Chiasm
+
+The preceding sections have analyzed chiastic structures in ritual actions (III.A–B), sacred space (III.C), and festival observances (III.D). But chiasm also inheres in the physical form of ritual objects themselves. A menorah, a set of shofar blasts, a lulav bundle—these are not texts, not spaces, and not performed sequences, but artifacts and sound-patterns whose material structure exhibits concentric symmetry. This section examines sacred objects as a distinct category of ritual chiasm, distinguishing genuine chiastic form (concentric symmetry around a meaningful center) from mere bilateral symmetry (mirror-image halves without a generating center).[^95]
+
+### Temple Furnishings
+
+**The Menorah.** The seven-branched lampstand prescribed in Exodus 25:31–40 is the clearest chiastic artifact in the Israelite ritual system. Its structure is explicitly concentric: three branches on each side of a central shaft (<span dir="rtl">קָנָה</span>), with each branch bearing identical ornamentation of cups, knobs, and flowers:
+
+> **A** — Outer branch (right): three cups shaped like almond blossoms, with knob and flower
+>
+> > **B** — Middle branch (right): three cups shaped like almond blossoms, with knob and flower
+> >
+> > > **C** — Inner branch (right): three cups shaped like almond blossoms, with knob and flower
+> > >
+> > > > **X** — **CENTER: The central shaft** (<span dir="rtl">הַמְּנוֹרָה</span>) — **four cups shaped like almond blossoms; the source from which all branches emerge**
+> > >
+> > > **C'** — Inner branch (left): three cups shaped like almond blossoms, with knob and flower
+> >
+> > **B'** — Middle branch (left): three cups shaped like almond blossoms, with knob and flower
+>
+> **A'** — Outer branch (left): three cups shaped like almond blossoms, with knob and flower
+
+The <span dir="rtl">מְנוֹרָה</span>'s chiastic form is not merely decorative symmetry. The central shaft is not simply one branch among seven; it is the structural source from which the six lateral branches emerge (<span dir="rtl">יֹצְאִים מִצִּדֵּי הַמְּנוֹרָה</span>, Ex 25:32). The branches extend *from* the center—the center generates the symmetry. The menorah was hammered from a single piece of gold (<span dir="rtl">מִקְשָׁה אַחַת</span>, Ex 25:36), reinforcing the idea that the six branches are not separate elements attached to a central post but outgrowths of a single form radiating from its core. Confidence: **Certain**.
+
+**The Ark and Cherubim.** The Ark of the Covenant, topped by the <span dir="rtl">כַּפֹּרֶת</span> (mercy seat), presents a visual chiasm through the two cherubim. The cherubim face inward, their wings spread upward and toward the center (Ex 25:18–20): wing → face → *the space between* → face → wing. The empty center between the cherubim is the most theologically charged point in the entire Tabernacle: "I will meet with you there, and I will speak with you from above the <span dir="rtl">כַּפֹּרֶת</span>, from between the two cherubim" (Ex 25:22).[^96] The center of this visual chiasm is not a physical object but an absence—a space where the divine voice issues. The chiastic form of the cherubim directs attention inward toward a center that is invisible and audible rather than visible and tangible.
+
+The <span dir="rtl">לוּחוֹת</span> (tablets) within the Ark extend this chiastic logic. The traditional understanding that the first tablet bears commandments governing the relationship between God and humanity (1–5) while the second bears commandments governing relationships between people (6–10) creates a conceptual pairing: divine–human obligations on one side, human–human obligations on the other, with the Ark itself—the vessel of covenant—as the containing structure. This is bilateral mirroring rather than concentric chiasm, but it reinforces the Ark's function as a chiastic object whose center (the space between the <span dir="rtl">לוּחוֹת</span>, between the cherubim) is the locus of divine presence. Confidence: **Probable**.
+
+**The Showbread Table.** The twelve loaves of showbread were arranged in two stacks of six, with frankincense placed on each stack (Lev 24:5–9). The two identical stacks create bilateral mirror symmetry on the table's surface—the simplest form of structural balance, mirror symmetry without a clearly marked center. The showbread's arrangement represents the twelve tribes in two parallel groups rather than in concentric layers around a central element.[^97] Confidence: **Possible** (mirror symmetry rather than concentric structure).
+
+**The High Priest's Breastplate.** The <span dir="rtl">חֹשֶׁן</span> bore twelve stones set in four rows of three (Ex 28:15–21), each inscribed with the name of a tribe. The 4×3 grid lacks the concentric structure characteristic of chiasm—it has no single center point and no obvious mirroring between rows. The breastplate's symmetry is tabular rather than concentric. Confidence: **Speculative**.
+
+### Post-Temple Ritual Objects
+
+**The Shofar Sound Patterns.** The sequence of shofar blasts prescribed by the Mishnah (Rosh Hashanah 4:9) constitutes one of the clearest non-visual, non-textual chiasms in Jewish ritual. Each set follows the pattern:
+
+> **A** — <span dir="rtl">תְּקִיעָה</span> / Tekiah: a single sustained blast
+>
+> > **X** — <span dir="rtl">שְׁבָרִים</span> or <span dir="rtl">תְּרוּעָה</span> / **CENTER: Shevarim (three broken blasts) or Teruah (nine staccato blasts) — the sound of brokenness, weeping, fragmentation**
+>
+> **A'** — <span dir="rtl">תְּקִיעָה</span> / Tekiah: a single sustained blast
+
+The sustained blasts frame the broken center: wholeness → brokenness → restored wholeness. This is an auditory chiasm—A-B-A' enacted in sound rather than space or text. The Mishnah prescribes three sets of these triads, creating a nested repetition that amplifies the chiastic pattern.[^98] The final <span dir="rtl">תְּקִיעָה גְדוֹלָה</span> (great tekiah) that concludes the entire sequence extends the closing blast beyond its opening counterpart, marking the chiasm's resolution with a sound that exceeds its beginning—wholeness not merely restored but enlarged.
+
+**The Hanukkah Menorah.** The <span dir="rtl">חֲנֻכִּיָּה</span> arranges eight candles symmetrically around the <span dir="rtl">שַׁמָּשׁ</span> (servant candle), typically positioned above or at the center: four candles on each side.[^99] Like the Temple <span dir="rtl">מְנוֹרָה</span>, the Hanukkah menorah exhibits concentric physical form, though with a functional distinction: the <span dir="rtl">שַׁמָּשׁ</span> serves to light the others, making the center the source of illumination—the candle from which all light originates. The eight-day lighting sequence creates a temporal dimension as well: the number of flames grows from one to eight and implicitly recedes after the holiday ends, creating an arc of increasing and then diminishing light across the festival. Confidence: **Probable** for the physical form; **Speculative** for the temporal arc, which is asymmetric (the Talmud records no ritual of decreasing candles, despite the School of Shammai's preference for decreasing order in Shabbat 21b).
+
+**The Lulav Bundle.** Section III.D analyzed the lulav's six-direction waving as a spatial chiasm enacted through bodily movement. The lulav bundle's static structure also exhibits bilateral symmetry: the central palm branch (<span dir="rtl">לוּלָב</span>) serves as a spine, with three myrtle branches (<span dir="rtl">הֲדַסִּים</span>) bound on the right and two willow branches (<span dir="rtl">עֲרָבוֹת</span>) on the left.[^100] The palm branch's central position—the tallest and most visible element, around which the others are arranged—gives the bundle a material chiastic form. The etrog, held separately in the left hand, adds an external counterbalance. The asymmetry of three myrtles and two willows prevents this from being a perfect mirror chiasm, making it a **Possible** rather than **Certain** identification.
+
+Other ritual objects exhibit structural symmetry without rising to the level of chiasm. The four <span dir="rtl">צִיצִית</span> (fringes) at the corners of a garment create radial symmetry around the wearer's body—a spatial frame rather than a concentric structure (**Possible**). The <span dir="rtl">תְּפִלִּין</span> (phylacteries) pair the head and arm in a complementary relationship, but this is better understood as bilateral complement than concentric mirror (**Speculative**).
+
+### Material Chiasm and Temporal Duration
+
+The chiastic form of sacred objects connects to a broader pattern of concentric temporal duration in Jewish ritual. As Section II.F noted, the pilgrimage festivals exhibit internal durational chiasm: holy day → intermediate days → holy day. The <span dir="rtl">סְפִירַת הָעֹמֶר</span> (counting of the Omer) structures the seven weeks between Pesach and Shavuot as 7×7 days—a numerical symmetry centered on the midpoint of the count. And the sabbatical cycle extends this pattern across years: seven years of labor → the <span dir="rtl">שְׁמִטָּה</span> (sabbatical year); seven sabbatical cycles → the <span dir="rtl">יוֹבֵל</span> (Jubilee) in the fiftieth year (Lev 25:8–12). At every temporal scale—daily (morning and evening Tamid), weekly (Shabbat), annual (festival calendar), and septennial (sabbatical/Jubilee)—Jewish ritual organizes time concentrically around sacred centers.
+
+The material chiasm of sacred objects thus represents a fourth dimension alongside the spatial, temporal, and performative dimensions analyzed in Section VIII.B. Where spatial chiasm structures movement through space, temporal chiasm structures duration, and performative chiasm structures bodily action, material chiasm structures the physical form of the objects through which worship is conducted. The menorah's seven branches, the shofar's three-part blast, the Hanukkah lights—these encode chiastic theology in matter and sound, making concentric symmetry a property not only of what worshippers do and where they go but of the very instruments they use.
 
 ---
 
@@ -835,7 +900,9 @@ This study has identified three dimensions of ritual chiasm that may operate ind
 
 **Performative chiasm.** The ritual actions themselves—washing, blessing, eating, singing—may be organized chiastically, with the same type of action appearing at corresponding positions in the first and second halves. The Seder's washing without blessing (<span dir="rtl">וּרְחַץ</span>) and washing with blessing (<span dir="rtl">רָחְצָה</span>), the Amidah's opening praise and closing thanksgiving, Kiddush and Havdalah—these are performative chiasms where the body's repertoire of actions creates the concentric pattern.
 
-The richest ritual chiasms engage all three dimensions simultaneously. The Yom Kippur service combines spatial chiasm (outer court → Holy of Holies → outer court), temporal chiasm (preparation → central atonement → conclusion), and performative chiasm (garment changes, confessions, blood manipulations occurring in mirrored pairs). The Seder combines temporal chiasm (the fifteen steps) with performative chiasm (breaking/hiding matzah ↔ finding/eating it) and even a kind of narrative chiasm (the Maggid section's concentric structure within the larger concentric structure of the evening).[^84]
+**Material chiasm.** The physical form of sacred objects—the menorah's seven branches radiating from a central shaft, the shofar blast's sustained-broken-sustained pattern, the Hanukkah menorah's symmetrical arrangement around the shamash—creates a chiastic structure inherent in the artifact or sound-pattern itself. Material chiasm operates independently of time, space, or action: the menorah is chiastic whether or not anyone is looking at it; the shofar pattern is chiastic whether heard in the Temple or in exile. Section III.E analyzed this dimension in detail, distinguishing objects with genuine concentric structure (menorah, shofar) from those with mere bilateral symmetry (showbread, breastplate).
+
+The richest ritual chiasms engage multiple dimensions simultaneously. The Yom Kippur service combines spatial chiasm (outer court → Holy of Holies → outer court), temporal chiasm (preparation → central atonement → conclusion), and performative chiasm (garment changes, confessions, blood manipulations occurring in mirrored pairs). The Seder combines temporal chiasm (the fifteen steps) with performative chiasm (breaking/hiding matzah ↔ finding/eating it) and even a kind of narrative chiasm (the Maggid section's concentric structure within the larger concentric structure of the evening).[^84]
 
 ## VIII.C. Deliberate Design or Emergent Structure?
 
@@ -875,6 +942,8 @@ This study has sought to demonstrate that chiasm in Jewish ritual is not an arca
 
 **Birkat HaMazon** (<span dir="rtl">בִּרְכַּת הַמָּזוֹן</span>): Grace after Meals. Four blessings recited after eating bread, attributed by the Talmud to Moses, Joshua, David/Solomon, and the sages of Yavneh.
 
+**Choshen** (<span dir="rtl">חֹשֶׁן</span>): The High Priest's breastplate, set with twelve precious stones in four rows of three, each inscribed with the name of one of the twelve tribes of Israel (Ex 28:15–21).
+
 **Chiasm / Chiasmus**: An inverted parallelism (A-B-C...C'-B'-A') in which elements mirror each other around a central pivot. From the Greek letter chi (χ). In this study, applied to rituals as well as texts.
 
 **Concentric structure**: A pattern organized in nested layers around a center, like concentric circles. Used synonymously with chiasm when the pattern involves mirrored correspondence between the layers.
@@ -897,7 +966,11 @@ This study has sought to demonstrate that chiasm in Jewish ritual is not an arca
 
 **Korech** (<span dir="rtl">כּוֹרֵךְ</span>): Hillel's sandwich—matzah and bitter herbs eaten together, reenacting the Temple-era practice described in Pesachim 115a.
 
+**Luchot** (<span dir="rtl">לוּחוֹת</span>): The Tablets of the Law, inscribed with the Ten Commandments and placed inside the Ark of the Covenant. Traditionally understood as two tablets bearing commandments between God and humanity (1–5) and between people (6–10).
+
 **Maggid** (<span dir="rtl">מַגִּיד</span>): The narrative section of the Passover Seder, in which the story of the Exodus is told through midrashic exposition of Deuteronomy 26:5–8.
+
+**Menorah** (<span dir="rtl">מְנוֹרָה</span>): The seven-branched golden lampstand prescribed in Exodus 25:31–40, placed in the sanctuary (<span dir="rtl">הֵיכָל</span>) of the Tabernacle and Temple. Its concentric form—three branches on each side of a central shaft—makes it the clearest chiastic artifact in the Israelite ritual system.
 
 **Musaf** (<span dir="rtl">מוּסָף</span>): The additional prayer service on Shabbat, festivals, and new moons, corresponding to the additional sacrifices offered in the Temple on those days.
 
@@ -1216,3 +1289,23 @@ Zeitlin, Solomon. "Jesus and the Last Supper." *Jewish Quarterly Review* 38, no.
 [^89]: On the cantillation system and its structural properties, see William Wickes, *Two Treatises on the Accentuation of the Old Testament* (Oxford: Clarendon Press, 1881–1887). Research on the relationship between cantillation patterns and chiastic textual structures remains a desideratum.
 
 [^90]: On the relevance of structural analysis to liturgical reform, see Hoffman, *Beyond the Text*, 115–140.
+
+[^91]: Leviticus 1:3–9 prescribes the burnt offering procedure. The worshipper's hand-laying (<span dir="rtl">סְמִיכָה</span>) is discussed in Mishnah Menachot 9:8 and Bavli Menachot 93a–b. Milgrom, *Leviticus 1–16*, 150–162, analyzes the spatial progression of the individual offering.
+
+[^92]: Exodus 12:22–23 commands the Israelites to remain inside their houses until morning while the LORD passes through to strike the Egyptians. The blood on the lintel and doorposts marks the threshold that the destroyer may not cross.
+
+[^93]: Numbers 6:13–20. The Nazirite's concluding ritual at the Tent of Meeting includes burnt, sin, and peace offerings, followed by the shaving of the consecrated head and the burning of the hair in the fire of the peace offering. The ritual reverses the process of consecration: hair that grew during the vow is removed, and the abstentions (wine, grapes) are lifted.
+
+[^94]: On the structure of the pilgrimage festivals as chiastic durations, see the discussion of the Tishrei season in Section III.D. The holy day / intermediate days / holy day pattern of Pesach and Sukkot is codified in Mishnah Chagigah 1:1 and discussed in Bavli Chagigah 17a–18a.
+
+[^95]: The distinction between concentric chiastic form and mere bilateral symmetry in physical objects is this study's adaptation of the criteria established in Section I.C. On the menorah's construction, see Exodus 25:31–40 and Bavli Menachot 28b–29a.
+
+[^96]: Exodus 25:18–22. The Talmud (Bavli Bava Batra 99a) discusses the cherubim's orientation, noting that they faced each other when Israel fulfilled God's will and faced outward when Israel did not—adding a dynamic dimension to the chiastic visual form.
+
+[^97]: Leviticus 24:5–9. On the arrangement of the showbread, see Mishnah Menachot 11:5–7 and Bavli Menachot 96a.
+
+[^98]: Mishnah Rosh Hashanah 4:9. The Talmud (Bavli Rosh Hashanah 33b–34a) discusses the precise form of the <span dir="rtl">שְׁבָרִים</span> and <span dir="rtl">תְּרוּעָה</span> blasts and the reasoning behind the three sets of triads.
+
+[^99]: Bavli Shabbat 21b records the dispute between the Schools of Shammai and Hillel: Shammai advocates decreasing the number of candles from eight to one, while Hillel advocates increasing from one to eight. The halakhah follows Hillel. The <span dir="rtl">שַׁמָּשׁ</span> (servant candle) is discussed in Shabbat 21b–22a.
+
+[^100]: Mishnah Sukkah 3:1–4 prescribes the four species. The arrangement of the lulav bundle with myrtle on the right and willow on the left is specified in Shulchan Arukh, Orach Chaim 651:1, following Bavli Sukkah 37a.
