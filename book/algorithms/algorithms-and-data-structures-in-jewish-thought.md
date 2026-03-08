@@ -1,3 +1,4 @@
+<div style="text-align: center" markdown>
 
 # JEWISH THOUGHT AND JEWISH LAW
 
@@ -7,12 +8,14 @@
 
 From First Principles to a Unified Theory of Torah, Mitzvot, Ethics, and Human Agency
 
-> *We shall not cease from exploration*
-> *And the end of all our exploring*
-> *Will be to arrive where we started*
-> *And know the place for the first time.*
->
-> — T.S. Eliot, "Little Gidding"
+*We shall not cease from exploration*
+*And the end of all our exploring*
+*Will be to arrive where we started*
+*And know the place for the first time.*
+
+— T.S. Eliot, "Little Gidding"
+
+</div>
 
 # Table of Contents
 
