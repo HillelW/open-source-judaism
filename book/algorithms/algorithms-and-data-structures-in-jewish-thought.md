@@ -7,6 +7,13 @@
 
 From First Principles to a Unified Theory of Torah, Mitzvot, Ethics, and Human Agency
 
+> *We shall not cease from exploration*
+> *And the end of all our exploring*
+> *Will be to arrive where we started*
+> *And know the place for the first time.*
+>
+> — T.S. Eliot, "Little Gidding"
+
 # Table of Contents
 
   - [Introduction: Algorithm as the Unifying Lens of Jewish Thought](#introduction-algorithm-as-the-unifying-lens-of-jewish-thought)

@@ -17,7 +17,7 @@
 
 This manuscript examines the full range of parallels between Cynic philosophy and rabbinic thought: literary, thematic, structural, and conceptual. It draws on the complete extant Cynic corpus (Diogenes Laertius Book 6, the Pseudo-Diogenes and Pseudo-Crates epistles, Dio Chrysostom, Lucian, Julian, Epictetus, Teles, Bion, and Oenomaus) and the full breadth of rabbinic literature (Mishnah, Tosefta, tannaitic midrashim, both Talmuds, and the major midrashic collections). Hebrew and Aramaic texts are presented with English translation. Greek terms are transliterated using standard conventions (*autarkeia*, *parrhēsia*, *askēsis*). Hebrew transliteration follows a simplified academic convention (*bet midrash*, *halakhah*, *aggadah*). All Hebrew text is rendered in right-to-left spans for proper display.
 
-This study is a companion to three other volumes in this repository: *Tannaitic Parallels to Theon's Chreia Taxonomy*, *The Progymnasmata of the Bet Midrash*, and *Greco-Roman Parallels to Tannaitic Chreia Citations*. Where those works examine the broader relationship between rabbinic literature and Greco-Roman rhetoric, the present study focuses specifically on the Cynic philosophical tradition and its distinctive resonances with rabbinic thought.[^1]
+This study is a companion to two other volumes in this repository: *Tannaitic Parallels to Theon's Chreia Taxonomy* and *Mastering Rhetoric Through Rabbinic Literature*. Where those works examine the broader relationship between rabbinic literature and Greco-Roman rhetoric, the present study focuses specifically on the Cynic philosophical tradition and its distinctive resonances with rabbinic thought.[^1]
 
 ---
 
@@ -396,7 +396,7 @@ The scope and enforcement of this prohibition is debated. Some scholars understa
 
 A remarkable piece of evidence for direct rhetorical contact comes from outside rabbinic literature. Richard Hidary cites a letter from the Greek rhetorician Libanius (314–393 CE) to the Jewish patriarch, written in 393 CE, which indicates that the patriarch's son traveled to Antioch to study rhetoric with Libanius, having already received rhetorical training from a previous teacher. This evidence demonstrates that by the late fourth century, the highest-ranking Jewish leader considered Greek rhetorical education appropriate for his heir and had already provided preparatory training. If the patriarch's household engaged in rhetorical education, the question of whether similar engagement occurred among earlier rabbinic figures becomes not whether but how widely.[^89]
 
-David Brodsky has further argued that the *progymnasmata* exercises, the very curriculum in which Libanius would have trained the patriarch's son, can be identified in rabbinic literary forms, suggesting that the connection between Greek rhetorical pedagogy and rabbinic education was not incidental but structural. The companion volume in this repository, *The Progymnasmata of the Bet Midrash*, explores this connection in detail.[^90]
+David Brodsky has further argued that the *progymnasmata* exercises, the very curriculum in which Libanius would have trained the patriarch's son, can be identified in rabbinic literary forms, suggesting that the connection between Greek rhetorical pedagogy and rabbinic education was not incidental but structural. The companion volume in this repository, *Mastering Rhetoric Through Rabbinic Literature*, explores this connection in detail.[^90]
 
 ---
 
@@ -617,7 +617,7 @@ David Brodsky has argued that specific rhetorical exercises from the Greek *prog
 
 The evidence from Libanius's correspondence (see II.D.4 above) confirms that the *progymnasmata* curriculum was not foreign to Jewish intellectual culture. If the patriarch's son studied rhetoric with Libanius in Antioch around 393 CE, having already received preparatory rhetorical training from a previous teacher, then the progymnasmata exercises would have been part of his educational experience. The question is whether similar educational contact occurred earlier and more widely.[^112]
 
-The companion volume in this repository, *The Progymnasmata of the Bet Midrash*, reconstructs what a rabbinic rhetorical training manual might have looked like, drawing on tannaitic and amoraic sources organized according to the categories of the Greek progymnasmata. That reconstruction demonstrates systematic parallels between the two pedagogical traditions, parallels that extend well beyond the chreia to encompass the full range of preliminary exercises.[^113]
+The companion volume in this repository, *Mastering Rhetoric Through Rabbinic Literature*, reconstructs what a rabbinic rhetorical training manual might have looked like, drawing on tannaitic and amoraic sources organized according to the categories of the Greek progymnasmata. That reconstruction demonstrates systematic parallels between the two pedagogical traditions, parallels that extend well beyond the chreia to encompass the full range of preliminary exercises.[^113]
 
 ---
 
@@ -1170,7 +1170,7 @@ The companion document *Tannaitic Parallels to Theon's Chreia Taxonomy* catalogs
 
 ### VI.D.2. What Was Rejected
 
-Equally significant is what the rabbis did *not* adopt. The vast bulk of tannaitic literature (the halakhic disputes of the Mishnah, the hermeneutical reasoning of the midrashim, the technical legal analysis of the Tosefta) operates according to indigenous Jewish intellectual practices with no meaningful parallel in Greek rhetoric. The companion document catalogs these non-fitting forms systematically, demonstrating that approximately 80% or more of tannaitic discourse is irreducibly Jewish in form and method.[^177]
+Equally significant is what the rabbis did *not* adopt. The vast bulk of tannaitic literature (the halakhic disputes of the Mishnah, the hermeneutical reasoning of the midrashim, the technical legal analysis of the Tosefta) operates according to indigenous Jewish intellectual practices with no meaningful parallel in Greek rhetoric. Approximately 80% or more of tannaitic discourse is irreducibly Jewish in form and method.[^177]
 
 ### VI.D.3. The Pattern of Selective Adoption
 
@@ -1410,7 +1410,7 @@ This study raises several questions that merit further investigation:
 
 2. **The diatribe connection**: The parallels between the Cynic-Stoic diatribe and rabbinic midrashic homiletics identified in Part III.D require systematic investigation with close attention to specific texts from both traditions.
 
-3. **Comparative pedagogy**: A systematic comparison of the Greek *progymnasmata* curriculum with rabbinic pedagogical practices, building on the companion volume *The Progymnasmata of the Bet Midrash*, could illuminate the institutional mechanisms through which rhetorical forms were transmitted.
+3. **Comparative pedagogy**: A systematic comparison of the Greek *progymnasmata* curriculum with rabbinic pedagogical practices, building on the companion volume *Mastering Rhetoric Through Rabbinic Literature*, could illuminate the institutional mechanisms through which rhetorical forms were transmitted.
 
 4. **The Gadara question**: Archaeological work at Gadara, Hammat Gader, and related sites may yield new evidence for the cultural exchange between Greek-speaking and Jewish communities in the Galilee region.
 
@@ -1547,7 +1547,7 @@ This study raises several questions that merit further investigation:
 
 ## Footnotes
 
-[^1]: This study builds on the methodology established in the companion documents: *Tannaitic Parallels to Theon's Chreia Taxonomy*, *Greco-Roman Parallels to Tannaitic Chreia Citations*, and *The Implications of Parallels between Tannaitic Literature and Theon's Chreia Taxonomy*. Where those works survey the full range of Greco-Roman literary parallels, the present study narrows the focus to the Cynic philosophical tradition specifically.
+[^1]: This study builds on the methodology established in the companion documents: *Tannaitic Parallels to Theon's Chreia Taxonomy* and *Mastering Rhetoric Through Rabbinic Literature*. Where those works examine the broader relationship between rabbinic literature and Greco-Roman rhetoric, the present study narrows the focus to the Cynic philosophical tradition specifically.
 
 [^2]: On Antisthenes as founder of Cynicism, see DL 6.1–19. The question of whether Antisthenes should be classified as a "Cynic" (the term is anachronistic for his period) or merely as a Socratic philosopher whose emphasis on practical virtue anticipated later Cynicism is debated; see William D. Desmond, *Cynics* (Berkeley: University of California Press, 2008), 1–17.
 
@@ -1707,7 +1707,7 @@ This study raises several questions that merit further investigation:
 
 [^80]: See the companion document *Tannaitic Parallels*, Introduction and Part I.A.1.a.
 
-[^81]: See *The Implications of Parallels between Tannaitic Literature and Theon's Chreia Taxonomy*, Sections III–IV.
+[^81]: The full mapping is presented in the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*. For the theoretical implications of this comprehensive coverage, see Part VI below.
 
 [^82]: On chreia cycles in the Babylonian Talmud, see Fischel (1973), 21–55.
 
@@ -1725,7 +1725,7 @@ This study raises several questions that merit further investigation:
 
 [^89]: On Libanius's letter to the patriarch, see Hidary, *Rabbis and Classical Rhetoric*, 32–38.
 
-[^90]: On Brodsky's thesis, see the companion volume *The Progymnasmata of the Bet Midrash*, Editor's Preface.
+[^90]: On Brodsky's thesis, see the companion volume *Mastering Rhetoric Through Rabbinic Literature*, Part I.
 
 [^91]: The structural comparison draws on the methodology established in Hock and O'Neil (1986) and Moeser (2002).
 
@@ -1767,11 +1767,11 @@ This study raises several questions that merit further investigation:
 
 [^110]: On dialogue with *minim*, see Daniel Boyarin, *Border Lines: The Partition of Judaeo-Christianity* (Philadelphia: University of Pennsylvania Press, 2004), 37–73.
 
-[^111]: On the *progymnasmata* and rabbinic literary forms, see the companion volume *The Progymnasmata of the Bet Midrash* in this repository.
+[^111]: On the *progymnasmata* and rabbinic literary forms, see the companion volume *Mastering Rhetoric Through Rabbinic Literature* in this repository.
 
 [^112]: Hidary, *Rabbis and Classical Rhetoric*, 32–38.
 
-[^113]: See *The Progymnasmata of the Bet Midrash*, passim.
+[^113]: See *Mastering Rhetoric Through Rabbinic Literature*, passim.
 
 [^114]: DL 6.37, 6.54, 6.72; Dio Chrysostom, Oration 6.
 
@@ -1883,13 +1883,13 @@ This study raises several questions that merit further investigation:
 
 [^168]: Boyarin, *Socrates and the Fat Rabbis* (2009).
 
-[^169]: On the obstacles to the direct influence hypothesis, see the companion document *Implications*, Section IV.A.
+[^169]: On the obstacles to the direct influence hypothesis, see the discussion in Part II.D above; see also Hidary, *Rabbis and Classical Rhetoric*, 25–60.
 
-[^170]: On indirect cultural diffusion, see *Implications*, Section IV.B.
+[^170]: On indirect cultural diffusion as a transmission mechanism, see Lieberman, *Greek in Jewish Palestine* (1942), 15–28.
 
-[^171]: On the universalist hypothesis, see *Implications*, Section IV.C.
+[^171]: On the universalist hypothesis, see Moeser, *The Anecdote in Mark, the Classical World and the Rabbis* (2002), 15–40.
 
-[^172]: On common Near Eastern heritage, see *Implications*, Section IV.D.
+[^172]: On common Near Eastern heritage as a source of formal parallels, see Kugel, *The Traditions of the Bible* (1998), passim.
 
 [^173]: On the Gadara-Galilee road network, see Isaac, *The Near East under Roman Rule* (1998), 330–355.
 
@@ -1897,11 +1897,11 @@ This study raises several questions that merit further investigation:
 
 [^175]: On the Oenomaus-Rabbi Meir dialogues, see Luz (1992), 60–80.
 
-[^176]: See *Implications*, Section IV.G.
+[^176]: See the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*, which catalogs these texts by category.
 
-[^177]: See *Implications*, Section V.
+[^177]: The figure of approximately 80% is derived from the observation that the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy* identifies approximately 195 chreia-like texts out of a much larger tannaitic corpus that is predominantly halakhic and hermeneutical in character.
 
-[^178]: See *Implications*, Section IV.G (synthesis).
+[^178]: On the rabbis' pragmatic approach to Hellenistic culture, see Lieberman, *Hellenism in Jewish Palestine* (1950), 100–145.
 
 [^179]: Fischel (1968), 395–400.
 
@@ -1919,7 +1919,7 @@ This study raises several questions that merit further investigation:
 
 [^186]: Bereshit Rabbah 65:20. This analysis synthesizes the Oenomaus material from Part V.A with the end-of-prophecy material.
 
-[^187]: The table systematizes parallels identified throughout Parts III–IV and in the companion document *Greco-Roman Parallels to Tannaitic Chreia Citations*.
+[^187]: The table systematizes parallels identified throughout Parts III–IV and in the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*.
 
 [^188]: On Ben Zoma's fourfold redefinition, see Fischel (1968), 389–393; Urbach, *The Sages*, 420–425.
 
@@ -1927,7 +1927,7 @@ This study raises several questions that merit further investigation:
 
 [^190]: On Rabbi Akiva's ethical universalism, see Urbach, *The Sages*, 420–430.
 
-[^191]: The parallels in this table are drawn from the companion document *Greco-Roman Parallels to Tannaitic Chreia Citations* and narrowed to Cynic and Cynic-adjacent (Stoic) sources.
+[^191]: The parallels in this table are drawn from the analysis in Parts III–IV and the companion document *Tannaitic Parallels to Theon's Chreia Taxonomy*, narrowed to Cynic and Cynic-adjacent (Stoic) sources.
 
 [^192]: The action parallels are drawn from analysis throughout Parts III–IV.
 

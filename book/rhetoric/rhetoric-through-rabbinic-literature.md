@@ -1,6 +1,6 @@
-# MASTERING RHETORIC THROUGH RABBINIC LITERATURE
+# RHETORIC THROUGH RABBINIC LITERATURE
 
-*The Comprehensive Guide a Tanna Would Have Needed — Presented for the Modern Learner*
+*A Comprehensive Guide for the Modern Learner*
 
 A complete course in the art of persuasion, argument, and eloquent speech, reconstructed from the rhetorical practices embedded in the Mishnah, Talmud, and Midrash — organized as a progressive curriculum from first principles to mastery
 
@@ -21,20 +21,17 @@ A complete course in the art of persuasion, argument, and eloquent speech, recon
   - [2.3. Ma'aseh: The Art of Narrative](#23-maaseh-the-art-of-narrative)
   - [2.4. Chreia: The Wise Saying Attributed to a Person](#24-chreia-the-wise-saying-attributed-to-a-person)
   - [2.5. Klal: The Maxim That Stands Alone](#25-klal-the-maxim-that-stands-alone)
-  - [2.6. Part II Challenges](#26-part-ii-challenges)
 - [Part III: Finding Your Arguments — The Art of Invention](#part-iii-finding-your-arguments--the-art-of-invention)
   - [3.1. Where Arguments Come From](#31-where-arguments-come-from)
   - [3.2. The Thirteen Middot as an Argument-Finding System](#32-the-thirteen-middot-as-an-argument-finding-system)
   - [3.3. Stasis Theory: The Four Questions Every Dispute Answers](#33-stasis-theory-the-four-questions-every-dispute-answers)
   - [3.4. Ethos, Pathos, Logos — Through Rabbinic Eyes](#34-ethos-pathos-logos--through-rabbinic-eyes)
-  - [3.5. Part III Challenges](#35-part-iii-challenges)
 - [Part IV: Building Your Case — Confirmation, Refutation, and Argument](#part-iv-building-your-case--confirmation-refutation-and-argument)
   - [4.1. From Finding Arguments to Deploying Them](#41-from-finding-arguments-to-deploying-them)
   - [4.2. Confirmation: Proving Your Point](#42-confirmation-proving-your-point)
   - [4.3. Refutation: Taking Apart the Other Side](#43-refutation-taking-apart-the-other-side)
   - [4.4. Commonplace: The Universal Argument](#44-commonplace-the-universal-argument)
   - [4.5. Machloqet as Training Ground](#45-machloqet-as-training-ground)
-  - [4.6. Part IV Challenges](#46-part-iv-challenges)
 - [Part V: Putting It in Order — The Art of Arrangement](#part-v-putting-it-in-order--the-art-of-arrangement)
   - [5.1. Why Order Matters](#51-why-order-matters)
   - [5.2. The Parts of a Speech](#52-the-parts-of-a-speech)
@@ -42,13 +39,11 @@ A complete course in the art of persuasion, argument, and eloquent speech, recon
   - [5.4. The Yelamdenu Form](#54-the-yelamdenu-form)
   - [5.5. The Passover Haggadah as Model Oration](#55-the-passover-haggadah-as-model-oration)
   - [5.6. Arrangement in Legal Argument](#56-arrangement-in-legal-argument)
-  - [5.7. Part V Challenges](#57-part-v-challenges)
 - [Part VI: Saying It Well — Style, Figures, and Tropes](#part-vi-saying-it-well--style-figures-and-tropes)
   - [6.1. The Three Registers](#61-the-three-registers)
   - [6.2. Figures of Speech in Rabbinic Literature](#62-figures-of-speech-in-rabbinic-literature)
   - [6.3. Tropes: Saying One Thing and Meaning Another](#63-tropes-saying-one-thing-and-meaning-another)
   - [6.4. The Distinctive Wordplay of the Sages](#64-the-distinctive-wordplay-of-the-sages)
-  - [6.5. Part VI Challenges](#65-part-vi-challenges)
 - [Part VII: Praise, Blame, and Speaking in Character](#part-vii-praise-blame-and-speaking-in-character)
   - [7.1. Why These Five Come Later](#71-why-these-five-come-later)
   - [7.2. Encomium and Shevach — The Art of Praise](#72-encomium-and-shevach--the-art-of-praise)
@@ -56,7 +51,6 @@ A complete course in the art of persuasion, argument, and eloquent speech, recon
   - [7.4. Comparison and Hekesh — Mutual Illumination](#74-comparison-and-hekesh--mutual-illumination)
   - [7.5. Speech-in-Character — Speaking as Someone Else](#75-speech-in-character--speaking-as-someone-else)
   - [7.6. Ekphrasis — Making the Absent Present](#76-ekphrasis--making-the-absent-present)
-  - [7.7. Part VII Challenges](#77-part-vii-challenges)
 - [Part VIII: Remembering and Delivering — The Physical Arts](#part-viii-remembering-and-delivering--the-physical-arts)
   - [8.1. Why Memory Matters More Than You Think](#81-why-memory-matters-more-than-you-think)
   - [8.2. The Tanna: A Living Library](#82-the-tanna-a-living-library)
@@ -66,17 +60,14 @@ A complete course in the art of persuasion, argument, and eloquent speech, recon
   - [8.6. Cantillation: A Complete Delivery Score](#86-cantillation-a-complete-delivery-score)
   - [8.7. The Meturgeman: Collaborative Delivery](#87-the-meturgeman-collaborative-delivery)
   - [8.8. Voice, Silence, and Bearing](#88-voice-silence-and-bearing)
-  - [8.9. Part VIII Challenges](#89-part-viii-challenges)
 - [Part IX: Thesis and Law — Arguing the Big Questions](#part-ix-thesis-and-law--arguing-the-big-questions)
   - [9.1. The Thesis: Arguing General Questions](#91-the-thesis-arguing-general-questions)
   - [9.2. Introduction of a Law: The Capstone Exercise](#92-introduction-of-a-law-the-capstone-exercise)
-  - [9.3. Part IX Challenges](#93-part-ix-challenges)
 - [Part X: The Summit — Machloqet, Suasoria, and Sugya](#part-x-the-summit--machloqet-suasoria-and-sugya)
   - [10.1. The Machloqet as Rhetorical Exercise](#101-the-machloqet-as-rhetorical-exercise)
   - [10.2. The Suasoria: Speaking at the Moment of Decision](#102-the-suasoria-speaking-at-the-moment-of-decision)
   - [10.3. The Sugya: The Supreme Rhetorical Exercise](#103-the-sugya-the-supreme-rhetorical-exercise)
   - [10.4. The Chain Continues](#104-the-chain-continues)
-  - [10.5. Part X Challenges](#105-part-x-challenges)
 - [Glossary of Rhetorical Terms](#glossary-of-rhetorical-terms)
 - [Bibliography](#bibliography)
 
@@ -151,8 +142,6 @@ There is another detail about Rabbi Meir that matters for us. The Talmud also te
 > *When Rabbi Meir died, the composers of parables ceased.*[^7]
 
 Rabbi Meir was not only a master of logical argument — he was also a master of the *mashal*, the parable. This combination is significant. The parable is a tool of *invention* — a way of discovering and presenting arguments that pure logic alone cannot reach. The master of rhetoric, this tradition is telling us, needs both: the analytical power to construct formal arguments *and* the creative imagination to illuminate those arguments through vivid, memorable stories. As you work through this book, you will develop both capacities.
-
-**Try This:** Think about the last time you were really persuaded by something — a speech, an argument, an essay, a conversation. What made it persuasive? Was it the logic of the argument? The credibility of the speaker? An emotional connection? A story that made the abstract concrete? Try to identify at least three elements that contributed to its persuasive power. You have just begun practicing the art of rhetorical analysis.
 
 ## 1.3. The Bet Midrash as Rhetorical School
 
@@ -251,8 +240,6 @@ Let us decode these as rhetorical skills, because that is exactly what they are:
 
 If you cultivate these eight qualities, you will already be well on your way to rhetorical competence. They are the habits of mind that underlie everything else in this book.
 
-**Try This:** The next time you are in a discussion or debate, consciously try to practice just *one* of the seven qualities listed above. Pick the one you find hardest. Notice what happens when you deliberately hold yourself to that standard. Many people find that "not being hasty to respond" is the most difficult — and the most transformative.
-
 ## 1.4. The Three Genres of Speech: Judging, Advising, Celebrating
 
 Every act of public speech falls into one of three categories. This insight, first formulated by Aristotle, has governed all subsequent rhetorical theory — and, as we shall see, it maps perfectly onto the three primary forms of discourse in the bet midrash.[^19]
@@ -316,8 +303,6 @@ Why does epideictic speech matter for your rhetorical training? Because it devel
 Think of the best commencement speech you have ever heard, or the most powerful eulogy, or the most stirring dedication ceremony. These are not arguments in the usual sense — they are not trying to prove a proposition or win a debate. They are trying to *move* you, to make you feel something deeply, to send you out into the world with renewed purpose. That is the power of epideictic speech, and the sages were masters of it.
 
 The Talmud at Mo'ed Qatan 25a-b preserves eulogies for the great sages that are miniature masterpieces of the genre. When a sage died, the eulogizers competed to find the most apt and powerful expression of the loss. "If a flame can fall among the cedars," one eulogizer asks, "what hope is there for the moss on the wall?"[^24] This is a figure of amplification — *a fortiori* reasoning deployed not for logical persuasion but for emotional impact. If death can take the greatest among us, the figure says, how fragile are the rest of us? The effect is simultaneously humbling and unifying: the audience feels both the magnitude of the loss and the shared vulnerability of all human life.
-
-**Try This:** Think of a public occasion you have recently attended — a graduation, a memorial, a celebration, a rally. Which of the three genres was the speaker using? Was the speech primarily about judging something that happened in the past, advising about something to do in the future, or celebrating (or lamenting) something in the present? You may find that the best speeches blend elements of all three — but one genre usually dominates. Identifying it will help you understand why the speech was structured the way it was.
 
 ## 1.5. Your Rhetorical Toolkit: The Five Skills
 
@@ -385,8 +370,6 @@ The institution of the *meturgeman* — the official interpreter-orator who stoo
 
 We will explore delivery fully in Part VIII, alongside memory — because in the rabbinic tradition, these two "physical arts" are deeply intertwined.
 
-**Try This:** The next time you listen to a speech, a lecture, a sermon, or even a podcast, try to identify which of the five skills the speaker is using well and which could be improved. Is the speaker strong on invention (finding good arguments) but weak on arrangement (putting them in a confusing order)? Strong on style (beautiful language) but weak on delivery (poor vocal energy)? This exercise will begin training your ear for rhetorical analysis.
-
 ## 1.6. How This Book Works
 
 This book is organized around two principles: **progressive difficulty** and **integration through practice**.
@@ -411,15 +394,9 @@ Our arrangement distributes the fourteen exercises across the book at the points
 - **Part IX** teaches the two most advanced preliminary exercises: thesis (debating abstract questions) and the introduction of a law (proposing and defending legislation).
 - **Part X** is the capstone: the full-scale declamation exercises — *controversia* (arguing real cases), *suasoria* (speaking at moments of decision), and the *sugya* (the Talmud's supreme rhetorical exercise, which integrates all five canons in a single sustained argument).
 
-### Integration Through Practice
+### Companion Workbook
 
-At every stage, you will practice what you learn. The exercises in this book are organized in three tiers:
-
-- **"Try This"** — Brief inline exercises that ask you to identify, analyze, or apply a concept you have just learned. These appear throughout each section and should take no more than a few minutes.
-- **"Your Turn"** — Structured composition exercises at the end of each section. These ask you to *produce* something: compose a parable, construct an argument, rewrite a passage in a different style. They are more substantial and may take anywhere from fifteen minutes to an hour.
-- **"Challenge"** — Integrative exercises at the end of each Part. These draw on everything you have learned in the Part and often require combining multiple skills. They are designed to stretch you.
-
-The exercises are cumulative: each Part's exercises assume you have completed (or at least engaged with) the exercises in previous Parts. A "Challenge" exercise in Part VII might ask you to compose an encomium (Part VII skill) using a structure learned in Part V (arrangement) with arguments found using techniques from Part III (invention) and expressed in a style discussed in Part VI. This is deliberate. Rhetoric is not a collection of isolated skills — it is an integrated art, and the exercises are designed to help you experience that integration.
+Exercises for each Part — inline analysis prompts (“Try This”), structured composition tasks (“Your Turn”), and integrative challenges — are collected in the companion volume, *Rhetoric Through Rabbinic Literature — Workbook*.
 
 ### Key Recurring Examples
 
@@ -585,8 +562,6 @@ This makes the rabbinic mashal a more rigorous tool of argumentation than the Ae
 
 This architecture — systematic point-by-point correspondence between two domains — is what modern rhetorical theory calls an "analogical argument." The mashal does not merely illustrate a truth; it *argues* for it by demonstrating structural isomorphism between the imagined world and the real one. The listener who accepts the logic of the story is compelled by that same logic to accept the truth of the nimshal.
 
-**Try This:** Take the king-on-a-journey parable from Sifrei Deuteronomy 26 (the father carrying his son on his shoulders). Identify the point-by-point correspondences: father = ?, son = ?, shoulders = ?, purchased objects = ?, stranger = ?, question "Have you seen my father?" = ?. When you have mapped all the elements, ask yourself: does any element in the story lack a counterpart in the nimshal? Does any element in the nimshal lack a counterpart in the story? A perfectly constructed mashal will have exact one-to-one correspondence.
-
 ### Composing Your Own Mashal
 
 Now it is your turn. The composition of meshalim was a standard exercise in the bet midrash, and we will follow the same approach.
@@ -608,13 +583,6 @@ Here are the steps for composing a mashal:
 3. **Build the narrative** so that every element corresponds to an element in the principle (the mashal-nimshal mapping).
 4. **Keep it brief.** The mashal should be short enough to deliver in a single breath. If it requires a paragraph of setup, it is too long.
 5. **Test the analogy's limits.** Every mashal has a breaking point — a place where the fiction and the reality diverge. Identify that breaking point so that you do not inadvertently extend the analogy beyond its intended range.
-
-**Your Turn:** Compose a mashal to illustrate one of the following teachings:
-- "Do not look at the vessel but at what is in it" (Avot 4:20) — use a *different* analogy than the wine-jar one above
-- "It is not your obligation to complete the work, but neither are you free to desist from it" (Avot 2:16)
-- "In a place where there are no men, strive to be a man" (Avot 2:6)
-
-For each mashal, write out the nimshal — the point-by-point mapping of the story's elements to the teaching's elements. Then ask a friend to read the mashal *without* the nimshal and see if they can figure out the mapping on their own. A good mashal is transparent enough that the nimshal is almost self-evident.
 
 ## 2.3. Ma'aseh: The Art of Narrative
 
@@ -744,24 +712,6 @@ The narrative establishes a standard of practice: these sages, when presented wi
 
 This interweaving of narrative and law is one of the most powerful rhetorical features of the Mishnah. It means that legal rules are never merely abstract — they are always connected to real people making real decisions in real situations. The student who learns the law through the narrative understands not just *what* the rule is but *why* it exists and *how* it applies. The narrative is not decoration added to the law; it is the medium through which the law becomes comprehensible.
 
-### Exercises
-
-**Try This:** Read the following brief narrative and identify all six elements (person, action, time, place, manner, cause). Then ask: which elements does the narrative include, which does it omit, and why?
-
-> <span dir="rtl">מעשה ברבי אליעזר שהיה יושב ודורש כל היום כולו בהלכות החג. יצתה כת ראשונה... יצתה כת שנייה... יצתה כת שלישית</span>
->
-> *It happened with Rabbi Eliezer that he was sitting and teaching the laws of the festival all day long. The first group departed... the second group departed... the third group departed...*
-
-**Your Turn:** Compose a ma'aseh — a brief narrative in the rabbinic style — that illustrates one of the following principles:
-- "Greater is the service of Torah scholars than its study" (one who serves learns more than one who merely studies)
-- "Do not judge your fellow until you have reached his place" (you cannot understand someone's choices until you have been in their situation)
-
-Your narrative should:
-1. Begin with an appropriate formula (*ma'aseh be-...* or *pa'am achat*)
-2. Include at least four of the six narrative elements
-3. End with a closing formula that derives a principle from the narrative
-4. Be brief enough to read aloud in under one minute
-
 ## 2.4. Chreia: The Wise Saying Attributed to a Person
 
 ### What Is a Chreia?
@@ -826,8 +776,6 @@ This is the overwhelmingly dominant type in Pirkei Avot. The formula is "Rabbi X
 Notice the formula *hu hayah omer* — "he used to say." This indicates a habitual saying — something the sage repeated on multiple occasions, a teaching so characteristic that it became his signature. The Greek chreia collections use a similar formula: *ephe* ("he used to say"). The parallel is striking.
 
 Note also the distinction between *omer* (present tense: "says") and *hayah omer* (past habitual: "used to say"). The present tense suggests a teaching that is timeless and still operative — "Rabbi X says" implies his teaching stands as wisdom for all time. The past habitual suggests a teaching that characterized the sage during his lifetime — it is retrospective and biographical. Paying attention to these formulaic distinctions enriches your understanding of how the tradition frames each teaching.
-
-**Try This:** Take Hillel's chreia — "If I am not for myself, who is for me? And when I am only for myself, what am I? And if not now, when?" — and analyze its rhetorical structure. How many questions does it pose? What is the relationship between them? Does each question build on the previous one? What is the effect of ending with three unanswered questions rather than three declarative statements? We will return to this chreia repeatedly throughout the book, analyzing it through different lenses. For now, simply notice its structure.
 
 **2. Circumstantial Statements — The sage reacts to something observed or experienced.**
 
@@ -931,8 +879,6 @@ The phenomenon of *variant recitation* is pervasive in rabbinic literature. Hill
 
 Each variant is a recitation exercise — the same teaching restated in different words. The student who can only repeat a teaching in its original words has *memorized* but not *understood* it. The student who can restate it in her own words — preserving the substance while varying the expression — has demonstrated genuine comprehension.
 
-**Try This:** Take the chreia "The day is short, the work is great, the workers are lazy, the reward is great, and the Master of the house is pressing" (Rabbi Tarfon, Avot 2:15). Restate it in three different ways: once in plain modern language, once as an extended metaphor drawn from a different domain (not the workplace), and once in the most compressed form you can manage — three words or fewer, if possible.
-
 **2. Inflection** — Changing the variables in a chreia to produce all possible combinations.
 
 Rabban Yohanan ben Zakkai poses the same inquiry twice: "What is the right path?" (Avot 2:9) and "What is the evil path?" (Avot 2:11). The students' answers are systematically inflected: "good eye" becomes "evil eye," "good companion" becomes "evil companion." This is the inflection exercise in action.
@@ -992,14 +938,6 @@ The chreia is a highly constrained form. Your composition must satisfy three con
 3. **It must be apt.** The saying or action should fit the character to whom it is attributed. A boorish remark does not make a chreia when attributed to a sage known for gentleness.
 
 Beyond these three requirements, the best chreiai have a fourth quality: **pointedness.** They surprise, challenge, or reframe something familiar. A platitude is not a chreia, no matter how well attributed or briefly stated. The chreia should make the reader stop and think.
-
-**Your Turn:**
-
-1. **Transform by recitation.** Take Ben Zoma's "Who is wise? One who learns from every person" and restate it in three different ways — once as a command, once as a narrative, and once as a metaphor.
-
-2. **Compose an original chreia.** Think of a person you admire — a teacher, a mentor, a public figure. Compose a chreia that captures something essential about their character: a brief saying or action, attributed to them, that reveals who they are.
-
-3. **Expand, then condense.** Take the chreia "In a place where there are no men, strive to be a man" (Hillel, Avot 2:6). First *expand* it: write a paragraph of commentary explaining what it means and why it matters. Then *condense* it: reduce it to the shortest possible form that still captures the essential meaning. Which version is more powerful — the expanded or the condensed?
 
 ## 2.5. Klal: The Maxim That Stands Alone
 
@@ -1062,8 +1000,6 @@ This transformation has enormous rhetorical significance. By adding or removing 
 
 The skilled speaker knows when to deploy each form. Use the chreia when the prestige of the named sage strengthens your argument. Use the maxim when you want your teaching to sound like universal truth rather than one person's opinion.
 
-**Try This:** The teaching "According to the effort is the reward" (<span dir="rtl">לפום צערא אגרא</span>) is attributed to Ben He He in Avot 5:23 — a chreia. But it also circulates widely as an anonymous proverb. Try stating it both ways — with attribution and without — and notice how the feel changes. With the attribution, it is a specific sage's insight. Without it, it is a fact about the universe.
-
 ### The Paradoxical Maxim
 
 The most powerful maxims are the ones that challenge received opinion — that take a familiar concept and redefine it in a surprising way. Ben Zoma's fourfold redefinition (Avot 4:1) is the supreme example:
@@ -1076,41 +1012,6 @@ The most powerful maxims are the ones that challenge received opinion — that t
 Each redefinition overturns the popular understanding and replaces it with a moral one. Aristotle observed that paradoxical maxims are especially effective because "they attract attention because of the novelty of the statement."[^78] The listener expects one thing and gets another — and that moment of surprise is when learning happens.
 
 The paradoxical maxim is a tool you will use throughout your rhetorical career. Whenever you want to challenge your audience's assumptions, take a familiar term and redefine it. The technique works because it preserves the vocabulary of the conventional understanding (everyone knows what "wisdom" means) while replacing its content (but wisdom is not what you thought it was).
-
-### Exercises
-
-**Try This:** Classify the following as chreia or maxim. For each maxim, identify its type (declarative, hortatory, compound, or double):
-
-1. "Be deliberate in judgment, raise up many disciples, and make a fence around the Torah" (Avot 1:1)
-2. "Love work, hate mastery, and do not make yourself known to the government" (Shemayah, Avot 1:10)
-3. "The world endures on three things: on justice, on truth, and on peace" (Avot 1:18)
-
-**Your Turn:**
-
-1. **Compose original maxims.** Write one maxim of each type (declarative, hortatory, compound, double) on the theme of *speech and silence*. Each should be concise enough to memorize in a single reading.
-
-2. **Transform chreia to maxim and back.** Take Hillel's "If I am not for myself, who is for me?" and strip it to a maxim — state the same truth without attribution and without rhetorical questions. Then take the anonymous maxim "A person does not sin unless a spirit of folly enters him" and compose a narrative frame that transforms it into a chreia: who said it, under what circumstances, and to whom?
-
-3. **Analyze the Avot chain.** Read through Pirkei Avot 1:1-1:18 and classify every teaching as chreia or maxim. For each chreia, ask: could this teaching stand as a maxim if the attribution were removed? Would it gain or lose force?
-
-## 2.6. Part II Challenges
-
-These exercises integrate everything you have learned in Part II. Each one requires you to combine skills from multiple sections.
-
-**Challenge 1: The Sage's Teaching Session.** Choose a single teaching from Pirkei Avot. Compose the following:
-- A *mashal* (parable) that illustrates the teaching, complete with nimshal
-- A *ma'aseh* (narrative) that dramatizes the teaching being applied in a real situation
-- An analysis of the teaching as a *chreia* — identifying its type, its rhetorical structure, and what makes it apt to its attributed speaker
-- A transformation of the teaching into a *klal* (maxim), with a brief comment on what is gained and lost by removing the attribution
-
-**Challenge 2: Chreia Elaboration.** Take one of these chreiai and perform all eight exercises from the chreia training:
-- Hillel's "If I am not for myself, who is for me?"
-- Ben Zoma's "Who is wise? One who learns from every person."
-- Akavya's "Better to be called a fool all my days than to become wicked for one hour."
-
-For each chreia: (1) recite it in three different formulations, (2) inflect it by reversing or varying its terms, (3) comment on its truth and usefulness, (4) object to it from the opposite point of view, (5) expand it with a story and additional examples, (6) condense it to the fewest possible words, (7) identify a ground on which it could be refuted, (8) confirm it with evidence from another source.
-
-**Challenge 3: Compose a Passage.** Write a short passage (300-500 words) in which all four building blocks appear: a mashal, a ma'aseh, a chreia, and a klal. The passage should have a single unifying theme, and each form should contribute to the argument in its distinctive way. Model your composition on the style of Avot de-Rabbi Natan, where chreiai are expanded with narratives, parables, and general principles woven together.
 
 ---
 
@@ -1155,8 +1056,6 @@ This is the most natural of all argumentative forms. Even children use it: "If D
 **The built-in constraint:** The sages imposed a crucial rule on the qal va-homer: <span dir="rtl">דיו לבא מן הדין להיות כנדון</span> — "It is sufficient for the derived case to be equal to the source case."[^83] This means you cannot use a qal va-homer to derive a *stricter* conclusion than your premise warrants. If the lesser case gets punishment X, the greater case gets *at most* punishment X — not punishment X-plus-more. This constraint prevents the argument from spiraling upward without limit. It is, in effect, a built-in check on rhetorical excess.
 
 Think of how a modern lawyer might use this: "Your Honor, if the law prohibits even *accidental* disclosure of confidential information, surely it prohibits *intentional* disclosure." That is a qal va-homer. But the lawyer cannot then argue that intentional disclosure should be punished *more severely* than the statute provides for accidental disclosure — that would violate the *dayo* principle.
-
-**Try This:** Construct a qal va-homer argument for the following proposition: "If even a king must stand when the Torah scroll passes by, then certainly an ordinary person must do so." Identify the lesser case, the greater case, and the principle that connects them. Then consider: what would the *dayo* constraint prevent you from concluding?
 
 ### Rule 2: Gezerah Shavah (Verbal Analogy)
 
@@ -1208,12 +1107,6 @@ This final rule addresses apparent contradictions — and it teaches a profound 
 
 This technique is immensely useful beyond the study of sacred texts. Whenever you encounter two apparently contradictory pieces of evidence, resist the temptation to discard one of them. Instead, search for the framework that accommodates both. The contradiction is usually a sign that you have not yet understood the full picture — that each piece of evidence is true in a domain you have not yet identified. This is one of the most valuable habits of mind that the study of rhetoric can develop.
 
-**Your Turn:** You are presented with two conflicting rulings:
-- "A person should always teach his student in concise language" (the virtue of brevity)
-- "A person should expound from multiple angles until the student understands" (the virtue of thoroughness)
-
-These seem contradictory. Using Rule 13, find the resolution: under what circumstances does each rule apply? What "third verse" — what mediating principle — reconciles them?
-
 ## 3.3. Stasis Theory: The Four Questions Every Dispute Answers
 
 The middot tell you *where* to find arguments in a text. But what if the question is not "What does this text mean?" but "What is the right answer to this dispute?" For that, you need a different tool: *stasis theory*.
@@ -1264,8 +1157,6 @@ Even after facts, definition, and quality are settled, the question of jurisdict
 
 The skilled advocate identifies the stasis of the dispute at the outset and directs all arguments to that point. When the question is "Did it happen?" it is useless to argue about justification. When the question is "What is it?" it is useless to argue about jurisdiction. The sage who can say, "The dispute before us is a question of definition" — that sage has already clarified the debate and focused everyone's attention where it belongs.
 
-**Try This:** Consider the famous Oven of Akhnai dispute (Bava Metzia 59b). Rabbi Eliezer argues that a certain oven is ritually pure; the majority disagrees. Identify which stasis this dispute occupies. Is it a question of conjecture (did something happen)? Definition (what category does this oven belong to)? Quality (does the character of the oven's construction matter)? Procedure (who has authority to decide)? The answer may surprise you — the narrative moves through *multiple* stases as the argument escalates.
-
 ## 3.4. Ethos, Pathos, Logos — Through Rabbinic Eyes
 
 Aristotle identified three modes of persuasion: **ethos** (the credibility of the speaker), **pathos** (the emotions of the audience), and **logos** (the logical force of the argument). Every act of persuasion uses some combination of these three, and the skilled speaker knows how to deploy all of them.[^92]
@@ -1305,24 +1196,6 @@ The characteristic form of Talmudic logical proof is:
 > *One might think [X]... but the text teaches [Y].*[^96]
 
 This formula, which pervades the tannaitic midrashim, is the rabbinic equivalent of the enthymeme: a proposition is advanced ("one might think"), a counter-proposition is derived from evidence ("the text teaches"), and the conclusion follows. The proof advances by first entertaining and then eliminating the alternative — a form of refutation embedded within confirmation.
-
-## 3.5. Part III Challenges
-
-**Challenge 1: The Argument Map.** Take a single passage from the Mishnah (any passage that contains a dispute between sages) and produce a complete "argument map":
-- Identify the stasis of the dispute (conjecture, definition, quality, or procedure)
-- Identify which middot (hermeneutical rules) each side uses to support its position
-- Identify how ethos, pathos, and logos function in the arguments
-- Determine which side you find more persuasive and explain *why* — using the vocabulary of invention you have learned in this Part
-
-**Challenge 2: The Middot in Action.** Choose three of the thirteen middot and compose an original argument using each one. Your arguments should address a contemporary question (legal, ethical, or philosophical) rather than a biblical one. The point is to practice using the logical structures of the middot in your own reasoning, not merely to analyze how the sages used them.
-
-**Challenge 3: Stasis Analysis of the Oven of Akhnai.** Read the full narrative of the Oven of Akhnai (Bava Metzia 59b). Write a detailed analysis identifying:
-- Where the dispute begins (what stasis?)
-- How the stasis shifts as the argument escalates (from definition to procedure to something else entirely)
-- How each side deploys ethos, pathos, and logos
-- Why the majority's position prevails despite Rabbi Eliezer's marshaling of miracles and a heavenly voice
-
-This narrative is one of the most rhetorically complex passages in all of rabbinic literature. We will return to it in Part IV (for refutation), Part V (for arrangement), and Part X (for the full controversia analysis). For now, focus on the *invention* — where do the arguments come from?
 
 ---
 
@@ -1382,8 +1255,6 @@ When the Talmud introduces a proof with *she-ne'emar* and quotes a verse whose m
 > *From where do we know that one should not stand to pray except with a solemn disposition? As it says: "Serve the Lord with reverence" (Psalm 2:11).*[^73]
 
 The verse directly states the principle: worship requires reverence. The correspondence between proposition and proof is transparent — no interpretive labor required. This is confirmation at its most powerful and its most direct.
-
-> **Try This:** Find three instances in the first chapter of Mishnah Berakhot where a proposition is confirmed with a direct scriptural citation. For each, assess whether the citation truly provides "clear" confirmation or whether some interpretive work is needed to connect verse to ruling.
 
 **Second: From the Probable.** When no direct statement exists, you can confirm a proposition through logical inference — demonstrating that it follows plausibly from what is already established. This is the domain of the *qal va-chomer* and the other hermeneutical rules you studied in Part III, now deployed specifically as tools of confirmation.
 
@@ -1463,8 +1334,6 @@ The asmakhta does not claim that the teaching originates in Scripture. It claims
 
 This distinction between derivation (*derasha*) and support (*asmakhta*) is one of the most subtle in all of rabbinic hermeneutics. Confusing the two has practical consequences: it would attribute biblical authority to teachings that possess only rabbinic authority, misrepresenting the halakhic hierarchy. The student who fails to grasp this distinction will misunderstand a great deal of Talmudic argumentation.
 
-> **Try This:** Examine the following Talmudic passages and determine whether the scriptural verse functions as a genuine derivation or as an asmakhta: (a) the derivation of hand-washing from "Sanctify yourselves" in BT Berakhot 53b; (b) the derivation of the Hanukkah obligation from any scriptural verse cited in BT Shabbat 21b. What criteria help you distinguish the two?
-
 ### The Architecture of Cumulative Confirmation
 
 One of the most powerful techniques in the Talmud's confirmatory arsenal is cumulative confirmation — the piling up of proof upon proof until the conclusion becomes irresistible. The Mekhilta de-Rabbi Ishmael demonstrates this technique with particular virtuosity:
@@ -1482,14 +1351,6 @@ The Babylonian Talmud refines this further with a three-part confirmation sequen
 > *From where do we know this? As it is written... And perhaps you might say it means something else? It stands to reason that our reading is correct because...*
 
 This three-part sequence — proof, embedded challenge, reconfirmation — is the complete confirmation exercise in miniature. First, a verse is cited. Then an alternative reading is proposed (a preemptive refutation). Then the original reading is restored with additional argument. This anticipatory structure is devastatingly effective: by raising and answering the objection yourself, you deprive your opponent of his strongest move.
-
-> **Your Turn: Four-Fold Confirmation.** Take the following teaching and confirm it from four distinct grounds — from Scripture, from logical inference, from narrative precedent, and from authority:
->
-> <span dir="rtl">דרך ארץ קדמה לתורה</span>
->
-> *Proper conduct preceded the Torah.* (Leviticus Rabbah 9:3)
->
-> From Scripture: find a verse supporting the priority of ethical behavior over ritual obligation. From reason: construct a *qal va-chomer* for why ethics must precede religious law. From precedent: cite a narrative of a sage who demonstrated this principle through his actions. From authority: cite an authoritative ruling that embodies this priority. Arrange your four proofs from weakest to strongest.
 
 ## 4.3. Refutation: Taking Apart the Other Side
 
@@ -1593,8 +1454,6 @@ And the corresponding legal principle:
 
 These formulae establish that a ruling — however logically sound — is refuted by its own impracticability. If a ruling would make life impossible for the community, that impossibility is itself sufficient grounds for rejection. This is a distinctively practical form of refutation: it does not challenge the truth of the proposition but its livability. The rabbinic tradition, rooted as it is in the governance of a living community, gives this category a weight that the more theoretical Greek tradition does not always accord it.
 
-> **Try This:** Look at the six grounds of refutation and identify which ones challenge the *truth* of a proposition (unclear, incredible, impossible, inconsistent) and which ones challenge its *acceptability* (unfitting, inexpedient). Why might the sages have valued both kinds of challenge?
-
 ### The Hierarchy of Refutation
 
 Here is something the Greek rhetorical handbooks do not teach but the Talmud demonstrates on every page: not all refutations are equal. The Talmud implicitly ranks them in a hierarchy of severity.
@@ -1622,16 +1481,6 @@ When the Talmud challenges a teaching using the formula:
 it is performing something remarkable. This formula, attributed to various tannaitic authorities, refuses not the proof-text itself but the inference drawn from it. The refuter accepts the existence of the verse; he denies its relevance to the proposition it is meant to support. This is a refutation of the *connection* between evidence and conclusion — an attack on the logic of the proof rather than on the truth of the premise.
 
 This is a particularly sophisticated mode of refutation. It grants the opponent his evidence while destroying his argument. Think of how a lawyer might say, "I accept that this document exists, but it does not prove what opposing counsel claims it proves." The evidence stands; the inference falls.
-
-> **Your Turn: Six-Ground Refutation.** Take the following maxim and compose a refutation on each of the six grounds:
->
-> <span dir="rtl">יפה שעה אחת בתשובה ומעשים טובים בעולם הזה מכל חיי העולם הבא</span>
->
-> *One hour of repentance and good deeds in this world is better than all the life of the world to come.* (Avot 4:17)
->
-> From the unclear: What does "better" mean? Better in what respect? From the incredible: Is it truly credible that a single mortal hour surpasses eternity? From the impossible: Does this not contradict the second half of the same mishnah, which declares that "one hour of spiritual bliss in the world to come is better than all the life of this world"? From the inconsistent: Does it not stand in tension with numerous teachings presenting the world to come as the supreme reward? From the unfitting: Would it not diminish the divine gift of eternal life? From the inexpedient: If this world is truly superior, what incentive remains for enduring suffering in anticipation of future reward?
->
-> After refuting from all six grounds, compose an *answer* to each of your own refutations — defending the maxim against your own objections. The sage who can both destroy and rebuild the same position has achieved dialectical mastery.
 
 ## 4.4. Commonplace: The Universal Argument
 
@@ -1692,8 +1541,6 @@ Now the vice is compared not to one cardinal sin but to all three simultaneously
 The consequence is stated in the most severe terms available: death by stoning, the most horrifying form of capital punishment. The amplification is now complete: the vice has been compared to the worst sins, and its deserved punishment has been declared to be the most extreme.
 
 Study the entire passage (Arakhin 15b-16a). It continues at length with additional comparisons, scriptural proofs, and illustrative narratives, constituting a complete commonplace discourse of the highest order.
-
-> **Try This:** Read through the Arakhin passage and identify each of the five structural elements (naming, comparison, consequence, scriptural proof, exhortation). Notice how many cycles of amplification the passage contains — each one raising the stakes higher than the last.
 
 ### Example 2: Praise of Charity — BT Bava Batra 9a-10a
 
@@ -1766,14 +1613,6 @@ Now that you have seen the structure in action, here is how to compose your own 
 5. **Ground it in text.** Find scriptural or authoritative support that confirms the assessment.
 
 6. **Conclude with urgency.** End not with analysis but with exhortation. The listener should leave feeling that action is required.
-
-> **Your Turn: Paired Commonplace Compositions.** Compose two speeches:
->
-> (a) A speech condemning ingratitude (*kefirat tovah*), following the five-part structure. Use the rabbinic teaching that ingratitude toward human benefactors leads to ingratitude toward God (Sifrei Deuteronomy 318), and ground your amplification in at least one historical consequence.
->
-> (b) A speech praising gratitude (*hakarat ha-tov*), using the same structure in reverse. Show how recognition of the good leads to progressively greater benefits — personal, communal, and cosmic.
->
-> Notice how the two speeches mirror each other. The arguments for one can be adapted into arguments against the other.
 
 ## 4.5. Machloqet as Training Ground
 
@@ -1881,41 +1720,6 @@ And the answer is not always determined by the quality of the arguments alone. A
 
 This is the ultimate lesson of the machloqet: rhetorical judgment is not merely logical judgment. It is the integration of logic, ethics, practical wisdom, and sensitivity to communal needs. The rhetorician who can only determine which argument is logically stronger has mastered half the art. The rhetorician who can weigh all these factors and arrive at a wise decision has mastered it entirely.
 
-> **Your Turn: Full Machloqet Analysis.** Choose one of the following machloqot from the Mishnah and perform a complete analysis:
->
-> (a) Beit Shammai vs. Beit Hillel on the lighting of Hanukkah candles (Mishnah Shabbat 21b): Should we start with eight candles and decrease, or start with one and increase?
->
-> (b) Rabbi Akiva vs. Ben Petura on two travelers in the desert with one flask of water (BT Bava Metzia 62a): Should one person drink and survive, or should both share and both die?
->
-> For your chosen machloqet:
-> - State each position clearly
-> - Identify the scriptural or logical basis of each position (confirmation)
-> - Identify the strongest objection to each position (refutation)
-> - Determine the stasis of the dispute
-> - Assess which position is more persuasive and explain *why* — using the full vocabulary of confirmation and refutation you have learned
-
-## 4.6. Part IV Challenges
-
-**Challenge 1: The Mekhilta's Systematic Dialectic.** Read the first three chapters of Mekhilta de-Rabbi Ishmael, tractate Pischa (on Exodus 12). For each halakhic proposition in the text, identify: (a) the proposition itself, (b) the challenge ("From where do you derive this?"), (c) the scriptural confirmation provided, and (d) any refutations or counter-readings that are raised and answered. Map the pattern of assertion → challenge → confirmation → counter-reading → reconfirmation that drives the Mekhilta's dialectic. Then write a brief essay explaining how this structure trains the student in both confirmation and refutation simultaneously.
-
-**Challenge 2: Self-Refutation and Reconstruction.** Compose a brief essay (500-800 words) defending one of the following propositions:
-- The minority opinion should always be preserved, even when the majority has ruled definitively
-- A ruling that the community cannot bear should be overturned, even if it is logically and textually sound
-- Moral fittingness is a legitimate ground for overriding the plain sense of a text
-
-Then compose a systematic refutation of your own essay, attacking it from at least four of the six grounds. Then compose a revised defense that anticipates and answers the refutations. This three-stage exercise — defense, attack, revised defense — trains you to think dialectically, to anticipate objections before they are raised, and to construct arguments that have already survived the fire of challenge.
-
-**Challenge 3: Commonplace Amplification with Historical Grounding.** Compose a full commonplace speech (following the five-part structure) on the vice of indifference — the failure to act when action is required. Ground your amplification in a specific historical catastrophe: the destruction of the First Temple (for failing to rebuke sinners), the destruction of the Second Temple (for baseless hatred that produced communal paralysis), or the fall of Betar (for the consequences of failed leadership). Your speech should proceed through all five stages: definition, comparison with other vices, consequence, scriptural proof, and exhortation. Make the listener feel, by the end, that indifference is not merely unfortunate but catastrophic.
-
-**Challenge 4: The Oven of Akhnai — Full Dialectical Treatment.** Write a complete dialectical analysis of the Oven of Akhnai (Bava Metzia 59a-b), covering:
-- Rabbi Eliezer's confirmation of his position (what kinds of evidence does he deploy?)
-- The majority's refutation of each piece of evidence
-- Rabbi Yehoshua's procedural refutation and its philosophical significance
-- The divine response and what it means for the relationship between heavenly authority and human reasoning
-- Your own assessment: was the majority's refutation fair? Was it complete? What was lost when Rabbi Eliezer's position was rejected?
-
-This passage integrates everything you have learned in Parts I through IV: invention (where do the arguments come from?), confirmation (how are they supported?), refutation (how are they challenged?), and the machloqet as training ground for dialectical judgment. We will return to it one final time in Part X for the full controversia analysis.
-
 ---
 
 # Part V: PUTTING IT IN ORDER — THE ART OF ARRANGEMENT
@@ -1994,8 +1798,6 @@ The Mishnah is built on this principle. Numerical division is one of its most ch
 
 These numerical divisions function as partitiones: they announce the structure in advance, creating a framework the audience can follow. The listener hears "three things" and immediately knows that three points are coming. This is an enormous aid to comprehension and memory.
 
-> **Try This:** Look at the opening mishnah of any three tractates. How many use numerical division as a structuring device? What effect does the number have on the audience's ability to follow and remember the teaching?
-
 ### The Confirmatio: Proving Your Case
 
 The confirmatio is the heart of the discourse — where you deploy the arguments you discovered through invention and practiced through confirmation. In the rabbinic tradition, confirmation typically follows a pattern: first a scriptural proof, then logical argument, then precedent, then appeal to consensus. Multiple proofs are always preferred over a single proof.
@@ -2054,8 +1856,6 @@ The test is this: when the audience hears the final connection, they should thin
 
 Think of how a great mystery novel works: each clue leads to the next, and when the solution is revealed, the reader sees that every piece was pointing to it all along. The petihta works the same way — it is a mystery whose solution is the Torah reading of the day.
 
-> **Try This:** Take the opening verse of any Torah portion and find a verse in Psalms, Proverbs, or Ecclesiastes that can serve as a starting point for a petihta. Build a chain of three or four interpretive links connecting the distant verse to the near one. Each link should be supported by a scriptural proof, not by mere association. Test your petihta by the standard above: does the final connection feel both surprising and inevitable?
-
 ## 5.4. The Yelamdenu Form
 
 ### A Complete Oration in Miniature
@@ -2081,8 +1881,6 @@ The discourse proceeds through five stages that map precisely onto the classical
 5. **Peroratio**: A return to the original question, showing that the aggadic development has deepened understanding of the legal ruling.
 
 The genius of this form is its integration of the two great modes of rabbinic speech — halakhah (legal discourse) and aggadah (narrative-theological discourse) — into a single, seamless structure. The sage answers a technical legal question and, in the same discourse, moves the audience to tears, inspires them to deeper observance, and leaves them with a theological insight that transforms how they understand the law.
-
-> **Your Turn: Compose a Yelamdenu.** Take a simple halakhic question — "What is the minimum quantity of matzah one must eat at the Seder?" or "May one light Shabbat candles after sunset?" — and construct a complete Yelamdenu discourse around it. Begin with the legal ruling. Find a connecting verse. Build an aggadic exposition that illuminates the spiritual significance of the law. Return to the original question with a deeper understanding. If you can do this, you have demonstrated mastery of arrangement.
 
 ## 5.5. The Passover Haggadah as Model Oration
 
@@ -2193,26 +1991,6 @@ This arrangement is not linear but spiral — the sugya circles back to the same
 
 We will study the sugya in its full complexity in Part X, where it serves as the capstone exercise integrating all five canons of rhetoric. For now, notice the principle: legal arrangement is not merely sequential but dialectical — it arranges material not just in order of presentation but in order of challenge and response.
 
-> **Your Turn: Analyze the Arrangement.** Choose a chapter from Mishnah Berakhot (chapters 1-3 are ideal) and analyze its arrangement. Ask:
-> - What principle governs the sequence of mishnayot? (Common to uncommon? Strict to lenient? Associative?)
-> - Where do numerical groupings appear, and what purpose do they serve?
-> - How does the arrangement aid memorization?
-> - If you rearranged the mishnayot in a different order, what would be lost?
-
-## 5.7. Part V Challenges
-
-**Challenge 1: Compose a Complete Petihta.** Choose the opening verse of Parashat Bereshit (Genesis 1:1, "In the beginning God created the heavens and the earth") and compose a full petihta. Start from a verse in Proverbs about wisdom (suggested: Proverbs 8:22, "The Lord created me at the beginning of His way"). Build a chain of at least four interpretive links connecting Proverbs 8 to Genesis 1:1 through the identification of Wisdom with Torah, using the midrashic tradition that Torah served as the "blueprint" for creation. Each link must be supported by a scriptural proof. Test your petihta: does the final connection feel both surprising and inevitable?
-
-**Challenge 2: Map the Haggadah as a Complete Oration.** Return to the Passover Haggadah with a copy of the text and a pen. Mark each section with its rhetorical label: exordium, narratio, divisio, confirmatio, amplificatio, peroratio. For each section, identify:
-- The specific rhetorical technique being used (direct/indirect opening, climax, antithesis, etc.)
-- The mode of persuasion (ethos, pathos, or logos)
-- How it connects to the section before and after it
-Write a brief essay (500-800 words) arguing that the Haggadah is a deliberately constructed oration, not merely a collection of liturgical fragments.
-
-**Challenge 3: Compose a Yelamdenu Discourse.** Construct a complete Yelamdenu discourse on the halakhic question: "Is one required to eat a festive meal on Purim?" Begin with a brief halakhic ruling. Find a connecting verse. Build an aggadic exposition — including a petihta, at least one parable, and one scriptural proof — that illuminates the spiritual significance of the festive meal. Return to the original question with deeper understanding. The complete discourse should be 800-1,200 words.
-
-**Challenge 4: Arrangement Comparison.** Compare the arrangement of Mishnah Berakhot Chapter 1 (the laws of reciting the Shema) with the arrangement of Mishnah Bava Qamma Chapter 1 (the laws of damage). What principle governs the arrangement of each? How does the legal subject matter determine the arrangement strategy? Which arrangement is more effective for memorization, and why? Write a comparative essay (500-800 words) that demonstrates your understanding of arrangement as a rhetorical choice, not merely an organizational convenience.
-
 ---
 
 # Part VI: SAYING IT WELL — STYLE, FIGURES, AND TROPES
@@ -2276,8 +2054,6 @@ The plain style is the most difficult because any student of moderate ability ca
 > *A person should always teach his student in concise language.* (BT Pesahim 3b)[^132]
 
 Conciseness is not poverty of thought; it is the compression of rich thought into a small space. Hillel, the greatest master of the plain style, was also capable of elaborate argument and extended discourse. His simplicity was not the simplicity of ignorance but the simplicity that lies on the far side of complexity.
-
-> **Try This:** Find one example of each register in Pirkei Avot. Which sages tend toward the grand style? Which toward the plain? Is there a correlation between a sage's style and the type of teaching he delivers?
 
 ## 6.2. Figures of Speech in Rabbinic Literature
 
@@ -2348,8 +2124,6 @@ Isocolon — phrases of equal length and parallel structure — is one of the si
 > *Know from where you came, and to where you are going, and before whom you will give an accounting.* (Avot 3:1)[^139]
 
 Three parallel phrases, each beginning with a question and ending with a significant destination. The balanced length creates authority and finality.
-
-> **Try This:** Find three examples of figures of speech in the first chapter of Pirkei Avot. Classify each one (anaphora, antithesis, chiasmus, isocolon, etc.) and explain what effect the figure creates.
 
 ## 6.3. Tropes: Saying One Thing and Meaning Another
 
@@ -2446,33 +2220,6 @@ Gematria is the most controversial of the interpretive techniques — the sages 
 The word *nimretzet* from 1 Kings 2:8 (describing Shimei's curse of David) is expanded letter by letter into five accusations. Each letter opens a new dimension of the word's meaning.
 
 The Latin term *notarikon* (from *notarius*, a shorthand writer) reveals the Greco-Roman connection — this technique has parallels in Greek *acrostic* and *isopsephy* traditions.
-
-> **Your Turn: Compose Using Three Techniques.** Take a verse from Psalms and apply three stylistic techniques to it: (a) compose a metaphorical interpretation mapping one domain onto another, (b) propose an *al tiqrei* re-vocalization that yields a new teaching, and (c) identify a figure of speech (anaphora, antithesis, climax, chiasmus) in the verse's Hebrew structure. For each technique, explain what the interpretation reveals that the plain reading alone does not.
-
-## 6.5. Part VI Challenges
-
-**Challenge 1: Style Analysis.** Select three passages of rabbinic literature, each representing a different register (grand, middle, plain). For each passage:
-- Identify the register and explain why it is appropriate for the context
-- Identify at least two figures of speech or tropes
-- Rewrite the passage in a different register and explain what is lost or gained by the change
-
-**Challenge 2: Figure Composition.** Compose a brief teaching (3-5 sentences) on the importance of honest speech, using at least three distinct figures of speech (choose from anaphora, antithesis, climax, chiasmus, isocolon, rhetorical question). Identify each figure and explain how it strengthens the teaching.
-
-**Challenge 3: Wordplay Interpretation.** Take the following verse and apply all three forms of rabbinic wordplay:
-
-> <span dir="rtl">פתח דבריך יאיר, מבין פתיים</span>
->
-> *The opening of Your words gives light; it gives understanding to the simple.* (Psalm 119:130)
-
-Apply: (a) an *al tiqrei* re-vocalization to one word in the verse, (b) a gematria calculation connecting one word to another concept, and (c) a notarikon reading of one word as an acronym. For each, explain the teaching that emerges and assess whether the interpretation carries legal weight or is purely homiletical.
-
-**Challenge 4: Complete Stylistic Revision.** Take the following Mishnah and rewrite it in three different registers — grand, middle, and plain — without changing the legal content:
-
-> <span dir="rtl">מאימתי קורין את שמע בערבית? משעה שהכהנים נכנסים לאכול בתרומתן</span>
->
-> *From when may one recite the Shema in the evening? From the time when the priests enter to eat their terumah.* (Berakhot 1:1)
-
-Your grand version should use imagery and elevation. Your middle version should be the Mishnah as written (explain why it is already in the middle style). Your plain version should compress the ruling to its absolute minimum. Discuss which version would be most effective for (a) a sermon, (b) a legal code, and (c) an aphorism.
 
 ---
 
@@ -2662,16 +2409,6 @@ The Talmud's description of the famine during the siege of Jerusalem achieves it
 
 The descending sequence — fine flour, white flour, coarse flour, barley flour — each sold out before the servant returns — creates a rhythm of accumulating desperation. And the final image — the great lady who steps into the street and dies from refuse on her foot — conveys the horror of the siege more powerfully than any abstraction. One right detail is worth a thousand generalities.
 
-## 7.7. Part VII Challenges
-
-**Challenge 1: Compose a Full Encomium.** Choose a sage from the rabbinic tradition (suggested: Rabbi Akiva, Hillel the Elder, or Beruriah) and compose a formal encomium following the six categories: origin, education, deeds, divine favor, comparison, legacy. Include at least one scriptural proof, one illustrative narrative, and one comparison to a prior figure. Aim for 800-1,200 words.
-
-**Challenge 2: Compose a Speech-in-Character.** Select a scene from Scripture in which a character is present but silent, or speaks briefly where the situation calls for more. Suggested scenes: Ruth addressing Naomi on the road from Moab (before her famous declaration), Esther preparing to approach the king uninvited, Joseph recognizing his brothers in Egypt. Compose a speech of 300-500 words that reveals the character's inner deliberation. Every word must be consistent with what Scripture tells us about this person.
-
-**Challenge 3: Ekphrasis of the Sinai Theophany.** Compose a vivid description of the scene at Mount Sinai (Exodus 19-20) that engages at least three senses — sight, sound, and touch. Use the details Scripture provides (thunder, lightning, thick cloud, the sound of the shofar growing louder, the smoking mountain, the trembling people) and compose a description that makes these vivid and immediate. The test: does the listener tremble as if standing at the foot of the mountain?
-
-**Challenge 4: Comparison.** Compose a formal comparison of Torah study and charitable action, following the structure studied in section 7.4. Argue first for the primacy of study, then for the primacy of action. Then seek a resolution that preserves both terms — following the model of the sages at Lydda who concluded that "study is greater, for study leads to action" (BT Kiddushin 40b). Your comparison should illuminate both activities more clearly than either could be understood alone.
-
 ---
 
 # Part VIII: REMEMBERING AND DELIVERING — THE PHYSICAL ARTS
@@ -2718,8 +2455,6 @@ Every student heard the teaching four times through a rotating system of instruc
 
 Rabbi Hiyya took this further. He assigned different tractates to different groups of students, then had the groups teach one another — so that each student's memory was reinforced by hearing the material from multiple voices. This system of reciprocal teaching is a sophisticated mnemonic pedagogy that any modern educator would recognize.[^172]
 
-> **Try This:** Choose a short passage — three or four lines from Pirkei Avot. Read it aloud four times, using the Eruvin 54b method: first read it yourself, then "teach" it to an imagined student, then hear it recited back in your mind, then recite it one final time. Compare how well you remember it after this fourfold process versus a single reading.
-
 ## 8.3. Five Mnemonic Systems
 
 The sages did not rely on repetition alone. They developed an array of mnemonic devices — *simanim* (signs) — that the Talmud itself validates with the declaration: <span dir="rtl">סימנא מילתא היא</span> — "a mnemonic sign is a substantive thing."[^173] This was not a grudging concession. It was an institutional endorsement: the construction of mnemonic devices was a valued and legitimate component of scholarly practice.
@@ -2762,8 +2497,6 @@ Consider the mnemonic for the ten plagues — <span dir="rtl">דצ"ך עד"ש ב
 
 This is characteristic of rabbinic mnemonics: they fuse memory and interpretation. The Greco-Roman mnemonic is purely instrumental — it helps you remember. The rabbinic mnemonic often *teaches* as it helps you remember.
 
-> **Try This:** Create a *siman* for a sequence you need to remember — it could be the sections of this book, the steps in your morning routine, or the key points of an argument you are developing. Try at least two different types: an acronym and a numerical grouping. Which one feels more natural to you? Which is more durable?
-
 ## 8.4. The Mishnah as Memory Palace
 
 Now we arrive at what may be the most remarkable achievement of the art of memory in the ancient world: the Mishnah of Rabbi Judah the Patriarch.
@@ -2801,8 +2534,6 @@ The *tanna* who memorizes a tractate word for word possesses rote memory — inv
 
 This is why the sages insisted that you must not merely memorize but understand the logic of arrangement. When you learn a chapter of Mishnah, ask: why does this ruling precede that one? What principle connects them? Is the order chronological, numerical, thematic, or mnemonic? The student who can answer these questions has turned the arrangement itself into a mnemonic device — and his memory will be more durable.
 
-> **Your Turn:** Select a chapter of the Mishnah (Berakhot chapter 1 is a good starting point) and map its structure. What principle governs the order of its rulings? Can you identify catchword chains, numerical groupings, or other mnemonic devices embedded in the text? Write a brief analysis (200-300 words) explaining the chapter's organizational logic.
-
 ## 8.5. Delivery: The Art of the Living Voice
 
 We turn now from memory to delivery — the art of the voice, the face, and the body in the act of speaking. All the classical authorities agree that delivery is essential. Demosthenes, asked to name the three most important qualities of an orator, is said to have replied: "Delivery, delivery, delivery."[^184]
@@ -2833,8 +2564,6 @@ The result is a system of delivery notation as precise as a modern musical score
 Consider what this means. When two readers follow the same cantillation, they will phrase, emphasize, and pause at the same points. The delivery is not left to the performer's discretion but inscribed in the text itself, transmitted across generations with the same fidelity as the words. This is standardized delivery at a level of precision that Quintilian could only dream of.
 
 Compare this to the resources available to the Greek or Roman orator. Quintilian advises the speaker to vary his pace, to pause at appropriate moments, to raise or lower his voice for effect (*Inst. Or.* 11.3.35–65). These are general principles, not specific instructions. The orator must rely on his own judgment to determine where to pause, where to emphasize, where to accelerate. The cantillation system replaces individual judgment with shared tradition.
-
-> **Try This:** If you have access to a *tikkun* (a Torah reading practice text with cantillation marks), select a verse and try reading it twice: once as flat prose, once following the cantillation marks for phrasing and emphasis. Notice how the cantillation changes not just the sound but the *meaning* — how certain words are grouped together, how certain phrases are set apart for emphasis.
 
 ## 8.7. The Meturgeman: Collaborative Delivery
 
@@ -2879,14 +2608,6 @@ The sage who knows when to be silent — after delivering a devastating argument
 The sage must modulate speech according to the audience. Before scholars, one may speak in compressed, technical language. Before the common people, one must speak plainly and vividly, using parables and stories to convey the same teachings that are stated abstractly in the academy. This adaptation of delivery to audience is one of the most important skills a speaker can learn, and it cannot be taught through rules alone — it must be practiced, observed, and refined through experience.[^190]
 
 Bar Kappara was known for weaving jests and wordplay into his teaching to keep students attentive. Some sages criticized this as diminishing Torah's dignity; others defended it, noting that a drowsy audience learns nothing. The tension between dignity and accessibility in delivery is one every speaker must navigate, and the right balance depends on the audience, the occasion, and the gravity of the subject.[^191]
-
-## 8.9. Part VIII Challenges
-
-**Challenge 1: Build a Memory System.** Choose a chapter of Mishnah (suggested: Berakhot chapter 1, Avot chapter 1, or Shabbat chapter 7). Memorize it using at least two of the five mnemonic systems studied in section 8.3: (a) create an acronymic *siman* for the chapter's major topics, (b) identify the numerical groupings, (c) map the catchword chains between adjacent rulings, (d) find a scriptural verse that could serve as a mnemonic scaffold. Write up your mnemonic system and test it by reciting the chapter from memory after one week.
-
-**Challenge 2: Delivery Comparison.** Select a passage from the Haggadah (the narrative of the Exodus is ideal) and deliver it twice: once as flat, conversational prose, and once with deliberate attention to pacing, emphasis, melody, and silence. If possible, deliver both versions to a listener and ask them to compare the effect. Write a brief reflection (200-300 words) on what changed between the two deliveries and why.
-
-**Challenge 3: Compose a Meturgeman Amplification.** Choose a brief, dense teaching from Pirkei Avot — one that a general audience might struggle with. First, write the teaching as the sage would deliver it: precisely, tersely, in its original form. Then, write the *meturgeman*'s amplification: the expanded, vivid, audience-accessible version that translates the teaching into language the entire community can understand. Your amplification should be 3-5 times longer than the original, should use at least one parable or concrete example, and should preserve the original teaching's meaning while making it emotionally compelling.
 
 ---
 
@@ -2937,8 +2658,6 @@ The debate proceeds through representative speakers. Rabbi Tarfon argues for act
 And then the resolution — the most instructive moment. They do not simply vote. They discover a formula that transcends both positions: "Study is greater, *for study leads to action.*" The causal clause transforms the verdict from a ranking into a synthesis. Study is greater not because action is unimportant, but because study is the *cause* of right action. Without study, action is blind; but study that does not lead to action is barren.
 
 This is the distinctive pattern of rabbinic thesis argumentation: the best resolution does not annihilate one side but discovers a relationship between the two sides that accounts for the strongest arguments on both. The student should internalize this pattern.
-
-> **Try This:** Before reading further, try arguing both sides yourself. Spend two minutes making the strongest case you can for action being greater than study. Then spend two minutes making the strongest case for study. Then try to find a resolution that honors both sides. Compare your resolution to the sages' resolution.
 
 ### Example 2: "Should a Sage Teach Torah for Payment?"
 
@@ -3017,8 +2736,6 @@ Here is how to practice the thesis exercise:
 3. **Argue the other side with equal force.** This is the harder step, because your natural inclination is to favor one position. But the thesis exercise demands that both sides be argued with equal vigor. A student who presents a weak version of the opposing position has not truly engaged with the difficulty of the question.
 
 4. **Seek a resolution.** The resolution may declare one side the winner with a reasoned explanation; it may discover a synthesis that integrates both positions; or it may honestly acknowledge that the question remains open. All three forms are legitimate. What is *not* legitimate is to ignore the difficulty or pretend one side has no merit.
-
-> **Your Turn:** Argue both sides of this thesis: "Is it better to give charity publicly, so as to inspire others, or privately, so as to preserve the dignity of the recipient?" Marshal the strongest arguments on each side, drawing on any rabbinic texts you know, and seek a resolution. Write your complete argument (600-1,000 words).
 
 ## 9.2. Introduction of a Law: The Capstone Exercise
 
@@ -3121,19 +2838,6 @@ Notice the rhetorical strategies. *Chas ve-shalom* ("God forbid!") frames the op
 
 5. **Reach a conclusion** — for, against, or proposing a modified version that addresses the strongest objections.
 
-## 9.3. Part IX Challenges
-
-**Challenge 1: Argue a Thesis.** Choose one of these theses and argue both sides in full:
-- "Is it better to live among the righteous or to remain among the wicked and attempt to influence them?"
-- "Should one who possesses both great learning and great wealth devote himself primarily to study or primarily to charity?"
-- "Is it better to have a single great teacher or to learn from many different teachers?"
-
-For your chosen thesis: state the question clearly, argue one side with at least three supporting arguments, argue the other side with equal force, and seek a resolution. Your complete argument should be 800-1,200 words.
-
-**Challenge 2: Legislative Advocacy.** Compose a complete legislative argument for or against this proposed enactment: "That every community must establish a fund for the education of orphans, and that every householder must contribute according to his means." Deploy at least four of the six methods of legislative argument (justice, legality, possibility, consistency, expedience, propriety). Support your arguments with rabbinic sources where possible. Then compose the strongest possible argument for the opposing side. Your complete exercise should be 1,000-1,500 words.
-
-**Challenge 3: The Prozbul Analysis.** Using the model of Hillel's prozbul, identify a contemporary situation in which a law designed to protect the vulnerable is producing the opposite effect. Compose a legislative argument for a modification that serves the law's original purpose while adjusting its practical operation. Deploy as many of the six methods as apply, and anticipate and address the strongest objections. This exercise integrates thesis argumentation (the underlying principle) with legislative advocacy (the proposed enactment).
-
 ---
 
 # Part X: THE SUMMIT — MACHLOQET, SUASORIA, AND SUGYA
@@ -3211,8 +2915,6 @@ You must argue *for* the excommunication (the integrity of the legal system requ
 ### What the Machloqet Trains
 
 The sage who has trained himself to argue both sides develops a quality the tradition calls intellectual humility. He holds his views with conviction but without arrogance, knowing that the truth he has grasped is real but partial, and that his opponent's truth is equally real and equally partial. This combination of conviction and humility is the hallmark of the sage who has mastered the machloqet — and perhaps the most important character trait that rhetorical training can produce.
-
-> **Try This:** Take this case: "A man finds an object in the public domain. The previous owner has not yet despaired of recovering it." First argue that the finder must return it. Then argue that the finder may keep it. Make both arguments equally strong, using whatever principles and reasoning you can muster.
 
 ## 10.2. The Suasoria: Speaking at the Moment of Decision
 
@@ -3321,25 +3023,6 @@ And let the student remember: the purpose of all this training is not virtuosity
 > *And these words which I command you this day shall be upon your heart, and you shall teach them diligently to your children, and you shall speak of them.* (Deuteronomy 6:6–7)[^226]
 
 *Speak of them.* The sage who speaks well — with precision, passion, clarity, beauty, faithfulness, and sensitivity — has fulfilled the deepest obligation of the Torah: to make its words live in the mouths and hearts of every generation.
-
-## 10.5. Part X Challenges
-
-**Challenge 1: Argue a Machloqet.** Choose one of these cases and argue both sides:
-- "Two neighbors share a wall. One wishes to build higher; the other objects, claiming it will block his light." Argue for the builder's right and for the neighbor's right, using principles of property law and damage.
-- "A community has always followed a particular custom. A new rabbi arrives and rules that the custom is in error." Argue for the authority of custom and for the authority of the rabbi's ruling.
-
-For your chosen case: state the facts neutrally, argue each side with equal force (at least three arguments per side), and either reach a resolution or explain why the question remains genuinely open.
-
-**Challenge 2: Compose a Suasoria.** Select one of these scenarios and compose a deliberative speech of 500-800 words:
-- The speech Esther might have composed in her mind before approaching the king uninvited (Esther 4–5)
-- The speech Rabbi Akiva might have given to his students on the day of his execution, about the meaning of "with all your soul" (BT Berakhot 61b)
-- The counsel you would give Moses before he strikes the rock (Numbers 20)
-
-Your speech must be consistent with the character's knowledge, personality, and situation. It should deploy at least three rhetorical techniques studied in this book.
-
-**Challenge 3: Analyze a Sugya.** Take a short sugya — the opening of Berakhot 2a is ideal, or any other passage of no more than half a folio page. Analyze every rhetorical move: mark each citation, question, objection, and resolution. Identify the invention (where do the proofs come from?), arrangement (why are the questions in this order?), style (how does the language shift between voices?), memory (what texts are cited, from how far across the corpus?), and delivery (how would this passage sound when recited aloud?). Write your analysis in 800-1,200 words.
-
-**Challenge 4: Construct a Sugya.** This is the most advanced exercise in the entire book. Choose a Mishnah that you have not previously studied. Following the pattern of the Talmud, construct your own sugya: begin with the Mishnah's text, raise a question, offer a proof, introduce an objection, provide a resolution, include one brief tangential exploration, and reach a conclusion. Your constructed sugya should be 600-1,000 words and should demonstrate command of the dialectical form.
 
 ---
 
@@ -3745,4 +3428,3 @@ Your speech must be consistent with the character's knowledge, personality, and 
 [^224]: Mishnah Avot 1:1.
 [^225]: Mishnah Avot 1:14.
 [^226]: Deuteronomy 6:6–7.
-
