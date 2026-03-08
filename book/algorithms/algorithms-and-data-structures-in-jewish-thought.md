@@ -1,4 +1,4 @@
-<div style="text-align: center" markdown>
+<div align="center">
 
 # JEWISH THOUGHT AND JEWISH LAW
 
