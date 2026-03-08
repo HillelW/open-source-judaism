@@ -1592,7 +1592,7 @@ The tradition counts 248 positive commandments, mitzvot aseh ("commandments to d
 
 **INPUT**: A living parent
 
-**PRECONDITIONS**: The parent is Jewish; the child has reached majority
+**PRECONDITIONS**: The parent is Jewish; the child has reached maturity
 
 **ALGORITHM**:
 
