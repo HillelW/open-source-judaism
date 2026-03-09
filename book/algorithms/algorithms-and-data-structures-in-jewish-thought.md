@@ -4,9 +4,7 @@
 
 # FROM AN ALGORITHMIC PERSPECTIVE
 
-*How Algorithmic Thinking Illuminates Jewish Law, Ethics, and Mysticism*
-
-From First Principles to a Unified Theory of Torah, Mitzvot, Ethics, and Human Agency
+*How Algorithmic Thinking Clarifies Jewish Law, Ethics, and Mysticism*
 
 *We shall not cease from exploration*<br>
 *And the end of all our exploring*<br>
