@@ -6,8 +6,6 @@
 !README.md
 !book/
 !book/**
-!prompts/
-!prompts/**
 book/music-theory/
 
 # Block working/scratch files even inside book/
