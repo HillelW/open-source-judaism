@@ -19,83 +19,82 @@
 
   - [Introduction: Algorithm as the Unifying Lens of Jewish Thought](#introduction-algorithm-as-the-unifying-lens-of-jewish-thought)
 - [Part I: FIRST PRINCIPLES: WHAT IS AN ALGORITHM?](#part-i-first-principles--what-is-an-algorithm)
-  - [I.A. Formal Definitions of Algorithm](#ia-formal-definitions-of-algorithm)
-  - [I.B. The Building Blocks of Algorithms](#ib-the-building-blocks-of-algorithms)
-  - [I.C. Algorithm vs. Procedure vs. Program](#ic-algorithm-vs-procedure-vs-program)
-  - [I.D. The Agent Question: Symbolic Manipulation vs. Action in the World](#id-the-agent-question--symbolic-manipulation-vs-action-in-the-world)
-  - [I.E. The Algorithmic Mind and Jewish Law](#ie-the-algorithmic-mind-and-jewish-law)
+  - [Formal Definitions of Algorithm](#what-is-an-algorithm)
+  - [The Building Blocks of Algorithms](#the-building-blocks-of-algorithms)
+  - [Algorithm vs. Procedure vs. Program](#algorithm-vs-procedure-vs-program)
+  - [The Agent Question: Symbolic Manipulation vs. Action in the World](#the-agent-question)
+  - [The Algorithmic Mind and Jewish Law](#the-algorithmic-mind-and-jewish-law)
 - [Part II: TORAH AS ALGORITHM: GOD'S COMPUTATIONAL ACTIVITY IN THE FIVE BOOKS OF MOSES](#part-ii-torah-as-algorithm--gods-computational-activity-in-the-five-books-of-moses)
-  - [II.A. Creation as Divine Algorithm](#iia-creation-as-divine-algorithm)
-  - [II.B. The Ten Utterances as Computational Steps](#iib-the-ten-utterances-as-computational-steps)
-  - [II.C. Divine Names as Functions/Operational Modes](#iic-divine-names-as-functionsoperational-modes)
-  - [II.D. The Ten Plagues as Sequential Algorithm](#iid-the-ten-plagues-as-sequential-algorithm)
-  - [II.E. The Mishkan (Tabernacle) as Divine Specification](#iie-the-mishkan-tabernacle-as-divine-specification)
-  - [II.F. The Sacrificial System as Algorithmic Procedure](#iif-the-sacrificial-system-as-algorithmic-procedure)
-  - [II.G. Providence as Ongoing Computation](#iig-providence-as-ongoing-computation)
-  - [II.H. Prophecy as Divine Output](#iih-prophecy-as-divine-output)
+  - [Creation as Divine Algorithm](#creation-as-divine-algorithm)
+  - [The Ten Utterances as Computational Steps](#the-ten-utterances)
+  - [Divine Names as Functions/Operational Modes](#divine-names-as-operational-modes)
+  - [The Ten Plagues as Sequential Algorithm](#the-ten-plagues-as-sequential-algorithm)
+  - [The Mishkan (Tabernacle) as Divine Specification](#the-mishkan-tabernacle-as-divine-specification)
+  - [The Sacrificial System as Algorithmic Procedure](#the-sacrificial-system-as-algorithmic-procedure)
+  - [Providence as Ongoing Computation](#providence-as-ongoing-computation)
+  - [Prophecy as Divine Output](#prophecy-as-divine-output)
 - [Part III: DATA STRUCTURES IN RABBINIC THOUGHT](#part-iii-data-structures-in-rabbinic-thought)
-  - [III.A. What Is a Data Structure?](#iiia-what-is-a-data-structure)
-  - [III.B. Torah and Tanakh as Data Structures](#iiib-torah-and-tanakh-as-data-structures)
-  - [III.C. Mishnaic Data Structures](#iiic-mishnaic-data-structures)
-  - [III.D. Talmudic Data Structures](#iiid-talmudic-data-structures)
-  - [III.E. Post-Talmudic Data Structures](#iiie-post-talmudic-data-structures)
-  - [III.F. The Relationship Between Data Structures and Algorithms](#iiif-the-relationship-between-data-structures-and-algorithms)
+  - [What Is a Data Structure?](#what-is-a-data-structure)
+  - [Torah and Tanakh as Data Structures](#torah-and-tanakh-as-data-structures)
+  - [Mishnaic Data Structures](#mishnaic-data-structures)
+  - [Talmudic Data Structures](#talmudic-data-structures)
+  - [Post-Talmudic Data Structures](#post-talmudic-data-structures)
+  - [The Relationship Between Data Structures and Algorithms](#the-relationship-between-data-structures-and-algorithms)
 - [Part IV: MITZVAH AS ALGORITHM: THE HALAKHIC SYSTEM](#part-iv-mitzvah-as-algorithm--the-halakhic-system)
-  - [IV.A. The 613 Commandments as a Complete Algorithmic System](#iva-the-613-commandments-as-a-complete-algorithmic-system)
-  - [IV.B. Torah → Mishnah → Talmud: From Procedure to Full Algorithm](#ivb-torah--mishnah--talmud-from-procedure-to-full-algorithm)
-  - [IV.C. The 13 Hermeneutical Rules of Rabbi Ishmael as Meta-Algorithms](#ivc-the-13-hermeneutical-rules-of-rabbi-ishmael-as-meta-algorithms)
-  - [IV.D. Halakhic Decision Procedures](#ivd-halakhic-decision-procedures)
-  - [IV.E. The Shulchan Aruch as Compiled Code](#ive-the-shulchan-aruch-as-compiled-code)
-  - [IV.F. Minhag (Custom) as Locally-Optimized Subroutine](#ivf-minhag-custom-as-locally-optimized-subroutine)
-  - [IV.G. Claims Problems and Fair Division](#ivg-claims-problems-and-fair-division)
-  - [IV.H. Edge Cases and Algorithmic Complexity in Halakha](#ivh-edge-cases-and-algorithmic-complexity-in-halakha)
+  - [The 613 Commandments as a Complete Algorithmic System](#the-613-commandments-as-a-complete-algorithmic-system)
+  - [Torah → Mishnah → Talmud: From Procedure to Full Algorithm](#torah-mishnah-talmud-from-procedure-to-full-algorithm)
+  - [The 13 Hermeneutical Rules of Rabbi Ishmael as Meta-Algorithms](#the-13-hermeneutical-rules-of-rabbi-ishmael-as-meta-algorithms)
+  - [Halakhic Decision Procedures](#halakhic-decision-procedures)
+  - [The Shulchan Aruch as Compiled Code](#the-shulchan-aruch-as-compiled-code)
+  - [Minhag (Custom) as Locally-Optimized Subroutine](#minhag-custom-as-locally-optimized-practice)
+  - [Claims Problems and Fair Division](#claims-problems-and-fair-division)
+  - [Edge Cases and Algorithmic Complexity in Halakha](#edge-cases-and-algorithmic-complexity-in-halakha)
 - [Part V: ETHICS AS ALGORITHM: MITZVOT AND HUMAN AGENCY](#part-v-ethics-as-algorithm--mitzvot-and-human-agency)
-  - [V.A. Can Ethics Be Algorithmic?](#va-can-ethics-be-algorithmic)
-  - [V.B. Positive Commandments as "Do" Algorithms](#vb-positive-commandments-as-do-algorithms)
-  - [V.C. Negative Commandments as Constraints and Guards](#vc-negative-commandments-as-constraints-and-guards)
-  - [V.D. Time-Bound Commandments as Scheduled Algorithms](#vd-time-bound-commandments-as-scheduled-algorithms)
-  - [V.E. Bein Adam la-Makom vs. Bein Adam la-Chavero: Vertical and Horizontal Algorithms](#ve-bein-adam-la-makom-vs-bein-adam-la-chavero-vertical-and-horizontal-algorithms)
-  - [V.F. Chesed (Lovingkindness) Algorithms](#vf-chesed-lovingkindness-algorithms)
-  - [V.G. Justice Algorithms: Torts, Damages, and Inheritance](#vg-justice-algorithms-torts-damages-and-inheritance)
-  - [V.H. Ethical Dilemmas and Priority Algorithms](#vh-ethical-dilemmas-and-priority-algorithms)
-  - [V.I. Pikuach Nefesh as Override Algorithm](#vi-pikuach-nefesh-as-override-algorithm)
-  - [V.J. Rodef Algorithm: Stopping the Pursuer](#vj-rodef-algorithm-stopping-the-pursuer)
-  - [V.K. Infinite Loops: The Perpetual Processes of Jewish Life](#vk-infinite-loops-the-perpetual-processes-of-jewish-life)
-  - [V.L. Shabbat as Timer Interrupt](#vl-shabbat-as-timer-interrupt)
+  - [Can Ethics Be Algorithmic?](#can-ethics-be-algorithmic)
+  - [Positive Commandments as "Do" Algorithms](#positive-commandments-as-do-algorithms)
+  - [Negative Commandments as Constraints and Guards](#negative-commandments-as-constraints-and-guards)
+  - [Time-Bound Commandments as Scheduled Algorithms](#time-bound-commandments-as-scheduled-algorithms)
+  - [Bein Adam la-Makom vs. Bein Adam la-Chavero: Vertical and Horizontal Algorithms](#vertical-and-horizontal-algorithms)
+  - [Chesed (Lovingkindness) Algorithms](#chesed-lovingkindness-algorithms)
+  - [Justice Algorithms: Torts, Damages, and Inheritance](#justice-algorithms-torts-damages-and-inheritance)
+  - [Ethical Dilemmas and Priority Algorithms](#ethical-dilemmas-and-priority-algorithms)
+  - [Pikuach Nefesh as Override Algorithm](#pikuach-nefesh-the-override-algorithm)
+  - [Rodef Algorithm: Stopping the Pursuer](#rodef-stopping-the-pursuer)
+  - [Infinite Loops: The Perpetual Processes of Jewish Life](#infinite-loops-the-perpetual-processes-of-jewish-life)
+  - [Shabbat as Timer Interrupt](#shabbat-as-timer-interrupt)
 - [Part VI: KABBALISTIC COMPUTATION: SYMBOLIC MANIPULATION AND MYSTICAL ALGORITHMS](#part-vi-kabbalistic-computation--symbolic-manipulation-and-mystical-algorithms)
-  - [VI.A. Introduction: Kabbalah as Computational Tradition](#via-introduction-kabbalah-as-computational-tradition)
-  - [VI.B. Sefer Yetzirah: The First Computational Cosmology](#vib-sefer-yetzirah-the-first-computational-cosmology)
-  - [VI.C. Symbolic Manipulation as Computation: The Four Classical Methods](#vic-symbolic-manipulation-as-computation--the-four-classical-methods)
-  - [VI.D. Tzeruf Otiyot: Combinatorial Generation and Abraham Abulafia](#vid-tzeruf-otiyot-combinatorial-generation-and-abraham-abulafia)
-  - [VI.E. Sefirot as Computational Architecture: A Graph-Theoretic Analysis](#vie-sefirot-as-computational-architecture--a-graph-theoretic-analysis)
-  - [VI.F. The Four Worlds as Abstraction Layers](#vif-the-four-worlds-as-abstraction-layers)
-  - [VI.G. Tzimtzum, Shevirah, and Tikkun: Cosmic Computation](#vig-tzimtzum-shevirah-and-tikkun--cosmic-computation)
-  - [VI.H. Kavvanot and Yichudim: Programs of Mystical Intention](#vih-kavvanot-and-yichudim--programs-of-mystical-intention)
-  - [VI.I. How Kabbalistic Algorithms Differ from Rabbinic Algorithms](#vi-how-kabbalistic-algorithms-differ-from-rabbinic-algorithms)
+  - [Introduction: Kabbalah as Computational Tradition](#introduction-kabbalah-as-computational-tradition)
+  - [Sefer Yetzirah: The First Computational Cosmology](#sefer-yetzirah-the-first-computational-cosmology)
+  - [Symbolic Manipulation as Computation: The Four Classical Methods](#symbolic-manipulation-as-computation-the-four-classical-methods)
+  - [Tzeruf Otiyot: Combinatorial Generation and Abraham Abulafia](#tzeruf-otiyot-combinatorial-generation-and-abraham-abulafia)
+  - [Sefirot as Computational Architecture: A Graph-Theoretic Analysis](#sefirot-as-computational-architecture)
+  - [The Four Worlds as Abstraction Layers](#the-four-worlds-as-abstraction-layers)
+  - [Tzimtzum, Shevirah, and Tikkun: Cosmic Computation](#tzimtzum-shevirah-and-tikkun-cosmic-computation)
+  - [Kavvanot and Yichudim: Programs of Mystical Intention](#kavvanot-and-yichudim-programs-of-mystical-intention)
+  - [How Kabbalistic Algorithms Differ from Rabbinic Algorithms](#how-kabbalistic-algorithms-differ-from-rabbinic-algorithms)
 - [Part VII: THE HUMAN AS COMPUTATIONAL AGENT: PSYCHOLOGY AND SPIRITUAL DEVELOPMENT](#part-vii-the-human-as-computational-agent--psychology-and-spiritual-development)
-  - [VII.A. Yetzer ha-Ra and Yetzer ha-Tov: Dual-Process Architecture](#viia-yetzer-ha-ra-and-yetzer-ha-tov--dual-process-architecture)
-  - [VII.B. The Soul Hierarchy: Privilege Rings and Abstraction Layers](#viib-the-soul-hierarchy--privilege-rings-and-abstraction-layers)
-  - [VII.C. Teshuvah as Debugging / Error Correction](#viic-teshuvah-as-debugging--error-correction)
-  - [VII.D. Rambam's Middle Path as Optimization Algorithm](#viid-rambams-middle-path-as-optimization-algorithm)
-  - [VII.E. Free Will and Computational Non-Determinism](#viie-free-will-and-computational-non-determinism)
-  - [VII.F. Middot (Character Traits) as Parameters](#viif-middot-character-traits-as-parameters)
-  - [VII.G. The Mussar Movement: Systematic Character Engineering](#viig-the-mussar-movement--systematic-character-engineering)
-  - [VII.H. Prayer as Self-Programming: The Reflexive Verb](#viih-prayer-as-self-programming--the-reflexive-verb)
-  - [VII.I. Sefirat ha-Omer: A 7x7 Matrix Traversal](#vii-sefirat-ha-omer--a-7x7-matrix-traversal)
-  - [VII.J. Jewish Practice as Operating System](#viij-jewish-practice-as-operating-system)
+  - [Yetzer ha-Ra and Yetzer ha-Tov: Dual-Process Architecture](#yetzer-ha-ra-and-yetzer-ha-tov-dual-process-architecture)
+  - [The Soul Hierarchy: Privilege Rings and Abstraction Layers](#the-soul-hierarchy-privilege-rings-and-abstraction-layers)
+  - [Teshuvah as Debugging / Error Correction](#teshuvah-as-debugging-error-correction)
+  - [Rambam's Middle Path as Optimization Algorithm](#rambams-middle-path-as-optimization-algorithm)
+  - [Free Will and Computational Non-Determinism](#free-will-and-computational-non-determinism)
+  - [Middot (Character Traits) as Parameters](#middot-character-traits-as-parameters)
+  - [The Mussar Movement: Systematic Character Engineering](#the-mussar-movement-systematic-character-engineering)
+  - [Prayer as Self-Programming: The Reflexive Verb](#prayer-as-self-programming-the-reflexive-verb)
+  - [Sefirat ha-Omer: A 7x7 Matrix Traversal](#sefirat-ha-omer-a-77-matrix-traversal)
+  - [Jewish Practice as Operating System](#jewish-practice-as-operating-system)
 - [Part VIII: ALGORITHMS ACROSS THE RABBINIC CORPUS: PERIOD SURVEY](#part-viii-algorithms-across-the-rabbinic-corpus--period-survey)
-  - [VIII.A. The Tannaitic Period (1–220 CE): Oral Law Becomes System](#viiia-the-tannaitic-period-1220-ce-oral-law-becomes-system)
-  - [VIII.B. The Amoraic Period (220–500 CE): Execution Tracing](#viiib-the-amoraic-period-220500-ce-execution-tracing)
-  - [VIII.C. The Geonic Period (500–1000 CE): Case-Based Reasoning](#viiic-the-geonic-period-5001000-ce-case-based-reasoning)
-  - [VIII.D. The Rishonim (1000–1500 CE): Annotation, Debugging, and Codification](#viiid-the-rishonim-10001500-ce-annotation-debugging-and-codification)
-  - [VIII.E. The Achronim (1500–Present): Implementation and Adaptation](#viiie-the-achronim-1500present-implementation-and-adaptation)
-  - [VIII.F. Kabbalah in Historical Context](#viiif-kabbalah-in-historical-context)
-  - [VIII.G. The Algorithm Meets New Inputs](#viiig-the-algorithm-meets-new-inputs)
-  - [VIII.H. Conclusion: Law as Living Process](#viiih-conclusion-law-as-living-process)
+  - [The Tannaitic Period (1–220 CE): Oral Law Becomes System](#the-tannaitic-period-1220-ce-oral-law-becomes-system)
+  - [The Amoraic Period (220–500 CE): Execution Tracing](#the-amoraic-period-220500-ce-execution-tracing)
+  - [The Geonic Period (500–1000 CE): Case-Based Reasoning](#the-geonic-period-5001000-ce-case-based-reasoning)
+  - [The Rishonim (1000–1500 CE): Annotation, Debugging, and Codification](#the-rishonim-10001500-ce-annotation-debugging-and-codification)
+  - [The Achronim (1500–Present): Implementation and Adaptation](#the-achronim-1500present-implementation-and-adaptation)
+  - [Kabbalah in Historical Context](#kabbalah-in-historical-context)
+  - [The Algorithm Meets New Inputs](#the-algorithm-meets-new-inputs)
+  - [Conclusion: Law as Living Process](#conclusion-law-as-living-process)
 - [Part IX: SYNTHESIS: A UNIFIED THEORY](#part-ix-synthesis--a-unified-theory)
-  - [IX.A–D. The Configuration Thesis](#ixad-the-configuration-thesis)
-  - [IX.E. Implications for Contemporary AI Ethics](#ixe-implications-for-contemporary-ai-ethics)
-  - [IX.F. Open Questions and Future Research](#ixf-open-questions-and-future-research)
+  - [The Configuration Thesis](#the-configuration-thesis)
+  - [Implications for Contemporary AI Ethics](#implications-for-contemporary-ai-ethics)
 - [Appendices](#appendices)
   - [Appendix A: Glossary of Technical and Rabbinic Terms](#appendix-a-glossary-of-technical-and-rabbinic-terms)
   - [Appendix B: Key Algorithms in Jewish Law](#appendix-b-key-algorithms-in-jewish-law)
@@ -130,7 +129,7 @@ Hillel climbed a roof because he believed Torah was worth freezing for. The leas
 
 # Part I: FIRST PRINCIPLES: WHAT IS AN ALGORITHM?
 
-## I.A. What Is an Algorithm?
+## What Is an Algorithm?
 
 You already know what an algorithm is. The Introduction's lather-rinse-repeat example isn't a toy. It genuinely captures the idea. An algorithm is a finite set of instructions that, followed exactly, transforms some input into a desired output. The recipe you follow for challah, the procedure your accountant uses to file your taxes, the way you determine which blessing to say over a piece of fruit: these are all algorithms, or close to it.
 
@@ -148,7 +147,7 @@ That convergence is one of the great marvels of twentieth-century mathematics, a
 
 But here is the discovery that matters most for this book: all algorithms, every single one regardless of complexity, are built from just three operations. That's where we turn next.
 
-## I.B. The Building Blocks of Algorithms
+## The Building Blocks of Algorithms
 
 In 1966, Corrado Böhm and Giuseppe Jacopini proved that any algorithm can be expressed using just two formation rules: composition and iteration.[^88] The structured programming movement that followed (led by Dijkstra, Wirth, and others) reformulated this insight into the three building blocks now taught in every introductory course: sequence, selection, and iteration.
 
@@ -318,7 +317,7 @@ It establishes a precise vocabulary. When we claim that a mitzvah functions as a
 
 And the sufficiency of these simple building blocks for arbitrarily complex computation reveals something profound: complexity arises from the systematic combination and nesting of simple components, not from complex ones. A legal system that combines conditional reasoning, sequential procedures, iterative review, and modular sub-rulings achieves extraordinary sophistication without any single component needing to be more than straightforward. Each individual halakhic rule is comprehensible; their combination produces a legal edifice of subtlety and power.
 
-## I.C. Algorithm vs. Procedure vs. Program
+## Algorithm vs. Procedure vs. Program
 
 Understanding the difference between an algorithm, a procedure, and a program turns out to be essential for everything that follows. These three concepts sit along a spectrum from abstract to concrete, and Jewish law occupies that spectrum in illuminating ways.
 
@@ -350,7 +349,7 @@ Yet even the Mishneh Torah remains partly procedural. It states rules and condit
 
 Jewish law, taken as a whole, spans the entire spectrum from procedure to algorithm. This dual character explains both why the system feels so systematic (it increasingly approaches algorithmic structure) and why it retains flexibility: it never fully abandons the procedural dimension that treats human agents as trained, embodied reasoners rather than mechanical executors.
 
-## I.D. The Agent Question
+## The Agent Question
 
 Classical algorithms (sorting numbers, parsing sentences, proving theorems) manipulate abstract symbols. Nothing in the definition requires connection to physical action, sensory perception, or embodied agency. A Turing machine operates on an abstract tape. The operations are purely symbolic.
 
@@ -376,7 +375,7 @@ The mitzvot differ from computer algorithms in that they address agents with jud
 
 This perspective reverses the usual explanatory direction. We don't need to explain Jewish law as a precursor to computer science, as though the tradition were groping toward something that Alan Turing would eventually get right. It's the other way around. Computer science, in formalizing algorithms, captured something about how humans had always directed moral and practical action. Algorithms are not a modern invention that Jewish law anticipated. They are a modern formalization of something Jewish law had always practiced.
 
-## I.E. The Algorithmic Mind and Jewish Law
+## The Algorithmic Mind and Jewish Law
 
 You already think algorithmically. You have since childhood. Counting is an algorithm: start at zero, add one, repeat. Sorting laundry is an algorithm: check the color, check the fabric, route to the right pile. Following a recipe, giving directions, deciding which blessing to say before eating: all systematic procedures with inputs, rules, and outcomes. The formal definition of "algorithm" arrived in the 1930s. The capacity it describes is as old as the human mind.
 
@@ -391,7 +390,7 @@ Computer science, when it arrived, didn't invent this capacity. It formalized it
 
 # Part II: TORAH AS ALGORITHM: GOD'S COMPUTATIONAL ACTIVITY IN THE FIVE BOOKS OF MOSES
 
-## II.A. Creation as Divine Algorithm
+## Creation as Divine Algorithm
 
 Open a Chumash to the first chapter of Genesis and read it slowly. Something jumps out: creation isn't a single burst of divine will. It's a sequence, a structured, step-by-step process that follows a rigid pattern.
 
@@ -405,7 +404,7 @@ The progression follows classic algorithmic design: start with primitive operati
 
 Genesis 2:1–3 provides explicit termination: "And the heavens and the earth were completed, and all their host." The Hebrew <span dir="rtl">וַיְכַל</span>, "completed," signals successful termination. The algorithm has produced its intended output and halts.
 
-## II.B. The Ten Utterances
+## The Ten Utterances
 
 The tradition identifies ten divine utterances in the creation narrative (Mishnah Avot 5:1). Each is a self-contained operation that takes the current state of creation as input and produces a specific output:
 
@@ -424,7 +423,7 @@ The ordering isn't arbitrary; it reflects dependency logic. Light must precede l
 
 The parallel between the Ten Utterances and the Ten Commandments (Exodus 20:1–14) is worth pausing over: both are enumerated as ten, suggesting symmetry between divine creative utterances and divine imperative commands. Creation is the algorithm for bringing the physical world into being; the commandments are the algorithm for directing human action within it.[^10]
 
-## II.C. Divine Names as Operational Modes
+## Divine Names as Operational Modes
 
 The Torah uses different divine names in different contexts. Read carefully, and the pattern becomes clear: each name corresponds to a distinct mode of operation.
 
@@ -444,7 +443,7 @@ Watch how the interplay unfolds through the Torah:
 
 The divine computation is not monolithic. It operates through distinct modes invoked as circumstances require: creation (Elohim), relationship (YHWH), covenant (El Shaddai), self-disclosure (Ehyeh). The names are the Torah's own way of signaling which mode is active.[^11]
 
-## II.D. The Ten Plagues as Sequential Algorithm
+## The Ten Plagues as Sequential Algorithm
 
 The narrative of the Ten Plagues (Exodus 7–12) is the most explicitly algorithmic sequence in the Torah, a ten-step escalating process with a rigid structure, conditional branching, a loop variable, and a termination condition.
 
@@ -484,7 +483,7 @@ That termination comes not when all plagues are exhausted (the sequence could th
 
 The loop halts when `Pharaoh refuses` evaluates to false.
 
-## II.E. The Mishkan (Tabernacle) as Divine Specification
+## The Mishkan (Tabernacle) as Divine Specification
 
 Exodus 25–31 and 35–40 present the most striking specification-and-implementation narrative in the Torah. God provides Moses with an exact specification for the Tabernacle, and Moses and the artisans build it precisely. The text's own structure mirrors a process anyone who has built from a blueprint will recognize: specification → implementation → verification.
 
@@ -512,7 +511,7 @@ Then the summary: "Thus was completed all the work of the Tabernacle of the Tent
 
 Eighteen verification checks across two chapters. The Torah presents specification-driven construction not as an incidental narrative detail but as the central organizing principle of six full chapters.
 
-## II.F. The Sacrificial System as Algorithmic Procedure
+## The Sacrificial System as Algorithmic Procedure
 
 Leviticus 1–7 presents the laws of offerings (*korbanot*) as precise procedural specifications. Each offering type is defined with explicit inputs, processing steps, and outputs.
 
@@ -618,7 +617,7 @@ The asham requires preprocessing before the ritual: the offerer must first make 
 
 The sacrificial system as a whole exhibits precise specification of inputs and outputs, deterministic processing steps, conditional branching based on context, graceful degradation when standard inputs are unavailable, and precondition validation. It is procedural programming written in ritual rather than code.
 
-## II.G. Providence as Ongoing Computation
+## Providence as Ongoing Computation
 
 The Torah presents God as continuously active in the world, as ongoing governor, processing the state of the world and intervening according to defined principles.
 
@@ -628,7 +627,7 @@ Even the Flood's resolution follows a defined procedure. Noah sends the raven, t
 
 Throughout the patriarchal narratives, God intervenes at structurally critical moments: calling Abraham to initiate the covenant (Gen 12:1–3), protecting Sarah when the covenant's integrity is threatened (Gen 12:17, 20:3), evaluating Sodom before its destruction (Gen 18:20–21), providing the ram that replaces Isaac on the altar (Gen 22:13). Joseph, looking back on his entire journey from slavery to Egyptian governance, sees the pattern: "God sent me before you to preserve life" (Gen 45:5–8). What looked like a series of catastrophes was a single process working itself out across decades.
 
-## II.H. Prophecy as Divine Output
+## Prophecy as Divine Output
 
 In the Torah's framework, prophecy is God's primary communication channel, the mechanism by which divine activity produces output accessible to human agents.
 
@@ -675,7 +674,7 @@ We've established that the Torah operates algorithmically, through sequence, sel
 
 # Part III: DATA STRUCTURES IN RABBINIC THOUGHT
 
-## III.A. What Is a Data Structure?
+## What Is a Data Structure?
 
 Think about the difference between a pile of papers on your desk and the same papers filed in labeled folders. The information is identical. What changes is what you can *do* with it. A pile lets you find the paper you put down five minutes ago; a filing system lets you find the paper you need six months from now. The organization is not decoration. It determines which questions you can answer efficiently and which ones leave you searching for hours.
 
@@ -685,7 +684,7 @@ The fundamental insight is this: **an algorithm operates on a data structure, no
 
 The previous parts examined the algorithms of Jewish legal and theological reasoning: the procedures, the logical structures, the step-by-step methods. This part addresses the equally essential dimension: the structures that organize Jewish knowledge, the formats in which Torah and Talmud are preserved, and how those formats shape what a scholar can find and how quickly they can find it.
 
-## III.B. Torah and Tanakh as Data Structures
+## Torah and Tanakh as Data Structures
 
 The Hebrew Bible itself exhibits multiple overlapping organizational structures, each shaping how law and theology function.
 
@@ -723,7 +722,7 @@ This structure is algorithmic. The Talmud teaches that certain commandments (*zm
 
 Anyone who has navigated the overlapping rules of a Yom Tov that falls on a Friday, preparing for Shabbat while observing the festival, has felt this structure firsthand.
 
-## III.C. Mishnaic Data Structures
+## Mishnaic Data Structures
 
 The Mishnah, redacted around 200 CE, imposes a comprehensive organizational schema on Jewish law.
 
@@ -772,7 +771,7 @@ Each mishnah functions as a record with defined fields: the case (the hypothetic
 
 Case: found items, bundled vs. scattered. Rule: permitted or not. Authorities: Rabbi Meir permits all; the Sages distinguish based on whether the items show evidence of human arrangement. The Mishnah is, in effect, a case database, each entry storing a scenario and its resolution.
 
-## III.D. Talmudic Data Structures
+## Talmudic Data Structures
 
 The Talmud introduces far more complex structures than the Mishnah's relatively straightforward classification.
 
@@ -804,7 +803,7 @@ Each layer addresses the same passage from a different angle. The Mishnah is the
 
 The Talmud distinguishes between attributed statements (like "Rabbi Yohanan said...") and anonymous editorial material (*stam*). This distinction matters for law. An attributed position carries the authority of its named sage. Anonymous statements belong to the editors who constructed the sugyot, and typically carry greater weight still (the editors had the final word).[^84] Each statement carries an implicit metadata field: who said it, when, and in what context. The legal algorithm that evaluates which position to follow must consult this layer.
 
-## III.E. Post-Talmudic Data Structures
+## Post-Talmudic Data Structures
 
 Jewish law continued to develop after the Talmud's closure in the 5th–6th centuries, producing new organizational structures for new demands.
 
@@ -835,7 +834,7 @@ The Jewish tradition of commentary creates layered structures. Rashi's Torah com
 
 Resolving a complex halakhic question means traversing multiple layers. Understanding Caro's ruling requires consulting his Talmudic sources; those sources may be qualified by medieval authorities; Caro's ruling itself may be challenged by later commentators. The scholar constructs an annotation chain connecting modern practice, through codified rulings, through medieval interpretation, back to Talmudic reasoning.
 
-## III.F. The Relationship Between Data Structures and Algorithms
+## The Relationship Between Data Structures and Algorithms
 
 Every halakhic algorithm described in this book operates on one or more of these structures. Consider *kal va-chomer* (a fortiori inference): the algorithm takes two cases and compares them along a dimension of stringency, inferring that a stringent case inherits a rule from a lenient case. But where do the cases come from? They come from the Talmudic discussion network. Traversing that network (following references from Bava Kamma to Bava Metzia to Shevu'ot) identifies the cases to which the inference applies. Without understanding the structure, you cannot execute the algorithm.
 
@@ -877,7 +876,7 @@ The tradition's durability lies not in either dimension alone but in their integ
 
 # Part IV: MITZVAH AS ALGORITHM: THE HALAKHIC SYSTEM
 
-## IV.A. The 613 Commandments as a Complete Algorithmic System
+## The 613 Commandments as a Complete Algorithmic System
 
 If you've ever tied tzitzit, checked a piece of produce for insects, or figured out whether you need to wait before eating dairy after meat, you've run a halakhic algorithm. The 613 commandments aren't a random collection of rules. They form a system.
 
@@ -905,7 +904,7 @@ The Midrash (Bereishit Rabbah 44:1) identifies the system's purpose: "The Holy O
 
 Maimonides didn't just count the mitzvot. He established 14 principles (*shorashim*) for *how to count them*. These meta-rules determine which textual prescriptions qualify as separate commandments: a principle must be explicitly stated in Scripture; multiple restatements of the same principle count as one; a commandment serving as a precondition to another isn't counted separately. These principles prevent double-counting, ensure consistency, and clarify the boundaries of each functional unit.[^19]
 
-## IV.B. Torah → Mishnah → Talmud: From Procedure to Full Algorithm
+## Torah → Mishnah → Talmud: From Procedure to Full Algorithm
 
 The progression from Torah to Mishnah to Talmud is not simply historical accumulation. It's a systematic refinement of specification. The Torah presents high-level procedures; the Mishnah clarifies preconditions and postconditions; the Talmud develops complete algorithms with branching logic, edge cases, and error handling.
 
@@ -1093,11 +1092,11 @@ The mikvah is a state machine: an input state (impure), a process (immersion in 
 
 **Mishnah Specification (Pesachim 1:1–2:4):** Chametz is any food made from the five grains (wheat, barley, rye, oats, spelt) that has fermented, having absorbed water and begun to rise. The critical variable is time: roughly 18 minutes from water contact to baking. Matzo is the inverse: grains processed and baked before fermentation can occur.
 
-**Talmud Algorithm:** The Talmud develops a decision procedure around grain type, processing timeline, and fermentation indicators (sour smell, risen texture, visible leavening). Cold slows fermentation but doesn't stop the 18-minute clock. Salt slows it but doesn't prevent it. If fermentation likely occurred: chametz, forbidden. If the timeline was too short: kosher for Passover. If uncertain: the principles of *safek* apply (see IV.H).[^25]
+**Talmud Algorithm:** The Talmud develops a decision procedure around grain type, processing timeline, and fermentation indicators (sour smell, risen texture, visible leavening). Cold slows fermentation but doesn't stop the 18-minute clock. Salt slows it but doesn't prevent it. If fermentation likely occurred: chametz, forbidden. If the timeline was too short: kosher for Passover. If uncertain: the principles of *safek* apply (see the discussion of edge cases in halakha, below).[^25]
 
 Each of these six examples demonstrates the same pattern: Torah gives a high-level procedure; the Mishnah specifies preconditions, materials, and basic rules; the Talmud develops a full algorithm with edge cases, decision trees, and error handling. The Talmud doesn't just list rules. It teaches reasoning.
 
-## IV.C. The 13 Hermeneutical Rules of Rabbi Ishmael as Meta-Algorithms
+## The 13 Hermeneutical Rules of Rabbi Ishmael as Meta-Algorithms
 
 The 13 rules of Rabbi Ishmael are not rules of law. They are rules for *deriving* law from Torah text, meta-algorithms that generate algorithms. Andrew Schumann has argued that these rules constitute a coherent logical system of a distinctive kind, in which each rule specifies how one textual pattern transforms into another.[^87]
 
@@ -1307,7 +1306,7 @@ Schumann argues that the thirteen rules, expressed as a formal system, form a co
 
 The system is consistent but *incomplete*: some Torah statements require rules beyond these thirteen (such as the 32 rules of Rabbi Eliezer ben Horqenus). These rules predate modern formal logic by over 1,500 years, yet they constitute a genuine logical system.[^27]
 
-## IV.D. Halakhic Decision Procedures
+## Halakhic Decision Procedures
 
 A *posek* (pl. *posekim*) is a halakhic authority who issues rulings on questions of Jewish law. The process by which a posek arrives at a conclusion is itself a structured algorithm.[^28]
 
@@ -1353,7 +1352,7 @@ A person's pacemaker battery is low and requires replacement. The surgery must h
 
 *Step 5*: "The surgery is permitted on Shabbat, as saving life overrides Shabbat. The patient and surgeon should minimize unnecessary Shabbat violations, but no concern should delay potentially life-saving treatment."[^29]
 
-## IV.E. The Shulchan Aruch as Compiled Code
+## The Shulchan Aruch as Compiled Code
 
 Part III described the Shulchan Aruch's structure as a data structure (four sections, indexed by siman and se'if, enabling direct lookup). Here we examine it as a *system*, with customization layers, implementation guides, and competing deployments.[^30]
 
@@ -1375,7 +1374,7 @@ Rabbi Solomon Ganzfried compiled the Kitzur (Abbreviated Shulchan Aruch) in 1864
 
 The system as a whole (Shulchan Aruch, Rema, Mishnah Berurah, Kitzur) exhibits modularity (four independent sections), customization (Ashkenazi/Sephardi layers), documentation (source citations via the Beit Yosef), and implementation guides at different levels of detail.
 
-## IV.F. Minhag (Custom) as Locally-Optimized Practice
+## Minhag (Custom) as Locally-Optimized Practice
 
 *Minhag* is custom, a practice that, through consistent communal observance, acquires the force of binding law. The Talmud (Pesachim 50b) records: <span dir="rtl">מנהג אבותינו תורה היא</span>, "the custom of our ancestors is Torah."[^33]
 
@@ -1415,7 +1414,7 @@ This creates a configuration hierarchy:
 
 The same underlying system adapts to different traditions and environments, and evolves over time as communities migrate, merge, and encounter new circumstances.[^34]
 
-## IV.G. Claims Problems and Fair Division
+## Claims Problems and Fair Division
 
 One of the most algorithmically elegant sections of the Talmud is its treatment of contested claims.
 
@@ -1494,7 +1493,7 @@ If the estate is 300: all creditors are fully satisfied. If 100: each claims all
 
 This layered approach adapts to partial satisfaction scenarios, a sophistication that modern economics rediscovered in the 20th century with Schmeidler's nucleolus (1969), implicitly the Talmud's solution two millennia earlier.[^37]
 
-## IV.H. Edge Cases and Algorithmic Complexity in Halakha
+## Edge Cases and Algorithmic Complexity in Halakha
 
 **Talmudic Disputes (Machlokot)**
 
@@ -1565,7 +1564,7 @@ Halakha handles this complexity through layered decision trees, probabilistic re
 
 # Part V: ETHICS AS ALGORITHM: MITZVOT AND HUMAN AGENCY
 
-## V.A. Can Ethics Be Algorithmic?
+## Can Ethics Be Algorithmic?
 
 Picture lighting Shabbat candles. You strike the match, touch flame to wick, cover your eyes, and say the blessing. The steps are clear; you've done them hundreds of times. But if your mind is elsewhere, running through tomorrow's to-do list, replaying an argument, the candles are lit. The obligation is technically fulfilled. And yet something is missing.
 
@@ -1583,7 +1582,7 @@ Yet Maimonides draws a crucial line: while the broad purposes are rationally acc
 
 The Jewish answer to "Can ethics be algorithmic?" is: yes, with a qualification that changes everything. The mitzvot are genuine algorithms (INPUT, PRECONDITION, ACTION, POSTCONDITION). But the algorithm operates within a framework of intention, character development, and judgment that no mechanical execution can replace. Ethics has algorithmic structure. It also has a soul.
 
-## V.B. Positive Commandments as "Do" Algorithms
+## Positive Commandments as "Do" Algorithms
 
 The tradition counts 248 positive commandments, mitzvot aseh ("commandments to do"). The Talmud (Makkot 23b) links 248 to the number of limbs and organs in the human body: every faculty directed toward divine purpose. The 365 negative commandments correspond to days of the solar year, daily restraint from transgression.
 
@@ -1721,7 +1720,7 @@ a. You are exempt b. Further speech would cause harm, not improvement
 
 Maimonides (Hilkhot Teshuva 6:6) captures the spirit: rebuke must be administered gently, with compassion, as though helping a friend remove a splinter from their eye.[^42]
 
-## V.C. Negative Commandments as Constraints and Guards
+## Negative Commandments as Constraints and Guards
 
 A sorted bookshelf has a rule that's easy to state and hard to maintain: every book goes to the right of everything that comes before it alphabetically. That rule isn't about any single book; it's about the structure. Break it once and the whole system degrades.
 
@@ -1778,7 +1777,7 @@ Deuteronomy 25:4, "You shall not muzzle an ox while it treads grain," seems mino
 
 The invariant: even animals deserve sustenance and relief from suffering. The moral ecosystem the negative commandments protect is larger than the human community alone.
 
-## V.D. Time-Bound Commandments as Scheduled Algorithms
+## Time-Bound Commandments as Scheduled Algorithms
 
 Many mitzvot are time-dependent, mitzvot sheh-hazman gerama. They create layers of rhythm: daily, weekly, monthly, annual, sabbatical, and jubilee. Each layer structures obligation differently.
 
@@ -1870,7 +1869,7 @@ The algorithm builds long-cycle justice into the calendar itself. A seven-year r
 
 The Talmud (Gittin 36a-b) debates the mechanics, particularly the tension between the ideal (perpetual debt cancellation) and the practical (people need credit; abolishing debt would collapse lending). The Prozbul, a legal instrument allowing creditors to collect despite the shemitah year, reflects how law balances ideals with economic reality.[^45]
 
-## V.E. Vertical and Horizontal Algorithms
+## Vertical and Horizontal Algorithms
 
 The 613 mitzvot divide into two categories: bein adam la-makom (between a person and God) and bein adam la-chavero (between a person and their fellow). The distinction shapes everything from prayer to repentance.
 
@@ -1914,7 +1913,7 @@ The critical distinction emerges in repentance. Yoma 85b (Mishnah 8:9) states: "
 
 The asymmetry reveals something profound. God, as infinite and transcendent, can forgive unilaterally, since God has no need for repair that only you can provide. But the person you wronged has a genuine grievance that only your acknowledgment, restitution, and transformed behavior can address. No external authority, not even the holiest day of the year, can substitute for the victim's forgiveness. The law privileges the dignity and agency of the human victim.[^46]
 
-## V.F. Chesed: Lovingkindness Algorithms
+## Chesed: Lovingkindness Algorithms
 
 Chesed is both a divine attribute and a human obligation: God's generosity as the foundation of creation, human generosity as its imitation. The mitzvah encompasses a family of specific algorithms.
 
@@ -2013,7 +2012,7 @@ Genesis 18 describes Abraham running to offer hospitality to three strangers. Th
 
 The Talmud (Shabbat 127a) teaches that greeting guests warmly is greater than receiving the Divine Presence. The vulnerable stranger before you needs your concrete help; God does not need anything from you. Attending to human need is the highest form of imitating God.[^48]
 
-## V.G. Justice Algorithms: Torts, Damages, and Inheritance
+## Justice Algorithms: Torts, Damages, and Inheritance
 
 Jewish civil law (the resolution of disputes, calculation of damages, and distribution of property) fills the Talmudic tractate Bava Kamma and its companions.
 
@@ -2121,7 +2120,7 @@ An item worth 6 shekels sold for 8 (33% markup) triggers ona'ah and can be resci
 
 The Talmud extends this beyond pricing to verbal deception, ona'at devarim. Praising an item falsely, asking a price you won't accept, pretending ignorance of true value: these are prohibited even when the monetary loss is minimal. The prohibition on verbal deception is stricter than price fraud, because the market functions on trust.[^51]
 
-## V.H. Ethical Dilemmas and Priority Algorithms
+## Ethical Dilemmas and Priority Algorithms
 
 Where two obligations clash, or duty and self-interest compete, Jewish law offers explicit resolution algorithms.
 
@@ -2225,7 +2224,7 @@ When obligations conflict, the system provides a hierarchy:
 
 Life is paramount. The self has claims that supersede others', because you are not an infinite resource. Family bonds create deeper obligations than communal ones. Yet the obligation to rescue and protect is real and substantial.
 
-## V.I. Pikuach Nefesh: The Override Algorithm
+## Pikuach Nefesh: The Override Algorithm
 
 Pikuach nefesh, saving life, overrides nearly everything. The Talmud (Yoma 85b) states the principle with sweeping force: <span dir="rtl">פִּקּוּחַ נֶפֶשׁ דּוֹחֶה אֶת כָּל הַתּוֹרָה כֻּלָּהּ</span>, saving life overrides the entire Torah. An infant falls into water on Shabbat? Break Shabbat to rescue. A wall collapses on a child? Clear the debris. A patient needs medication on Shabbat? Administer it without hesitation.
 
@@ -2295,7 +2294,7 @@ Some lines cannot be crossed. To murder an innocent person to save yourself is t
 
 Pikuach nefesh extends directly into modern medical ethics: antibiotics on Shabbat (permitted, indeed obligatory), driving to the hospital in an emergency, breaking the Yom Kippur fast for a diabetic patient, emergency surgery that violates Shabbat. The principle reaches into public health. Vaccination campaigns, quarantines, and pandemic restrictions are permitted or obligatory under pikuach nefesh, even when they restrict religious practice or impose economic harm.[^56]
 
-## V.J. Rodef: Stopping the Pursuer
+## Rodef: Stopping the Pursuer
 
 The Mishnah (Sanhedrin 8:7) teaches: if one person pursues another to kill them, bystanders must stop the pursuer, even by lethal means if necessary.
 
@@ -2369,7 +2368,7 @@ The boundaries matter. A rodef is someone actively pursuing to kill, not a credi
 
 The algorithm balances protection of innocent life against the risk of vigilantism. Broad permission to stop active killers; constraints against escalation and error.[^57]
 
-## V.K. Infinite Loops: The Perpetual Processes of Jewish Life
+## Infinite Loops: The Perpetual Processes of Jewish Life
 
 Every Friday afternoon, the same sequence: candles lit, wine poured, bread broken. Every morning, the same blessings. Every autumn, the same shofar blasts. If you've lived inside Jewish practice for any length of time, you know the feeling of performing the same actions, in the same order, year after year after decade. To an outside observer, it might look like repetition. From the inside, it feels like something else entirely, because you are not the same person who performed these actions last year.
 
@@ -2377,7 +2376,7 @@ The preceding sections of this chapter examined mitzvot as algorithms: procedure
 
 But Jewish practice also contains processes that never terminate. A server that handles web requests runs forever on purpose. An event loop in a program waits, responds, waits again, indefinitely. These aren't bugs; they're the architecture. Some of the most important software in existence is designed never to stop. Jewish tradition arrived at the same insight millennia earlier.
 
-### V.K.1. Ben Bag Bag and Infinite Iteration
+### Ben Bag Bag and Infinite Iteration
 
 Pirkei Avot 5:22 records an instruction so compact it might be mistaken for a platitude: <span dir="rtl">הפוך בה והפוך בה דכולא בה</span>, "Turn it over and turn it over, for everything is in it." Ben Bag Bag is talking about Torah, and the instruction is literal. Read it again. Then again. Then again. There is no stopping condition.[^110]
 
@@ -2385,7 +2384,7 @@ This isn't a motivational suggestion. It's a description of how the process actu
 
 In computing, an iterator that revisits the same data structure but produces different results each time is not redundant. It is processing data against a changed internal state. Ben Bag Bag's instruction formalizes this: Torah is a data source designed for infinite iteration, where each traversal yields output unavailable on any previous pass.
 
-### V.K.2. The Eternal Fire and the Tamid: Daemon Processes
+### The Eternal Fire and the Tamid: Daemon Processes
 
 Leviticus 6:6 commands: <span dir="rtl">אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ לֹא תִכְבֶּה</span>, "A perpetual fire shall burn on the altar; it shall not go out." Not "keep the fire burning when convenient." Not "relight it each morning." Perpetual. Uninterrupted. The fire on the altar was a process that ran continuously, and if it went out, the system was in a fault state.[^111]
 
@@ -2395,7 +2394,7 @@ The tamid offering (the daily sacrifice, morning and evening) operated on a fixe
 
 The perpetual fire maintained the environment. The tamid maintained the rhythm. The watch system maintained the workforce. Three interlocking perpetual processes, none of which had a termination condition, together sustaining the Temple's operation.
 
-### V.K.3. The Torah Reading Cycle as Circular Buffer
+### The Torah Reading Cycle as Circular Buffer
 
 On Simchat Torah, the last verses of Deuteronomy are read. Moses dies. The Torah ends. And then, without pause, the reader begins: <span dir="rtl">בְּרֵאשִׁית בָּרָא אֱלֹהִים</span>, "In the beginning, God created." The end connects directly to the beginning.
 
@@ -2403,7 +2402,7 @@ A circular buffer is a data structure where the last position wraps around to th
 
 The custom of immediately restarting Genesis after completing Deuteronomy makes the circularity explicit. There is no ceremony of completion, no pause for celebration before the restart. The scroll is rewound and the reading continues because the process, by design, has no end.
 
-### V.K.4. Ecclesiastes: Solomon's Observation of Cosmic Loops
+### Ecclesiastes: Solomon's Observation of Cosmic Loops
 
 Ecclesiastes opens with what sounds like despair but reads, on closer inspection, like systems analysis. "A generation goes and a generation comes, but the earth endures forever. The sun rises and the sun sets, hastening to the place where it rises. Going to the south and circling to the north, <span dir="rtl">סוֹבֵב סוֹבֵב הוֹלֵךְ הָרוּחַ</span>, round and round goes the wind, and on its circuits the wind returns. All the rivers flow to the sea, yet the sea is not full; to the place where the rivers flow, there they flow again" (Ecclesiastes 1:4-7).[^114]
 
@@ -2411,9 +2410,9 @@ The Hebrew <span dir="rtl">סוֹבֵב סוֹבֵב</span> ("sovev sovev," roun
 
 The connection to Part II is direct: creation itself, as described in Genesis, is sustained by ongoing processes. The universe is not a clockwork mechanism wound once and left to run down. It is a system of perpetual loops, each maintaining a different dimension of existence. Kohelet's genius was to observe this clearly and to record the observation in language whose very structure mirrors the phenomenon it describes.
 
-### V.K.5. Nested Cycles: Shemitah, Yovel, and the Transmission Chain
+### Nested Cycles: Shemitah, Yovel, and the Transmission Chain
 
-Section V.D examined the algorithmic structure of time-bound commandments: the daily prayer cycle, the weekly Shabbat, the annual festivals, the seven-year shemitah, and the fifty-year jubilee. Those analyses treated each cycle as an algorithm with a specific structure. Here the focus shifts to what makes these cycles perpetual.
+The time-bound commandments section examined the algorithmic structure of time-bound commandments: the daily prayer cycle, the weekly Shabbat, the annual festivals, the seven-year shemitah, and the fifty-year jubilee. Those analyses treated each cycle as an algorithm with a specific structure. Here the focus shifts to what makes these cycles perpetual.
 
 The shemitah cycle resets every seven years: debts canceled, land rested, economic accumulation checked. The jubilee (yovel) contains seven shemitah cycles and adds a deeper reset: land returns to original tribal ownership, indentured servants go free. The jubilee is a loop containing loops, a nested iteration where the outer cycle runs at a slower frequency than the inner one.[^115]
 
@@ -2423,7 +2422,7 @@ The transmission chain of Pirkei Avot 1:1 operates on the same principle. "Moses
 
 The annual teshuvah cycle (from Elul through the Ten Days of Repentance to Yom Kippur) is another perpetual process, but with a recursive quality. Each year's self-examination operates on the output of the previous year's work. The person who enters Elul this year is (if the process is working) different from the person who entered Elul last year, refined by last year's introspection. The cycle processes a changing self against fixed standards, and the standards themselves deepen in meaning as the self that applies them matures.
 
-### V.K.6. The Computational Distinction
+### The Computational Distinction
 
 A terminating algorithm solves a problem. A perpetual process maintains a system. Both are legitimate computational structures; they serve different purposes.
 
@@ -2433,11 +2432,11 @@ Keeping Shabbat does not terminate. Studying Torah does not terminate. The shemi
 
 Jewish tradition embeds infinite processes into finite human lives through rhythm. No individual can live forever, but each person participates in a process that does. You read your portion of the Torah cycle and pass the scroll to the next reader. You observe your shemitah years and your children observe theirs. You transmit what you received, adding your own understanding, and the chain extends forward. Each generation executes one iteration of a loop whose scope exceeds any individual lifetime.
 
-The Part I definition of an algorithm required termination. That definition is correct for algorithms. But the halakhic system contains more than algorithms. It contains perpetual processes, daemon services, circular buffers, and event loops, each running indefinitely by design. Recognizing this category opens a question the next two sections address: if Jewish practice includes both terminating algorithms and perpetual processes, what manages them? What schedules, prioritizes, interrupts, and coordinates the whole system? In computing, the answer to that question has a name. In Parts V.L and VII.J, Jewish practice will turn out to have one too.
+The Part I definition of an algorithm required termination. That definition is correct for algorithms. But the halakhic system contains more than algorithms. It contains perpetual processes, daemon services, circular buffers, and event loops, each running indefinitely by design. Recognizing this category opens a question the next two sections address: if Jewish practice includes both terminating algorithms and perpetual processes, what manages them? What schedules, prioritizes, interrupts, and coordinates the whole system? In computing, the answer to that question has a name. In the Shabbat as Timer Interrupt and Jewish Practice as Operating System sections, Jewish practice will turn out to have one too.
 
-## V.L. Shabbat as Timer Interrupt
+## Shabbat as Timer Interrupt
 
-Section V.D described Shabbat's algorithmic structure: the 39 forbidden categories of labor, the candle-lighting, kiddush, havdalah, the detailed rules governing each constraint. That analysis treated Shabbat as a self-contained algorithm. But Shabbat also serves a systemic function that transcends its own rules.
+The time-bound commandments section described Shabbat's algorithmic structure: the 39 forbidden categories of labor, the candle-lighting, kiddush, havdalah, the detailed rules governing each constraint. That analysis treated Shabbat as a self-contained algorithm. But Shabbat also serves a systemic function that transcends its own rules.
 
 A timer interrupt is a hardware signal that fires at fixed intervals, forcing the processor to stop whatever it is doing and execute a different routine. The processor doesn't choose to stop. The interrupt makes it stop. This is how operating systems maintain control over programs that would otherwise monopolize the machine's resources. Without timer interrupts, a single runaway process could consume everything.
 
@@ -2447,7 +2446,7 @@ The forced halt serves a function no voluntary pause could achieve. If rest were
 
 During the interrupt, the system checks priorities. What matters beyond production? Family. Community. Study. Prayer. The physical world recedes; relationships and reflection advance. Resources that were fully allocated to work (time, attention, creative energy) are forcibly deallocated and redirected. The system runs maintenance.
 
-The three cardinal sins that override even pikuach nefesh (as discussed in V.I) function as non-maskable interrupts: signals so critical that no process, not even the life-preservation override, can suppress them. A maskable interrupt can be deferred; a non-maskable interrupt cannot. Idolatry, sexual immorality, and murder trigger responses that no other consideration can override. They represent the system's absolute boundaries, the values that define the system's identity so fundamentally that violating them would constitute not a bug but a different system entirely.[^117]
+The three cardinal sins that override even pikuach nefesh (as discussed in the pikuach nefesh section) function as non-maskable interrupts: signals so critical that no process, not even the life-preservation override, can suppress them. A maskable interrupt can be deferred; a non-maskable interrupt cannot. Idolatry, sexual immorality, and murder trigger responses that no other consideration can override. They represent the system's absolute boundaries, the values that define the system's identity so fundamentally that violating them would constitute not a bug but a different system entirely.[^117]
 
 Shabbat, then, is not merely one mitzvah among 613. It is the timer interrupt that prevents any other process, no matter how important, from running without periodic review. It is the mechanism by which the system maintains itself against the natural tendency of productive processes to expand until they consume all available resources. Every seventh day, the system stops, checks its priorities, and resumes. This rhythm, repeated perpetually (another infinite loop), is what makes the difference between a system that drifts and one that holds its course.
 
@@ -2464,13 +2463,13 @@ The answer to "Can ethics be algorithmic?" is: yes, and the algorithm must be em
 
 # Part VI: KABBALISTIC COMPUTATION: SYMBOLIC MANIPULATION AND MYSTICAL ALGORITHMS
 
-## VI.A. Introduction: Kabbalah as Computational Tradition
+## Introduction: Kabbalah as Computational Tradition
 
 The preceding parts examined the halakhic system, its data structures, algorithms, and governing ethics. Now the substrate shifts. Kabbalistic thought operates algorithms not on cases, rules, or legal categories but on symbols themselves (letters, numbers, names), treating them not as representations of reality but as reality's actual building material.
 
 The claim is startling in its specificity. The universe is actually *generated* from language. Hebrew letters are not conventional signs assigned to sounds; they are the structural elements from which existence is constructed. To permute, expand, substitute, and enumerate letters is to engage directly with the fabric of reality.[^109]
 
-## VI.B. Sefer Yetzirah: The First Computational Cosmology
+## Sefer Yetzirah: The First Computational Cosmology
 
 The Sefer Yetzirah (Book of Formation) proposes a complete computational cosmology in under two thousand words. God created the universe through systematic manipulation of Hebrew letters and numbers.
 
@@ -2494,7 +2493,7 @@ The *galgal* (wheel) provides a mechanical procedure for generating all pairings
 
 Higher-order combinations grow factorially: three-letter combinations yield 22 × 21 × 20 possibilities. Reality emerges from progressive combination at higher orders, combinatorial explosion generating the full complexity of the world from a finite alphabet.[^71]
 
-## VI.C. Symbolic Manipulation as Computation: The Four Classical Methods
+## Symbolic Manipulation as Computation: The Four Classical Methods
 
 The Kabbalistic tradition developed four principal methods of symbolic manipulation, each a formal computational operation.
 
@@ -2593,7 +2592,7 @@ Notarikon (נוטריקון) performs two complementary operations:
 
 The Kabbalistic innovation inverts the usual direction: the Torah text is the compressed divine message, and notarikon recovers the fuller content latent within it. The short text came first, as divine creation. Every valid decompression reveals a genuine layer of the original.
 
-## VI.D. Tzeruf Otiyot: Combinatorial Generation and Abraham Abulafia
+## Tzeruf Otiyot: Combinatorial Generation and Abraham Abulafia
 
 Abraham Abulafia (1240–c.1291) developed the most systematic approach to letter combination as both meditative practice and cosmological principle. His "prophetic Kabbalah" treats the human mind as a computational engine, and the execution of combinatorial algorithms, he claimed, could induce prophetic states.
 
@@ -2616,7 +2615,7 @@ This produces 72 three-letter combinations, each a component name of God, a matr
 
 Abulafia's meditative practices (specific body positions, breathing patterns, head movements coordinated with letter pronunciation) are execution environment configuration: setting up the hardware (body, breath) to execute the software (letter combinations). The practitioner is not thinking about letters but executing a specified algorithm whose proper execution produces a defined output.
 
-## VI.E. Sefirot as Computational Architecture
+## Sefirot as Computational Architecture
 
 The ten Sefirot, the emanations through which the Infinite (Ein Sof) becomes particularized into the finite world, form a computational graph. Divine energy (shefa) enters at the root node and is successively transformed at each subsequent node, each performing a specific operation and passing the result downward. This is computation in the fullest sense: a structured, multi-stage transformation of input into output.
 
@@ -2662,7 +2661,7 @@ The graph supports multiple traversal strategies, each with mystical significanc
 
 The concept of *shefa* (divine influence) can be modeled as network flow. In a healthy cosmos, energy flows abundantly through all channels. Cosmic disturbance (through sin, broken oaths, or neglect) creates blockages: edges with reduced capacity. The great Kabbalistic work of *tikkun* consists in opening blocked channels and restoring full flow. Rituals, ethical actions, and meditation function as algorithms that restore network capacity.
 
-## VI.F. The Four Worlds as Abstraction Layers
+## The Four Worlds as Abstraction Layers
 
 The Sefirotic graph does not exist only once. Reality is organized into four worlds, each with its own complete instantiation of the ten Sefirot:
 
@@ -2682,7 +2681,7 @@ Each world presents the same structure (ten nodes, the same edges, the same thre
 
 The fractal quality extends further: within each world, each Sefireh contains its own complete tree of ten sub-Sefirot (the "Chesed of Chesed," "Gevurah of Chesed," etc.), yielding 100 sub-Sefirot per world and 400 across all four. A tree of trees of trees, a fractal data structure, self-similar at every scale.[^86]
 
-## VI.G. Tzimtzum, Shevirah, and Tikkun: Cosmic Computation
+## Tzimtzum, Shevirah, and Tikkun: Cosmic Computation
 
 The Lurianic Kabbalah describes a three-stage cosmic computational cycle: initialization, system failure, and distributed repair.
 
@@ -2732,7 +2731,7 @@ Each mitzvah is a subroutine in the grand tikkun algorithm. Torah study and God-
 
 The collective completion of all tikkun operations defines the Messianic Age: the successful termination of this cosmic algorithm, when all sparks have been raised and all vessels repaired.[^14]
 
-## VI.H. Kavvanot and Yichudim: Programs of Mystical Intention
+## Kavvanot and Yichudim: Programs of Mystical Intention
 
 Lurianic Kabbalah developed the most explicitly algorithmic practices in Judaism: kavvanot (mystical intentions) and yichudim (unifications), precise sequences of mental operations prescribed for prayer and mitzvah performance.
 
@@ -2755,7 +2754,7 @@ Yichudim (יחודים, "unifications") combine two divine names to produce high
 
 The kavvanot/yichudim system is mental programming. The human mind is the computing device, the divine names and Sefirotic configurations are the data, and the meditative sequences are the code.
 
-## VI.I. How Kabbalistic Algorithms Differ from Rabbinic Algorithms
+## How Kabbalistic Algorithms Differ from Rabbinic Algorithms
 
 The algorithmic structures of this part differ fundamentally from the rabbinic-halakhic algorithms of earlier parts.
 
@@ -2774,7 +2773,7 @@ The two modes are not contradictory but complementary, parallel execution on dif
 
 # Part VII: THE HUMAN AS COMPUTATIONAL AGENT: PSYCHOLOGY AND SPIRITUAL DEVELOPMENT
 
-## VII.A. Yetzer ha-Ra and Yetzer ha-Tov: Dual-Process Architecture
+## Yetzer ha-Ra and Yetzer ha-Tov: Dual-Process Architecture
 
 Everyone knows the experience: you see something you want, and two voices speak at once. One says *take it*, quick, certain, persuasive. The other says *wait*, slower, quieter, drawing on something deeper than appetite. The Talmud gave these voices names long before modern psychology mapped the same territory.
 
@@ -2790,13 +2789,13 @@ Torah study works as the antidote not through prohibition but through retraining
 
 Maimonides (Hilkhot Teshuvah 8:2-3) describes the tzaddik as one who has so thoroughly internalized the yetzer ha-tov that the yetzer ha-ra, though present, no longer competes for control. The rasha has the opposite architecture: the yetzer ha-tov may whisper objections, but the yetzer ha-ra runs the show. The beinoni lives in perpetual contest, both processes active, the yetzer ha-tov maintaining veto power.[^60]
 
-## VII.B. The Soul Hierarchy: Privilege Rings and Abstraction Layers
+## The Soul Hierarchy: Privilege Rings and Abstraction Layers
 
 The Kabbalistic tradition extends the dual yetzer model into a layered architecture of soul levels, each granting access to progressively deeper operations. Think of it as privilege escalation: a user-space program cannot directly touch hardware registers without elevated permissions. The soul hierarchy works the same way.
 
 **Nefesh** (the vital soul) is the base layer, unprivileged user space. It governs biological processes: metabolism, sensation, the drives for food, reproduction, survival. Every living creature has Nefesh. It runs automatically, needs no conscious direction, and has no access to higher spiritual operations.
 
-**Ruach** (spirit) elevates the permissions. It enables emotional and moral processing, the seat of the middot, the character traits that can be tuned and calibrated (see VII.F). A person operating at the Ruach level can distinguish right from wrong and feel conscience's pull, but cannot access abstract spiritual apprehension.
+**Ruach** (spirit) elevates the permissions. It enables emotional and moral processing, the seat of the middot, the character traits that can be tuned and calibrated (see the section on middot). A person operating at the Ruach level can distinguish right from wrong and feel conscience's pull, but cannot access abstract spiritual apprehension.
 
 **Neshamah** (the divine soul) grants access to intellectual and spiritual operations. The Tanya (chapters 1-2) identifies it as "literally a part of God above" (<span dir="rtl">חלק אלוק ממעל ממש</span>), a process with elevated permissions that can access the divine instruction set directly. Neshamah enables deep Torah study, contemplative prayer, and the apprehension of abstract spiritual truths.
 
@@ -2808,7 +2807,7 @@ The practical implication: Torah study, prayer with kavanah, and performance of 
 
 The Zohar teaches that each soul level contains within it all five sub-levels (Nefesh of Nefesh, Ruach of Nefesh, and so on), yielding a 5×5 matrix of 25 distinct operational states: fractal architecture, self-similar at every scale.[^124]
 
-## VII.C. Teshuvah as Debugging / Error Correction
+## Teshuvah as Debugging / Error Correction
 
 <span dir="rtl">תשובה</span> literally means "return." Maimonides (Hilkhot Teshuvah 1:1-3) systematizes the process into a four-step algorithm:
 
@@ -2832,7 +2831,7 @@ The Talmud (Yoma 86b) articulates a difference in output. Under teshuvah mi-yira
 
 Hence the paradox (Berakhot 34b): "Where ba'alei teshuvah stand, even the perfectly righteous cannot stand." A system that has crashed, been debugged, and recovered may be more robust than one that never crashed. The debugged code has been tested against real inputs; code that has never failed may harbor bugs not yet encountered.[^61]
 
-## VII.D. Rambam's Middle Path as Optimization Algorithm
+## Rambam's Middle Path as Optimization Algorithm
 
 For each character trait, there exists a space of possible values. At the extremes, dysfunction: zero courage yields paralysis; infinite courage yields recklessness. The optimal value lies between, and it's dynamic, shifting with circumstances.
 
@@ -2844,7 +2843,7 @@ This is gradient descent on the parameter space of character. Evaluate the loss 
 
 Maimonides notes (Hilkhot De'ot 1:5) that there is "a time for anger." Anger is typically a vice, but a parent should be angry when a child is in danger. A leader should generate anger toward injustice. Someone incapable of anger is incapable of protection. Virtue is not a fixed value but a function: V(trait, context) = optimal parameter given the specific situation. Developing the sensitivity to read the situation and adjust accordingly requires judgment, experience, and flexible adaptation, far more demanding than following a rule.[^65]
 
-## VII.E. Free Will and Computational Non-Determinism
+## Free Will and Computational Non-Determinism
 
 Everything in this part (the dual yetzer system, the soul hierarchy, the debugging of teshuvah, the optimization of character) rests on one axiom: genuine human free will. Without real choice, the architecture collapses. Commandments become meaningless, reward and punishment become unjust, and spiritual development becomes illusory.
 
@@ -2860,7 +2859,7 @@ The Tanya (chapters 13-14) offers another model. The beinoni experiences genuine
 
 The Talmud (Berakhot 33b) captures the principle: "Everything is in the hands of Heaven except the fear of Heaven." The system is deterministic in all physical parameters (health, intelligence, circumstances) but non-deterministic at exactly one point: the moral decision. That single locus of non-determinism makes the entire system meaningful.[^125]
 
-## VII.F. Middot (Character Traits) as Parameters
+## Middot (Character Traits) as Parameters
 
 Maimonides (Hilkhot De'ot 1:4) established the framework: for each character trait, extreme self-control and extreme self-indulgence are both vices. The proper way lies between them, the golden mean (<span dir="rtl">דרך האמצעית</span>). Courage between cowardice and recklessness. Generosity between miserliness and prodigality. Humility between servility and arrogance.
 
@@ -2874,7 +2873,7 @@ The Ramchal insists each level must be pursued systematically: understand its na
 
 This addresses a question everyone encounters: why is knowing what's right insufficient for doing it? You can understand intellectually that generosity is virtuous and still feel the pull of miserliness. Knowledge resides in the intellect; character traits are patterns of emotional response and behavioral habit. Reprogramming the automatic responses requires practice, not once or twice but hundreds of times, until the new response becomes the default.[^62]
 
-## VII.G. The Mussar Movement: Systematic Character Engineering
+## The Mussar Movement: Systematic Character Engineering
 
 Rabbi Yisrael Lipkin of Salant (1810-1883) founded the Mussar movement on a single insight: intellectual knowledge of right and wrong is computationally inert without a mechanism to translate it into behavioral change. You can know anger is destructive and generosity is virtuous, yet continue behaving angrily and miserly. The gap between knowledge and action is not a deficiency of understanding but of implementation. Mussar set out to close that gap.
 
@@ -2888,11 +2887,11 @@ The Alter of Novardok (Rabbi Yosef Yozel Horwitz, 1849-1919) pushed further: del
 
 Rabbi Shlomo Wolbe (Alei Shur) synthesized Mussar with modern psychological insight, emphasizing that methods suitable for a seventeen-year-old yeshiva student differ from those appropriate for a forty-year-old father. The optimization procedure itself must be tuned to the agent it operates on: adaptive algorithm design.[^126]
 
-## VII.H. Prayer as Self-Programming: The Reflexive Verb
+## Prayer as Self-Programming: The Reflexive Verb
 
 The Hebrew verb for prayer, <span dir="rtl">להתפלל</span> (lehitpallel), is reflexive. The root p-l-l means "to judge," so lehitpallel literally means "to judge oneself," to work upon oneself. The computational function of prayer, encoded in the grammar: not primarily a transmission to God (God doesn't need to be informed of human needs) but a self-modifying algorithm that transforms the person who prays.
 
-The fixed structure of Jewish prayer (the same Amidah three times daily, the same blessings in the same order) looks like an infinite loop (and in the sense discussed in V.K, it is one). But each iteration executes on a modified system. Yesterday's prayer (if executed with proper kavanah) modified the internal state. Each prayer is a function call that takes the current soul-state as input and returns a modified soul-state as output.
+The fixed structure of Jewish prayer (the same Amidah three times daily, the same blessings in the same order) looks like an infinite loop (and in the sense discussed in the infinite loops section, it is one). But each iteration executes on a modified system. Yesterday's prayer (if executed with proper kavanah) modified the internal state. Each prayer is a function call that takes the current soul-state as input and returns a modified soul-state as output.
 
 The Kuzari (II:50) compares the three daily prayer times to meals that sustain the body. Just as the body requires nutrition at fixed intervals, the soul requires prayer at fixed intervals to maintain its spiritual state. Morning, afternoon, evening: scheduled maintenance windows. Miss one, and the system drifts from its optimum.
 
@@ -2902,7 +2901,7 @@ The Amidah follows a precise protocol. The first three blessings are praise, inp
 
 Rabbi Joseph B. Soloveitchik developed this further: the person who prays is not requesting changes from an external source but actively constructing themselves through the discipline of articulating their relationship to God. The prayerful person is simultaneously programmer and program, writing code that modifies the very system writing it. Recursive self-modification: lehitpallel is self-programming in the most literal sense.[^127]
 
-## VII.I. Sefirat ha-Omer: A 7×7 Matrix Traversal
+## Sefirat ha-Omer: A 7×7 Matrix Traversal
 
 Sefirat ha-Omer may be the most explicitly algorithmic spiritual practice in the tradition: a 49-day sequential traversal of a 7×7 matrix, executed between Pesach and Shavuot.
 
@@ -2934,15 +2933,15 @@ The temporal context matters. The Omer bridges Pesach (liberation from slavery) 
 
 This answers a pedagogical question that applies far beyond Sinai: how do you prepare someone to receive and execute a complex system of instructions? Not all at once, but through systematic traversal of the prerequisite character space, the minimum complete traversal of the 7×7 matrix that ensures every dimension has been addressed.[^128]
 
-## VII.J. Jewish Practice as Operating System
+## Jewish Practice as Operating System
 
 The preceding chapters have examined individual algorithms: how to tie tzitzit, how to determine kashrut, how to calculate damages, how to repent, how to pray. Each is a self-contained procedure with inputs, steps, and outputs. But stand back from the individual algorithms and a question emerges: who runs them? What decides which algorithm executes when? What happens when two obligations compete for the same time slot? What manages the resources (time, attention, energy, speech) that every mitzvah draws upon?
 
 In computing, the answer to all these questions is the operating system. An OS doesn't perform any one task. It manages, schedules, and coordinates all the tasks. It allocates resources, handles interrupts, resolves conflicts, and provides the services that applications depend on. Without it, individual programs would have no environment in which to run.
 
-Jewish practice, taken as a whole, functions as an operating system for human life. The table in VI.F already mapped the Kabbalistic world of Briah (Creation) to "Operating system" in its computing analogy column. That mapping was not decorative. This section explores what it means.
+Jewish practice, taken as a whole, functions as an operating system for human life. The table in the Four Worlds section already mapped the Kabbalistic world of Briah (Creation) to "Operating system" in its computing analogy column. That mapping was not decorative. This section explores what it means.
 
-### VII.J.1. What an Operating System Does
+### What an Operating System Does
 
 An operating system performs five core functions. It manages resources (memory, processor time, storage). It schedules processes (deciding what runs when and for how long). It handles interrupts (responding to events that demand immediate attention). It provides services (standard operations that applications can call without building from scratch). And it mediates between different levels of privilege (kernel operations that cannot be overridden and user-space operations that can).
 
@@ -2950,7 +2949,7 @@ Jewish practice manages the equivalent. Time is allocated: daily prayer times, S
 
 No domain of human experience falls outside the system's scope. The Shulchan Aruch's four sections (Orach Chaim for daily life, Yoreh Deah for ritual law, Even HaEzer for family law, Choshen Mishpat for civil law) collectively address the full range of human activity. That comprehensive coverage is not an accident of historical accumulation. It is the defining characteristic of an operating system: nothing runs outside it.
 
-### VII.J.2. The Boot Sequence: Waking Up Jewish
+### The Boot Sequence: Waking Up Jewish
 
 Anyone who has watched a computer start up has seen a boot sequence: the system tests its hardware, loads its core services, initializes its drivers, and launches its first applications, all in a specific order. Each step depends on the previous one. Skip a step and later services fail.
 
@@ -2964,7 +2963,7 @@ The Talmud (Berakhot 60b) prescribes this sequence, and the sequence is not arbi
 
 Tallit and tefillin connect peripherals: the tallit wraps the body in a garment of commandment; the tefillin bind leather and parchment to arm and head, linking physical action and directed thought to Torah. Then Shacharit, the morning prayer service, runs. The first application of the day launches in an environment that has been properly initialized.
 
-### VII.J.3. Kernel Space and User Space: D'Oraita and D'Rabbanan
+### Kernel Space and User Space: D'Oraita and D'Rabbanan
 
 Modern operating systems enforce a fundamental distinction between kernel space and user space. The kernel runs with full privileges: it controls hardware, manages memory, and enforces security. User-space programs run with limited privileges: they request services from the kernel but cannot override it. If a user program tries to perform a kernel-level operation directly, the system blocks it.
 
@@ -2976,7 +2975,7 @@ Rabbinic law builds essential services on top of the kernel. Chanukah candle-lig
 
 The interaction between levels can be subtle. The rabbinic prohibition against muktzeh (handling certain objects on Shabbat) is a user-space safeguard built to protect the kernel-level prohibition against melachah (creative labor). The kernel says "don't perform these 39 categories of work." The rabbinic layer says "don't even handle the tools you'd use to perform them." A buffer zone, a protective layer of user-space code that keeps ordinary operations safely distant from kernel violations.
 
-### VII.J.4. Process Scheduling: What Runs When
+### Process Scheduling: What Runs When
 
 When two processes compete for the same resource, an operating system's scheduler decides which runs first. Without a scheduler, processes collide, deadlock, or starve. The scheduler's rules determine the system's actual behavior under load.
 
@@ -2988,9 +2987,9 @@ Halakha includes explicit scheduling rules for when obligations compete. Two pri
 
 These rules compose. When frequency and holiness conflict, the Talmud (Zevachim 89a-91a) works through the permutations case by case, establishing a priority matrix. The result is a scheduling algorithm that handles complex multi-way conflicts without ambiguity.
 
-The principle extends beyond ritual. If you encounter a lost object while on your way to perform another mitzvah, which takes priority? If honoring a parent conflicts with Shabbat observance, which yields? The system provides answers, not because every case was anticipated but because the scheduling principles (frequency, sanctity, urgency, and the overrides discussed in V.I) can be applied to novel collisions. The scheduler is general-purpose.
+The principle extends beyond ritual. If you encounter a lost object while on your way to perform another mitzvah, which takes priority? If honoring a parent conflicts with Shabbat observance, which yields? The system provides answers, not because every case was anticipated but because the scheduling principles (frequency, sanctity, urgency, and the overrides discussed in the pikuach nefesh section) can be applied to novel collisions. The scheduler is general-purpose.
 
-### VII.J.5. System Calls: Blessings as API
+### System Calls: Blessings as API
 
 When a user-space program needs a resource the kernel controls (reading a file, allocating memory, sending network data), it makes a system call: a standardized request to the kernel for a specific service. The program doesn't access the resource directly. It goes through the proper channel.
 
@@ -3002,7 +3001,7 @@ Blessings on experiences extend the pattern further. Lightning, thunder, rainbow
 
 The Talmud (Berakhot 35a) states the principle directly: <span dir="rtl">אסור ליהנות מן העולם הזה בלא ברכה</span>, "It is forbidden to derive benefit from this world without a blessing." In operating system terms: unauthorized resource access is prohibited. Every resource request goes through the system call interface.
 
-### VII.J.6. Memory Management: What to Remember and What to Release
+### Memory Management: What to Remember and What to Release
 
 An operating system must manage memory: keeping critical data available, freeing space that is no longer needed, preventing both memory leaks (holding resources unnecessarily) and premature deallocation (releasing data still in use). Get it wrong in either direction and the system degrades.
 
@@ -3014,11 +3013,11 @@ Jewish law prescribes both what to remember and what to release, and treats erro
 
 The system prevents two failure modes. Historical amnesia (forgetting what must be remembered) leaves the system without identity, repeating catastrophic errors because it cannot access the data that would prevent them. Perpetual resentment (refusing to release what should be forgotten) fills active memory with stale grievances, leaving no room for present relationships and future growth. Healthy memory management requires both retention and release, pinning and garbage collection, in the right proportions.
 
-### VII.J.7. Device Drivers: Minhag as Hardware Adaptation
+### Device Drivers: Minhag as Hardware Adaptation
 
 The same operating system kernel runs on vastly different hardware. A laptop, a server, a phone, an embedded device: same core OS, different physical configurations. The adaptation layer that translates between the kernel and specific hardware is the device driver. Without drivers, the kernel cannot communicate with the particular machine it runs on.
 
-Torah law is the kernel. It runs identically across all Jewish communities. But communities differ: Ashkenazi, Sephardi, Yemenite, Italian, Ethiopian. Different histories, different climates, different surrounding cultures, different physical and social environments. Minhag (custom) is the device driver that adapts the universal kernel to specific communal hardware (as discussed in IV.F).
+Torah law is the kernel. It runs identically across all Jewish communities. But communities differ: Ashkenazi, Sephardi, Yemenite, Italian, Ethiopian. Different histories, different climates, different surrounding cultures, different physical and social environments. Minhag (custom) is the device driver that adapts the universal kernel to specific communal hardware (as discussed in the minhag section).
 
 Kitniyot on Pesach is a clear example. Torah law prohibits chametz, the five grains (wheat, barley, spelt, oats, rye) that have undergone leavening. Ashkenazi custom extends the prohibition to kitniyot (legumes, rice, corn, and related foods). Sephardi custom does not. The kernel-level rule is identical. The driver-level implementation differs because the hardware (the communal context in which the rule operates) differs. Ashkenazi communities developed the restriction because their grain storage conditions made kitniyot difficult to distinguish from actual chametz. Sephardi communities, with different agricultural practices, had no such concern.
 
@@ -3026,11 +3025,11 @@ Neither driver is wrong. Both correctly adapt the kernel to their hardware. And 
 
 The pronunciation of Hebrew in prayer (Ashkenazi kamatz vs. Sephardi kamatz, the Yemenite preservation of distinct gimel and qof sounds), the melody of Torah cantillation (different traditions use different musical modes for the same trope marks), the specific liturgical poems (piyyutim) inserted into holiday services: all are driver-level variations on the same kernel. The output differs. The core operations are the same.
 
-### VII.J.8. The System That Runs the Algorithms
+### The System That Runs the Algorithms
 
-The line in Part I.A that distinguished algorithms from operating systems planted a seed. The chapters since then have examined dozens of algorithms: the tzitzit-tying procedure, the bankruptcy division rules, the teshuvah process, the Omer matrix traversal. Each is a program. Each runs within an environment.
+The line in Part I that distinguished algorithms from operating systems planted a seed. The chapters since then have examined dozens of algorithms: the tzitzit-tying procedure, the bankruptcy division rules, the teshuvah process, the Omer matrix traversal. Each is a program. Each runs within an environment.
 
-That environment is the halakhic system itself, understood not as a collection of individual rules but as a unified operating system. The boot sequence initializes each day. The process scheduler determines which mitzvah runs when two compete. The system call interface (blessings) mediates resource access. The kernel/user-space distinction (d'Oraita/d'Rabbanan) enforces privilege levels. The timer interrupt (Shabbat, discussed in V.L) forces periodic system maintenance. The memory manager prescribes what to retain and what to release. The device drivers (minhag) adapt the universal kernel to local conditions.
+That environment is the halakhic system itself, understood not as a collection of individual rules but as a unified operating system. The boot sequence initializes each day. The process scheduler determines which mitzvah runs when two compete. The system call interface (blessings) mediates resource access. The kernel/user-space distinction (d'Oraita/d'Rabbanan) enforces privilege levels. The timer interrupt (Shabbat, discussed earlier) forces periodic system maintenance. The memory manager prescribes what to retain and what to release. The device drivers (minhag) adapt the universal kernel to local conditions.
 
 Part I's definition of an operating system as "a treadmill" missed something important. An operating system is not a treadmill. It is the most sophisticated software humans have built: the system that makes all other software possible. Jewish practice, understood as an operating system, is one of the longest-running, most extensively documented, most thoroughly tested systems in history. It has been processing inputs (new questions, new technologies, new social conditions) for over three thousand years. It has survived complete hardware replacements (the destruction of the Temple, exile from the land, dispersion across continents) by maintaining its kernel while rewriting its drivers for each new environment.
 
@@ -3042,33 +3041,33 @@ The Configuration Thesis in Part IX argues that Judaism constitutes a comprehens
 
 # Part VIII: ALGORITHMS ACROSS THE RABBINIC CORPUS: PERIOD SURVEY
 
-## VIII.A. The Tannaitic Period (1–220 CE): Oral Law Becomes System
+## The Tannaitic Period (1–220 CE): Oral Law Becomes System
 
 The Tannaim operated in crisis. After the Temple's destruction in 70 CE, the vast corpus of oral tradition risked scattering with the people who carried it. Rabbi Judah ha-Nasi's Mishnah (ca. 200 CE), six orders and sixty-three tractates organized by subject, solved this by making the law navigable and learnable. Its method was categorical reasoning: logical operations on language and textual structure (as described in Part III). The Tosefta and Halakhic Midrashim supplemented it, the Tosefta providing extended cases, the Midrashim deriving law directly from biblical text.[^66]
 
-## VIII.B. The Amoraic Period (220–500 CE): Execution Tracing
+## The Amoraic Period (220–500 CE): Execution Tracing
 
 If the Tannaim created the code base, the Amoraim created the execution logs. The Talmud's distinctive form, the sugya, records the full dialectical process: a mishnah cited, questions raised, responses challenged, counter-arguments weighed, resolutions proposed. Most legal systems record only final rulings. The Talmud records reasoning, reusable code that future rabbis can apply to questions the original sages never addressed.
 
 Even rejected arguments are preserved as design patterns shelved for future use. The anonymous editorial layer (the stam) functions as the algorithm's own self-commentary, reconciling contradictions and synthesizing reasoning across the corpus.[^67]
 
-## VIII.C. The Geonic Period (500–1000 CE): Case-Based Reasoning
+## The Geonic Period (500–1000 CE): Case-Based Reasoning
 
 The Geonim formalized case-based reasoning through the responsum: a rabbi writes with a novel question; the Gaon identifies the analogous Talmudic precedent, extracts the underlying principle, and applies it to the new case. Over generations, thousands of responsa accumulated, a body of decided cases functioning as precedent. The great Geonim (Sherira, Hai, Saadia) made reasoning explicit, ensuring each precedent was a path that could be retraced and extended.[^68]
 
-## VIII.D. The Rishonim (1000–1500 CE): Annotation, Debugging, and Codification
+## The Rishonim (1000–1500 CE): Annotation, Debugging, and Codification
 
 Three projects on the same material. Rashi (1040–1105) made implicit reasoning explicit, filling the logical gaps the Talmud assumes readers will follow. Reading the Talmud without Rashi is like reading code without comments. The Tosafists practiced dialectical debugging: if passage A says X and passage B seems to say not-X, identify the contradiction, hypothesize a resolution, test it. Maimonides (1138–1204) attempted something different: a comprehensive code of all Jewish law, organized by topic, giving single rulings without citing sources. Jacob ben Asher's Arba'ah Turim later bridged the gap between Talmud and the eventual Shulchan Aruch.[^69]
 
-## VIII.E. The Achronim (1500–Present): Implementation and Adaptation
+## The Achronim (1500–Present): Implementation and Adaptation
 
-Caro's Shulchan Aruch (1563) became the definitive lookup reference (as described in Part IV.E). The Rema added Ashkenazi glosses, one layer of specification-by-custom atop the same code. The Mishnah Berurah (1907) asked the practitioner's question: how should I actually do this? Modern responsa (Rav Moshe Feinstein's ~2,000 rulings on artificial insemination, Shabbat timers, organ transplants; Rav Ovadia Yosef's parallel Sephardic corpus) continue the method: identify the underlying principle, distinguish cases, decide.[^70]
+Caro's Shulchan Aruch (1563) became the definitive lookup reference (as described in the Shulchan Aruch section). The Rema added Ashkenazi glosses, one layer of specification-by-custom atop the same code. The Mishnah Berurah (1907) asked the practitioner's question: how should I actually do this? Modern responsa (Rav Moshe Feinstein's ~2,000 rulings on artificial insemination, Shabbat timers, organ transplants; Rav Ovadia Yosef's parallel Sephardic corpus) continue the method: identify the underlying principle, distinguish cases, decide.[^70]
 
-## VIII.F. Kabbalah in Historical Context
+## Kabbalah in Historical Context
 
 The Kabbalistic computational tradition developed in parallel with the legal tradition surveyed here. Those methods are treated comprehensively in Part VI.[^71][^73]
 
-## VIII.G. The Algorithm Meets New Inputs
+## The Algorithm Meets New Inputs
 
 When unprecedented situations arise (electricity, genetic engineering, organ transplantation), halakhists follow a consistent four-step method:
 
@@ -3082,7 +3081,7 @@ When unprecedented situations arise (electricity, genetic engineering, organ tra
 
 The ancient algorithm continues to process new inputs because it was built on principles, not cases. The sages recorded reasoning, not just rules, and reasoning, unlike rules, can address questions its authors never contemplated.[^75]
 
-## VIII.H. Conclusion: Law as Living Process
+## Conclusion: Law as Living Process
 
 The system preserves process, not just conclusions. It records disputes, not just rulings. The law exists at three levels simultaneously: specific rulings, principles underlying those rulings, and methods for deriving new rules from old principles. A system grounded in all three has been addressing questions its creators never imagined for two thousand years.[^100]
 
@@ -3091,7 +3090,7 @@ The system preserves process, not just conclusions. It records disputes, not jus
 
 # Part IX: SYNTHESIS: A UNIFIED THEORY
 
-## IX.A–D. The Configuration Thesis
+## The Configuration Thesis
 
 Judaism constitutes a comprehensive computational worldview. Its elements fit together like the layers of a well-designed system: God as active programmer, continuously generating and sustaining creation through the Sefirot;[^89] Torah as source code, interpretable at four levels through the PaRDeS framework (peshat, remez, derash, sod) and generative of infinite operational variations from finite specification;[^90][^95] the 613 mitzvot as compiled instructions, each specifiable as a function with preconditions, procedures, postconditions, and override conditions;[^91] humans as agents with genuine free will executing these algorithms;[^92] halakha as the ongoing system design process adapting source code to concrete situations through priority resolution, conflict handling, and continuous update;[^93] and Kabbalah as the architecture documentation: the Sefirot as structural layers, tzimtzum as the fundamental memory allocation problem.[^94]
 
@@ -3105,7 +3104,7 @@ No pre-modern civilization developed anything comparable in four dimensions. **S
 
 The system includes built-in self-correction: teshuvah for individual course-correction, majority rule preserving minority views, responsa feeding novel rulings back, and takkanot addressing changed circumstances. What makes halakha uniquely algorithmic is its integration of legal, ethical, mystical, psychological, and theological dimensions into one coherent system operating across multiple levels of abstraction.
 
-## IX.E. Implications for Contemporary AI Ethics
+## Implications for Contemporary AI Ethics
 
 Artificial intelligence systems now make consequential decisions about loans, medical diagnoses, criminal sentencing, content moderation. The question that has animated this entire investigation comes into sharp focus: what does Jewish algorithmic thinking offer a world grappling with these systems?
 
@@ -3133,38 +3132,6 @@ Contemporary recommendation algorithms are explicitly designed to manipulate beh
 
 The halakhic system specifies as much as it can, but always preserves space for human judgment at its core. The more powerful AI systems become, the more crucial it becomes that humans understand them deeply enough to know when to trust them and when to override them. And this requires wisdom, which cannot be programmed but only cultivated through long engagement with the tradition.
 
-## IX.F. Open Questions and Future Research
-
-The synthesis developed across these chapters opens directions for future investigation that are anything but academic. They are the urgent questions that will determine how Jewish thought engages with the defining technology of our age.
-
-**1. Formal Specification of Halakha**: Can the entire halakhic system be formally specified using contemporary computational logic? Probably not fully; spiritual experience, human intention, and divine will may exceed the expressive power of first-order logic. But substantial portions can be. The Talmudic Logic Project, ongoing since 2008, has made progress in formalizing Talmudic reasoning.[^108] Which portions resist formalization, and what does that resistance tell us about the nature of those domains?
-
-**2. Talmudic AI**: What would an artificial reasoning system look like that operated according to Talmudic principles? Such a system would:
-
-> • Preserve dissent rather than reduce to single answers
->
-> • Use dialectical reasoning (challenge-response-refinement) rather than single-path inference
->
-> • Maintain multiple valid interpretations simultaneously
->
-> • Learn from case-based reasoning and accumulated precedent
->
-> • Explain its reasoning completely and transparently
->
-> • Allow continuous refinement through engagement with novel cases
-
-Building such a system would force clarification of what makes Talmudic reasoning powerful, and would likely yield insights for AI design.
-
-**3. Souls and Computational Complexity**: Could the five levels of soul in Jewish thought, from bodily instinct through abstract thought to divine connection, be mapped onto levels of abstraction in computational systems?
-
-**4. Sefirot as Neural Network**: The Sefirotic tree, with its relationships and flows, bears resemblance to network architectures. Speculative, but worth exploring whether the Sefirot can be modeled as a neural network or other computational architecture.
-
-**5. Artificial Consciousness and the Soul**: Can a machine have a nefesh? What would be required for an artificial entity to have moral status under halakha? As AI systems become more sophisticated, these questions become practically urgent.
-
-**6. Halakha and AI-Generated Content**: What are the halakhic implications of AI-generated text, images, and knowledge? Questions of valid testimony, intellectual property, and whether AI systems can make halakhic rulings?
-
-**7. The Future of the Halakhic Algorithm**: If AI systems eventually surpass human reasoning capability, does halakha become obsolete? Or does it transform into a specification of values that superintelligent systems should serve, a guide not to how to reason but to what purposes reasoning should be directed?
-
 ***
 
 [^89]: Ein Sof and the Sefirot as the mechanism of continuous creation are discussed in the Zohar and elaborated by Moshe Cordovero in *Pardes Rimonim* and Isaac Luria's teachings as recorded in Chaim Vital, *Etz Chaim*. See Gershom Scholem, *Major Trends in Jewish Mysticism* (1941), chs. 5-7, and Moshe Idel, *Kabbalah: New Perspectives* (1988).
@@ -3177,7 +3144,7 @@ Building such a system would force clarification of what makes Talmudic reasonin
 
 [^93]: The halakhic system's function as ongoing system design is developed in Parts V and VIII of this work. For the Mishnah's codification, see Jacob Neusner, *The Mishnah: A New Translation* (New Haven: Yale University Press, 1988). On the responsa tradition as continuous adaptation, see Menachem Elon, *Jewish Law: History, Sources, Principles* (Philadelphia: Jewish Publication Society, 1994).
 
-[^94]: On the Sefirot as architectural layers, see Part VI.E of this work. On Tzimtzum (divine contraction), see Isaac Luria's teaching as recorded in Chaim Vital, *Etz Chaim*, Sha'ar 1 (Drush Igulim v'Yosher). For scholarly analysis, see Scholem (1941), chs. 7-8, and Rachel Elior, *The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism* (Albany: SUNY Press, 1993).
+[^94]: On the Sefirot as architectural layers, see the Sefirot as Computational Architecture section of this work. On Tzimtzum (divine contraction), see Isaac Luria's teaching as recorded in Chaim Vital, *Etz Chaim*, Sha'ar 1 (Drush Igulim v'Yosher). For scholarly analysis, see Scholem (1941), chs. 7-8, and Rachel Elior, *The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism* (Albany: SUNY Press, 1993).
 
 [^95]: The PaRDeS framework and the sod (secret) level of interpretation are discussed in Zohar, Introduction 1b, and elaborated in Moshe Cordovero, *Pardes Rimonim* (Orchard of Pomegranates), which takes its name from this interpretive framework. See also the discussion of the four levels of Torah interpretation in Part VI of this work.
 
@@ -3185,25 +3152,23 @@ Building such a system would force clarification of what makes Talmudic reasonin
 
 [^97]: The comprehensive scope of halakha as encompassing all domains of embodied human action is a recurring theme in rabbinic literature. See Maimonides' introduction to the *Mishneh Torah* and the Shulchan Aruch's four-part structure covering the entirety of daily life, ritual, family, and civil law. The computational implications are developed in Part IV of this work.
 
-[^98]: Joseph Caro, *Shulchan Aruch* (Set Table), first published 1565. The four sections: Orach Chaim (daily life and Shabbat), Yoreh Deah (dietary and ritual law), Even HaEzer (family law), and Choshen Mishpat (civil and monetary law), are discussed in detail in Part IV.E of this work. See also Menachem Elon, *Jewish Law* (1994), Part III.
+[^98]: Joseph Caro, *Shulchan Aruch* (Set Table), first published 1565. The four sections: Orach Chaim (daily life and Shabbat), Yoreh Deah (dietary and ritual law), Even HaEzer (family law), and Choshen Mishpat (civil and monetary law), are discussed in detail in the Shulchan Aruch as Compiled Code section of this work. See also Menachem Elon, *Jewish Law* (1994), Part III.
 
-[^99]: The 39 categories of forbidden labor on Shabbat (*melakhot*) are enumerated in Mishnah Shabbat 7:2 and elaborated in Talmud Bavli, Shabbat 73a-75b. On pikuach nefesh (saving a life) overriding Shabbat, see Talmud Bavli, Yoma 85a-b. The algorithmic analysis of Shabbat law appears in Part V.F of this work.
+[^99]: The 39 categories of forbidden labor on Shabbat (*melakhot*) are enumerated in Mishnah Shabbat 7:2 and elaborated in Talmud Bavli, Shabbat 73a-75b. On pikuach nefesh (saving a life) overriding Shabbat, see Talmud Bavli, Yoma 85a-b. The algorithmic analysis of Shabbat law appears in the time-bound commandments and Shabbat as timer interrupt sections of this work.
 
-[^101]: The game-theoretic analysis of the Talmudic bankruptcy problem was pioneered by Robert Aumann and Michael Maschler, "Game Theoretic Analysis of a Bankruptcy Problem from the Talmud," *Journal of Economic Theory* 36, no. 2 (1985): 195-213. The algorithmic analysis appears in Part IV.G of this work.
+[^101]: The game-theoretic analysis of the Talmudic bankruptcy problem was pioneered by Robert Aumann and Michael Maschler, "Game Theoretic Analysis of a Bankruptcy Problem from the Talmud," *Journal of Economic Theory* 36, no. 2 (1985): 195-213. The algorithmic analysis appears in the claims problems and fair division section of this work.
 
-[^102]: On pikuach nefesh, see Talmud Bavli, Yoma 85a-b and Sanhedrin 74a-b. On the rodef (pursuer) principle, see Mishnah Sanhedrin 8:7 and Maimonides, *Mishneh Torah*, Hilkhot Rozeach 1:6-7. The halakhic analysis of priority hierarchies appears in Parts V.I and V.J of this work.
+[^102]: On pikuach nefesh, see Talmud Bavli, Yoma 85a-b and Sanhedrin 74a-b. On the rodef (pursuer) principle, see Mishnah Sanhedrin 8:7 and Maimonides, *Mishneh Torah*, Hilkhot Rozeach 1:6-7. The halakhic analysis of priority hierarchies appears in the pikuach nefesh and rodef sections of this work.
 
 [^103]: The Talmudic method of shakla v'tarya (give-and-take dialectical reasoning) is analyzed in Part VIII of this work. On the importance of showing reasoning in legal and algorithmic systems, see the discussion of explainability in AI ethics literature, e.g., Cynthia Rudin, "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead," *Nature Machine Intelligence* 1 (2019): 206-215.
 
 [^104]: On free will as foundational to the halakhic system, see Maimonides, *Mishneh Torah*, Hilkhot Teshuvah 5:1-5. The theological commitment to human agency even alongside divine omniscience is discussed in Part VII of this work. On the ethical implications for AI, see Stuart Russell, *Human Compatible: Artificial Intelligence and the Problem of Control* (New York: Viking, 2019).
 
-[^105]: On the responsa tradition as a model for case-based reasoning, see Menachem Elon, *Jewish Law* (1994), Part III, ch. 38-42. The historical development of responsa literature is surveyed in Part VIII.E-VIII.H of this work. For AI parallels, see the literature on case-based reasoning in Agnar Aamodt and Enric Plaza, "Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches," *AI Communications* 7, no. 1 (1994): 39-59.
+[^105]: On the responsa tradition as a model for case-based reasoning, see Menachem Elon, *Jewish Law* (1994), Part III, ch. 38-42. The historical development of responsa literature is surveyed in Part VIII of this work. For AI parallels, see the literature on case-based reasoning in Agnar Aamodt and Enric Plaza, "Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches," *AI Communications* 7, no. 1 (1994): 39-59.
 
-[^106]: On the halakhic treatment of doubt (*safek*), double doubt (*sfek sfeika*), and presumptive status (*chazakah*), see Part IV.H of this work. Primary sources include Talmud Bavli, Chullin 9a-b (on chazakah) and Yevamot 38a (on sfek sfeika). See also Aryeh Leib HaCohen Heller, *Ketzot HaChoshen*, for advanced analysis of these principles.
+[^106]: On the halakhic treatment of doubt (*safek*), double doubt (*sfek sfeika*), and presumptive status (*chazakah*), see the edge cases and algorithmic complexity section of this work. Primary sources include Talmud Bavli, Chullin 9a-b (on chazakah) and Yevamot 38a (on sfek sfeika). See also Aryeh Leib HaCohen Heller, *Ketzot HaChoshen*, for advanced analysis of these principles.
 
 [^107]: The concept of *da'at* (wisdom, knowledge, discernment) as transcending algorithmic specification appears throughout rabbinic literature. See Talmud Bavli, Berakhot 33a ("Anyone who has da'at, it is as if the Temple were built in his days"). On the limits of formalization in ethical reasoning, see Martha Nussbaum, *The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy* (Cambridge: Cambridge University Press, 1986), and Alasdair MacIntyre, *After Virtue* (Notre Dame: University of Notre Dame Press, 1981).
-
-[^108]: The Talmudic Logic Project at Bar-Ilan University has been working since 2008 on formalizing Talmudic reasoning using mathematical logic and computer science tools. See Michael Abraham, Dov Gabbay, and Uri Schild, "Analysis of the Talmudic Argumentum A Fortiori Inference Rule (Kal Vachomer) Using Matrix Abduction," *Studia Logica* 92 (2009): 281-364.
 
 
 # Appendices
@@ -3894,7 +3859,7 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 
 [^88]: Corrado Böhm and Giuseppe Jacopini, "Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules," *Communications of the ACM* 9, no. 5 (1966): 366-371. The theorem's practical implications were amplified by Edsger Dijkstra's influential 1968 letter, "Go To Statement Considered Harmful" (*Communications of the ACM* 11, no. 3: 147-148), which launched the structured programming movement. For accessible treatments of algorithmic building blocks, see Thomas H. Cormen et al., *Introduction to Algorithms*, 3rd ed. (Cambridge, MA: MIT Press, 2009), Chapter 2; and Leonard Soicher and Franco Vivaldi, *Algorithmic Mathematics* (London: Queen Mary University, 2004), Chapter 1. On preconditions and postconditions, see C. A. R. Hoare, "An Axiomatic Basis for Computer Programming," *Communications of the ACM* 12, no. 10 (1969): 576-580. On stepwise refinement, see Niklaus Wirth, "Program Development by Stepwise Refinement," *Communications of the ACM* 14, no. 4 (1971): 221-227.
 
-[^89]: The concept of Ein Sof as the infinite generative principle underlying creation through the Sefirot is developed in Sefer Yetzirah (Book of Formation), the Zohar, and systematized in Chaim Vital's *Etz Chaim* (Tree of Life). For scholarly treatment, see Gershom Scholem, *Major Trends in Jewish Mysticism* (New York: Schocken, 1941), and Moshe Idel, *Kabbalah: New Perspectives* (New Haven: Yale University Press, 1988). The computational interpretation of the Sefirot as an emanation architecture is developed in Part VI.E of this work.
+[^89]: The concept of Ein Sof as the infinite generative principle underlying creation through the Sefirot is developed in Sefer Yetzirah (Book of Formation), the Zohar, and systematized in Chaim Vital's *Etz Chaim* (Tree of Life). For scholarly treatment, see Gershom Scholem, *Major Trends in Jewish Mysticism* (New York: Schocken, 1941), and Moshe Idel, *Kabbalah: New Perspectives* (New Haven: Yale University Press, 1988). The computational interpretation of the Sefirot as an emanation architecture is developed in the Sefirot as Computational Architecture section of this work.
 
 [^90]: The PaRDeS framework (peshat, remez, derash, sod) as a multi-level interpretive system is discussed in the Zohar, Tikkunei Zohar, and later Kabbalistic literature. See Scholem (1941) and Idel (1988). For the concept of Torah as the generative source code of creation, see Genesis Rabbah 1:1 ("God looked into the Torah and created the world") and the Zohar, Terumah 161b.
 
@@ -3904,7 +3869,7 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 
 [^93]: The halakhic system's function as ongoing system design is developed in Parts V and VIII of this work. For the Mishnah's codification, see Jacob Neusner, *The Mishnah: A New Translation* (New Haven: Yale University Press, 1988). On the responsa tradition as continuous adaptation, see Menachem Elon, *Jewish Law: History, Sources, Principles* (Philadelphia: Jewish Publication Society, 1994).
 
-[^94]: On the Sefirot as architectural layers, see Part VI.E of this work. On Tzimtzum (divine contraction), see Isaac Luria's teaching as recorded in Chaim Vital, *Etz Chaim*, Sha'ar 1 (Drush Igulim v'Yosher). For scholarly analysis, see Scholem (1941), chs. 7-8, and Rachel Elior, *The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism* (Albany: SUNY Press, 1993).
+[^94]: On the Sefirot as architectural layers, see the Sefirot as Computational Architecture section of this work. On Tzimtzum (divine contraction), see Isaac Luria's teaching as recorded in Chaim Vital, *Etz Chaim*, Sha'ar 1 (Drush Igulim v'Yosher). For scholarly analysis, see Scholem (1941), chs. 7-8, and Rachel Elior, *The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism* (Albany: SUNY Press, 1993).
 
 [^95]: The PaRDeS framework and the sod (secret) level of interpretation are discussed in Zohar, Introduction 1b, and elaborated in Moshe Cordovero, *Pardes Rimonim* (Orchard of Pomegranates), which takes its name from this interpretive framework. See also the discussion of the four levels of Torah interpretation in Part VI of this work.
 
@@ -3912,27 +3877,25 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 
 [^97]: The comprehensive scope of halakha as encompassing all domains of embodied human action is a recurring theme in rabbinic literature. See Maimonides' introduction to the *Mishneh Torah* and the Shulchan Aruch's four-part structure covering the entirety of daily life, ritual, family, and civil law. The computational implications are developed in Part IV of this work.
 
-[^98]: Joseph Caro, *Shulchan Aruch* (Set Table), first published 1565. The four sections: Orach Chaim (daily life and Shabbat), Yoreh Deah (dietary and ritual law), Even HaEzer (family law), and Choshen Mishpat (civil and monetary law), are discussed in detail in Part IV.E of this work. See also Menachem Elon, *Jewish Law* (1994), Part III.
+[^98]: Joseph Caro, *Shulchan Aruch* (Set Table), first published 1565. The four sections: Orach Chaim (daily life and Shabbat), Yoreh Deah (dietary and ritual law), Even HaEzer (family law), and Choshen Mishpat (civil and monetary law), are discussed in detail in the Shulchan Aruch as Compiled Code section of this work. See also Menachem Elon, *Jewish Law* (1994), Part III.
 
-[^99]: The 39 categories of forbidden labor on Shabbat (*melakhot*) are enumerated in Mishnah Shabbat 7:2 and elaborated in Talmud Bavli, Shabbat 73a-75b. On pikuach nefesh (saving a life) overriding Shabbat, see Talmud Bavli, Yoma 85a-b. The algorithmic analysis of Shabbat law appears in Part V.F of this work.
+[^99]: The 39 categories of forbidden labor on Shabbat (*melakhot*) are enumerated in Mishnah Shabbat 7:2 and elaborated in Talmud Bavli, Shabbat 73a-75b. On pikuach nefesh (saving a life) overriding Shabbat, see Talmud Bavli, Yoma 85a-b. The algorithmic analysis of Shabbat law appears in the time-bound commandments and Shabbat as timer interrupt sections of this work.
 
 [^100]: On the differences between halakhic and Islamic legal methodology, see Bernard G. Weiss, *The Spirit of Islamic Law* (Athens: University of Georgia Press, 1998); Gideon Libson, "Halakhah and Law in the Period of the Geonim," in *The Cambridge Companion to the Talmud and Rabbinic Literature*, ed. Charlotte Elisheva Fonrobert and Martin S. Jaffee (Cambridge: Cambridge University Press, 2007). For shakla v'tarya (dialectical reasoning), see Part VIII of this work.
 
-[^101]: The game-theoretic analysis of the Talmudic bankruptcy problem was pioneered by Robert Aumann and Michael Maschler, "Game Theoretic Analysis of a Bankruptcy Problem from the Talmud," *Journal of Economic Theory* 36, no. 2 (1985): 195-213. The algorithmic analysis appears in Part IV.G of this work.
+[^101]: The game-theoretic analysis of the Talmudic bankruptcy problem was pioneered by Robert Aumann and Michael Maschler, "Game Theoretic Analysis of a Bankruptcy Problem from the Talmud," *Journal of Economic Theory* 36, no. 2 (1985): 195-213. The algorithmic analysis appears in the claims problems and fair division section of this work.
 
-[^102]: On pikuach nefesh, see Talmud Bavli, Yoma 85a-b and Sanhedrin 74a-b. On the rodef (pursuer) principle, see Mishnah Sanhedrin 8:7 and Maimonides, *Mishneh Torah*, Hilkhot Rozeach 1:6-7. The halakhic analysis of priority hierarchies appears in Parts V.I and V.J of this work.
+[^102]: On pikuach nefesh, see Talmud Bavli, Yoma 85a-b and Sanhedrin 74a-b. On the rodef (pursuer) principle, see Mishnah Sanhedrin 8:7 and Maimonides, *Mishneh Torah*, Hilkhot Rozeach 1:6-7. The halakhic analysis of priority hierarchies appears in the pikuach nefesh and rodef sections of this work.
 
 [^103]: The Talmudic method of shakla v'tarya (give-and-take dialectical reasoning) is analyzed in Part VIII of this work. On the importance of showing reasoning in legal and algorithmic systems, see the discussion of explainability in AI ethics literature, e.g., Cynthia Rudin, "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead," *Nature Machine Intelligence* 1 (2019): 206-215.
 
 [^104]: On free will as foundational to the halakhic system, see Maimonides, *Mishneh Torah*, Hilkhot Teshuvah 5:1-5. The theological commitment to human agency even alongside divine omniscience is discussed in Part VII of this work. On the ethical implications for AI, see Stuart Russell, *Human Compatible: Artificial Intelligence and the Problem of Control* (New York: Viking, 2019).
 
-[^105]: On the responsa tradition as a model for case-based reasoning, see Menachem Elon, *Jewish Law* (1994), Part III, ch. 38-42. The historical development of responsa literature is surveyed in Part VIII.E-VIII.H of this work. For AI parallels, see the literature on case-based reasoning in Agnar Aamodt and Enric Plaza, "Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches," *AI Communications* 7, no. 1 (1994): 39-59.
+[^105]: On the responsa tradition as a model for case-based reasoning, see Menachem Elon, *Jewish Law* (1994), Part III, ch. 38-42. The historical development of responsa literature is surveyed in Part VIII of this work. For AI parallels, see the literature on case-based reasoning in Agnar Aamodt and Enric Plaza, "Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches," *AI Communications* 7, no. 1 (1994): 39-59.
 
-[^106]: On the halakhic treatment of doubt (*safek*), double doubt (*sfek sfeika*), and presumptive status (*chazakah*), see Part IV.H of this work. Primary sources include Talmud Bavli, Chullin 9a-b (on chazakah) and Yevamot 38a (on sfek sfeika). See also Aryeh Leib HaCohen Heller, *Ketzot HaChoshen*, for advanced analysis of these principles.
+[^106]: On the halakhic treatment of doubt (*safek*), double doubt (*sfek sfeika*), and presumptive status (*chazakah*), see the edge cases and algorithmic complexity section of this work. Primary sources include Talmud Bavli, Chullin 9a-b (on chazakah) and Yevamot 38a (on sfek sfeika). See also Aryeh Leib HaCohen Heller, *Ketzot HaChoshen*, for advanced analysis of these principles.
 
 [^107]: The recognition of limits to algorithmic reasoning echoes a broader philosophical tradition. See Hubert Dreyfus, *What Computers Can't Do: The Limits of Artificial Intelligence* (New York: Harper & Row, 1972), and more recently, Brian Cantwell Smith, *The Promise of Artificial Intelligence: Reckoning and Judgment* (Cambridge, MA: MIT Press, 2019). In Jewish thought, this aligns with the Rambam's emphasis on wisdom (*chokhmah*) as distinct from mere knowledge (*yediah*); see *Mishneh Torah*, Hilkhot Yesodei HaTorah 2:2.
-
-[^108]: Andrew Schumann has published extensively on formalizing Talmudic logic; see Schumann, "Talmudic Logic," *History and Philosophy of Logic* 33, no. 1 (2012): 1-17; and "Rabbi Ishmael's Thirteen Hermeneutic Rules as a Kind of Logic," *Journal of Applied Logics* 10, no. 1 (2023): 37-56. The Talmudic Logic Project (since 2008) is also discussed in Michael Abraham, Dov Gabbay, and Uri Schild, *Analysis of the Talmudic Argumentum A Fortiori Inference Rule (Kal Vachomer) Using Matrix Abduction* (London: College Publications, 2009).
 
 [^109]: For the scholarly foundations of Kabbalistic interpretation referenced throughout Part VI, see Gershom Scholem, *Major Trends in Jewish Mysticism* (New York: Schocken, 1941), especially chs. 2-4 on early Kabbalah and chs. 7-8 on Lurianic Kabbalah; and Moshe Idel, *Kabbalah: New Perspectives* (New Haven: Yale University Press, 1988), which challenges and extends Scholem's framework.
 
