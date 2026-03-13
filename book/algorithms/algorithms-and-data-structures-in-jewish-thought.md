@@ -413,7 +413,7 @@ Look at what each day actually does. Day 1 performs the most primitive operation
 
 The progression follows classic algorithmic design: start with primitive operations, build infrastructure, instantiate entities of increasing complexity, assign roles. Each step depends on prior outputs: vegetation requires land; animals require vegetation; humanity requires all of the above.
 
-Genesis 2:1–3 provides explicit termination: "And the heavens and the earth were completed, and all their host." The Hebrew <span dir="rtl">וַיְכַל</span>, "completed," signals successful termination. The algorithm has produced its intended output and halts.[^10]
+Genesis 2:1–3 provides explicit termination: "And the heavens and the earth were completed, and all their host." The Hebrew <span dir="rtl">וַיְכַל</span>, "completed," signals successful termination. The algorithm has produced its intended output and halts.
 
 ## II.B. The Ten Utterances
 
@@ -432,7 +432,7 @@ The tradition identifies ten divine utterances in the creation narrative (Mishna
 
 The ordering isn't arbitrary; it reflects dependency logic. Light must precede luminaries; you must create the medium before the objects that operate within it. Land must precede vegetation. Vegetation must precede herbivorous life. Each prerequisite is satisfied before the operation that requires it.
 
-The parallel between the Ten Utterances and the Ten Commandments (Exodus 20:1–14) is worth pausing over: both are enumerated as ten, suggesting symmetry between divine creative utterances and divine imperative commands. Creation is the algorithm for bringing the physical world into being; the commandments are the algorithm for directing human action within it.
+The parallel between the Ten Utterances and the Ten Commandments (Exodus 20:1–14) is worth pausing over: both are enumerated as ten, suggesting symmetry between divine creative utterances and divine imperative commands. Creation is the algorithm for bringing the physical world into being; the commandments are the algorithm for directing human action within it.[^10]
 
 ## II.C. Divine Names as Operational Modes
 
@@ -626,7 +626,7 @@ The algorithm adjusts its input requirements based on what the person can actual
 
 The asham requires preprocessing before the ritual: the offerer must first make financial restitution. The algorithm will not execute (atonement will not be achieved) until the interpersonal damage is repaired. The system validates that necessary conditions are met before proceeding.
 
-The sacrificial system as a whole exhibits precise specification of inputs and outputs, deterministic processing steps, conditional branching based on context, graceful degradation when standard inputs are unavailable, and precondition validation. It is procedural programming written in ritual rather than code.[^12]
+The sacrificial system as a whole exhibits precise specification of inputs and outputs, deterministic processing steps, conditional branching based on context, graceful degradation when standard inputs are unavailable, and precondition validation. It is procedural programming written in ritual rather than code.
 
 ## II.G. Providence as Ongoing Computation
 
@@ -2788,7 +2788,7 @@ The two modes are not contradictory but complementary, parallel execution on dif
 
 Everyone knows the experience: you see something you want, and two voices speak at once. One says *take it*, quick, certain, persuasive. The other says *wait*, slower, quieter, drawing on something deeper than appetite. The Talmud gave these voices names long before modern psychology mapped the same territory.
 
-The yetzer ha-ra is routinely mistranslated as "evil inclination," which obscures what the tradition actually means. The Talmud (Kiddushin 30b) says God created the yetzer ha-ra and created Torah as its antidote (<span dir="rtl">תבלין</span>), not its punishment. The yetzer ha-ra is biological drive: self-interest, appetite, ambition. A famous Midrash (Bereishit Rabbah 9:7) puts it bluntly: without the yetzer ha-ra, no one would build a house, marry, have children, or do business. These aren't satanic whispers. They're the drives that built civilization.
+The yetzer ha-ra is routinely mistranslated as "evil inclination," which obscures what the tradition actually means. The Talmud (Kiddushin 30b) says God created the yetzer ha-ra and created Torah as its antidote (<span dir="rtl">תבלין</span>), not its punishment. The yetzer ha-ra is biological drive: self-interest, appetite, ambition. A famous Midrash (Bereishit Rabbah 9:7) puts it bluntly: without the yetzer ha-ra, no one would build a house, marry, have children, or do business. These aren't satanic whispers. They're the drives that built civilization.[^58]
 
 The yetzer ha-tov, the pull toward other-orientation and transcendent purpose, develops later. The Talmud says it arrives at bat/bar mitzvah age. Before that, the child runs entirely on self-interest. Moral agency begins when a second process comes online.
 
@@ -2816,7 +2816,7 @@ The Kabbalistic tradition extends the dual yetzer model into a layered architect
 
 The practical implication: Torah study, prayer with kavanah, and performance of mitzvot function as system calls that temporarily elevate the operating level. Spiritual growth is the process of raising one's default, spending more time in Neshamah-mode than Nefesh-mode.
 
-The Zohar teaches that each soul level contains within it all five sub-levels (Nefesh of Nefesh, Ruach of Nefesh, and so on), yielding a 5×5 matrix of 25 distinct operational states: fractal architecture, self-similar at every scale.[^66]
+The Zohar teaches that each soul level contains within it all five sub-levels (Nefesh of Nefesh, Ruach of Nefesh, and so on), yielding a 5×5 matrix of 25 distinct operational states: fractal architecture, self-similar at every scale.[^124]
 
 ## VII.C. Teshuvah as Debugging / Error Correction
 
@@ -2868,7 +2868,7 @@ Rabbi Hasdai Crescas (Or Hashem, c. 1410) proposed soft determinism: actions are
 
 The Tanya (chapters 13-14) offers another model. The beinoni experiences genuine choice only at the level of action; thought and emotion aren't under direct voluntary control. A forbidden thought may arise unbidden, but the beinoni can choose not to act on it. This is lazy evaluation: the system generates possibilities without committing to their execution. Only when action is about to occur does evaluation become final.
 
-The Talmud (Berakhot 33b) captures the principle: "Everything is in the hands of Heaven except the fear of Heaven." The system is deterministic in all physical parameters (health, intelligence, circumstances) but non-deterministic at exactly one point: the moral decision. That single locus of non-determinism makes the entire system meaningful.[^67]
+The Talmud (Berakhot 33b) captures the principle: "Everything is in the hands of Heaven except the fear of Heaven." The system is deterministic in all physical parameters (health, intelligence, circumstances) but non-deterministic at exactly one point: the moral decision. That single locus of non-determinism makes the entire system meaningful.[^125]
 
 ## VII.F. Middot (Character Traits) as Parameters
 
@@ -2896,7 +2896,7 @@ Rabbi Yisrael Lipkin of Salant (1810-1883) founded the Mussar movement on a sing
 
 The Alter of Novardok (Rabbi Yosef Yozel Horwitz, 1849-1919) pushed further: deliberately place yourself in situations that stress-test a specific weakness. A person working on overcoming shame might enter a bakery and ask for nails, or wear mismatched clothing in public. Not masochism, but stress testing. Subject the system to extreme inputs to verify that the corrected code holds under pressure.
 
-Rabbi Shlomo Wolbe (Alei Shur) synthesized Mussar with modern psychological insight, emphasizing that methods suitable for a seventeen-year-old yeshiva student differ from those appropriate for a forty-year-old father. The optimization procedure itself must be tuned to the agent it operates on: adaptive algorithm design.[^68]
+Rabbi Shlomo Wolbe (Alei Shur) synthesized Mussar with modern psychological insight, emphasizing that methods suitable for a seventeen-year-old yeshiva student differ from those appropriate for a forty-year-old father. The optimization procedure itself must be tuned to the agent it operates on: adaptive algorithm design.[^126]
 
 ## VII.H. Prayer as Self-Programming: The Reflexive Verb
 
@@ -2910,7 +2910,7 @@ The Amidah follows a precise protocol. The first three blessings are praise, inp
 
 **Kavanah** (directed intention) distinguishes executed code from merely parsed code. The Rambam (Hilkhot Tefillah 4:15-16) rules that prayer without kavanah is not prayer. A compiler can parse source code (verify syntax, check structure) without executing it. Reciting the Amidah without kavanah is parsing without execution. The words pass through the system without modifying the internal state.
 
-Rabbi Joseph B. Soloveitchik developed this further: the person who prays is not requesting changes from an external source but actively constructing themselves through the discipline of articulating their relationship to God. The prayerful person is simultaneously programmer and program, writing code that modifies the very system writing it. Recursive self-modification: lehitpallel is self-programming in the most literal sense.[^69]
+Rabbi Joseph B. Soloveitchik developed this further: the person who prays is not requesting changes from an external source but actively constructing themselves through the discipline of articulating their relationship to God. The prayerful person is simultaneously programmer and program, writing code that modifies the very system writing it. Recursive self-modification: lehitpallel is self-programming in the most literal sense.[^127]
 
 ## VII.I. Sefirat ha-Omer: A 7×7 Matrix Traversal
 
@@ -2942,7 +2942,7 @@ Each cell is a specific spiritual operation. Chesed she-b'Gevurah (lovingkindnes
 
 The temporal context matters. The Omer bridges Pesach (liberation from slavery) and Shavuot (receiving Torah at Sinai). The 49-day traversal is preprocessing: a newly freed slave people must be refined before they can receive and execute the divine program. The Israelites who left Egypt weren't ready for Torah. They needed 49 days of systematic character work, one cell at a time.
 
-This answers a pedagogical question that applies far beyond Sinai: how do you prepare someone to receive and execute a complex system of instructions? Not all at once, but through systematic traversal of the prerequisite character space, the minimum complete traversal of the 7×7 matrix that ensures every dimension has been addressed.[^70]
+This answers a pedagogical question that applies far beyond Sinai: how do you prepare someone to receive and execute a complex system of instructions? Not all at once, but through systematic traversal of the prerequisite character space, the minimum complete traversal of the 7×7 matrix that ensures every dimension has been addressed.[^128]
 
 ## VII.J. Jewish Practice as Operating System
 
@@ -3094,7 +3094,7 @@ The ancient algorithm continues to process new inputs because it was built on pr
 
 ## VIII.H. Conclusion: Law as Living Process
 
-The system preserves process, not just conclusions. It records disputes, not just rulings. The law exists at three levels simultaneously: specific rulings, principles underlying those rulings, and methods for deriving new rules from old principles. A system grounded in all three has been addressing questions its creators never imagined for two thousand years.
+The system preserves process, not just conclusions. It records disputes, not just rulings. The law exists at three levels simultaneously: specific rulings, principles underlying those rulings, and methods for deriving new rules from old principles. A system grounded in all three has been addressing questions its creators never imagined for two thousand years.[^100]
 
 ***
 
@@ -3779,7 +3779,6 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 
 [^11]: The standard sources for divine names in Jewish theology include Maimonides' *Mishneh Torah*, Book of Knowledge, chs. 1-2; Ramban (Nachmanides) commentary on Genesis 1:1; and extensive Kabbalistic treatment in the Zohar and Etz Chaim (Chaim Vital's compilation of Lurianic teaching).
 
-[^12]: Standard sources for Sefirot include Sefer Yetzirah (Book of Formation), the classical Zohar, and Chaim Vital's *Etz Chaim* (Tree of Life), which systematized Lurianic Kabbalistic teaching.
 
 [^13]: Lurianic teaching appears in Chaim Vital's *Etz Chaim* (Tree of Life), published after Vital's death, and in the *Pri Etz Chaim*. These texts systematized Luria's oral teachings. See Scholem (1941), chs. 7-8, for the definitive scholarly treatment. Scholem's essay "Redemption Through Sin" (in *The Messianic Idea in Judaism*) addresses the theological implications.
 
@@ -3974,4 +3973,14 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 [^122]: On blessings before deriving benefit from the world, see Talmud Bavli, Berakhot 35a: "It is forbidden to derive benefit from this world without a blessing." The classification of blessings by food type (ha-motzi, mezonot, ha-etz, ha-adamah, shehakol) is codified in Shulchan Aruch, Orach Chaim 202-211. On blessings for natural phenomena and experiences, see Shulchan Aruch, Orach Chaim 218-230.
 
 [^123]: On the commandment to remember (zakhor) as a positive obligation, see Maimonides, *Sefer HaMitzvot*, positive commandment 189 (remember Amalek) and the six daily remembrances listed in many prayer books. On the prohibition against reminding a penitent of past sins, see Talmud Bavli, Bava Metzia 58b, and Maimonides, *Mishneh Torah*, Hilkhot De'ot 6:8, which classifies it as ona'at devarim (verbal oppression).
+
+[^124]: On the five soul levels and their interinclusion, see the Zohar (e.g., Zohar I:206a and III:70b) and Chaim Vital, *Sha'arei Kedushah*, Part I, Gates 1-2, which systematizes the five levels (Nefesh, Ruach, Neshamah, Chayah, Yechidah) and the principle that each level contains all five within it. The 5×5 matrix framework is a standard element of Lurianic soul theory; see also Vital, *Etz Chaim*, Sha'ar 50 (Sha'ar HaGilgulim), Introduction 1.
+
+[^125]: Talmud Bavli, Berakhot 33b ("Everything is in the hands of Heaven except the fear of Heaven"). On the theological tension between divine omniscience and human free will, see Maimonides, *Mishneh Torah*, Hilkhot Teshuvah 5:5; Rabbi Hasdai Crescas, *Or Hashem* (Light of the Lord), Treatise II, Part 5, which develops the soft-determinist position; and the Tanya, chapters 13-14, on the beinoni's locus of free choice in action.
+
+[^126]: Rabbi Shlomo Wolbe, *Alei Shur* (Leaves of Conversation), 2 vols. (Jerusalem, 1968/2005). Wolbe synthesized classical Mussar with developmental psychology, arguing that character-building methods must be calibrated to the student's age, temperament, and life stage. See also Rabbi Yisrael Lipkin of Salant's letters, published as *Or Yisrael*, for the foundational Mussar methodology that Wolbe built upon.
+
+[^127]: Rabbi Joseph B. Soloveitchik, *Worship of the Heart: Essays on Jewish Prayer* (Jersey City: Ktav, 2003), ed. Shalom Carmy. See also Soloveitchik, *The Lonely Man of Faith* (1965), on the dialectic of prayer and self-creation, and *Halakhic Man* (1944/1983), Part II, on the creative religious personality. The reflexive grammar of *lehitpallel* and its implications for understanding prayer as self-transformation is a recurring theme in Soloveitchik's lectures on prayer.
+
+[^128]: On Sefirat ha-Omer as spiritual practice, see Rabbi Moshe Cordovero, *Pardes Rimonim* (Orchard of Pomegranates), Gate 9, on the interinclusion of the Sefirot; and Chaim Vital, *Pri Etz Chaim* (Fruit of the Tree of Life), Sha'ar Sefirat ha-Omer, which maps the 49-day count to the 7×7 sefirotic matrix. On the character-refinement dimension, see the widespread custom recorded in Siddur HaAri and elaborated in Hasidic literature of meditating on a specific sefirah-combination each day of the Omer.
 
