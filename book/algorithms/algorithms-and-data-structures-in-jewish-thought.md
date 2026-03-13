@@ -149,7 +149,7 @@ But here is the discovery that matters most for this book: all algorithms, every
 
 ## The Building Blocks of Algorithms
 
-In 1966, Corrado Böhm and Giuseppe Jacopini proved that any algorithm can be expressed using just two formation rules: composition and iteration.[^88] The structured programming movement that followed (led by Dijkstra, Wirth, and others) reformulated this insight into the three building blocks now taught in every introductory course: sequence, selection, and iteration.
+In 1966, Corrado Böhm and Giuseppe Jacopini proved that any algorithm can be expressed using just two formation rules: composition and iteration.[^88] The structured programming movement that followed (led by Dijkstra, Wirth, and others) reformulated this insight into the three building blocks now taught in every introductory course: sequence, selection, and iteration.[^88]
 
 Three. That's it. All the dizzying complexity of computation arises not from exotic operations but from combining and nesting these three simple patterns.
 
