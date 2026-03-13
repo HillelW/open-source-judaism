@@ -7,51 +7,51 @@ The most sophisticated deterministic algorithm in pre-modern Jewish law — reco
 # Table of Contents
 
 - [Part I: TWO CLOCKS THAT DON'T AGREE](#part-i-two-clocks-that-dont-agree)
-  - [I.A. The Problem](#ia-the-problem)
-  - [I.B. What the Moon Actually Does](#ib-what-the-moon-actually-does)
-  - [I.C. The Observation Era](#ic-the-observation-era)
+  - [The Problem](#the-problem)
+  - [What the Moon Actually Does](#what-the-moon-actually-does)
+  - [The Observation Era](#the-observation-era)
 - [Part II: THE BUILDING BLOCKS](#part-ii-the-building-blocks)
-  - [II.A. Chalakim: The Unit of Time](#iia-chalakim-the-unit-of-time)
-  - [II.B. The Molad: Mean New Moon](#iib-the-molad-mean-new-moon)
-  - [II.C. The Metonic Cycle](#iic-the-metonic-cycle)
+  - [Chalakim: The Unit of Time](#chalakim-the-unit-of-time)
+  - [The Molad: Mean New Moon](#the-molad-mean-new-moon)
+  - [The Metonic Cycle](#the-metonic-cycle)
 - [Part III: THE FOUR POSTPONEMENTS](#part-iii-the-four-postponements)
-  - [III.A. Lo ADU](#iiia-lo-adu)
-  - [III.B. Molad Zaken](#iiib-molad-zaken)
-  - [III.C. GaTRaD](#iiic-gatrad)
-  - [III.D. BeTUTKaPoT](#iiid-betutkapot)
-  - [III.E. The Interaction of the Dehiyyot](#iiie-the-interaction-of-the-dehiyyot)
-  - [III.F. The Algorithm](#iiif-the-algorithm)
-  - [III.G. Worked Examples](#iiig-worked-examples)
-  - [III.H. What the Dehiyyot Achieve](#iiih-what-the-dehiyyot-achieve)
+  - [Lo ADU](#lo-adu)
+  - [Molad Zaken](#molad-zaken)
+  - [GaTRaD](#gatrad)
+  - [BeTUTKaPoT](#betutkapot)
+  - [The Interaction of the Dehiyyot](#the-interaction-of-the-dehiyyot)
+  - [The Algorithm](#the-algorithm)
+  - [Worked Examples](#worked-examples)
+  - [What the Dehiyyot Achieve](#what-the-dehiyyot-achieve)
 - [Part IV: YEAR TYPES AND THE COMPLETE CALENDAR](#part-iv-year-types-and-the-complete-calendar)
-  - [IV.A. Six Possible Year Lengths](#iva-six-possible-year-lengths)
-  - [IV.B. The Fourteen Keviyyot](#ivb-the-fourteen-keviyyot)
-  - [IV.C. The Four Gates](#ivc-the-four-gates)
-  - [IV.D. Torah Portions and the Liturgical Year](#ivd-torah-portions-and-the-liturgical-year)
+  - [Six Possible Year Lengths](#six-possible-year-lengths)
+  - [The Fourteen Keviyyot](#the-fourteen-keviyyot)
+  - [The Four Gates](#the-four-gates)
+  - [Torah Portions and the Liturgical Year](#torah-portions-and-the-liturgical-year)
 - [Part V: THE COMPLETE ALGORITHM](#part-v-the-complete-algorithm)
-  - [V.A. From Year Number to Complete Calendar](#va-from-year-number-to-complete-calendar)
-  - [V.B. Converting Between Hebrew and Gregorian Dates](#vb-converting-between-hebrew-and-gregorian-dates)
-  - [V.C. Implementation Notes](#vc-implementation-notes)
+  - [From Year Number to Complete Calendar](#from-year-number-to-complete-calendar)
+  - [Converting Between Hebrew and Gregorian Dates](#converting-between-hebrew-and-gregorian-dates)
+  - [Implementation Notes](#implementation-notes)
 - [Part VI: SEASONS AND THEIR ARITHMETIC](#part-vi-seasons-and-their-arithmetic)
-  - [VI.A. Tekufat Shmuel](#via-tekufat-shmuel)
-  - [VI.B. Tekufat Rav Adda](#vib-tekufat-rav-adda)
+  - [Tekufat Shmuel](#tekufat-shmuel)
+  - [Tekufat Rav Adda](#tekufat-rav-adda)
 - [Part VII: THE HISTORY OF THE TRANSITION](#part-vii-the-history-of-the-transition)
-  - [VII.A. From Sanhedrin to Calculation](#viia-from-sanhedrin-to-calculation)
-  - [VII.B. The Evidence of Continued Dispute](#viib-the-evidence-of-continued-dispute)
-  - [VII.C. Maimonides and the Codification](#viic-maimonides-and-the-codification)
+  - [From Sanhedrin to Calculation](#from-sanhedrin-to-calculation)
+  - [The Evidence of Continued Dispute](#the-evidence-of-continued-dispute)
+  - [Maimonides and the Codification](#maimonides-and-the-codification)
 - [Part VIII: PRECISION, DRIFT, AND THE LONG VIEW](#part-viii-precision-drift-and-the-long-view)
-  - [VIII.A. The Full Cycle](#viiia-the-full-cycle)
-  - [VIII.B. The Drift](#viiib-the-drift)
-  - [VIII.C. The Calendar as Engineering](#viiic-the-calendar-as-engineering)
+  - [The Full Cycle](#the-full-cycle)
+  - [The Drift](#the-drift)
+  - [The Calendar as Engineering](#the-calendar-as-engineering)
 - [Part IX: TWO OPEN QUESTIONS](#part-ix-two-open-questions)
-  - [IX.A. Could the Calendar Be Reformed?](#ixa-could-the-calendar-be-reformed)
-  - [IX.B. The Return to Observation](#ixb-the-return-to-observation)
+  - [Could the Calendar Be Reformed?](#could-the-calendar-be-reformed)
+  - [The Return to Observation](#the-return-to-observation)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
 # Part I: TWO CLOCKS THAT DON'T AGREE
 
-## I.A. The Problem
+## The Problem
 
 Imagine you have a meeting every Tuesday at 9:00 a.m. Now imagine the meeting drifts — not by a lot, just eleven minutes earlier each week. For the first month, you barely notice. By the end of the first year, it's shifted by nearly ten hours: your morning meeting now falls just before midnight on Monday. Give it another year and it has slid entirely through the night and back into daylight, landing on Monday afternoon. A third year and it has crept to Monday morning. It takes about three years for the meeting to complete one full circuit of the clock and return roughly to where it started.
 
@@ -77,7 +77,7 @@ But Deuteronomy adds a second command: <span dir="rtl">שָׁמוֹר אֶת ח�
 
 Two clocks, one calendar. The months must follow the moon. The year must follow the sun. And those two cycles, as a matter of mathematics, don't agree. The Talmud makes the consequence explicit: the commandment to keep Passover in its proper season implies that the court must intercalate — must periodically add an extra month to push the lunar calendar back into alignment with the solar year.[^9] Without intercalation, the lunar calendar drifts, and within a few years Passover migrates out of spring. The Torah's two requirements, taken together, demand a mechanism that nature doesn't provide. The calendar must be engineered.
 
-## I.B. What the Moon Actually Does
+## What the Moon Actually Does
 
 The moon orbits the earth, and the earth orbits the sun, and the interplay of those two motions produces the lunar phases. The time from one new moon to the next — one complete cycle of phases — is called the synodic month.[^10] This is the calendar's fundamental unit. Everything else is built on top of it.
 
@@ -93,7 +93,7 @@ The modern astronomical value for the mean synodic month, determined by centurie
 
 Over one year (about 12.4 synodic months), the accumulated error is less than 5 seconds. Over a century, it's about 8 minutes. The value is not perfect — no fixed value can be, since the actual length of the synodic month varies slightly from one lunation to the next due to the eccentricities of the lunar and terrestrial orbits. But as a mean value, as an average designed to track the moon's behavior over long periods, it is extraordinarily good. Whoever established it — and the historical question of exactly when and where this value originated remains a matter of scholarly debate — got it right to a degree that compels a certain awe.[^11]
 
-## I.C. The Observation Era
+## The Observation Era
 
 The fixed calendar that Jews use today is a relatively late development. For most of the biblical and Talmudic periods, the Hebrew calendar was not calculated at all. It was observed.
 
@@ -131,7 +131,7 @@ Every calendar is a machine built from parts. The Gregorian calendar's parts are
 
 The Hebrew calendar takes a different approach. It is built from three mathematical primitives that, once understood, generate the entire system through exact arithmetic. No rounding, no patching, no accumulated drift within the system's own terms. The three primitives are: a unit of time called the *chelek*, a formula for the mean new moon called the *molad*, and a 19-year pattern called the Metonic cycle.
 
-## II.A. Chalakim: The Unit of Time
+## Chalakim: The Unit of Time
 
 The smallest unit of time in the Hebrew calendar is the *chelek* (<span dir="rtl">חלק</span>, plural *chalakim*, "parts"), defined as one 1,080th of an hour — about 3⅓ seconds.[^16] That denominator is not arbitrary. It is the product of a carefully chosen set of small primes: 1,080 = 2³ × 3³ × 5. This makes it spectacularly divisible. The number 1,080 has exactly 32 divisors:
 
@@ -159,7 +159,7 @@ To appreciate what this buys you, contrast it with the Gregorian calendar. The J
 
 There is one caveat. The calendar's lunar month of 29 days, 12 hours, 793 chalakim corresponds to 29.53059 days. The modern measured value of the mean synodic month is 29.53059 days — the same to six significant figures.[^19] But the two are not identical. The calendar's value is fixed by definition; the astronomical value drifts over centuries as tidal interactions between the earth and moon gradually slow the system. The calendar cannot track this drift because it has no mechanism for updating its fundamental constant. For the first several thousand years of the calendar's use, the discrepancy is negligible — less than half a second per month. Over longer timescales, it matters. This is a problem for Part VIII.
 
-## II.B. The Molad: Mean New Moon
+## The Molad: Mean New Moon
 
 The *molad* (<span dir="rtl">מולד</span>, "birth") is the calculated moment of the mean conjunction — the average instant when the moon passes directly between earth and sun, becoming invisible from earth. It is the mathematical heartbeat of the calendar: a perfectly regular clock that ticks once every 29 days, 12 hours, and 793 chalakim.[^20]
 
@@ -219,7 +219,7 @@ A quick sanity check: September 11, 2026 is indeed a Friday. The Hebrew day of S
 
 Notice what did not happen anywhere in this calculation: no decimal arithmetic, no rounding, no table lookups, no approximations. The answer is exact in the calendar's own terms. A different operator performing the same steps with the same inputs will always get the same result, now and a thousand years from now. That is the molad's core design achievement.
 
-## II.C. The Metonic Cycle
+## The Metonic Cycle
 
 A purely lunar calendar — twelve months of alternating 29 and 30 days — produces a year of about 354 days, roughly 11 days short of the solar year. After three years, the calendar is a full month behind the sun. After nine years, it has slipped by a whole season. This is the Islamic calendar's design: its months migrate through the solar year, and Ramadan moves from summer to winter and back over a roughly 33-year cycle. For a calendar that needs Passover in spring and Sukkot in autumn, this will not do.[^25]
 
@@ -281,7 +281,7 @@ The dehiyyot are the most counterintuitive feature of the fixed calendar. Everyt
 
 There are exactly four. Two are straightforward. Two require walking through arithmetic that would make a fine examination problem. All four, once understood, reveal something about the deep structure of the calendar — the way astronomical cycles, liturgical needs, and number theory interlock into a system that has run without correction for over a millennium.
 
-## III.A. Lo ADU
+## Lo ADU
 
 <span dir="rtl">לא אד״ו ראש</span> — "Rosh [Hashanah shall] not [fall on] ADU." The letters <span dir="rtl">א</span>, <span dir="rtl">ד</span>, and <span dir="rtl">ו</span> represent their numerical values: 1 (Sunday), 4 (Wednesday), and 6 (Friday). Rosh Hashanah is forbidden from falling on any of these three days.[^31]
 
@@ -312,7 +312,7 @@ Why does this work? Because the intervals between these holidays, measured in da
 
 The mnemonic is more than a parlor trick. It means the entire liturgical year is fully constrained by a single piece of information: the day of the week on which Rosh Hashanah falls. Lo ADU restricts that to four possibilities. Four starting days produce four families of year layouts. (The actual number of distinct year types is larger — fourteen — because month-length variations within each starting day create further subdivisions. But the weekday skeleton is always one of four.)
 
-## III.B. Molad Zaken
+## Molad Zaken
 
 <span dir="rtl">מולד זקן</span> — the "old molad." If the molad of Tishrei occurs at or after 18 hours into the Hebrew day (which is noon in civil time, since the Hebrew day begins at 6:00 PM), Rosh Hashanah is postponed to the following day.[^39]
 
@@ -326,7 +326,7 @@ When molad zaken pushes Rosh Hashanah forward by one day, the new date might lan
 
 A historical note. In 921–922 CE, the Palestinian scholar Aaron ben Meir ignited a calendar crisis by arguing that the molad zaken threshold should not be 18 hours exactly, but rather 18 hours minus 642 chalakim — meaning the postponement should trigger about 35 minutes and 40 seconds earlier than the accepted practice.[^42] The difference sounds trivial. It was not. In certain years, ben Meir's threshold and the standard threshold gave different results, causing communities in the Land of Israel and Babylonia to celebrate Pesach and Rosh Hashanah on different days. Rav Saadiah Gaon led the Babylonian opposition. The dispute lasted roughly two years before the Babylonian reckoning prevailed, but it left behind a vivid demonstration of how small a change in one parameter can fracture an entire calendar system.[^43] The full story belongs in Part VII.
 
-## III.C. GaTRaD
+## GaTRaD
 
 <span dir="rtl">גטר״ד</span> — the name is an acronym: <span dir="rtl">ג</span> = 3 (Tuesday), <span dir="rtl">ט</span> = 9 (hours), <span dir="rtl">ר״ד</span> = 204 (chalakim). The rule: in a non-leap (ordinary) year, if the molad of Tishrei falls on Tuesday at or after 9 hours and 204 chalakim — that is, 3:11:20 AM Tuesday morning in civil time — Rosh Hashanah is postponed.[^44]
 
@@ -352,7 +352,7 @@ Notice the structure of the argument: GaTRaD does not respond to a problem in th
 
 How rare is GaTRaD? It fires roughly three times per century. The most recent occurrence was year 5745 (1984–85). The next is 5789 (2028–29), when the molad of Tishrei falls on Tuesday at 9 hours, 368 chalakim — comfortably past the threshold.[^47]
 
-## III.D. BeTUTKaPoT
+## BeTUTKaPoT
 
 <span dir="rtl">בט״ו תקפ״ט</span> — another acronym: <span dir="rtl">ב</span> = 2 (Monday), <span dir="rtl">ט״ו</span> = 15 (hours), <span dir="rtl">תקפ״ט</span> = 589 (chalakim). The rule: in a year immediately following a leap year, if the molad of Tishrei falls on Monday at or after 15 hours and 589 chalakim — that is, 9:32:43 AM Monday morning — Rosh Hashanah is postponed from Monday to Tuesday.[^48]
 
@@ -376,7 +376,7 @@ BeTUTKaPoT prevents this impossibility. By pushing the current year's Rosh Hasha
 
 How rare is BeTUTKaPoT? Even rarer than GaTRaD — roughly once or twice per century. The most recent occurrence was year 5766 (2005–06), when the molad of Tishrei fell on Monday at 16 hours, 876 chalakim. The next will not occur until 5813 (2052–53).[^49]
 
-## III.E. The Interaction of the Dehiyyot
+## The Interaction of the Dehiyyot
 
 Before assembling the rules into a single algorithm, a critical point about how they interact.
 
@@ -388,7 +388,7 @@ In practice, GaTRaD and BeTUTKaPoT are mutually exclusive — they cannot both a
 
 The four rules, then, are not four layers of a complex cascade. They are four filters, mostly independent, mostly non-overlapping, each designed to catch one specific type of calendar failure. The system is elegant precisely because the rules barely interact.
 
-## III.F. The Algorithm
+## The Algorithm
 
 Assembling the pieces into pseudocode:
 
@@ -415,7 +415,7 @@ Assembling the pieces into pseudocode:
 
 Note the order. GaTRaD and BeTUTKaPoT are checked first, against the original molad values. If either fires, it sets the day directly and the algorithm terminates — no further checks are needed, because GaTRaD always produces Thursday (a legal day) and BeTUTKaPoT always produces Tuesday (also legal). Only if neither fires do molad zaken and Lo ADU apply, in that sequence, with possible cascading.
 
-## III.G. Worked Examples
+## Worked Examples
 
 The best way to see the dehiyyot in action is to watch them work across several consecutive years.
 
@@ -441,7 +441,7 @@ Year 5766 (2005–06 CE) fires BeTUTKaPoT. The molad falls on Monday at 16h 876p
 
 Between these six examples, all four dehiyyot appear. The system fires Lo ADU about 43% of the time, molad zaken about 25% of the time, GaTRaD a few times per century, and BeTUTKaPoT once or twice per century.[^50] In roughly 39% of years, no postponement is needed at all — the molad falls on a permitted day before noon, the year is not at risk of impossible length, and Rosh Hashanah simply falls on the day of the molad. In 47% of years, Rosh Hashanah is postponed by one day. In the remaining 14%, it is postponed by two days. No year ever requires a postponement of three or more days.
 
-## III.H. What the Dehiyyot Achieve
+## What the Dehiyyot Achieve
 
 Step back and look at what the four rules accomplish together.
 
@@ -463,7 +463,7 @@ Parts II and III built the machinery: the 19-year cycle determines which years a
 
 The key insight is compression. The Hebrew calendar has twelve months in an ordinary year and thirteen in a leap year, but the lengths of all but two of those months are permanently fixed. The entire variability of the system — everything that makes one year different from another — is packed into two months, Cheshvan and Kislev, which serve as the calendar's adjustment mechanism. Once you know how those two months behave, you know everything.
 
-## IV.A. Six Possible Year Lengths
+## Six Possible Year Lengths
 
 A Hebrew year can be exactly one of six lengths. Not approximately, not within a range — exactly one of six integers.[^51]
 
@@ -524,7 +524,7 @@ In pseudocode:
 
 That function, combined with knowledge of whether the year is a leap year (determined by its position in the 19-year cycle, as covered in Part II), fully specifies the calendar for the entire year.
 
-## IV.B. The Fourteen Keviyyot
+## The Fourteen Keviyyot
 
 The year type — deficient, regular, or complete — is one piece of the puzzle. But to fully characterize a year, you also need to know two other things: the day of the week on which Rosh Hashanah falls, and whether the year is ordinary or leap. The combination of all three is called the <span dir="rtl">קביעה</span> (keviyyah), literally the "setting" or "fixing" of the year.[^57]
 
@@ -574,7 +574,7 @@ The notation is compact, memorable, and self-checking. It was designed for a wor
 
 The Tur, the 14th-century halakhic compendium by Rabbi Jacob ben Asher, presents the full list of keviyyot and their associated Torah reading schedules in Orach Chaim 428.[^64] This section of the Tur became the standard reference for synagogue administrators who needed to plan the year's readings. It is, in modern terms, a lookup table indexed by keviyyah.
 
-## IV.C. The Four Gates
+## The Four Gates
 
 Every step of the calendar algorithm described so far — compute the molad, apply the dehiyyot, find the year length, classify the keviyyah — can be executed as a sequence of calculations. But sequential calculation invites sequential errors. Miss one dehiyyah and the entire downstream calendar is wrong. Forget to carry a remainder in the molad arithmetic and everything after it shifts.
 
@@ -604,7 +604,7 @@ There is a subtlety here worth noting. The Four Gates work because the input spa
 
 The practical value was enormous. A synagogue leader in medieval Cairo or Mainz or Baghdad, tasked with setting the liturgical calendar for the coming year, did not need to understand the derivation of the dehiyyot or the mathematics of the 19-year cycle. He needed the molad of Tishrei (which could be computed by simple addition from a known base value) and access to the Four Gates table. One lookup, and he had the keviyyah. From the keviyyah, the rest of the year unfolded deterministically.
 
-## IV.D. Torah Portions and the Liturgical Year
+## Torah Portions and the Liturgical Year
 
 The calendar so far has been about dates — which day is Rosh Hashanah, how long is Cheshvan, when does Passover fall. But the calendar's ultimate output is not a grid of dates. It is a schedule of practice. And the most visible piece of that schedule, the one that shapes the rhythm of Jewish life week by week, is the cycle of Torah readings.
 
@@ -632,7 +632,7 @@ Part V assembles the full algorithm end-to-end — from epoch to calendar date i
 
 Parts I through IV built the machinery in pieces. The 19-year cycle. The molad. The dehiyyot. The six year types. Each piece was developed on its own terms, with its own logic. This Part puts them together. A single input — the Hebrew year number — goes in. A complete calendar comes out.
 
-## V.A. From Year Number to Complete Calendar
+## From Year Number to Complete Calendar
 
 Here is the full algorithm. Eight steps, no ambiguity, no judgment calls.
 
@@ -803,7 +803,7 @@ That is the complete calendar for Hebrew year 5787. Thirteen months, 385 days, e
 
 The entire calculation required no tables, no observation, no human judgment. Just arithmetic — large numbers, yes, but exact ones. The same calculation performed anywhere in the world, at any time, by any person with access to the algorithm, produces the identical result. That's what it means for a calendar to be fully determined.
 
-## V.B. Converting Between Hebrew and Gregorian Dates
+## Converting Between Hebrew and Gregorian Dates
 
 The Hebrew calendar and the Gregorian calendar are two independent deterministic systems, each counting days from a different epoch, each applying a different set of rules to organize those days into months and years. Converting between them requires aligning their epochs and running both algorithms in tandem.
 
@@ -813,7 +813,7 @@ The Gregorian epoch — January 1, 1 CE — has its own history and its own conv
 
 The basic idea of conversion is simple. Both calendars assign every day a unique position in their respective sequences. If you can express any date as an "absolute day number" — its position on a single continuous timeline — then conversion is just a matter of translating between two coordinate systems. Compute the absolute day number from one calendar's coordinates, then compute the other calendar's coordinates from that absolute day number. It is exactly the same logic as converting between Celsius and Fahrenheit: map to an intermediate representation (absolute temperature, absolute day), then map out again.[^74]
 
-For the Hebrew-to-Gregorian direction: given a Hebrew date (day *d* of month *m* in year *Y*), compute Rosh Hashanah of year *Y* using the algorithm from V.A., then add the appropriate number of days to reach month *m*, day *d*. This gives you the absolute day. Then convert the absolute day to a Gregorian date by finding which Gregorian year, month, and day it falls in — a calculation that requires knowing the Gregorian leap-year rule (divisible by 4, except centuries, except 400-year multiples) but is otherwise straightforward.
+For the Hebrew-to-Gregorian direction: given a Hebrew date (day *d* of month *m* in year *Y*), compute Rosh Hashanah of year *Y* using the algorithm from the From Year Number to Complete Calendar section, then add the appropriate number of days to reach month *m*, day *d*. This gives you the absolute day. Then convert the absolute day to a Gregorian date by finding which Gregorian year, month, and day it falls in — a calculation that requires knowing the Gregorian leap-year rule (divisible by 4, except centuries, except 400-year multiples) but is otherwise straightforward.
 
 For the Gregorian-to-Hebrew direction: reverse the process. From the Gregorian date, compute the absolute day number. Then determine which Hebrew year contains that day (a matter of estimating the year and checking), find Rosh Hashanah of that year, and count forward through the months to locate the exact Hebrew date.
 
@@ -855,7 +855,7 @@ The formula gives the date in the Julian calendar; for modern use, you add the G
 
 The formula works. For any year, it produces the correct date. Its existence tells you something about the calendar itself: the system is regular enough — deterministic enough, periodic enough — that its entire output can be captured in a closed-form expression. An algorithm that required true observation, genuine judgment, or irreducible case-by-case reasoning could not have been so compressed. Gauss didn't simplify the calendar. He proved it was already simple.
 
-## V.C. Implementation Notes
+## Implementation Notes
 
 The Hebrew calendar is fully deterministic and computable in constant time — O(1) per query, in the language of computational complexity. Given any Hebrew year, the complete calendar can be computed with a fixed number of arithmetic operations: a modular reduction for the cycle position, a multiplication and addition for the molad, a handful of comparisons for the dehiyyot, and a subtraction for the year length. No iteration, no searching, no external data. The number of steps does not grow with the size of the input.[^78]
 
@@ -875,7 +875,7 @@ The Hebrew calendar tracks the solar year implicitly, through the 19-year interc
 
 Two Talmudic sages proposed two different values for the length of the solar year. Both values are still in use — for different purposes, in different contexts, with different consequences. Their disagreement is not a flaw in the system. It's a feature. And the arithmetic behind it reveals something unexpected about the calendar's deep structure.
 
-## VI.A. Tekufat Shmuel
+## Tekufat Shmuel
 
 Shmuel — Shmuel Yarchinaah, the third-century Babylonian amora who was also a physician and astronomer — held that the solar year is exactly 365 days and 6 hours. Each of the four seasons, from one tekufah to the next, is therefore exactly one-quarter of a year: 91 days and 7½ hours.[^81]
 
@@ -914,7 +914,7 @@ Because Shmuel's year is slightly too long, this 60th day has been drifting rela
 
 This drift is small enough that no halakhic authority has seen fit to address it. The prayer for rain in early December versus mid-December is a matter of weeks either way, and the agricultural logic that originally motivated the date — the Babylonian rainy season — has been irrelevant for centuries. But the drift is real, and it is a direct consequence of Shmuel's slightly overlong year embedding itself in a halakhic practice that does not have a built-in correction mechanism.
 
-## VI.B. Tekufat Rav Adda
+## Tekufat Rav Adda
 
 Rav Adda bar Ahavah, a contemporary of Shmuel's, proposed a more precise value. His solar year: 365 days, 5 hours, 997 <span dir="rtl">חֲלָקִים</span>, and 48 <span dir="rtl">רְגָעִים</span> (rega'im, where one rega is 1/76 of a <span dir="rtl">חֵלֶק</span>).[^87]
 
@@ -966,7 +966,7 @@ How did this elaborate system come into being? Not all at once. The transition f
 
 # Part VII: THE HISTORY OF THE TRANSITION
 
-## VII.A. From Sanhedrin to Calculation
+## From Sanhedrin to Calculation
 
 The observational system described in Part I worked for centuries. Witnesses came to Jerusalem, the Sanhedrin examined them, the court declared the new month. When the seasons began to drift, the court intercalated — added a second Adar, pushed Passover back into spring, and moved on. The system was flexible, authoritative, and responsive. It was also entirely dependent on a single institution.
 
@@ -986,7 +986,7 @@ What Hillel II "published" — assuming the attribution is accurate — is also 
 
 The evidence, as Sacha Stern has argued in the most thorough modern treatment of this question, supports a more gradual development. The fixed calendar did not spring into existence as a finished product. It crystallized over several hundred years, with different elements reaching their final form at different times.[^97]
 
-## VII.B. The Evidence of Continued Dispute
+## The Evidence of Continued Dispute
 
 If the calendar had been fully fixed in 359 CE, you would expect uniformity from that point forward. One algorithm, one set of results, no room for disagreement. The historical record shows otherwise.
 
@@ -1012,7 +1012,7 @@ The Babylonian position prevailed. By 923 CE the controversy was resolved, and t
 
 The Ben Meir controversy is not an obscure footnote. It marks the boundary between the calendar's formative period and its settled one. Before 921, the fixed calendar was a work in progress, its details still subject to dispute between competing authorities. After the resolution of the controversy — and the broader consolidation of Babylonian halakhic authority that accompanied it — the calendar reached its final form. The algorithm described in Parts II through V of this manuscript is the post-Ben Meir calendar, the one that emerged from ten centuries of gradual refinement.[^103]
 
-## VII.C. Maimonides and the Codification
+## Maimonides and the Codification
 
 The definitive treatment of the fixed calendar in Jewish law is Maimonides' <span dir="rtl">הִלְכוֹת קִדּוּשׁ הַחֹדֶשׁ</span> (Laws of the Sanctification of the Month), written approximately 1178 CE as part of the <span dir="rtl">מִשְׁנֶה תּוֹרָה</span>.[^104] The work spans 19 chapters, and its structure is itself an argument.
 
@@ -1036,7 +1036,7 @@ The fixed calendar, in Maimonides' framework, is not a permanent institution. It
 
 # Part VIII: PRECISION, DRIFT, AND THE LONG VIEW
 
-## VIII.A. The Full Cycle
+## The Full Cycle
 
 Every clock resets eventually. A twelve-hour clock repeats every 43,200 seconds. A week repeats every 7 days. The Metonic cycle repeats every 19 years. The Hebrew calendar, taken as a whole — with all its moving parts, all its constraints, all its postponement rules and variable month lengths — also repeats. The full cycle is 689,472 years.[^107]
 
@@ -1058,7 +1058,7 @@ This is a calendar that, despite its complexity, is fully deterministic. Given t
 
 The contrast with the observational system is stark. Under the Sanhedrin, the calendar was responsive — the court could add a leap month when conditions warranted it, adjust to unusual circumstances, exercise discretion. The fixed calendar has no discretion. It cannot respond to anything. It is a machine that was set in motion centuries ago and has been running on its own ever since, producing the same outputs from the same inputs with the mechanical reliability of a clock. The gain is uniformity and independence. The loss is the human judgment that the Talmud understood as essential to the calendar's sanctity — the court's proclamation of <span dir="rtl">מְקֻדָּשׁ</span>, the act of human authority that makes a day holy rather than merely computed.
 
-## VIII.B. The Drift
+## The Drift
 
 "Forever" is a strong word, and it hides something important. The calendar is periodic — yes, mathematically, it repeats with perfect fidelity. But the calendar's relationship to the sky is not periodic. The two astronomical constants embedded in the algorithm — the month length and the implicit solar year — are both slightly wrong, and both errors accumulate.
 
@@ -1084,7 +1084,7 @@ But the mathematics is patient. At 6 minutes and 40 seconds per year, the calend
 
 Some context helps calibrate the concern. The Gregorian calendar, with its elegant leap-year correction (skip the leap year in century years not divisible by 400), has a residual drift of about 1 day in 3,236 years — roughly fifteen times more accurate than the Hebrew calendar's solar tracking. But the Gregorian calendar does not track the moon at all. It solved a simpler problem. The Hebrew calendar is trying to track both sun and moon with a single fixed algorithm that requires no external input and no institutional authority. The drift is the price of that ambition.
 
-## VIII.C. The Calendar as Engineering
+## The Calendar as Engineering
 
 What kind of object is the Hebrew calendar? It is not quite an astronomical model — it does not aim for observational accuracy, and in the places where it diverges from the sky, it diverges deliberately. It is not quite a religious text — it has no narrative, no theology, no exhortation. It is, as much as anything, a piece of engineering: a system designed to meet a set of requirements under a set of constraints, and its character is best understood by examining the trade-offs it makes.
 
@@ -1120,7 +1120,7 @@ The fixed calendar is an extraordinary piece of engineering. It has run, unmodif
 
 It is also imperfect, and it knows it.
 
-## IX.A. Could the Calendar Be Reformed?
+## Could the Calendar Be Reformed?
 
 The drift described in Part VIII is real and accumulating. The Hebrew calendar's implicit solar year is about 6 minutes and 40 seconds longer than the actual tropical year.[^110] That sounds negligible, and for centuries it was. But the error compounds. Every 216 years or so, the earliest possible date for Passover shifts one day later relative to the vernal equinox.[^111] In the fourth century, when the fixed calendar was established, the equinox fell around March 21. Today, Passover occasionally begins as late as April 25 in the Gregorian calendar, and its earliest possible occurrence has drifted noticeably past the equinox. By the year 6000 in the Hebrew reckoning (roughly 2240 CE), the drift will amount to about seven or eight additional days. Passover will still fall in spring — but later in spring, and trending later.[^112]
 
@@ -1144,7 +1144,7 @@ This is the same logic that governs technical standards in engineering: a medioc
 
 Whether this reading is apologetics or genuine insight is a question each reader will answer differently. But it is worth noticing that Maimonides, who understood the calendar's limitations as well as anyone, never suggested correcting them. He recorded the parameters as given and moved on.
 
-## IX.B. The Return to Observation
+## The Return to Observation
 
 The most striking structural feature of Maimonides' *Hilkhot Kiddush HaChodesh* is its ending. The work has nineteen chapters. The first five deal with the observational system: how the court receives witnesses, examines their testimony, sanctifies the new month, and communicates its decisions.[^120] Chapters six through ten lay out the fixed calendar: the molad, the 19-year cycle, the dehiyyot, the keviyyot, the Four Gates table — all the machinery described in Parts II through IV of this manuscript. If Maimonides had stopped there, the work would have been complete. Every rule needed to operate the calendar as it has functioned since the fourth century is contained in those ten chapters.
 

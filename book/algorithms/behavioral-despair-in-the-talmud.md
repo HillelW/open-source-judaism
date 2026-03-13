@@ -7,34 +7,34 @@ A close reading of Bava Metzia 21a — the threshold of despair, the question of
 # Table of Contents
 
 - [Part I: The Coins on the Sidewalk](#part-i-the-coins-on-the-sidewalk)
-  - [I.A. A Judgment You Already Make](#ia-a-judgment-you-already-make)
-  - [I.B. R. Yitzchak's Ruling](#ib-r-yitzchaks-ruling)
-  - [I.C. The Anonymous Challenge](#ic-the-anonymous-challenge)
-  - [I.D. R. Yirmyah's Four Questions](#id-r-yirmyahs-four-questions)
+  - [A Judgment You Already Make](#a-judgment-you-already-make)
+  - [R. Yitzchak's Ruling](#r-yitzchaks-ruling)
+  - [The Anonymous Challenge](#the-anonymous-challenge)
+  - [R. Yirmyah's Four Questions](#r-yirmyahs-four-questions)
 - [Part II: Modeling the Decision](#part-ii-modeling-the-decision)
-  - [II.A. Despair as a Binary Function](#iia-despair-as-a-binary-function)
-  - [II.B. R. Yitzchak's Point](#iib-r-yitzchaks-point)
-  - [II.C. The A Fortiori Regions](#iic-the-a-fortiori-regions)
+  - [Despair as a Binary Function](#despair-as-a-binary-function)
+  - [R. Yitzchak's Point](#r-yitzchaks-point)
+  - [The A Fortiori Regions](#the-a-fortiori-regions)
 - [Part III: The Boundary Must Be a Line](#part-iii-the-boundary-must-be-a-line)
-  - [III.A. Convexity from Everyday Experience](#iiia-convexity-from-everyday-experience)
-  - [III.B. Epsilon-Midpoint Continuity](#iiib-epsilon-midpoint-continuity)
-  - [III.C. Why the Boundary Is Linear](#iiic-why-the-boundary-is-linear)
+  - [Convexity from Everyday Experience](#convexity-from-everyday-experience)
+  - [Epsilon-Midpoint Continuity](#epsilon-midpoint-continuity)
+  - [Why the Boundary Is Linear](#why-the-boundary-is-linear)
 - [Part IV: Eliminating the Impossible](#part-iv-eliminating-the-impossible)
-  - [IV.A. Despair Over Negligible Fruit](#iva-despair-over-negligible-fruit)
-  - [IV.B. The Origin Is Out Too](#ivb-the-origin-is-out-too)
-  - [IV.C. The Only Lines Left](#ivc-the-only-lines-left)
-  - [IV.D. R. Yirmyah's Questions — Resolved](#ivd-r-yirmyahs-questions--resolved)
+  - [Despair Over Negligible Fruit](#despair-over-negligible-fruit)
+  - [The Origin Is Out Too](#the-origin-is-out-too)
+  - [The Only Lines Left](#the-only-lines-left)
+  - [R. Yirmyah's Questions — Resolved](#r-yirmyahs-questions--resolved)
 - [Part V: What Does "Random" Look Like?](#part-v-what-does-random-look-like)
-  - [V.A. The Anonymous Voice's Other Question](#va-the-anonymous-voices-other-question)
-  - [V.B. Pattern and Randomness](#vb-pattern-and-randomness)
-  - [V.C. Kolmogorov Complexity](#vc-kolmogorov-complexity)
-  - [V.D. From Bit Strings to Scattered Figs](#vd-from-bit-strings-to-scattered-figs)
+  - [The Anonymous Voice's Other Question](#the-anonymous-voices-other-question)
+  - [Pattern and Randomness](#pattern-and-randomness)
+  - [Kolmogorov Complexity](#kolmogorov-complexity)
+  - [From Bit Strings to Scattered Figs](#from-bit-strings-to-scattered-figs)
 - [Part VI: The Limits of the Analogy](#part-vi-the-limits-of-the-analogy)
-  - [VI.A. Agency, Not Entropy](#via-agency-not-entropy)
-  - [VI.B. Where It Holds and Where It Breaks](#vib-where-it-holds-and-where-it-breaks)
+  - [Agency, Not Entropy](#agency-not-entropy)
+  - [Where It Holds and Where It Breaks](#where-it-holds-and-where-it-breaks)
 - [Part VII: Synthesis](#part-vii-synthesis)
-  - [VII.A. One Passage, Two Mathematical Windows](#viia-one-passage-two-mathematical-windows)
-  - [VII.B. What the Talmud Encoded](#viib-what-the-talmud-encoded)
+  - [One Passage, Two Mathematical Windows](#one-passage-two-mathematical-windows)
+  - [What the Talmud Encoded](#what-the-talmud-encoded)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
@@ -42,7 +42,7 @@ A close reading of Bava Metzia 21a — the threshold of despair, the question of
 
 # Part I: THE COINS ON THE SIDEWALK
 
-## I.A. A Judgment You Already Make
+## A Judgment You Already Make
 
 You are walking down a city sidewalk and you notice three coins on the ground. They are scattered across a few feet of pavement — one near the curb, one in the middle, one by a storefront. You glance at them and keep walking. Someone dropped those.
 
@@ -68,7 +68,7 @@ Both turn out to have been formalized — the first in a Talmudic passage nearly
 
 The Talmud did not have the mathematical language for either formalization, but it identified both questions with striking precision and, in characteristic fashion, left the hardest parts unresolved.
 
-## I.B. R. Yitzchak's Ruling
+## R. Yitzchak's Ruling
 
 The Talmud in Bava Metzia 21a records a specific threshold for the first judgment — the quantitative one.
 
@@ -122,7 +122,7 @@ A value-based account suggests the threshold shifts with the worth of the produc
 
 Both intuitions point in the same direction for the standard case, and R. Yitzchak's ruling holds for ordinary produce. But the tension between them will surface when the Talmud pushes the ruling to its edges.
 
-## I.C. The Anonymous Challenge
+## The Anonymous Challenge
 
 Before the Talmud reaches those edge cases, an anonymous voice — the *stam* — poses a more fundamental challenge to R. Yitzchak's ruling.[^6] The objection cuts directly at the ratio-based approach.
 
@@ -146,7 +146,7 @@ The passage does not tell us where the boundary lies between an arrangement that
 
 We will return to this question in Part V, with a mathematical framework that did not exist until the twentieth century. For now, set it aside and follow R. Yitzchak's ruling to its edges.
 
-## I.D. R. Yirmyah's Four Questions
+## R. Yirmyah's Four Questions
 
 R. Yirmyah, in the same passage, probes the limits of R. Yitzchak's threshold with four questions.[^7]
 
@@ -210,7 +210,7 @@ The Maymin model begins where the Talmud left off — with R. Yitzchak's ruling,
 
 The model's strategy is to make the implicit assumptions behind the ruling explicit, express them mathematically, and see how far they constrain the answer space.
 
-## II.A. Despair as a Binary Function
+## Despair as a Binary Function
 
 Your judgment about the coins on the sidewalk was binary. You either decided "someone dropped those" or "someone placed those." There was no third option — no 60% dropped, 40% placed. You judged, and you moved on.
 
@@ -236,7 +236,7 @@ The subscript *i* is important. Different people despair at different thresholds
 
 The model doesn't assume everyone has the same breaking point. It asks: is there anything we can say that holds for *all* people, regardless of their individual thresholds?
 
-## II.B. R. Yitzchak's Point
+## R. Yitzchak's Point
 
 In this framework, R. Yitzchak's ruling becomes a data point. Everyone — regardless of personal temperament — despairs when one kav is spread over a four-by-four cubit area:
 
@@ -260,7 +260,7 @@ R. Yitzchak's ruling gives us one known point: (4, 1), colored red for despair. 
 
 R. Yirmyah's questions add two more points to the picture — (2, 0.5) and (8, 2) — but we don't know their color. They sit on the graph without labels. That is precisely what makes them questions.
 
-## II.C. The A Fortiori Regions
+## The A Fortiori Regions
 
 The Talmud's own reasoning tool — <span dir="rtl">קל וחומר</span>, *kal va-chomer*, a fortiori — immediately extends R. Yitzchak's single data point in two directions.[^12]
 
@@ -321,7 +321,7 @@ But monotonicity is not the only tool available.
 
 Monotonicity gave us two determined quadrants and two blank ones. To fill in the blank quadrants, we need a stronger tool — one that constrains not just the direction of the regions but their *shape*.
 
-## III.A. Convexity from Everyday Experience
+## Convexity from Everyday Experience
 
 Between the region of despair and the region of no despair, there must be a boundary — a curve separating the points where the owner gives up from the points where the owner holds on. The shape of that boundary determines everything.
 
@@ -353,7 +353,7 @@ A curved boundary would create a dent in one region — violating convexity — 
 
 The question is whether we can justify the claim that both regions are actually convex.
 
-## III.B. Epsilon-Midpoint Continuity
+## Epsilon-Midpoint Continuity
 
 A natural first attempt to prove convexity: if two points are both in the despair region, their midpoint — the point with the average extent and the average amount — is also in the despair region.
 
@@ -403,7 +403,7 @@ The ε-midpoint assumption avoids this problem by restricting its claim to cases
 
 The naive midpoint argument fails for distant points because the inputs can pull in opposite directions. For nearby points, the pulling is negligible — the change in each variable is too small to matter.
 
-## III.C. Why the Boundary Is Linear
+## Why the Boundary Is Linear
 
 From ε-midpoint continuity, the full midpoint property follows — and the argument is elegant.
 
@@ -443,7 +443,7 @@ The boundary is a straight line. That alone is a powerful constraint — but it 
 
 Many straight lines pass through R. Yitzchak's point, and different lines classify R. Yirmyah's points differently. We need to narrow the candidates further.
 
-## IV.A. Despair Over Negligible Fruit
+## Despair Over Negligible Fruit
 
 Many different lines pass through a single point — lines of every slope, tilting in every direction. To narrow the possibilities, we need one more assumption — and it is the most intuitive of all.
 
@@ -463,7 +463,7 @@ Points like (0.5, 0.01), representing negligible amounts of produce over small a
 
 But negligible fruit is negligible fruit. No one is coming back for it. These points must lie in the despair region, and a negative-intercept line fails to put them there.[^20]
 
-## IV.B. The Origin Is Out Too
+## The Origin Is Out Too
 
 A boundary line through the origin — $k = (1/4)a$, passing through both (0, 0) and (4, 1) — looks plausible at first. It tilts upward at a gentle slope, classifying the ambiguous quadrants neatly: everything below the line is despair, everything above is no despair.
 
@@ -477,7 +477,7 @@ This violates the negligible-fruit assumption. Negligible produce is negligible 
 
 The origin line puts infinitesimal amounts of produce in the no-despair category, and that cannot be right.[^21]
 
-## IV.C. The Only Lines Left
+## The Only Lines Left
 
 Two families of lines have been eliminated: those with negative y-intercepts and the line through the origin.
 
@@ -507,7 +507,7 @@ The model does not determine *where* each person's boundary falls — that is a 
 
 What the model determines is the *shape* of the boundary, and from the shape alone, R. Yirmyah's questions can be answered.
 
-## IV.D. R. Yirmyah's Questions — Resolved
+## R. Yirmyah's Questions — Resolved
 
 Before we check R. Yirmyah's points, step back and see how far four assumptions have brought us.
 
@@ -599,7 +599,7 @@ That distinction required the tools themselves.
 
 # Part V: WHAT DOES "RANDOM" LOOK LIKE?
 
-## V.A. The Anonymous Voice's Other Question
+## The Anonymous Voice's Other Question
 
 The first half of the passage is settled. R. Yitzchak gave a threshold. R. Yirmyah tested it. The Maymin model resolved the tests. But a second question has been waiting since Part I — the anonymous voice's challenge, which we set aside with a promise to return.
 
@@ -623,7 +623,7 @@ But what makes an arrangement look deliberate? The stam treats these as categori
 
 Formalizing the distinction — drawing a precise boundary between "looks placed" and "looks random" — turns out to require a concept that was not available until the twentieth century.
 
-## V.B. Pattern and Randomness
+## Pattern and Randomness
 
 Shuffle a deck of cards and lay all fifty-two cards face-up on a table. The order looks random. Now sort the same deck — ace through king of spades, then hearts, diamonds, clubs — and lay it out again. This order looks deliberate.
 
@@ -649,7 +649,7 @@ The stam sees this distinction clearly. Probability theory is blind to it.
 
 We need a different tool — one that distinguishes between "has a short description" and "does not have a short description," rather than between "likely" and "unlikely."[^27]
 
-## V.C. Kolmogorov Complexity
+## Kolmogorov Complexity
 
 Consider two 50-character strings of ones and zeros:
 
@@ -693,7 +693,7 @@ One approach, the Block Decomposition Method, breaks an object into small blocks
 
 The approximation is good enough for the kind of classification the stam has in mind — distinguishing "obviously patterned" from "obviously random," not computing the exact complexity to the last bit.
 
-## V.D. From Bit Strings to Scattered Figs
+## From Bit Strings to Scattered Figs
 
 Bit strings and scattered fruit seem to occupy different universes, but the twentieth century dissolved that boundary. Any spatial arrangement — including fruit scattered across a field — can be digitized.
 
@@ -792,7 +792,7 @@ But it does something the Talmud could not: it transforms the stam's qualitative
 
 # Part VI: THE LIMITS OF THE ANALOGY
 
-## VI.A. Agency, Not Entropy
+## Agency, Not Entropy
 
 The connection between Kolmogorov complexity and the stam's distinction is suggestive. It is also imperfect. The imperfection matters, and honesty requires naming it.
 
@@ -810,7 +810,7 @@ The correlation between human agency and low complexity is real and strong. But 
 
 The connection works as a practical heuristic, not as a mathematical equivalence.[^33] The mapping from "compressible" to "placed" is a strong signal, not a proof. And the gap between signal and proof has consequences.
 
-## VI.B. Where It Holds and Where It Breaks
+## Where It Holds and Where It Breaks
 
 In the typical case, the mapping holds well. Figs stacked in a neat column against a wall: low complexity, obviously placed, and any observer would agree.
 
@@ -856,7 +856,7 @@ The framework gives formal expression to the strongest signal — geometric patt
 
 # Part VII: SYNTHESIS
 
-## VII.A. One Passage, Two Mathematical Windows
+## One Passage, Two Mathematical Windows
 
 A single passage in Bava Metzia 21a raises two distinct questions about scattered produce. R. Yitzchak sets a quantitative threshold: one kav per four-by-four cubits. The anonymous voice sets a qualitative criterion: does the arrangement look placed or accidental?
 
@@ -888,7 +888,7 @@ The quantitative question comes first, establishing the default framework. The q
 
 The structure of the passage is itself an argument — a carefully ordered investigation that separates the problem into its independent components.
 
-## VII.B. What the Talmud Encoded
+## What the Talmud Encoded
 
 The Maymin proof rests on four assumptions: binary decision, monotonicity, ε-midpoint continuity, and despair over negligible fruit.
 

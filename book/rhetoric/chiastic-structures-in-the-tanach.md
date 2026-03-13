@@ -9,46 +9,46 @@
 # Table of Contents
 
 - [Part I: THE ART AND SCIENCE OF BIBLICAL CHIASMUS](#part-i-the-art-and-science-of-biblical-chiasmus)
-  - [I.A. Definition and Terminology](#ia-definition-and-terminology)
-  - [I.B. Historical Discovery](#ib-historical-discovery)
-  - [I.C. Criteria for Identifying Genuine Chiasms](#ic-criteria-for-identifying-genuine-chiasms)
-  - [I.D. Taxonomy of Chiastic Structures](#id-taxonomy-of-chiastic-structures)
-  - [I.E. Ancient Near Eastern and Comparative Parallels](#ie-ancient-near-eastern-and-comparative-parallels)
-  - [I.F. How to Read the Chiasms in This Book](#if-how-to-read-the-chiasms-in-this-book)
+  - [Definition and Terminology](#definition-and-terminology)
+  - [Historical Discovery](#historical-discovery)
+  - [Criteria for Identifying Genuine Chiasms](#criteria-for-identifying-genuine-chiasms)
+  - [Taxonomy of Chiastic Structures](#taxonomy-of-chiastic-structures)
+  - [Ancient Near Eastern and Comparative Parallels](#ancient-near-eastern-and-comparative-parallels)
+  - [How to Read the Chiasms in This Book](#how-to-read-the-chiasms-in-this-book)
 - [Part II: TORAH](#part-ii-torah)
-  - [II.A. The Pentateuch as Grand Chiasm](#iia-the-pentateuch-as-grand-chiasm)
-  - [II.B. Genesis](#iib-genesis)
-  - [II.C. Exodus](#iic-exodus)
-  - [II.D. Leviticus](#iid-leviticus)
-  - [II.E. Numbers](#iie-numbers)
-  - [II.F. Deuteronomy](#iif-deuteronomy)
+  - [The Pentateuch as Grand Chiasm](#the-pentateuch-as-grand-chiasm)
+  - [Genesis](#genesis)
+  - [Exodus](#exodus)
+  - [Leviticus](#leviticus)
+  - [Numbers](#numbers)
+  - [Deuteronomy](#deuteronomy)
 - [Part III: FORMER PROPHETS](#part-iii-former-prophets)
-  - [III.A. Joshua](#iiia-joshua)
-  - [III.B. Judges](#iiib-judges)
-  - [III.C. Samuel](#iiic-samuel)
-  - [III.D. Kings](#iiid-kings)
+  - [Joshua](#joshua)
+  - [Judges](#judges)
+  - [Samuel](#samuel)
+  - [Kings](#kings)
 - [Part IV: LATTER PROPHETS](#part-iv-latter-prophets)
-  - [IV.A. Isaiah](#iva-isaiah)
-  - [IV.B. Jeremiah](#ivb-jeremiah)
-  - [IV.C. Ezekiel](#ivc-ezekiel)
-  - [IV.D. The Twelve](#ivd-the-twelve)
+  - [Isaiah](#isaiah)
+  - [Jeremiah](#jeremiah)
+  - [Ezekiel](#ezekiel)
+  - [The Twelve](#the-twelve)
 - [Part V: WRITINGS](#part-v-writings)
-  - [V.A. Psalms](#va-psalms)
-  - [V.B. Wisdom Literature](#vb-wisdom-literature)
-  - [V.C. Five Megillot](#vc-five-megillot)
-  - [V.D. Daniel, Ezra-Nehemiah, and Chronicles](#vd-daniel-ezra-nehemiah-and-chronicles)
+  - [Psalms](#psalms)
+  - [Wisdom Literature](#wisdom-literature)
+  - [Five Megillot](#five-megillot)
+  - [Daniel, Ezra-Nehemiah, and Chronicles](#daniel-ezra-nehemiah-and-chronicles)
 - [Part VI: THE TANACH AS CHIASTIC WHOLE](#part-vi-the-tanach-as-chiastic-whole)
-  - [VI.A. The Hexateuch Chiasm](#via-the-hexateuch-chiasm)
-  - [VI.B. The Deuteronomistic History as Chiastic Arc](#vib-the-deuteronomistic-history-as-chiastic-arc)
-  - [VI.C. The Psalter's Five-Book Chiastic Structure](#vic-the-psalters-five-book-chiastic-structure)
+  - [The Hexateuch Chiasm](#the-hexateuch-chiasm)
+  - [The Deuteronomistic History as Chiastic Arc](#the-deuteronomistic-history-as-chiastic-arc)
+  - [The Psalter's Five-Book Chiastic Structure](#the-psalters-five-book-chiastic-structure)
 - [Part VII: SYNTHESIS AND ORIGINAL ANALYSIS](#part-vii-synthesis-and-original-analysis)
-  - [VII.A. Statistical Overview](#viia-statistical-overview)
-  - [VII.B. Centerpiece Theology](#viib-centerpiece-theology)
-  - [VII.C. Nested Chiasms as Fractal Structure](#viic-nested-chiasms-as-fractal-structure)
-  - [VII.D. Chiasm and Oral Culture](#viid-chiasm-and-oral-culture)
-  - [VII.E. How Chiastic Reading Changes Interpretation](#viie-how-chiastic-reading-changes-interpretation)
-  - [VII.F. The Limits of Chiastic Analysis](#viif-the-limits-of-chiastic-analysis)
-  - [VII.G. The Future of Chiasm Studies](#viig-the-future-of-chiasm-studies)
+  - [Statistical Overview](#statistical-overview)
+  - [Centerpiece Theology](#centerpiece-theology)
+  - [Nested Chiasms as Fractal Structure](#nested-chiasms-as-fractal-structure)
+  - [Chiasm and Oral Culture](#chiasm-and-oral-culture)
+  - [How Chiastic Reading Changes Interpretation](#how-chiastic-reading-changes-interpretation)
+  - [The Limits of Chiastic Analysis](#the-limits-of-chiastic-analysis)
+  - [The Future of Chiasm Studies](#the-future-of-chiasm-studies)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
@@ -56,7 +56,7 @@
 
 # Part I: THE ART AND SCIENCE OF BIBLICAL CHIASMUS
 
-## I.A. Definition and Terminology
+## Definition and Terminology
 
 Chiasmus derives from the Greek letter chi (χ), written as an X. The term denotes an inverted parallelism—a mirror-structure in which elements are presented in an A-B-C...C'-B'-A' pattern, creating a crossover effect when the correspondence lines are drawn between matching pairs. The word itself comes from the Greek verb *chiazein*, meaning "to mark with the shape of a cross."[^1]
 
@@ -80,7 +80,7 @@ Several related terms require careful distinction. *Inclusio* (or *inclusion*) r
 
 The relationship between chiasm and the broader phenomenon of biblical parallelism deserves emphasis. Robert Lowth, in his foundational *De Sacra Poesi Hebraeorum* (1753), classified Hebrew poetic parallelism into three categories: synonymous, antithetical, and synthetic.[^5] Chiasm represents a distinctive structural elaboration of parallelism: where Lowth's categories describe the *relationship* between parallel lines, chiasm describes the *arrangement* of those relationships across a passage, inverting the expected sequence so that the last echoes the first and the middle bears the weight of emphasis. As Wilfred G. E. Watson observed, chiasm's "basic function is to relieve the monotony of persistent parallelism" while simultaneously concentrating meaning at the structural center.[^6]
 
-## I.B. Historical Discovery
+## Historical Discovery
 
 The recognition of chiastic patterns in biblical texts has a long and uneven history, marked by periods of discovery, neglect, and rediscovery.
 
@@ -108,7 +108,7 @@ The recognition of chiastic patterns in biblical texts has a long and uneven his
 
 **McGovern et al. (2025).** A computational study published in the proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL) applied cosine similarity measures and neural embeddings to systematically detect chiasms at the verse and half-verse levels throughout the Hebrew Bible, identifying over 2,700 candidate structures. This represented the first mathematical formalism and computational algorithm specifically designed for biblical chiasmus detection.[^19]
 
-## I.C. Criteria for Identifying Genuine Chiasms
+## Criteria for Identifying Genuine Chiasms
 
 The subjective dimension of chiasm identification has troubled scholars since Bengel. Without rigorous criteria, confirmation bias threatens: one finds the pattern because one expects to find it, then uses the pattern to support the expected interpretation. Several frameworks have been proposed to address this problem.
 
@@ -141,7 +141,7 @@ Responsible scholarship therefore distinguishes between:
 
 This study labels each chiasm with a scholarly consensus rating and notes significant dissenting views.
 
-## I.D. Taxonomy of Chiastic Structures
+## Taxonomy of Chiastic Structures
 
 Chiasms vary considerably in scale, complexity, and function. The following taxonomy, drawing on Dorsey, Welch, and Douglas, organizes the phenomena encountered throughout this study.[^25]
 
@@ -175,7 +175,7 @@ Chiasms vary considerably in scale, complexity, and function. The following taxo
 
 **Hermeneutical chiasm.** Guiding interpretation by revealing what the author considers the essential message. Recognition of chiastic structure can fundamentally alter one's reading of a passage—a topic explored through case studies in Part VII.
 
-## I.E. Ancient Near Eastern and Comparative Parallels
+## Ancient Near Eastern and Comparative Parallels
 
 Chiasmus is not unique to biblical literature. Inverted parallelism and ring composition appear across the ancient Mediterranean and Near Eastern world, establishing chiasm as a widely shared literary convention rather than a biblical peculiarity.[^26]
 
@@ -193,7 +193,7 @@ Chiasmus is not unique to biblical literature. Inverted parallelism and ring com
 
 The ubiquity of chiasm across ancient cultures suggests that it represents a fundamental cognitive pattern—a natural way of organizing thought that multiple traditions independently developed or that diffused across cultural boundaries through scribal training and literary contact. Biblical authors were heirs to and contributors within this broader tradition, but they developed chiastic composition with particular frequency, sophistication, and theological intentionality.
 
-## I.F. How to Read the Chiasms in This Book
+## How to Read the Chiasms in This Book
 
 This study displays chiastic structures using **nested blockquotes**, a formatting convention designed to make the mirror-structure visually apparent at a glance. Each level of nesting represents one concentric layer, creating a funnel that narrows toward the center and widens back outward:
 
@@ -245,7 +245,7 @@ The reader may approach this study in multiple ways: reading sequentially for a 
 
 The five books of the Torah contain the densest concentration of chiastic structures in the Hebrew Bible. Computational analysis has identified Genesis and Numbers as having the highest chiasm counts of any biblical books—over two hundred candidate structures each at the verse and half-verse levels.[^33] This density is not accidental. The Torah's role as the foundational text of Israelite religion, transmitted orally before written fixation, made mnemonic structures essential. Its theological centrality made emphasis-through-structure a powerful compositional tool. And its editorial history—whether understood through traditional or critical frameworks—involved literary craftsmen who shaped the material into architecturally coherent wholes.
 
-## II.A. The Pentateuch as Grand Chiasm
+## The Pentateuch as Grand Chiasm
 
 Before examining individual books, the Pentateuch's own grand structure demands attention. Multiple scholars have proposed that the five books form a concentric arrangement with Leviticus at the center:[^34]
 
@@ -263,7 +263,7 @@ The correspondence between the outer books is thematic: Genesis narrates origins
 
 This grand structure does not require that the Pentateuch was composed as a single work at one time. Redactional shaping over centuries could produce the same result—indeed, the concentric arrangement may reflect precisely the kind of editorial consciousness that organized disparate traditions into a unified theological statement.
 
-## II.B. Genesis
+## Genesis
 
 The Book of Genesis exhibits an exceptionally rich network of chiastic structures at every scale. From the creation narrative's numerical symmetries to the Joseph story's fourteen-element grand chiasm, Genesis demonstrates that ancient Hebrew authors structured meaning through symmetrical form with extraordinary deliberation.
 
@@ -477,7 +477,7 @@ The blessings of Jacob's twelve sons exhibit a concentric pattern centered on a 
 
 The cry of Gen 49:18 breaks the pattern of tribal blessings to voice what no individual blessing can express: the longing for divine redemption. Its structural centrality transforms the entire blessing sequence from a tribal catalogue into a theological statement: the destiny of Israel's tribes converges on the hope of God's salvation.[^45]
 
-## II.C. Exodus
+## Exodus
 
 The Book of Exodus demonstrates chiastic patterning at multiple scales, from the grand architecture of the entire book (organized around the Sinai covenant) to micro-structures within individual laws. The apparent redundancy of tabernacle instructions (chs. 25–31) and their execution (chs. 35–40) becomes meaningful when recognized as the two arms of a grand chiasm with the Golden Calf episode (chs. 32–34) at its center.
 
@@ -567,7 +567,7 @@ The Golden Calf stands at the exact center of a sixteen-chapter complex. Yet thi
 
 Within the Golden Calf episode itself, a nested chiasm places the crucial question at its heart—Moses' plea in Exodus 33:15: <span dir="rtl">אִם־אֵין פָּנֶיךָ הֹלְכִים אַל־תַּעֲלֵנוּ מִזֶּה</span> ("If Your presence does not go with us, do not bring us up from here"). The structural center reveals the episode's true anxiety: not the idol worship per se, but whether God will continue to accompany Israel. Covenant renewal and the assurance of divine presence become the narrative's resolution.[^50]
 
-## II.D. Leviticus
+## Leviticus
 
 Leviticus, often perceived as a dry legal compendium, exhibits perhaps the most elegant chiastic architecture of any biblical book. Mary Douglas's *Leviticus as Literature* (1999) and Wilfried Warning's *Literary Artistry in Leviticus* (1999) independently demonstrated that the book forms a concentric structure with the Day of Atonement (chapter 16) at its center.[^51]
 
@@ -619,7 +619,7 @@ The center of Leviticus is itself a chiasm:
 
 The innermost center places the people's sin offering at the ritual's heart—corporate atonement is the climactic act. This chiasm-within-a-chiasm (the Day of Atonement centered within Leviticus centered within the Pentateuch) creates a three-level nested structure, a literary architecture of extraordinary intentionality.[^54]
 
-## II.E. Numbers
+## Numbers
 
 The Book of Numbers, often perceived as disjointed, contains significant chiastic structures that reveal its editorial coherence. Computational analysis identifies Numbers as one of the two books with the highest concentration of chiasms in the Hebrew Bible.[^55]
 
@@ -669,7 +669,7 @@ Several scholars have proposed a concentric structure for the entire book:
 
 The center of Numbers is the narrative of failure: the spies' report, the people's rebellion, the decree that the exodus generation will not enter the land. This structural placement transforms Numbers from a mere travelogue into a theological meditation on the consequences of faithlessness—the generation that departed Sinai (A) in order is not the generation that will enter the land (A').[^57]
 
-## II.F. Deuteronomy
+## Deuteronomy
 
 Deuteronomy presents Moses' valedictory addresses as a carefully structured literary whole. The book itself forms a grand chiasm, and individual sections—particularly the Shema (6:4–9) and the Song of Moses (chapter 32)—contain their own concentric patterns.
 
@@ -719,7 +719,7 @@ The Song places divine judgment at its center, surrounded by the arc of Israel's
 
 The Former Prophets (Joshua, Judges, Samuel, Kings) narrate Israel's history from conquest through exile. Chiastic structures pervade this corpus at every level, from the grand architecture of entire books to the careful arrangement of individual episodes. The structural patterns consistently place theological turning points—divine encounters, covenant moments, acts of faithfulness or rebellion—at their centers, transforming political narrative into theological commentary.[^60]
 
-## III.A. Joshua
+## Joshua
 
 ### Joshua 1:1–9 — The Divine Commission
 
@@ -769,7 +769,7 @@ The center contains the people's voluntary commitment, making covenant renewal a
 
 The center is the allocation of inheritance—the fulfillment of the patriarchal promise—making the entire book a chiastic meditation on the theme of land as divine gift.[^63]
 
-## III.B. Judges
+## Judges
 
 ### The Judges Cycle — Structural Pattern
 
@@ -815,7 +815,7 @@ The Song of Deborah (chapter 5) contains its own chiasm centered on Jael's decis
 
 The cosmic imagery at the center—stars fighting from heaven—elevates the military engagement into a theophanic event, while the poignant scene of Sisera's mother (B') contrasts with Israel's earlier distress (B).[^65]
 
-## III.C. Samuel
+## Samuel
 
 ### 1 Samuel 1–3 — Hannah and Samuel
 
@@ -889,7 +889,7 @@ Karl Budde first identified this structure. The outer pair (A/B') both involve d
 
 Absalom's death is both the military turning point and the emotional nadir. The detail that his hair—the very symbol of his vanity (2 Sam 14:25–26)—catches in the oak makes his death the consequence of his character. The chiastic structure frames rebellion not as political drama but as family tragedy: David's grief (C') mirrors his military preparations (C), showing that even successful suppression of revolt carries the cost of a father's heartbreak.[^69]
 
-## III.D. Kings
+## Kings
 
 ### 1 Kings 1–11 — The Solomon Narrative
 
@@ -953,7 +953,7 @@ The crossing and re-crossing of the Jordan frames the succession, recalling Isra
 
 The prophetic books exhibit chiastic structures with particular theological force. Prophetic chiasms consistently place the most urgent message—whether judgment, promise, or divine self-revelation—at the structural center, using inverted parallelism to create a rhetorical architecture that channels the hearer's attention toward the prophet's core proclamation.[^73]
 
-## IV.A. Isaiah
+## Isaiah
 
 Isaiah contains more identified chiastic structures than any other prophetic book. Dorsey catalogued over one hundred at various levels. The tripartite division of the book (First Isaiah: chs. 1–39; Deutero-Isaiah: chs. 40–55; Trito-Isaiah: chs. 56–66) itself functions chiastically in relation to themes of judgment, consolation, and restoration.[^74]
 
@@ -1043,7 +1043,7 @@ The opening word of comfort (A) finds its resolution in the closing promise of j
 
 The center contains the Song's most radical theological claim: vicarious, substitutionary suffering. The servant bears what the people deserved. The outer frame (A/A') moves from exaltation through suffering back to exaltation, but the center reveals the mechanism: it is *through* bearing others' pain that the servant is exalted. The chiastic structure makes this theology inescapable—one cannot reach the vindication without passing through the center of vicarious atonement.[^78]
 
-## IV.B. Jeremiah
+## Jeremiah
 
 Jeremiah's fifty-two chapters are organized with the "Book of Comfort" (chapters 30–33) at the structural center, placing messages of hope in the middle of a book dominated by judgment oracles.[^79]
 
@@ -1101,7 +1101,7 @@ The center—Torah inscribed on the heart rather than on stone—is the new cove
 
 The extraordinary oscillation between praise and despair becomes structurally visible: the center affirms God's warrior-presence, but the surrounding layers alternate between trust and anguish without resolution. The chiasm's failure to "close" neatly—it ends in lament (A') rather than returning to the opening tone—captures the prophet's existential crisis. Form mirrors content: the structure is as tormented as the prophet.[^82]
 
-## IV.C. Ezekiel
+## Ezekiel
 
 Ezekiel's prophecies exhibit extensive chiastic structuring. The book's opening throne vision (chapters 1–3) corresponds to the closing temple vision (chapters 40–48), creating a frame around judgment oracles and restoration messages.[^83]
 
@@ -1161,7 +1161,7 @@ The center is the moment of resurrection—breath (*ruach*, also "spirit" and "w
 
 The river at the center flows from the Temple eastward, growing deeper as it goes, bringing life to the Dead Sea and producing trees whose leaves are for healing. This image—life-giving water from the divine presence—is the structural and theological center of Ezekiel's entire eschatological vision. The closing name, <span dir="rtl">יְהוָה שָׁמָּה</span> ("the LORD is there"), answers the opening vision's question about God's presence among the exiles.[^86]
 
-## IV.D. The Twelve
+## The Twelve
 
 Scholarship by James Nogalski, Paul House, and Mark Schart has established that the twelve minor prophets were compiled onto a single scroll and should be read as a unified collection with intentional redactional arrangement.[^87]
 
@@ -1299,7 +1299,7 @@ The Bethlehem promise at the center of Micah stands at the center of the Twelve,
 
 The Ketuvim (Writings) encompass the most diverse genres in the Hebrew Bible—psalms, wisdom literature, narrative, apocalyptic, and festival scrolls. Chiastic structures appear across this diversity, demonstrating that inverted parallelism is not genre-specific but a fundamental principle of Hebrew literary composition.[^94]
 
-## V.A. Psalms
+## Psalms
 
 The Book of Psalms demonstrates chiastic structures at three levels: within individual psalms, within psalm collections, and in the five-book arrangement of the Psalter itself.
 
@@ -1441,7 +1441,7 @@ The fifteen Songs of Ascents exhibit a concentric arrangement:
 
 The two center psalms—one about divine initiative in building and blessing, one about the blessedness of fearing God—form the theological heart of the pilgrimage collection. The outward movement traces the pilgrim's journey from exile distress (A) through approach (B), dependence (C), and hope (D) to arrival and blessing (A').[^101]
 
-## V.B. Wisdom Literature
+## Wisdom Literature
 
 ### Proverbs 1–9 — Introduction to Wisdom
 
@@ -1501,7 +1501,7 @@ Job 28, the poem on wisdom's hiddenness ("where shall wisdom be found?"), is wid
 
 The reversal of the possession formula between B and B'—"My beloved is mine and I am his" becomes "I am my beloved's and my beloved is mine"—traces a shift from possessive desire to self-giving love. The center's consummation scene is the structural and emotional climax, framed by the arc of desire (A) and the affirmation of love's cosmic power (A').[^104]
 
-## V.C. Five Megillot
+## Five Megillot
 
 ### Ruth — The Book as a Whole
 
@@ -1589,7 +1589,7 @@ The center's claim—that God has placed <span dir="rtl">עֹלָם</span> (eter
 
 The center—the king's insomnia and the reading of the chronicles—is the most understated yet most consequential moment in the narrative. No one acts heroically; the king simply cannot sleep, and a scribe reads a record. Yet this "coincidence" reverses Haman's plot entirely. The chiastic structure reveals the book's hidden theology: in a text that never mentions God's name, the structural center points to divine providence operating through apparent accident.[^108]
 
-## V.D. Daniel, Ezra-Nehemiah, and Chronicles
+## Daniel, Ezra-Nehemiah, and Chronicles
 
 ### Daniel 2–7 — The Aramaic Section
 
@@ -1651,7 +1651,7 @@ The Temple—its planning, construction, and dedication—stands at the structur
 
 The chiastic structures catalogued in Parts II–V operate within individual books. But several scholars have proposed that larger literary units—the Hexateuch (Genesis through Joshua), the Deuteronomistic History (Deuteronomy through Kings), and the Psalter as a five-book collection—exhibit their own grand chiastic architectures. These proposals are more speculative than the book-level analyses, but they illuminate how ancient editors may have shaped Israel's literary heritage into theological wholes.[^112]
 
-## VI.A. The Hexateuch Chiasm
+## The Hexateuch Chiasm
 
 The six books from Genesis through Joshua, when read as a continuous narrative, form a grand chiasm with the Sinai covenant (Exodus 19:3–Numbers 10:10) at the structural center:
 
@@ -1675,7 +1675,7 @@ The A/A' correspondence is thematic rather than verbal: primeval scattering (Bab
 
 This Hexateuch chiasm, if accepted, has implications for the canonical debate about whether Joshua belongs with the Pentateuch (forming a "Hexateuch") or with Judges–Kings (forming a "Deuteronomistic History"). The chiastic reading suggests that Joshua's narrative completes the arc begun in Genesis, with the Sinai covenant as the pivot around which the entire story of creation, promise, liberation, law, wilderness, and land revolves.[^114]
 
-## VI.B. The Deuteronomistic History as Chiastic Arc
+## The Deuteronomistic History as Chiastic Arc
 
 The Deuteronomistic History (Deuteronomy through 2 Kings), viewed as a single editorial composition, traces an arc from covenant renewal to covenant failure. Several scholars have identified its grand structure as chiastic:
 
@@ -1699,7 +1699,7 @@ The chiasm reveals the Deuteronomistic History's theological argument: Israel's 
 
 Within this grand structure, the individual books contribute their own chiastic patterns (as detailed in Part III), creating a nested hierarchy: book-level chiasms embedded within a corpus-level chiasm. The 2 Samuel appendix (21–24), with its own six-part chiasm centering on David's last words, exemplifies this fractal quality: a chiasm within a book within a chiastic history.
 
-## VI.C. The Psalter's Five-Book Chiastic Structure
+## The Psalter's Five-Book Chiastic Structure
 
 The Psalter's division into five books—traditionally seen as paralleling the five books of the Torah—exhibits its own concentric logic:
 
@@ -1725,7 +1725,7 @@ Gerald Wilson's *The Editing of the Hebrew Psalter* (1985) first proposed this e
 
 Having catalogued chiastic structures across the entire Hebrew Bible, we are now positioned to ask synthetic questions that no analysis of individual passages can answer. What patterns emerge when we view all these chiasms together? What do their centers reveal about biblical theology? How does the phenomenon of chiasm-within-chiasm illuminate the nature of biblical composition? And where are the limits of chiastic analysis?
 
-## VII.A. Statistical Overview
+## Statistical Overview
 
 The following table summarizes the distribution of chiastic structures identified in this study and in the broader scholarly literature, supplemented by the computational data of McGovern et al. (2025):[^118]
 
@@ -1760,7 +1760,7 @@ Several patterns emerge from this data:
 
 **Narrative books.** Samuel and Kings contain fewer micro-chiasms than Genesis but more macro- and grand-scale structures, consistent with the editorial shaping of extended narrative arcs.
 
-## VII.B. Centerpiece Theology
+## Centerpiece Theology
 
 The most theologically productive question one can ask of a chiasm is: What stands at the center? Across the approximately ninety chiasms analyzed in this study, the following categories of centerpiece content emerge:
 
@@ -1815,7 +1815,7 @@ When God's character or presence is revealed at the center, the chiasm functions
 
 Taken together, these centers reveal a coherent theology. Biblical chiasms consistently place at their structural core one of four elements: (1) divine initiative or remembrance, (2) covenant-making or covenant-renewal, (3) human moral crisis or obedience, or (4) divine self-revelation. These are not four separate categories but four facets of a single theological reality: the encounter between God and humanity. Chiastic structure, by converging on this encounter, reveals that the Hebrew Bible's authors understood it as the central event of all history, all worship, and all literary creation.[^119]
 
-## VII.C. Nested Chiasms as Fractal Structure
+## Nested Chiasms as Fractal Structure
 
 One of the most remarkable features of biblical chiasmus is the phenomenon of nesting: chiasms containing chiasms, often at multiple levels of depth. This creates a literary architecture analogous to fractal geometry, where the same pattern recurs at different scales.
 
@@ -1859,7 +1859,7 @@ In fractal geometry, the same pattern recurs at different scales of magnificatio
 
 This self-similarity is unlikely to be coincidental. It suggests that biblical authors and editors conceived of literary structure in recursive terms: just as a verse contains a chiasm, so may a passage, a book, and an entire Torah. The literary form becomes a model of reality itself—a cosmos that at every scale, from the individual to the cosmic, centers on the same theological realities: divine presence, covenant faithfulness, and the human encounter with the holy.[^123]
 
-## VII.D. Chiasm and Oral Culture
+## Chiasm and Oral Culture
 
 Why did ancient Israelite authors develop chiastic composition with such sophistication? The answer lies partly in the oral culture from which biblical literature emerged.
 
@@ -1889,7 +1889,7 @@ As Israelite culture developed increasingly sophisticated written traditions—t
 
 The transition from oral to written culture did not diminish chiasm's relevance; it transformed it. What had been a mnemonic device became an architectural principle. What had served the performer's memory became a tool for the editor's theology. The phenomenon's persistence across this transition testifies to its deep compatibility with the Hebrew literary and theological imagination.
 
-## VII.E. How Chiastic Reading Changes Interpretation
+## How Chiastic Reading Changes Interpretation
 
 Recognition of chiastic structure does not merely add a formal observation to one's reading of a biblical text. It can fundamentally alter interpretation. The following case studies demonstrate how chiastic reading produces different—and arguably deeper—understandings than linear reading.
 
@@ -1923,7 +1923,7 @@ Recognition of chiastic structure does not merely add a formal observation to on
 
 **Chiastic reading:** The center is the king's sleepless night (Esth 6:1–3)—the most passive, least heroic moment in the book. No one acts; a scribe reads old records; a coincidence is set in motion. The chiastic structure reveals that the narrative's true agent is not Esther's courage or Mordecai's loyalty but the unseen force that arranges insomnia, record-reading, and timing. In a book that never names God, the chiastic center points to precisely the divine providence that the text refuses to make explicit.[^131]
 
-## VII.F. The Limits of Chiastic Analysis
+## The Limits of Chiastic Analysis
 
 Intellectual honesty requires acknowledging where chiastic analysis reaches its limits and where enthusiasm has outrun evidence.
 
@@ -1967,7 +1967,7 @@ The productive path lies between the extremes of "chiasm everywhere" and "chiasm
 - Distinguish between certain, probable, possible, and speculative identifications
 - Use chiastic analysis as one tool among many, not as the master key to all interpretation
 
-## VII.G. The Future of Chiasm Studies
+## The Future of Chiasm Studies
 
 The field of chiasm studies stands at an inflection point. Three developments promise to reshape the discipline in the coming decades.
 

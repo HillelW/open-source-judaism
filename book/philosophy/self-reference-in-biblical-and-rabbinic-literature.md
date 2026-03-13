@@ -6,57 +6,57 @@
 
 - [Self-Reference in Biblical and Rabbinic Literature](#self-reference-in-biblical-and-rabbinic-literature)
 - [Part I: Foundations](#part-i-foundations)
-  - [I.A. Definitions and First Principles](#ia-definitions-and-first-principles)
-  - [I.B. Recursion: The Engine of Self-Reference](#ib-recursion-the-engine-of-self-reference)
-  - [I.C. Self-Reference in Formal Logic](#ic-self-reference-in-formal-logic)
-  - [I.D. Self-Reference in Philosophy and Cognitive Science](#id-self-reference-in-philosophy-and-cognitive-science)
-  - [I.E. Self-Reference in Language and Literature](#ie-self-reference-in-language-and-literature)
+  - [Definitions and First Principles](#definitions-and-first-principles)
+  - [Recursion: The Engine of Self-Reference](#recursion-the-engine-of-self-reference)
+  - [Self-Reference in Formal Logic](#self-reference-in-formal-logic)
+  - [Self-Reference in Philosophy and Cognitive Science](#self-reference-in-philosophy-and-cognitive-science)
+  - [Self-Reference in Language and Literature](#self-reference-in-language-and-literature)
 - [Part II: Creation, Abstraction, and the Rational God](#part-ii-creation-abstraction-and-the-rational-god)
-  - [II.A. God as Ideal Rational Agent](#iia-god-as-ideal-rational-agent)
-  - [II.B. The Birth of Abstraction](#iib-the-birth-of-abstraction)
-  - [II.C. The Recursive Texture of the Creation Narrative](#iic-the-recursive-texture-of-the-creation-narrative)
+  - [God as Ideal Rational Agent](#god-as-ideal-rational-agent)
+  - [The Birth of Abstraction](#the-birth-of-abstraction)
+  - [The Recursive Texture of the Creation Narrative](#the-recursive-texture-of-the-creation-narrative)
 - [Part III: Divine Self-Definition](#part-iii-divine-self-definition)
-  - [III.A. The Burning Bush as Recursive Symbol](#iiia-the-burning-bush-as-recursive-symbol)
-  - [III.B. "I Will Be That Which I Will Be": A Formal Analysis](#iiib-i-will-be-that-which-i-will-be-a-formal-analysis)
+  - [The Burning Bush as Recursive Symbol](#the-burning-bush-as-recursive-symbol)
+  - ["I Will Be That Which I Will Be": A Formal Analysis](#i-will-be-that-which-i-will-be-a-formal-analysis)
     - [The Fixed-Point Interpretation](#the-fixed-point-interpretation)
-  - [III.C. The Causa Sui Tradition](#iiic-the-causa-sui-tradition)
-  - [III.D. Descartes and the Cogito](#iiid-descartes-and-the-cogito)
-  - [III.E. Medieval Jewish Philosophy and Divine Self-Knowledge](#iiie-medieval-jewish-philosophy-and-divine-self-knowledge)
-  - [III.F. Modern Jewish Thought](#iiif-modern-jewish-thought)
+  - [The Causa Sui Tradition](#the-causa-sui-tradition)
+  - [Descartes and the Cogito](#descartes-and-the-cogito)
+  - [Medieval Jewish Philosophy and Divine Self-Knowledge](#medieval-jewish-philosophy-and-divine-self-knowledge)
+  - [Modern Jewish Thought](#modern-jewish-thought)
 - [Part IV: THE SELF-REFERENTIAL TEXT](#part-iv-the-self-referential-text)
-  - [IV.A. Structural Recursion: Torah Within Torah](#iva-structural-recursion-torah-within-torah)
-  - [IV.B. The Medium Transformation: Speech to Text](#ivb-the-medium-transformation-speech-to-text)
-  - [IV.C. Torah as Speaking Entity](#ivc-torah-as-speaking-entity)
-  - [IV.D. Inner-Biblical Interpretation as Self-Reference](#ivd-inner-biblical-interpretation-as-self-reference)
-  - [IV.E. Deuteronomy: The Self-Referential Book](#ive-deuteronomy-the-self-referential-book)
+  - [Structural Recursion: Torah Within Torah](#structural-recursion-torah-within-torah)
+  - [The Medium Transformation: Speech to Text](#the-medium-transformation-speech-to-text)
+  - [Torah as Speaking Entity](#torah-as-speaking-entity)
+  - [Inner-Biblical Interpretation as Self-Reference](#inner-biblical-interpretation-as-self-reference)
+  - [Deuteronomy: The Self-Referential Book](#deuteronomy-the-self-referential-book)
 - [Part V: THE RECURSIVE ARCHITECTURE OF RABBINIC JUDAISM](#part-v-the-recursive-architecture-of-rabbinic-judaism)
-  - [V.A. Recursive Definitions in Rabbinic Thought](#va-recursive-definitions-in-rabbinic-thought)
-  - [V.B. Ben Bag Bag and the Infinite Recursion of Learning](#vb-ben-bag-bag-and-the-infinite-recursion-of-learning)
-  - [V.C. The Hermeneutical Principles as Meta-Rules](#vc-the-hermeneutical-principles-as-meta-rules)
-  - [V.D. The Talmud's Self-Awareness](#vd-the-talmuds-self-awareness)
-  - [V.E. Commentary as Recursive Process](#ve-commentary-as-recursive-process)
+  - [Recursive Definitions in Rabbinic Thought](#recursive-definitions-in-rabbinic-thought)
+  - [Ben Bag Bag and the Infinite Recursion of Learning](#ben-bag-bag-and-the-infinite-recursion-of-learning)
+  - [The Hermeneutical Principles as Meta-Rules](#the-hermeneutical-principles-as-meta-rules)
+  - [The Talmud's Self-Awareness](#the-talmuds-self-awareness)
+  - [Commentary as Recursive Process](#commentary-as-recursive-process)
 - [Part VI: SELF-REFERENCE IN HALAKHA AND RITUAL](#part-vi-self-reference-in-halakha-and-ritual)
-  - [VI.A. Self-Referencing Commandments](#via-self-referencing-commandments)
-  - [VI.B. Tefillin and Mezuzah as Self-Referencing Objects](#vib-tefillin-and-mezuzah-as-self-referencing-objects)
-  - [VI.C. The Passover Seder as Recursive Self-Reference](#vic-the-passover-seder-as-recursive-self-reference)
-  - [VI.D. Self-Reference in Jewish Identity and Community](#vid-self-reference-in-jewish-identity-and-community)
+  - [Self-Referencing Commandments](#self-referencing-commandments)
+  - [Tefillin and Mezuzah as Self-Referencing Objects](#tefillin-and-mezuzah-as-self-referencing-objects)
+  - [The Passover Seder as Recursive Self-Reference](#the-passover-seder-as-recursive-self-reference)
+  - [Self-Reference in Jewish Identity and Community](#self-reference-in-jewish-identity-and-community)
 - [Part VII: SELF-REFERENCE IN MIDRASH AND AGGADAH](#part-vii-self-reference-in-midrash-and-aggadah)
-  - [VII.A. Reflexivity in Midrash](#viia-reflexivity-in-midrash)
-  - [VII.B. Abraham and Sarah: Reflection as Cognitive Self-Reference](#viib-abraham-and-sarah-reflection-as-cognitive-self-reference)
-  - [VII.C. The Talmud's Self-Referencing Narrative Strategies](#viic-the-talmuds-self-referencing-narrative-strategies)
-  - [VII.D. Self-Reference in Liturgy and Poetry](#viid-self-reference-in-liturgy-and-poetry)
+  - [Reflexivity in Midrash](#reflexivity-in-midrash)
+  - [Abraham and Sarah: Reflection as Cognitive Self-Reference](#abraham-and-sarah-reflection-as-cognitive-self-reference)
+  - [The Talmud's Self-Referencing Narrative Strategies](#the-talmuds-self-referencing-narrative-strategies)
+  - [Self-Reference in Liturgy and Poetry](#self-reference-in-liturgy-and-poetry)
 - [Part VIII: THE HAZARDS AND LIMITS OF SELF-REFERENCE](#part-viii-the-hazards-and-limits-of-self-reference)
-  - [VIII.A. The Bathroom Torah Paradox](#viiia-the-bathroom-torah-paradox)
-  - [VIII.B. Purim Intoxication: Monitoring One's Own Monitoring](#viiib-purim-intoxication-monitoring-ones-own-monitoring)
-  - [VIII.C. The Prohibition of Confession](#viiic-the-prohibition-of-confession)
-  - [VIII.D. Susceptibility to Infinite Recursion](#viiid-susceptibility-to-infinite-recursion)
-  - [VIII.E. Formal Parallels](#viiie-formal-parallels)
+  - [The Bathroom Torah Paradox](#the-bathroom-torah-paradox)
+  - [Purim Intoxication: Monitoring One's Own Monitoring](#purim-intoxication-monitoring-ones-own-monitoring)
+  - [The Prohibition of Confession](#the-prohibition-of-confession)
+  - [Susceptibility to Infinite Recursion](#susceptibility-to-infinite-recursion)
+  - [Formal Parallels](#formal-parallels)
 - [Part IX: SYNTHESIS AND LEGACY](#part-ix-synthesis-and-legacy)
-  - [IX.A. Self-Reference Across All Levels](#ixa-self-reference-across-all-levels)
-  - [IX.B. Comparative Religion](#ixb-comparative-religion)
-  - [IX.C. The Impact on Western Thought](#ixc-the-impact-on-western-thought)
-  - [IX.D. Autopoiesis: The Self-Producing Tradition](#ixd-autopoiesis-the-self-producing-tradition)
-  - [IX.E. The Bootstrapping Compiler](#ixe-the-bootstrapping-compiler)
+  - [Self-Reference Across All Levels](#self-reference-across-all-levels)
+  - [Comparative Religion](#comparative-religion)
+  - [The Impact on Western Thought](#the-impact-on-western-thought)
+  - [Autopoiesis: The Self-Producing Tradition](#autopoiesis-the-self-producing-tradition)
+  - [The Bootstrapping Compiler](#the-bootstrapping-compiler)
 
 ---
 
@@ -64,7 +64,7 @@
 
 Something can take itself as its own object. This sounds simple, and it is, until you follow it to its conclusions. Godel's incompleteness theorems, Russell's paradox, the halting problem, the liar paradox, Hofstadter's strange loops: all of them emerge from the single fact that self-reference is possible. Before we can examine how self-reference operates in Jewish texts, we need a shared vocabulary. This Part establishes it.
 
-## I.A. Definitions and First Principles
+## Definitions and First Principles
 
 Every definition has two sides. The term being defined is the *definiendum*; the expression that defines it is the *definiens*. In "An elephant is a large gray animal native to Asia and Africa," the word "elephant" is the definiendum and everything after "is" constitutes the definiens.
 
@@ -74,7 +74,7 @@ The most consequential type of definition for our purposes is the *recursive def
 
 Closely related is *abstraction*: the cognitive process of isolating a common feature across multiple instances and treating it as a single entity. Many different physical cats map to the abstraction "cat." Language itself can be understood as a vast system of abstractions held in place by definitions, and it is this system that makes self-reference possible. A language that could not abstract, that could not refer to categories and properties, could not turn its referential apparatus upon itself.[^3]
 
-## I.B. Recursion: The Engine of Self-Reference
+## Recursion: The Engine of Self-Reference
 
 Recursion is the mechanism by which self-reference becomes productive rather than merely circular. A recursive process is one in which a procedure calls upon itself as part of its own execution. A sourdough recipe that calls for some dough left over from the last time you made the same recipe. This immediately creates the possibility of an endless loop: unless the recursive call is skipped under certain conditions, the process will never terminate. A well-formed recursive definition therefore includes both a recursive step and a base case. The sourdough recipe also tells you how to obtain starter dough if you've never made it before.[^4]
 
@@ -84,7 +84,7 @@ This generative power is precisely what makes recursion so central to both compu
 
 Alan Turing's halting problem (1936) establishes a fundamental limit on recursion. Turing demonstrated that no general algorithm can determine, for an arbitrary program and input, whether the program will eventually halt or run forever.[^6] The proof works by constructing a self-referential program, one that asks whether *it itself* will halt, and showing that any answer leads to a contradiction. The halting problem is, at its core, a paradox of self-reference. It will reappear when we examine the rabbinic intuition that certain forms of self-reference must be limited or prohibited (Part VIII).
 
-## I.C. Self-Reference in Formal Logic
+## Self-Reference in Formal Logic
 
 The formal study of self-reference begins with a deceptively simple distinction: the difference between *using* a word and *mentioning* it. When I write "snow is white," I use the word "snow" to refer to a substance. When I write "'snow' has four letters," I mention the word itself. Self-reference often involves a collapse of this boundary. When a sentence says "This sentence has five words," it simultaneously uses its words to make a claim and mentions itself as the object of that claim.[^7]
 
@@ -100,7 +100,7 @@ The mechanism underlying Godel's construction, the *diagonal lemma*, guarantees 
 
 The Jewish textual tradition is precisely such a system. The Torah contains hermeneutical principles for its own exegesis; the Talmud discusses the conditions of its own authority; the halakhic system regulates the study of halakha. The Godelian insight suggests that such a system will inevitably contain "statements," legal, theological, or textual, that are meaningful but undecidable within the system itself. Part VIII will explore this parallel in detail.
 
-## I.D. Self-Reference in Philosophy and Cognitive Science
+## Self-Reference in Philosophy and Cognitive Science
 
 Douglas Hofstadter's concept of the *strange loop*, introduced in *Godel, Escher, Bach* (1979), describes a hierarchical system in which, by moving through the levels of the hierarchy, one unexpectedly arrives back at the starting point. Hofstadter argued that consciousness itself is a strange loop: the brain's capacity to represent its own representational processes creates a self-referential feedback loop that gives rise to what we experience as a "self." In *I Am a Strange Loop* (2007), he sharpened the thesis. The "I" is not a substance or an entity but a pattern, a self-referential pattern that emerges when a sufficiently complex symbolic system turns its representational powers upon itself.[^12]
 
@@ -108,9 +108,9 @@ Hofstadter's framework fits the Jewish tradition with striking precision. The Go
 
 Cognitive science has given empirical grounding to the philosophical intuition that self-reference is fundamental to mind. The study of *metacognition*, thinking about thinking, shows that this capacity is a developmental achievement: children gradually acquire the ability to reflect on their own thought processes, and this capacity is central to learning, problem-solving, and self-regulation.[^13]
 
-The rabbinic tradition placed enormous emphasis on metacognitive processes long before anyone named them. The injunction to "know before whom you stand" (<span dir="rtl">דַּע לִפְנֵי מִי אַתָּה עוֹמֵד</span>, Berakhot 28b) is an instruction to engage in self-referential reflection during prayer. The Purim directive to drink until one cannot distinguish between "blessed is Mordechai" and "cursed is Haman" is, paradoxically, an instruction to monitor one's own cognitive monitoring, a metacognitive task of remarkable sophistication (see VIII.B). The entire enterprise of *musar* (ethical self-improvement) rests on the assumption that humans can and should systematically reflect on their own character traits and habits of thought.
+The rabbinic tradition placed enormous emphasis on metacognitive processes long before anyone named them. The injunction to "know before whom you stand" (<span dir="rtl">דַּע לִפְנֵי מִי אַתָּה עוֹמֵד</span>, Berakhot 28b) is an instruction to engage in self-referential reflection during prayer. The Purim directive to drink until one cannot distinguish between "blessed is Mordechai" and "cursed is Haman" is, paradoxically, an instruction to monitor one's own cognitive monitoring, a metacognitive task of remarkable sophistication (see the Purim Intoxication section). The entire enterprise of *musar* (ethical self-improvement) rests on the assumption that humans can and should systematically reflect on their own character traits and habits of thought.
 
-## I.E. Self-Reference in Language and Literature
+## Self-Reference in Language and Literature
 
 Two concepts from literary theory will prove essential throughout this study.
 
@@ -124,7 +124,7 @@ With these foundations in place, we are ready to enter the biblical text.
 
 A self-referential text requires a God capable of rational, sequential thought, a God who can reflect, assess, and define. A self-referential tradition requires a concept of abstraction, the ability to isolate general properties and assign them to symbols. The Genesis creation narrative establishes both of these preconditions with striking deliberateness.
 
-## II.A. God as Ideal Rational Agent
+## God as Ideal Rational Agent
 
 The God of Genesis 1 creates the world in the manner of a civil engineer designing a city. He declares precisely what he plans to do. Similar tasks are grouped into coherent temporal blocks. The tasks are executed sequentially, with each assigned to a unique day. Less complex tasks precede more complex ones: light before luminaries, vegetation before animals, animals before humans. After each phase of creation, God assesses his work: <span dir="rtl">וַיַּרְא אֱלֹהִים כִּי טוֹב</span>, "and God saw that it was good" (Gen 1:10, 12, 18, 21, 25). The cumulative assessment at the end of the sixth day is stronger still: <span dir="rtl">וַיַּרְא אֱלֹהִים אֶת כׇּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד</span>, "and God saw all that He had made, and behold, it was very good" (Gen 1:31).[^16]
 
@@ -136,7 +136,7 @@ Genesis inverts this framework systematically. There is no metadivine realm; God
 
 This portrait of God as ideal rational agent is the first precondition for the self-referential tradition that follows. A God who does not think, who acts on irrational impulse, who is subject to forces beyond his comprehension, cannot define Himself, cannot reflect on His own nature, cannot produce a text that encodes rules for its own interpretation. Only a God who is supremely rational can be supremely self-referential.
 
-## II.B. The Birth of Abstraction
+## The Birth of Abstraction
 
 At first glance, it is not clear why Genesis needs to tell us that God assigned names to various created phenomena. The darkness is called "night" (<span dir="rtl">לַיְלָה</span>), the light is called "day" (<span dir="rtl">יוֹם</span>), the expanse is called "sky" (<span dir="rtl">שָׁמַיִם</span>), the dry land is called "earth" (<span dir="rtl">אֶרֶץ</span>), and the gathered waters are called "seas" (<span dir="rtl">יַמִּים</span>) (Gen 1:5, 8, 10). Why does the narrative pause to record these acts of naming?[^21]
 
@@ -148,7 +148,7 @@ The philosophical significance is profound. If abstraction is a primary divine a
 
 There is a crucial asymmetry in the Genesis account. God assigns names to His creations, but nothing assigns a name to God. The refusal to be named, which reaches its climax in Exodus 3:14, is already implicit here. God is the namer, never the named; the definer, never the defined. When He finally provides something that functions as a name, it turns out to be a definition that circles back upon itself.[^23]
 
-## II.C. The Recursive Texture of the Creation Narrative
+## The Recursive Texture of the Creation Narrative
 
 The creation narrative contains a subtler form of self-reference that operates at the level of the reader's experience. When you read Genesis 1, you are reading an account of the creation of the cognitive capacities that make reading possible. The text describes the origins of rationality, abstraction, and language, the very faculties you are deploying in the act of reading. This creates a recursive loop: the reader uses cognitive abstraction to understand a narrative about the origins of cognitive abstraction.[^24]
 
@@ -164,7 +164,7 @@ The theological groundwork is now in place. God has been established as a ration
 
 Exodus 3:14 is the theological epicenter of self-reference in the Jewish tradition. In a single verse, God responds to Moses' request for a name with a statement that is at once a definition, a refusal to be defined, a recursive loop, a performative utterance, and a declaration of ontological independence. No other verse in the Hebrew Bible has generated as much philosophical commentary. This Part subjects it to sustained analysis.
 
-## III.A. The Burning Bush as Recursive Symbol
+## The Burning Bush as Recursive Symbol
 
 Before God speaks, He appears. The medium of theophany is itself significant: <span dir="rtl">וַיֵּרָא מַלְאַךְ יְהוָה אֵלָיו בְּלַבַּת אֵשׁ מִתּוֹךְ הַסְּנֶה וַיַּרְא וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ וְהַסְּנֶה אֵינֶנּוּ אֻכָּל</span>, "And the angel of the Lord appeared to him in a flame of fire from within the bush; and he looked, and behold, the bush burned with fire, but the bush was not consumed" (Exod 3:2).[^27]
 
@@ -174,7 +174,7 @@ The recursive quality of the burning bush prepares Moses, and the reader, for th
 
 The burning bush also establishes that God is not subject to natural law. In Part II, Genesis presents God as supremely rational. Here, Exodus adds a complementary claim: this rational God is not constrained by the regularities of the natural world that His rationality has imposed. He is rational without being mechanistic, orderly without being bound by His own order. This theological claim is the precondition for a self-definition that violates the logical constraints on ordinary definitions, specifically, the constraint that a definition must not be circular.
 
-## III.B. "I Will Be That Which I Will Be": A Formal Analysis
+## "I Will Be That Which I Will Be": A Formal Analysis
 
 Moses asks: <span dir="rtl">מָה שְּׁמוֹ מָה אֹמַר אֲלֵהֶם</span>, "What is His name? What shall I say to them?" (Exod 3:13). The question is a request for a name, the most fundamental form of definition: the stipulative assignment of a word to an entity. God responds: <span dir="rtl">אֶהְיֶה אֲשֶׁר אֶהְיֶה</span>, "I Will Be That Which I Will Be" (Exod 3:14).[^29]
 
@@ -184,7 +184,7 @@ Put this in the standard form of a definition:
 
 The definiendum is "God" (or more precisely, the first-person <span dir="rtl">אֶהְיֶה</span>, "I Will Be"). The definiens is "that which I Will Be," a restatement of the definiendum. The definition is circular: the term being defined appears in its own definition without any reduction toward a simpler base case.
 
-In the framework of recursive definitions from section I.B, this is a recursive definition without a base case. Ordinary recursive definitions (of natural numbers, ancestors, factorials) eventually terminate because each recursive call brings the computation closer to a base case. God's self-definition has no base case. Attempting to "evaluate" it generates an infinite regression: God is that which God is, which is that which God is, which is that which God is, *ad infinitum*. It is like looking up the word "sentence" in a dictionary and finding the instruction: "See sentence."[^30]
+In the framework of recursive definitions from the Recursion section, this is a recursive definition without a base case. Ordinary recursive definitions (of natural numbers, ancestors, factorials) eventually terminate because each recursive call brings the computation closer to a base case. God's self-definition has no base case. Attempting to "evaluate" it generates an infinite regression: God is that which God is, which is that which God is, which is that which God is, *ad infinitum*. It is like looking up the word "sentence" in a dictionary and finding the instruction: "See sentence."[^30]
 
 This circularity is not a defect. It is the point.
 
@@ -210,7 +210,7 @@ The parallel is exact. The fixed-point construction and the recursive self-defin
 
 God's circularity has a further implication. Any comprehensive dictionary must eventually resort to circular definitions because the number of words in any language is finite. God's circularity hints that any comprehensive system of definitions must be, at some level, self-grounding. The Torah, which aims to provide a comprehensive framework for understanding reality, inherits this circularity: it is a text that must ultimately appeal to itself for its own authority. The circularity of Exodus 3:14 is the theological precedent for the textual and legal circularity that characterizes the entire rabbinic system.[^35]
 
-## III.C. The Causa Sui Tradition
+## The Causa Sui Tradition
 
 The philosophical tradition's engagement with Exodus 3:14 coalesced around the concept of *causa sui*, the self-caused being. Jerome (347-420 CE) imported Neoplatonic thinking directly into his reading of the verse, writing that God "does not originate from another, but is instead the origin of Godself, the cause of God's own substance" (*sui ipsius origo est et causa suae substantiae*).[^37] For Jerome, <span dir="rtl">אֶהְיֶה אֲשֶׁר אֶהְיֶה</span> declares self-causation: God is the being who brings Himself into being. The recursive structure of the verse, the self-referential loop, expresses causal reflexivity.
 
@@ -220,7 +220,7 @@ Spinoza's engagement with self-reference goes further, and in a direction that t
 
 Plotinus and Hegel explored the same territory from different angles. Plotinus argued that the One "made himself" in a sense transcending ordinary causation; Hegel's *Absolute Spirit* is the ultimate reality understood as pure self-reference, spirit that knows itself as spirit.[^36] [^41] The influence of the biblical God who defines Himself in terms of Himself, mediated through centuries of theology shaped by readings of Exodus 3:14, runs through the entire Western philosophical tradition.
 
-## III.D. Descartes and the Cogito
+## Descartes and the Cogito
 
 Descartes' *cogito ergo sum* ("I think, therefore I am") is the most famous self-referential argument in Western philosophy. Its connection to Exodus 3:14 has been noted since the seventeenth century.
 
@@ -230,7 +230,7 @@ The connection sharpens when you consider the *cogito* as a performative utteran
 
 In Genesis 1, God brings creations into existence through the performative utterance <span dir="rtl">יְהִי</span> ("let there be"). In Exodus 3:14, the same root *h-y-h* appears, but now directed reflexively: <span dir="rtl">אֶהְיֶה</span> ("I will be"). The implication, as Brian Rotman has observed, is that God brought Himself into being by uttering His own name. But how could He utter anything if He did not yet exist? The answer is, once again, <span dir="rtl">אֶהְיֶה</span>: the recursion is the answer. God's existence and God's self-declaration are not sequential events but simultaneous and mutually constituting. The *cogito* inherits this structure: thinking and being are not sequential but co-constitutive.[^43]
 
-## III.E. Medieval Jewish Philosophy and Divine Self-Knowledge
+## Medieval Jewish Philosophy and Divine Self-Knowledge
 
 The medieval Jewish philosophers engaged the self-referential character of the divine nature through the problem of divine knowledge: how does God know Himself?
 
@@ -244,7 +244,7 @@ Gersonides challenged this position. If the complete identity of knower, knowing
 
 The Kabbalistic tradition offered a radically different framework. *Ein Sof* (<span dir="rtl">אֵין סוֹף</span>, "without end") posits an infinite, unknowable divine essence that transcends all characterization, including self-knowledge. The *Sefirot*, the ten emanated attributes through which *Ein Sof* manifests in the created world, can be understood as stages of divine self-disclosure: the process by which the infinite, undifferentiated divine essence progressively reveals itself to itself and to creation. The first sefirah, *Keter* (<span dir="rtl">כֶּתֶר</span>, "Crown"), represents the initial stirring of divine will; *Chokhmah* (<span dir="rtl">חָכְמָה</span>, "Wisdom"), the first flash of divine self-awareness; *Binah* (<span dir="rtl">בִּינָה</span>, "Understanding"), the elaboration of that self-awareness into structured knowledge. The sefirotic system is a map of divine self-reference, a recursive process by which the infinite makes itself progressively intelligible to itself.[^47]
 
-## III.F. Modern Jewish Thought
+## Modern Jewish Thought
 
 Soloveitchik, in *Halakhic Man* (1944), developed a theology centered on self-awareness as the defining characteristic of religious consciousness. The *halakhic man* observes the commandments and reflects on the act of observing, analyzes the structure of his own religious experience, and subjects his inner life to the same rigorous scrutiny he applies to legal texts. This reflexive consciousness, thought that takes itself as its object, is for Soloveitchik the highest expression of the *tzelem Elohim* (image of God). The God who defines Himself in Exodus 3:14 creates beings who are called to define themselves through disciplined self-examination.[^48]
 
@@ -256,7 +256,7 @@ Levinas's challenge identifies a genuine tension within the tradition. The Jewis
 
 # Part IV: THE SELF-REFERENTIAL TEXT
 
-## IV.A. Structural Recursion: Torah Within Torah
+## Structural Recursion: Torah Within Torah
 
 The Torah describes its own creation as an event within its own narrative. Deuteronomy 31:9 records: <span dir="rtl">וַיִּכְתֹּב מֹשֶׁה אֶת הַתּוֹרָה הַזֹּאת</span>, "And Moses wrote this Torah." The demonstrative <span dir="rtl">הַזֹּאת</span> ("this") points to the very text in which the sentence appears. The Torah that Moses writes includes the account of Moses writing the Torah, which in turn includes the account of Moses writing the Torah, and so on. A hall of mirrors, textual and infinite.[^51]
 
@@ -264,13 +264,13 @@ Moses compounds the effect. He is both author and character, writing about his o
 
 The Torah's references to its own Exodus narrative in the Passover legislation (Exod 12-13, Deut 16:1-8) create another self-referential loop. The events in the narrative portion give rise to the commandments in the legal portion, but the legal portion refers back to the narrative as its warrant: "because of what the Lord did for me when I came out of Egypt" (<span dir="rtl">בַּעֲבוּר זֶה עָשָׂה יְהוָה לִי בְּצֵאתִי מִמִּצְרָיִם</span>, Exod 13:8). Story and law, narrative and commandment, are linked in a self-referential circuit within the same text.
 
-## IV.B. The Medium Transformation: Speech to Text
+## The Medium Transformation: Speech to Text
 
 For a person who heard Moses speak the content of Deuteronomy, the content was not self-referential. When Moses said "these words" (<span dir="rtl">הַדְּבָרִים הָאֵלֶּה</span>), the demonstrative pointed to the speech act itself, the words currently being uttered. But once the speech was transcribed into text, "these words" could be read as referring to the text of Deuteronomy, a written document with stable boundaries, a fixed sequence of words, and an existence independent of any particular act of utterance. The spoken "I" of Moses became the written "I" of the text, and this "I" could now be interpreted as the voice of the Torah itself, speaking to every reader in perpetuity.[^53]
 
 The distinction matters. A spoken "I" is anchored in a body, a moment, a social context. A written "I" floats free. It belongs to no particular moment, addresses no particular audience, and can be reactivated by any reader at any time. Writing creates self-referential properties that speech did not have. The Torah's self-reference is an emergent property of the medium.[^54]
 
-## IV.C. Torah as Speaking Entity
+## Torah as Speaking Entity
 
 Once the Torah existed as a written text, something remarkable happened: the text came to be treated as a speaking entity, an agent with a voice and a will.
 
@@ -280,7 +280,7 @@ As Samely documented, when the Mishnah says <span dir="rtl">דִּבֵּר הַ�
 
 This perception receives concrete, physical expression. The Torah scroll is dressed as a body: a mantle (<span dir="rtl">מְעִיל</span>), a crown (<span dir="rtl">כֶּתֶר</span>), a breastplate (<span dir="rtl">חֹשֶׁן</span>), a pointer called a <span dir="rtl">יָד</span> (literally "hand"). The handles are called <span dir="rtl">עֲצֵי חַיִּים</span> ("trees of life"), echoing Proverbs 3:18: <span dir="rtl">עֵץ חַיִּים הִיא לַמַּחֲזִיקִים בָּהּ</span>, "It is a tree of life to those who grasp it." When the Torah scroll is raised, the congregation stands, as one stands before a king. The parchment is its flesh, the letters its voice, the handles its limbs. Moses' speech has been replaced by an incorporeal, floating agency that the text embodies.[^57]
 
-## IV.D. Inner-Biblical Interpretation as Self-Reference
+## Inner-Biblical Interpretation as Self-Reference
 
 The Hebrew Bible is a layered tradition in which later texts systematically reinterpret earlier ones. Chronicles reinterprets Samuel-Kings, modifying narratives to reflect changed theological priorities. Deuteronomy reinterprets the legal traditions of Exodus, Leviticus, and Numbers. The Psalms echo Pentateuchal narratives. The prophets rework earlier prophetic traditions. In each case, the Bible interprets the Bible. The text is engaged in a dialogue with itself.[^58]
 
@@ -288,7 +288,7 @@ The Mishnah already recognized this. Mishnah Sanhedrin 10:3 uses a verse in Psal
 
 Michael Fishbane's *Biblical Interpretation in Ancient Israel* (1985) demonstrated the specific literary mechanisms by which this self-interpretation operates: verbal echoes, structural parallels, deliberate revisions linking later texts to earlier ones. But the fundamental insight, that the Bible talks to itself, was a rabbinic intuition before it was a scholarly discovery.
 
-## IV.E. Deuteronomy: The Self-Referential Book
+## Deuteronomy: The Self-Referential Book
 
 If the Torah as a whole is self-referential, Deuteronomy is self-referential with particular intensity. It is a book about the Torah, delivered within the Torah: Moses' retrospective commentary on the very tradition he is transmitting. It functions as the Torah's internal metalanguage, the portion of the text that talks about the text as a whole.
 
@@ -318,7 +318,7 @@ Deuteronomy, then, is a book within a book that talks about the book it is in, c
 
 # Part V: THE RECURSIVE ARCHITECTURE OF RABBINIC JUDAISM
 
-## V.A. Recursive Definitions in Rabbinic Thought
+## Recursive Definitions in Rabbinic Thought
 
 The most fundamental concepts in rabbinic Judaism are defined recursively: the term being defined appears in its own definition. This is a deliberate structural feature, reflecting the tradition's self-grounding character.
 
@@ -339,7 +339,7 @@ isAJew(person):
 
 The algorithm recurses through the maternal line until it reaches either a convert, a person who stood at Sinai, or the end of known genealogy. It is well-formed, with clear base cases and a recursion step that moves closer to termination with each iteration (since each person's mother is one generation further back in time). The algorithm is also *tail-recursive*, meaning the recursive call is the last operation, so it could in principle be executed as an efficient iterative process. In practice, the algorithm is embedded in social norms, legal presumptions, and communal knowledge. But its recursive structure is formally precise.[^64]
 
-## V.B. Ben Bag Bag and the Infinite Recursion of Learning
+## Ben Bag Bag and the Infinite Recursion of Learning
 
 The most explicit articulation of rabbinic Judaism's recursive character comes from Ben Bag Bag in Avot 5:22:
 
@@ -363,7 +363,7 @@ The consequences have been enormous. Because the recursion has no base case, it 
 
 This also explains the historical resistance to the *Mishneh Torah* of Maimonides and the *Shulchan Aruch* of R. Joseph Karo. Both works attempted to present the halakha in a definitive, systematic form. If accepted as final, they would effectively provide a base case for the recursive process of Torah study. The tradition refused. The *Mishneh Torah* was immediately subjected to commentary (the Hasagot of Rabad, the Maggid Mishneh, the Kesef Mishneh). The *Shulchan Aruch* was supplemented by the glosses of the Rema and subsequent commentaries. In each case, the tradition's response to an attempt to halt the recursion was to subsume the halting attempt into a new iteration of the recursion itself. The code became another text to be "turned over and turned over." The recursion cannot be stopped.[^68]
 
-## V.C. The Hermeneutical Principles as Meta-Rules
+## The Hermeneutical Principles as Meta-Rules
 
 The thirteen hermeneutical principles (<span dir="rtl">מִדּוֹת</span>) attributed to Rabbi Yishmael, recited daily in the morning liturgy, are the formal rules by which the Torah is interpreted. They include *kal vachomer* (a fortiori reasoning), *gezeirah shavah* (analogy based on verbal congruence), *binyan av* (constructing a general principle from one or two verses), and others.[^69]
 
@@ -371,7 +371,7 @@ These principles have a distinctive logical status: they are rules about how to 
 
 The parallel to Godel's incompleteness theorems is suggestive. Godel demonstrated that any formal system powerful enough to encode arithmetic can encode statements about itself, including a statement asserting its own unprovability. The Torah, which encodes rules for its own interpretation (the thirteen *middot*), is analogously a system that contains a formalized description of its own interpretive apparatus. Just as Godel numbering allows a formal system to "talk about" its own propositions, the thirteen *middot* allow the Torah to "talk about" its own meaning, to contain, within itself, the machinery for extracting its own content. If the parallel holds, there will always be truths of the Torah that the thirteen *middot* cannot derive: meanings that are "in" the text but that no finite set of hermeneutical rules can extract. Ben Bag Bag's infinite recursion is a structural necessity.[^71]
 
-## V.D. The Talmud's Self-Awareness
+## The Talmud's Self-Awareness
 
 The Talmud is a text that knows it is a text.
 
@@ -379,11 +379,11 @@ The Mishnah, by contrast, does not acknowledge the existence of the Mishnah. It 
 
 The Talmud frequently acknowledges its own existence. It discusses the reasons for its compilation, cites itself as a source, refers to the project of oral transmission it represents, and reflects on the relationship between the Written Torah and the Oral Torah it embodies. This transition, from the non-self-referential Mishnah to the self-referential Talmud, is one of the most significant developments in the history of Jewish textuality.
 
-The anonymous stratum of the Talmud, the *stam* (<span dir="rtl">סְתָם</span>), functions as a metalanguage for the Mishnah. Tarski demonstrated (see I.C) that a consistent truth predicate for a formal language can only be defined in a metalanguage of greater expressive power. The *stam* stands in precisely this relation to the Mishnah: more discursive, more argumentative, more self-reflective, it discusses, interrogates, and establishes the meaning of the Mishnah's compressed legal statements. Just as Tarski's metalanguage can express truths about the object language that the object language cannot express about itself, the *stam* can express truths about the Mishnah that the Mishnah cannot express about itself: its internal contradictions, its unstated assumptions, its relationship to other sources, its interpretive limits.[^73]
+The anonymous stratum of the Talmud, the *stam* (<span dir="rtl">סְתָם</span>), functions as a metalanguage for the Mishnah. Tarski demonstrated (see the Self-Reference in Formal Logic section) that a consistent truth predicate for a formal language can only be defined in a metalanguage of greater expressive power. The *stam* stands in precisely this relation to the Mishnah: more discursive, more argumentative, more self-reflective, it discusses, interrogates, and establishes the meaning of the Mishnah's compressed legal statements. Just as Tarski's metalanguage can express truths about the object language that the object language cannot express about itself, the *stam* can express truths about the Mishnah that the Mishnah cannot express about itself: its internal contradictions, its unstated assumptions, its relationship to other sources, its interpretive limits.[^73]
 
 The justification the Talmud offers for its own existence is itself a masterpiece of self-reference. The Talmud cites the verse <span dir="rtl">עֵת לַעֲשׂוֹת לַיהוָה הֵפֵרוּ תּוֹרָתֶךָ</span>, "There is a time to act for the Lord; they have violated Your Torah" (Ps 119:126), as the warrant for committing the Oral Torah to writing. When the Torah is in danger of being forgotten, it is permissible to "violate" the prohibition against writing down the Oral Torah to preserve it. But the passage in which the Talmud cites this verse is itself part of the Oral Torah that has been written down. The justification for the act is contained within the product of the act. Gabriel Levy compared this to writing on a piece of sheet music: "THIS IS SANCTIONED SHEET MUSIC" and then claiming the sanction itself constitutes music.[^74]
 
-## V.E. Commentary as Recursive Process
+## Commentary as Recursive Process
 
 The commentary tradition that grew around the Talmud is the ongoing execution of Ben Bag Bag's recursive procedure. Each generation of commentators "turns over" the text, extracting new meanings, resolving new difficulties, generating new questions, which become the raw material for the next generation's turning.
 
@@ -397,7 +397,7 @@ And the commentary tradition exhibits one further property: commentary becomes p
 
 # Part VI: SELF-REFERENCE IN HALAKHA AND RITUAL
 
-## VI.A. Self-Referencing Commandments
+## Self-Referencing Commandments
 
 The commandment to study Torah (<span dir="rtl">תַּלְמוּד תּוֹרָה</span>) is itself Torah. The act of studying the commandment to study Torah is itself the fulfillment of the commandment to study Torah. The commandment is simultaneously the instruction and the content; the signifier and the signified coincide. There is no gap between learning what the commandment requires and performing what the commandment requires, because the commandment requires learning, and learning the commandment is learning.[^78]
 
@@ -405,7 +405,7 @@ The commandment to write a Torah scroll (<span dir="rtl">כְּתִיבַת סֵ
 
 The Passover Haggadah may be the most richly self-referential commandment in the entire halakhic system. The obligation to recount the Exodus story on the night of Passover (<span dir="rtl">סִפּוּר יְצִיאַת מִצְרַיִם</span>) is derived from Exodus 13:8: <span dir="rtl">וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר בַּעֲבוּר זֶה עָשָׂה יְהוָה לִי בְּצֵאתִי מִמִּצְרָיִם</span>, "And you shall tell your son on that day, saying: 'Because of this, the Lord did for me when I came out of Egypt.'" The Haggadah that commands its own retelling is a text that refers to itself annually: each year's recitation executes the command embedded in the text being recited. A script for a performance that includes, as part of the script, the instruction to perform the script again next year.[^80]
 
-## VI.B. Tefillin and Mezuzah as Self-Referencing Objects
+## Tefillin and Mezuzah as Self-Referencing Objects
 
 The *tefillin* (phylacteries) and *mezuzah* (doorpost scroll) are physical objects that encode their own commandments. The parchment inside the tefillin contains four biblical passages, including Deuteronomy 6:8: <span dir="rtl">וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶיךָ</span>, "And you shall bind them as a sign upon your hand, and they shall be as frontlets between your eyes." The "them" in this verse refers to the words of the Torah, words that include this very verse. The parchment inside the tefillin commands the wearing of tefillin. The object refers to itself.[^81]
 
@@ -413,7 +413,7 @@ The same structure applies to the *mezuzah*. The parchment inside the mezuzah co
 
 The self-referential dimension deepens with a remarkable aggadic teaching. The Talmud (Berakhot 6a) states that God Himself wears tefillin. What is written in God's tefillin? <span dir="rtl">מִי כְעַמְּךָ יִשְׂרָאֵל גּוֹי אֶחָד בָּאָרֶץ</span>, "Who is like Your people Israel, one nation on earth" (1 Chr 17:21). Israel's tefillin contain a declaration about God (<span dir="rtl">שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד</span>, "Hear, O Israel, the Lord our God, the Lord is one"); God's tefillin contain a declaration about Israel. The two sets form a reciprocal self-referential system: each refers to the wearer of the other. God and Israel are bound together in a recursive loop of mutual declaration, each affirming the other's uniqueness, each wearing the other's testimony on his body. Given that the God of the Bible is defined recursively (Part III) and the tefillin are self-referencing objects, it is fitting that this recursive God is depicted wearing self-referencing objects. The recursion nests: a self-referential deity wears self-referential objects that refer to a self-referential people.[^82]
 
-## VI.C. The Passover Seder as Recursive Self-Reference
+## The Passover Seder as Recursive Self-Reference
 
 The Passover Seder is the most elaborately self-referential ritual in Judaism. It is a performance that includes instructions for its own performance, a narrative that tells the story of how the obligation to narrate arose, a ritual that commands the participants to experience themselves as participants in the event being commemorated.
 
@@ -423,7 +423,7 @@ The *Mah Nishtanah* (Four Questions) is a script for questioning the ritual, a s
 
 The songs that conclude the Seder, <span dir="rtl">אֶחָד מִי יוֹדֵעַ</span> ("Who Knows One?") and <span dir="rtl">חַד גַּדְיָא</span> ("One Little Goat"), have recursive structures. Each verse of <span dir="rtl">אֶחָד מִי יוֹדֵעַ</span> recapitulates all previous verses in reverse order, building a cumulative structure: the twelfth verse contains all twelve elements, the eleventh all eleven, and so on. <span dir="rtl">חַד גַּדְיָא</span> builds a chain of successive agents, each acting upon the previous one, until the final agent, the Holy One, Blessed Be He, acts upon the Angel of Death. The death of death: a recursive concept in which death is applied to itself.[^85]
 
-## VI.D. Self-Reference in Jewish Identity and Community
+## Self-Reference in Jewish Identity and Community
 
 The *Shema*, the central declaration of Jewish faith, is, on one reading, an act of collective self-address. <span dir="rtl">שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד</span>, "Hear, O Israel: the Lord our God, the Lord is one" (Deut 6:4). When the Jewish community recites the *Shema*, Israel addresses Israel. The speaker and the addressee are identical: the community speaks to itself, commanding itself to listen to its own declaration. Beyond describing a theological proposition (God is one), the *Shema* performs a social act (Israel constitutes itself as a unified community through speaking to itself about its God). It is in the very act of communal self-address that the community comes into being as a community. Israel exists as <span dir="rtl">כְּנֶסֶת יִשְׂרָאֵל</span> in the moment when it says "Hear, O Israel," when it speaks to itself about itself and its God.[^87]
 
@@ -431,7 +431,7 @@ Conversion (<span dir="rtl">גִּיּוּר</span>) provides a particularly cle
 
 # Part VII: SELF-REFERENCE IN MIDRASH AND AGGADAH
 
-## VII.A. Reflexivity in Midrash
+## Reflexivity in Midrash
 
 Midrash is predisposed to self-reference by its very nature. It quotes texts, reconstructs them, takes them apart, and its narrators stand on the threshold between the stories they tell and the world they inhabit. Dina Stein calls the result "textual mirrors": moments when a rabbinic text reflects its own interpretive activity back at itself.[^88]
 
@@ -441,7 +441,7 @@ The *mashal* (parable) is fertile ground here. A parable illustrates a point by 
 
 More broadly, midrash practices systematic metalepsis, the transgression of narrative levels. Rabbinic sages insert themselves into biblical scenes, appearing alongside Abraham, Moses, and David as though the boundary between eras did not exist. Biblical characters, conversely, become rabbinic scholars: Abraham studies Torah in a yeshiva, the patriarchs observe commandments not yet given, Moses visits Rabbi Akiva's classroom (Menachot 29b). These are acts of self-reference in which the tradition projects itself into its own foundational texts and discovers itself already there.[^90]
 
-## VII.B. Abraham and Sarah: Reflection as Cognitive Self-Reference
+## Abraham and Sarah: Reflection as Cognitive Self-Reference
 
 A midrash in Tanchuma on Genesis 12:11 is one of the most exquisitely layered instances of self-reference in all of rabbinic literature.
 
@@ -459,7 +459,7 @@ Let each layer settle.
 
 A physical reflection (Sarah in the water) induces a cognitive self-reflection (Abraham's metacognitive moment), narrated through a textual self-reflection (the sage projecting himself into the story), in a literary form (midrash) that is itself a mode of textual reflection (interpretation of a text within a text). A cascade of reflections, each reflecting the act of reflection itself. A hall of mirrors in miniature.
 
-## VII.C. The Talmud's Self-Referencing Narrative Strategies
+## The Talmud's Self-Referencing Narrative Strategies
 
 The Babylonian Talmud uses self-reference as a narrative strategy with a distinctive combination of intellectual seriousness and grotesque humor.[^94]
 
@@ -469,17 +469,17 @@ The question "Can a person violate the prohibition of forbidden sexual relations
 
 If Boyarin is right that the Babylonian Talmud participates in the Menippean satirical tradition (texts that mock their own conventions, narrators who undermine their own authority, intellectual discourse that intermittently descends into obscenity to remind the reader not to mistake its own constructions for reality), then these self-referential narrative strategies are built into the very literary form the Talmud adopted.[^97]
 
-## VII.D. Self-Reference in Liturgy and Poetry
+## Self-Reference in Liturgy and Poetry
 
 The *Kaddish*, the doxology recited at transitions in the liturgical service and by mourners, opens: <span dir="rtl">יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא</span>, "May His great name be magnified and sanctified." The act of reciting the Kaddish is itself an act of magnifying and sanctifying God's name. The prayer performs what it petitions: it asks God's name to be magnified, and the asking is itself a magnification. A petition that grants its own petition in the act of petitioning.[^98]
 
-The *Shema*, discussed in VI.D as communal self-address, functions in the liturgical context as a self-referential frame for the entire prayer service. The first paragraph (Deut 6:4-9) commands the recitation of "these words," words that include the command to recite. When the congregation recites the *Shema*, it performs the commandment described by the text being performed. Text commands act, act instantiates text, which commands act, which instantiates text: an endless liturgical recursion performed twice daily.
+The *Shema*, discussed in the Self-Reference in Jewish Identity and Community section as communal self-address, functions in the liturgical context as a self-referential frame for the entire prayer service. The first paragraph (Deut 6:4-9) commands the recitation of "these words," words that include the command to recite. When the congregation recites the *Shema*, it performs the commandment described by the text being performed. Text commands act, act instantiates text, which commands act, which instantiates text: an endless liturgical recursion performed twice daily.
 
 # Part VIII: THE HAZARDS AND LIMITS OF SELF-REFERENCE
 
 The tradition is not naive about the dangers of self-reference. It recognizes, with remarkable prescience, that self-referential systems can generate paradoxes, infinite loops, and pathological outcomes.
 
-## VIII.A. The Bathroom Torah Paradox
+## The Bathroom Torah Paradox
 
 The halakha prohibits thinking about Torah in unclean places such as the bathroom (<span dir="rtl">בֵּית הַכִּסֵּא</span>). This prohibition is itself a piece of Torah.[^99]
 
@@ -491,7 +491,7 @@ The parallel to Russell's paradox is precise. Russell asked: Does the set of all
 
 In practice, the halakhic system resolves this the way Russell resolved his paradox: by stratifying levels. Russell prohibited a set from containing sets of its own level. The halakha distinguishes between deliberate, sustained engagement with Torah and fleeting, involuntary thoughts. The prohibition applies to the former. A momentary awareness of the prohibition does not constitute the kind of "thinking about Torah" that the law targets. Sustained study is one level; fleeting meta-awareness is another. The paradox dissolves once you stop treating all Torah-related thoughts as belonging to the same type.
 
-## VIII.B. Purim Intoxication: Monitoring One's Own Monitoring
+## Purim Intoxication: Monitoring One's Own Monitoring
 
 The Talmud directs: <span dir="rtl">חַיָּב אִינִשׁ לְבַסּוּמֵי בְּפוּרַיָּא עַד דְּלָא יָדַע בֵּין אָרוּר הָמָן לְבָרוּךְ מׇרְדְּכַי</span>, "A person is obligated to become intoxicated on Purim until he does not know the difference between 'cursed is Haman' and 'blessed is Mordechai'" (Megillah 7b).[^101]
 
@@ -507,7 +507,7 @@ The halakhic authorities recognized the difficulty. Rema (R. Moses Isserles, 153
 
 The elegance of this ruling deserves a moment. Rema sidesteps the paradox of self-monitoring entirely by substituting unconsciousness, which is definitionally non-self-referential (one cannot be aware of being unaware), for the problematic state of impaired-but-still-self-monitoring cognition. You cannot solve the metacognitive puzzle, so stop trying. Go to sleep.
 
-## VIII.C. The Prohibition of Confession
+## The Prohibition of Confession
 
 The Talmud records: <span dir="rtl">אֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע</span>, "A person cannot render himself a wicked person" (Sanhedrin 9b). Confessions are not accepted as evidence in Jewish criminal law.[^104]
 
@@ -517,11 +517,11 @@ The formal structure runs deeper. Tarski demonstrated that a formal language can
 
 Tarski's resolution was the metalanguage hierarchy: the truth predicate for a language must live in a higher-level language. The rabbinic resolution is structurally identical. Guilt must be determined by external witnesses and judges, a "metalevel" of legal assessment distinct from the "object level" of the accused's own self-assessment. You can speak about yourself, but you cannot render final legal judgment on yourself. That determination must come from outside.[^106]
 
-## VIII.D. Susceptibility to Infinite Recursion
+## Susceptibility to Infinite Recursion
 
 One consequence of rabbinic Judaism's deeply recursive nature is that certain personalities become trapped in the recursive loops the system generates.
 
-The bathroom paradox from VIII.A is one instance: the recursive awareness that thinking about the prohibition constitutes prohibited thinking generates an inescapable loop. More broadly, religious scrupulosity (excessive anxiety about correct performance of religious obligations) can be understood as a failure to terminate a recursive process. The scrupulous person checks whether he has fulfilled a commandment, then checks whether his checking was adequate, then checks whether his checking of his checking was adequate. An infinite regress of verification.[^107]
+The bathroom paradox from the Bathroom Torah Paradox section is one instance: the recursive awareness that thinking about the prohibition constitutes prohibited thinking generates an inescapable loop. More broadly, religious scrupulosity (excessive anxiety about correct performance of religious obligations) can be understood as a failure to terminate a recursive process. The scrupulous person checks whether he has fulfilled a commandment, then checks whether his checking was adequate, then checks whether his checking of his checking was adequate. An infinite regress of verification.[^107]
 
 The halakhic system contains built-in mechanisms for breaking these loops. The principle of *rov* (<span dir="rtl">רוֹב</span>, "majority") allows decisions to be based on statistical probability rather than exhaustive verification: if most cases of a certain type have a certain property, this case is presumed to share it, without verifying. The principle of *chazakah* (<span dir="rtl">חֲזָקָה</span>, "presumption") establishes that a state of affairs continues until evidence of change appears: if something was kosher yesterday, it is presumed kosher today unless there is reason to believe otherwise.[^108]
 
@@ -529,7 +529,7 @@ Both principles function as *base cases* that terminate potentially infinite rec
 
 *Rov* and *chazakah* are the stopping conditions that keep the legal system functioning. They are, in the most practical sense, the tradition's solution to the halting problem.
 
-## VIII.E. Formal Parallels
+## Formal Parallels
 
 The rabbinic awareness that self-reference must be limited anticipates three landmark results of twentieth-century mathematical logic.
 
@@ -539,7 +539,7 @@ The rabbis did not prove theorems. But they lived inside a self-referential syst
 
 # Part IX: SYNTHESIS AND LEGACY
 
-## IX.A. Self-Reference Across All Levels
+## Self-Reference Across All Levels
 
 The self-referential God creates a self-referential text, which generates self-referential interpretive principles, which produce a self-referential legal system, which mandates self-referential ritual practices, which constitute a self-referential community, which generates self-referential literature, which occasionally encounters the limits of self-reference, at which point the system deploys self-referential mechanisms to contain the pathology.
 
@@ -563,7 +563,7 @@ Here is the taxonomy:
 
 Self-reference is not an incidental feature that appears here and there. It is the structural principle that organizes the tradition at every level.[^111]
 
-## IX.B. Comparative Religion
+## Comparative Religion
 
 **Hinduism.** The Upanishadic formula *tat tvam asi* ("that art thou," Chandogya Upanishad 6.8.7) identifies the individual self (*atman*) with the universal ground of being (*Brahman*). This is self-reference, but its structure is fundamentally different. In *tat tvam asi*, self-reference leads to the dissolution of the self: the individual ego is revealed as illusory, and true identity lies in undifferentiated oneness. In the Jewish model, self-reference generates differentiation and productivity: God's self-definition inaugurates an expanding tradition of commentary, law, and communal identity. Hindu self-reference is centripetal (everything converges to the One). Jewish self-reference is centrifugal (the One generates an expanding universe of texts, laws, and practices).[^112]
 
@@ -573,7 +573,7 @@ Self-reference is not an incidental feature that appears here and there. It is t
 
 The Jewish tradition's distinctive contribution is *productive* self-reference. The God of Exodus 3:14 inaugurates a tradition. The Torah commands its own study. Ben Bag Bag prescribes recursion as the fundamental method of intellectual life. At every level, Jewish self-reference is creative rather than contemplative, an engine generating ever new forms of meaning from the recursive encounter of text with text, mind with mind, community with itself.
 
-## IX.C. The Impact on Western Thought
+## The Impact on Western Thought
 
 The self-referential structures of the Jewish tradition have had a profound, if often unacknowledged, influence on Western intellectual history.
 
@@ -583,7 +583,7 @@ A less direct but equally significant line runs from the recursive structures of
 
 This is not a claim of direct influence. Godel did not derive his numbering system from gematria, and Turing did not model his machines on the Talmudic page. It is a claim of structural affinity. The Jewish tradition, by constructing a self-referential system of sufficient power and complexity, encountered and developed practical responses to the same phenomena that formal logic would later characterize precisely. The tradition explored the same conceptual territory centuries before the formal tools existed to map it.
 
-## IX.D. Autopoiesis: The Self-Producing Tradition
+## Autopoiesis: The Self-Producing Tradition
 
 A living cell uses its molecular machinery to produce the molecules that constitute its molecular machinery. The system's output is its own continued existence. Maturana and Varela called this property *autopoiesis*, self-production, and identified it as the defining characteristic of living systems.[^117]
 
@@ -600,7 +600,7 @@ Ben Bag Bag's directive, "Turn it over and turn it over, for everything is in it
 
 This framework clarifies why the tradition has shown such remarkable resilience across millennia of upheaval. Autopoietic systems are self-maintaining by definition: they produce the components they need to continue producing. As long as the recursive procedure continues to execute, as long as there are interpreters turning the text over and over, the system will produce itself. The tradition generates its own authority (through the chain of transmission), its own infrastructure (through communal institutions), and its own content (through commentary). It is, in the strongest possible sense, self-sustaining. A social and textual analogue of the burning bush that feeds on itself without being consumed.
 
-## IX.E. The Bootstrapping Compiler
+## The Bootstrapping Compiler
 
 In computer science, a *bootstrapping compiler* is a compiler written in the language it compiles. The first C compiler, for instance, was eventually rewritten in C itself, meaning the tool used to translate C programs into machine code was itself a C program. This creates an apparent chicken-and-egg problem: how can you compile the compiler if the compiler is what does the compiling?[^119]
 

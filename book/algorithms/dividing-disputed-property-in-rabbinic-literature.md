@@ -7,59 +7,59 @@ A comprehensive treatment of claims problems across the full arc of rabbinic tho
 # Table of Contents
 
 - [Part I: The Garment on the Table](#part-i-the-garment-on-the-table)
-  - [I.A. Two People, One Garment](#ia-two-people-one-garment)
-  - [I.B. When Claims Are Unequal](#ib-when-claims-are-unequal)
-  - [I.C. Concede and Divide](#ic-concede-and-divide)
-  - [I.D. What a Claims Problem Is](#id-what-a-claims-problem-is)
+  - [Two People, One Garment](#two-people-one-garment)
+  - [When Claims Are Unequal](#when-claims-are-unequal)
+  - [Concede and Divide](#concede-and-divide)
+  - [What a Claims Problem Is](#what-a-claims-problem-is)
 - [Part II: The Three Widows](#part-ii-the-three-widows)
-  - [II.A. The Puzzle That Stumped Everyone for Two Thousand Years](#iia-the-puzzle-that-stumped-everyone-for-two-thousand-years)
-  - [II.B. Rabbi Natan and the Amoraic Discussion](#iib-rabbi-natan-and-the-amoraic-discussion)
-  - [II.C. The Rishonim Struggle with the Table](#iic-the-rishonim-struggle-with-the-table)
+  - [The Puzzle That Stumped Everyone for Two Thousand Years](#the-puzzle-that-stumped-everyone-for-two-thousand-years)
+  - [Rabbi Natan and the Amoraic Discussion](#rabbi-natan-and-the-amoraic-discussion)
+  - [The Rishonim Struggle with the Table](#the-rishonim-struggle-with-the-table)
 - [Part III: Maimonides' Three Rules](#part-iii-maimonides-three-rules)
-  - [III.A. Constrained Equal Awards](#iiia-constrained-equal-awards)
-  - [III.B. Constrained Equal Losses](#iiib-constrained-equal-losses)
-  - [III.C. The Proportional Rule](#iiic-the-proportional-rule)
-  - [III.D. Ravad's Two Algorithms](#iiid-ravads-two-algorithms)
+  - [Constrained Equal Awards](#constrained-equal-awards)
+  - [Constrained Equal Losses](#constrained-equal-losses)
+  - [The Proportional Rule](#the-proportional-rule)
+  - [Ravad's Two Algorithms](#ravads-two-algorithms)
 - [Part IV: What Makes a Rule Fair?](#part-iv-what-makes-a-rule-fair)
-  - [IV.A. Basic Requirements](#iva-basic-requirements)
-  - [IV.B. Equal Treatment of Equals](#ivb-equal-treatment-of-equals)
-  - [IV.C. Resource Monotonicity](#ivc-resource-monotonicity)
-  - [IV.D. Consistency](#ivd-consistency)
-  - [IV.E. Duality](#ive-duality)
-  - [IV.F. Claims Monotonicity and Population Monotonicity](#ivf-claims-monotonicity-and-population-monotonicity)
+  - [Basic Requirements](#basic-requirements)
+  - [Equal Treatment of Equals](#equal-treatment-of-equals)
+  - [Resource Monotonicity](#resource-monotonicity)
+  - [Consistency](#consistency)
+  - [Duality](#duality)
+  - [Claims Monotonicity and Population Monotonicity](#claims-monotonicity-and-population-monotonicity)
 - [Part V: Beyond the Basic Three](#part-v-beyond-the-basic-three)
-  - [V.A. Piniles' Rule](#va-piniles-rule)
-  - [V.B. Run on the Bank](#vb-run-on-the-bank)
-  - [V.C. The Shapley Value and Its Flaw](#vc-the-shapley-value-and-its-flaw)
-  - [V.D. Ibn Ezra's Layered Cost-Sharing](#vd-ibn-ezras-layered-cost-sharing)
-  - [V.E. Ketzos HaChoshen](#ve-ketzos-hachoshen)
-  - [V.F. Shulchan Aruch: Codified Division Rules](#vf-shulchan-aruch-codified-division-rules)
-  - [V.G. Hai Gaon's Methodology](#vg-hai-gaons-methodology)
+  - [Piniles' Rule](#piniles-rule)
+  - [Run on the Bank](#run-on-the-bank)
+  - [The Shapley Value and Its Flaw](#the-shapley-value-and-its-flaw)
+  - [Ibn Ezra's Layered Cost-Sharing](#ibn-ezras-layered-cost-sharing)
+  - [Ketzos HaChoshen](#ketzos-hachoshen)
+  - [Shulchan Aruch: Codified Division Rules](#shulchan-aruch-codified-division-rules)
+  - [Hai Gaon's Methodology](#hai-gaons-methodology)
 - [Part VI: The Aumann-Maschler Breakthrough](#part-vi-the-aumann-maschler-breakthrough)
-  - [VI.A. Two Economists Read the Talmud](#via-two-economists-read-the-talmud)
-  - [VI.B. The Talmud Rule](#vib-the-talmud-rule)
-  - [VI.C. The Recursive Formulation](#vic-the-recursive-formulation)
-  - [VI.D. Three Regimes](#vid-three-regimes)
+  - [Two Economists Read the Talmud](#two-economists-read-the-talmud)
+  - [The Talmud Rule](#the-talmud-rule)
+  - [The Recursive Formulation](#the-recursive-formulation)
+  - [Three Regimes](#three-regimes)
 - [Part VII: The Game-Theoretic Foundation](#part-vii-the-game-theoretic-foundation)
-  - [VII.A. Cooperative Games](#viia-cooperative-games)
-  - [VII.B. The Nucleolus](#viib-the-nucleolus)
-  - [VII.C. The Talmud Rule Is the Nucleolus](#viic-the-talmud-rule-is-the-nucleolus)
-  - [VII.D. What the Mishnah Could Not Have Known](#viid-what-the-mishnah-could-not-have-known)
+  - [Cooperative Games](#cooperative-games)
+  - [The Nucleolus](#the-nucleolus)
+  - [The Talmud Rule Is the Nucleolus](#the-talmud-rule-is-the-nucleolus)
+  - [What the Mishnah Could Not Have Known](#what-the-mishnah-could-not-have-known)
 - [Part VIII: Other Division Problems in Rabbinic Law](#part-viii-other-division-problems-in-rabbinic-law)
-  - [VIII.A. Inheritance: The Firstborn's Double Portion](#viiia-inheritance-the-firstborns-double-portion)
-  - [VIII.B. Land Division and Heterogeneous Goods](#viiib-land-division-and-heterogeneous-goods)
-  - [VIII.C. Partnership Dissolution](#viiic-partnership-dissolution)
-  - [VIII.D. Damages with Insufficient Assets](#viiid-damages-with-insufficient-assets)
-  - [VIII.E. Shuda D'Dayanei: When No Algorithm Applies](#viiie-shuda-ddayanei-when-no-algorithm-applies)
+  - [Inheritance: The Firstborn's Double Portion](#inheritance-the-firstborns-double-portion)
+  - [Land Division and Heterogeneous Goods](#land-division-and-heterogeneous-goods)
+  - [Partnership Dissolution](#partnership-dissolution)
+  - [Damages with Insufficient Assets](#damages-with-insufficient-assets)
+  - [Shuda D'Dayanei: When No Algorithm Applies](#shuda-ddayanei-when-no-algorithm-applies)
 - [Part IX: The Modern Conversation](#part-ix-the-modern-conversation)
-  - [IX.A. Thomson's Axiomatics](#ixa-thomsons-axiomatics)
-  - [IX.B. Dagan's Alternative Characterizations](#ixb-dagans-alternative-characterizations)
-  - [IX.C. Balinski's "What Is Just?"](#ixc-balinskis-what-is-just)
-  - [IX.D. Connections Forward](#ixd-connections-forward)
+  - [Thomson's Axiomatics](#thomsons-axiomatics)
+  - [Dagan's Alternative Characterizations](#dagans-alternative-characterizations)
+  - [Balinski's "What Is Just?"](#balinskis-what-is-just)
+  - [Connections Forward](#connections-forward)
 - [Part X: Synthesis and Reflection](#part-x-synthesis-and-reflection)
-  - [X.A. A Map of the Algorithms](#xa-a-map-of-the-algorithms)
-  - [X.B. What the Tradition Teaches About Fairness](#xb-what-the-tradition-teaches-about-fairness)
-  - [X.C. Open Questions](#xc-open-questions)
+  - [A Map of the Algorithms](#a-map-of-the-algorithms)
+  - [What the Tradition Teaches About Fairness](#what-the-tradition-teaches-about-fairness)
+  - [Open Questions](#open-questions)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
@@ -67,7 +67,7 @@ A comprehensive treatment of claims problems across the full arc of rabbinic tho
 
 # Part I: THE GARMENT ON THE TABLE
 
-## I.A. Two People, One Garment
+## Two People, One Garment
 
 Two people walk into a courtroom holding a single garment. Each one says: I found it. It is all mine.
 
@@ -81,7 +81,7 @@ The equal-split ruling also conceals a choice. The Mishnah could have said: sinc
 
 But the Mishnah isn't finished.
 
-## I.B. When Claims Are Unequal
+## When Claims Are Unequal
 
 The second case is where things get interesting. One person claims the entire garment — "It is all mine." The other claims only half — <span dir="rtl">חציה שלי</span> — "Half of it is mine." The Mishnah rules: the one claiming all receives three-fourths; the one claiming half receives one-fourth.[^2]
 
@@ -99,7 +99,7 @@ Here is the garment problem laid out as a table, with the garment worth 200 zuz:
 
 The numbers are doing something consistent. The question is what.
 
-## I.C. Concede and Divide
+## Concede and Divide
 
 Rashi, commenting on Bava Metzia 2a, explains the logic behind the Mishnah's ruling with an algorithm so clean it practically names itself.[^4]
 
@@ -160,7 +160,7 @@ A natural first attempt: compute what the other claimants collectively concede t
 
 The failure of the naive extension is precisely why the Ketuboth problem is hard. CnD is a two-person algorithm, and scaling it to three or more people requires something more subtle than applying it to everyone at once. That subtlety is the subject of the next eight parts.
 
-## I.D. What a Claims Problem Is
+## What a Claims Problem Is
 
 Before pushing further, it helps to name what we're looking at. The garment cases are instances of a general structure that appears across rabbinic literature and, independently, across modern economics.
 
@@ -184,7 +184,7 @@ These names prepare us for the central puzzle of this manuscript: a claims probl
 
 # Part II: THE THREE WIDOWS
 
-## II.A. The Puzzle That Stumped Everyone for Two Thousand Years
+## The Puzzle That Stumped Everyone for Two Thousand Years
 
 The contested garment, for all its elegance, is a two-person problem. Two claimants, one garment, a clean algorithm. But the world has more than two people, and estates have more than two creditors. What happens when the algorithm must scale?
 
@@ -220,7 +220,7 @@ Over two millennia, this Mishnah spawned a vast literature. Many authorities dis
 
 The passage is, in brief, notoriously difficult.
 
-## II.B. Rabbi Natan and the Amoraic Discussion
+## Rabbi Natan and the Amoraic Discussion
 
 The Gemara on Ketuboth 93a attributes the Mishnah to Rabbi Natan, and the discussion that follows provides a crucial clue — one that went largely unappreciated until the twentieth century.[^17]
 
@@ -252,7 +252,7 @@ Every pair in every row checks out. The Mishnah's numbers are CnD-consistent thr
 
 But at the time, neither the Babylonian nor the Jerusalem Talmud could articulate a general rule that extended beyond these specific numbers. They showed that the numbers were consistent. They could not show why those numbers, and no others, had to be the answer.
 
-## II.C. The Rishonim Struggle with the Table
+## The Rishonim Struggle with the Table
 
 The medieval commentators — the Rishonim — engaged the Ketuboth table with the full weight of their analytical brilliance, and the difficulty of the passage is reflected in the diversity of their approaches.
 
@@ -288,7 +288,7 @@ Three rules became dominant, each with a clear intuition and a specific rabbinic
 
 A note on terminology: "Constrained Equal Awards" and "Constrained Equal Losses" are modern names given by Thomson and the economics literature. Maimonides did not use these terms. He described the rules through specific examples and general principles, as was the convention of halakhic codification. The formal names are anachronistic but useful.
 
-## III.A. Constrained Equal Awards
+## Constrained Equal Awards
 
 Maimonides, in Hilkhot Malveh v'Loveh (Laws of Lending and Borrowing) 20:4, codifies a rule for dividing an estate among creditors: give each creditor an equal share, but never more than her claim.[^27]
 
@@ -331,7 +331,7 @@ This "water-filling" metaphor makes CEA's appeal clear. Every additional dollar 
 
 **Third worked example.** Estate E = 400, claims (100, 200, 300). Equal share = 133⅓. Creditor 1's claim is 100 < 133⅓, so she is fully satisfied at 100. Remaining: 300 between two claimants. Equal share: 150. Creditor 2's claim is 200 ≥ 150, Creditor 3's claim is 300 ≥ 150. Awards: (100, 150, 150).
 
-## III.B. Constrained Equal Losses
+## Constrained Equal Losses
 
 Where CEA equalizes what people *receive*, Constrained Equal Losses equalizes what they *lose*. Maimonides describes this approach in a different context — Hilkhot Erkhei HaKdesh (Laws of Appraisal) 8:4 — through a scenario involving bidders at an auction who renege on their bids.[^29]
 
@@ -374,7 +374,7 @@ The asymmetry is clear: CEA starts from zero and builds up; CEL starts from full
 
 This asymmetry between CEA (good for small estates) and CEL (good for large estates) will turn out to be the key to the Talmud Rule. The Talmud Rule's central insight is that both intuitions are correct — in their respective domains — and the half-claim is the natural dividing line between them.
 
-## III.C. The Proportional Rule
+## The Proportional Rule
 
 The proportional rule predates rabbinic literature. Aristotle articulated it in Book V, Chapter 3 of the *Nicomachean Ethics*: "The just is the proportional."[^32] Each claimant receives a share of the estate proportional to their claim. Modern secular bankruptcy law typically follows this principle — each dollar of debt is treated identically, regardless of which creditor holds it.
 
@@ -419,7 +419,7 @@ Here is a summary of how each rule performs against the three rows:
 
 Three rules, three rows, and no rule matches more than one. The Mishnah is doing something none of these algorithms can capture alone.
 
-## III.D. Ravad's Two Algorithms
+## Ravad's Two Algorithms
 
 The Ravad — Rabbi Abraham ben David of Posquières — was Maimonides' most formidable critic, and on the question of estate division he proposed not one but two distinct algorithms, each in a different context.
 
@@ -513,7 +513,7 @@ The approach developed by modern economists, particularly William Thomson, is ax
 
 The properties are abstract, so we'll ground each one in a concrete scenario before stating it formally.
 
-## IV.A. Basic Requirements
+## Basic Requirements
 
 Before comparing algorithms on specific properties, we need to clear the ground. The axiomatic approach works by specifying a list of desirable properties and then asking: which rules satisfy all of them? The properties range from the nearly trivial (no one gets a negative award) to the deeply substantive (consistency, self-duality). The trivial ones are starting conditions; the substantive ones do the real work.
 
@@ -531,7 +531,7 @@ They're also, in halakhic terms, so natural that they barely need arguing. Non-n
 
 That these three properties are universally satisfied makes them invisible in most discussions. But they do rule out some conceivable approaches. For instance, a rule that says "destroy 10% of the estate as a penalty for having a dispute, then divide the rest" would violate balance. A rule that says "if a creditor is also a debtor to another creditor, subtract one from the other" would potentially violate non-negativity. The properties are the silent guardrails of the theory.
 
-## IV.B. Equal Treatment of Equals
+## Equal Treatment of Equals
 
 Imagine two creditors, each owed 100, facing an estate of 120. A rule that gives one creditor 80 and the other 40 would be hard to defend. Equal claims should yield equal awards.
 
@@ -543,7 +543,7 @@ In rabbinic law, equal treatment of equals is complicated by the concept of *shi
 
 All four of our rules satisfy equal treatment of equals in the pure model. It's hard to imagine a useful rule that doesn't, though we'll encounter contexts (like the Shapley Value, in Part V) where duplicating claimants can subtly violate it.
 
-## IV.C. Resource Monotonicity
+## Resource Monotonicity
 
 A man dies leaving an estate of 200 and three creditors. The awards are computed. The next day, a previously unknown bank account is discovered, bringing the estate to 250. Should any creditor receive *less* from the larger estate?
 
@@ -557,7 +557,7 @@ The Talmud Rule avoids this because its transition from CEA-like to CEL-like beh
 
 CEA, CEL, the Proportional Rule, and CnD all satisfy resource monotonicity. So does the Talmud Rule. It is one of the properties that any serious candidate must pass.
 
-## IV.D. Consistency
+## Consistency
 
 This property is the most powerful, and its rabbinic roots are the deepest.
 
@@ -581,7 +581,7 @@ This is the critical distinction. A rule can be self-consistent (paying off a pl
 
 CEA is self-consistent (paying off a creditor and reapplying CEA gives the same result). So is CEL. So is the Proportional Rule. Each is consistent with *itself*. But only one rule is consistent with Concede and Divide for two people — and that rule is the Talmud Rule.[^46]
 
-## IV.E. Duality
+## Duality
 
 Some problems feel like they're about dividing what's *there*. Others feel like they're about dividing what's *missing*. A creditor who receives 80 out of a claimed 100 can think of it as gaining 80 or as losing 20. The two framings are mathematically related.
 
@@ -613,7 +613,7 @@ The pattern: what the Talmud Rule *gives* at estate E is exactly what it *takes 
 
 The Talmudic roots of duality run deep. Aumann and Maschler point to the principle <span dir="rtl">רובו ככולו</span> — "more than half is like the whole" (Hullin 27a) — as a conceptual precursor. When a creditor has received more than half her claim, she's on the "gains" side of the divide; her psychological frame is about what she lost. When she's received less than half, she's on the "losses" side; her frame is about what she gained. The halfway point is a psychological watershed, and the Talmud Rule respects it by switching between CEA-like behavior (for small estates) and CEL-like behavior (for large ones).[^50]
 
-## IV.F. Claims Monotonicity and Population Monotonicity
+## Claims Monotonicity and Population Monotonicity
 
 Two more properties complete the standard toolkit.
 
@@ -655,7 +655,7 @@ CEA, CEL, and Proportional are the most commonly discussed rules, but the landsc
 
 What makes this section different from the previous ones is that these algorithms were not developed as general-purpose division rules. Piniles' rule was an attempt to decode the Ketuboth table. The Shapley Value was designed for cooperative games in general, not bankruptcy in particular. Ibn Ezra was solving a cost-sharing problem, not a creditor dispute. The Ketzos was analyzing the interaction between evidence law and property law. Each algorithm arrived from a different direction, carrying its own assumptions and blind spots — and each illuminates something about the claims problem that the basic three rules do not.
 
-## V.A. Piniles' Rule
+## Piniles' Rule
 
 In 1863, the Lithuanian scholar Zvi Menahem Piniles published *Darkah Shel Torah*, in which he proposed what may be the closest historical predecessor to the Talmud Rule.[^53]
 
@@ -696,7 +696,7 @@ The difference: Piniles distributes the surplus (E − D/2 = 50) by adding to ha
 
 This failure is telling. A rule that matches the Ketuboth table but fails the Bava Metzia garment is not the rule the Talmud has in mind — or at least, it cannot be the full story. And historically, it was Hai Gaon's insight — that Ketuboth should be explained through Bava Metzia — that pointed to the correct requirement: CnD-consistency across *both* tractates.
 
-## V.B. Run on the Bank
+## Run on the Bank
 
 Imagine three creditors lined up outside a bank that's about to fail. The first one through the door grabs what she can — up to her claim. The second grabs from what's left. The third takes whatever remains. The division depends entirely on who arrived first.
 
@@ -745,7 +745,7 @@ The run-on-the-bank result is too extreme — it gives too little to the small c
 
 For three or more claimants, run-on-the-bank does *not* generally produce the same results as the Talmud Rule. It is equivalent to the Shapley Value restricted to the bankruptcy game, and it inherits the Shapley Value's consistency problems.
 
-## V.C. The Shapley Value and Its Flaw
+## The Shapley Value and Its Flaw
 
 Lloyd Shapley introduced his value concept for cooperative games in 1953, and it has become one of the most celebrated ideas in game theory.[^59] Applied to claims problems, the Shapley Value is essentially run-on-the-bank computed through the cooperative game structure.
 
@@ -767,7 +767,7 @@ The problem is that duplicating a claimant introduces new orderings and new coal
 
 This inconsistency under cloning is a fundamental objection. A rule that can be gamed by fragmenting one's identity into multiple claims doesn't just fail a technical axiom — it fails a basic test of fairness. The Talmud Rule does not have this problem.[^61]
 
-## V.D. Ibn Ezra's Layered Cost-Sharing
+## Ibn Ezra's Layered Cost-Sharing
 
 Abraham ibn Ezra (1089–1167), in his commentary on the Torah, describes a layered division principle that has structural parallels to Ravad's approach.[^62]
 
@@ -822,7 +822,7 @@ This is CnD applied to a family law question, not a bankruptcy. The algorithm tr
 
 The Yevamot case also illustrates something about how the Talmud thinks about algorithms. No one in the Gemara says "apply the contested-garment rule to this family dispute." The connection is implicit — the reader is expected to recognize that the same logical structure underlies both problems. The Talmud teaches algorithms not by naming them and cataloging their applications, but by placing structurally similar problems in proximity and trusting the student to see the pattern. The algorithm is never separated from its context — it is always embedded in a specific legal question — and yet the same pattern recurs across vastly different domains. That recurrence is itself the Talmud's way of saying: this is a general principle, not a special rule.
 
-## V.E. Ketzos HaChoshen
+## Ketzos HaChoshen
 
 Rabbi Aryeh Leib Heller (1745–1812), in his monumental commentary Ketzos HaChoshen on Shulchan Aruch Choshen Mishpat Siman 138, brings a different analytical framework to the contested garment: the distinction between *bari* (certain) and *shema* (uncertain) claims.[^63]
 
@@ -854,7 +854,7 @@ The debate has a precise modern analog. In mechanism design theory, the distinct
 
 Algorithms are embedded in a larger framework of evidence, presumption, and judicial reasoning. The mathematical theory of mechanism design, which studies how to design allocation systems when participants may have private information about their claims, engages with exactly the same questions. The fact that two eighteenth-century commentators anticipated the central question of twentieth-century mechanism design — should information be processed before or within the allocation rule? — is a testament to the depth of the halakhic analysis.
 
-## V.F. Shulchan Aruch: Codified Division Rules
+## Shulchan Aruch: Codified Division Rules
 
 The Shulchan Aruch of Rabbi Yosef Karo (1488–1575), with the glosses of Rabbi Moshe Isserles (the Rema), codifies practical division rules across several sections of Choshen Mishpat.[^67]
 
@@ -897,7 +897,7 @@ The Rema's glosses introduce Ashkenazic custom variations. In some communities, 
 
 Rather than seeking a single universal rule, the Shulchan Aruch maps different contexts to different algorithms — CnD for contested property, priority-based rules for creditors, proportional rules for partnerships. The unification attempted by the Talmud Rule is retrospective; the codified law remains pluralistic.
 
-## V.G. Hai Gaon's Methodology
+## Hai Gaon's Methodology
 
 Rabbi Hai Gaon (939–1038), the last of the great Geonim and head of the Pumbedita academy in what is now Iraq, made a crucial suggestion that went largely unappreciated for nine centuries. In his opinion, as recorded by the Rif, the Mishnah in Ketuboth about estate division should be explained on the basis of the Mishnah in Bava Metzia about the contested garment.[^72]
 
@@ -917,7 +917,7 @@ Hai Gaon was right. The Ketuboth table *is* explained by the Bava Metzia princip
 
 # Part VI: THE AUMANN-MASCHLER BREAKTHROUGH
 
-## VI.A. Two Economists Read the Talmud
+## Two Economists Read the Talmud
 
 By the mid-twentieth century, the state of the Ketuboth problem was essentially unchanged from the Rishonim's era. Multiple partial explanations existed. No unified algorithm was known. The passage remained, as it had been for centuries, the most famous unsolved puzzle in Talmudic mathematics.
 
@@ -935,7 +935,7 @@ Shlomo Aumann did not live to see the solution to the puzzle he had brought his 
 
 Aumann and Maschler are careful to note the boundaries of their contribution: "In particular, this article should on no account be used as a source for Talmudic law." The paper is a mathematical analysis of a mathematical structure embedded in a legal text. The legal conclusions — how courts should actually divide estates — remain the province of the halakhic authorities. What Aumann and Maschler provide is a proof that the Mishnah's specific numbers arise from a unique rule with extraordinary mathematical properties.
 
-## VI.B. The Talmud Rule
+## The Talmud Rule
 
 Aumann and Maschler's central discovery is a single algorithm that produces all three rows of the Ketuboth table. The algorithm stitches together CEA and CEL through the half-claims, with the transition point at E = D/2 (where D is the sum of all claims).[^77]
 
@@ -1042,7 +1042,7 @@ The physical system automatically computes the Talmud Rule. Pour in any amount o
 
 Kaminski's construction provides an independent proof of the Aumann-Maschler theorem: the connected-glassware system produces a unique allocation, that allocation is CnD-consistent, and therefore it must equal the Talmud Rule. No linear algebra required — just fluid dynamics.
 
-## VI.C. The Recursive Formulation
+## The Recursive Formulation
 
 Aumann and Maschler provide a second way to compute the same answer: the *coalitional procedure*.[^78]
 
@@ -1084,7 +1084,7 @@ This makes intuitive sense: the first player, peeled off against the coalition, 
 
 Aumann and Maschler's Theorem C states that the coalitional procedure yields the CG-consistent solution for all bankruptcy problems.[^80] The procedure always terminates, always produces order-preserving results (a higher claim yields a higher award), and always agrees with the direct computation via CEA/CEL on half-claims.
 
-## VI.D. Three Regimes
+## Three Regimes
 
 The Talmud Rule's behavior partitions the estate values into three distinct regimes, each with its own character.
 
@@ -1133,7 +1133,7 @@ Aumann and Maschler connect this to the Talmudic principle <span dir="rtl">רו�
 
 Aumann and Maschler present three independent justifications for the Talmud Rule in Sections 3, 4, and 5 of their paper — CnD-consistency, self-duality with CEA of half-claims, and the coalitional procedure. None of these require game theory. Their fourth justification does: the Talmud Rule is the *nucleolus* of a naturally defined cooperative game. This connection to game theory is not necessary for computing the rule, but it explains *why* the rule has the properties it does.
 
-## VII.A. Cooperative Games
+## Cooperative Games
 
 Game theory studies strategic interactions — situations where the outcome depends on the choices of multiple agents. In *non-cooperative* game theory, each agent acts independently, and the focus is on predicting behavior. In *cooperative* game theory, agents can form binding agreements, and the focus shifts to *fairness*: given that the agents will cooperate, how should the fruits of cooperation be divided?
 
@@ -1181,7 +1181,7 @@ Now there are two coalitions with positive value: {1,3} and {2,3}. Creditor 3 is
 
 Every coalition has value 0. No subset of creditors can guarantee anything, because the remaining creditors' claims always exceed the estate. In this "all zeros" game, the nucleolus assigns equal shares (33⅓ each) — the only allocation that minimizes maximum unhappiness when all coalitions have the same guaranteed value (zero). This is why the Mishnah prescribes equal division for E = 100: the cooperative game is symmetric in a precise sense.
 
-## VII.B. The Nucleolus
+## The Nucleolus
 
 Given a cooperative game, the *nucleolus* is the allocation that minimizes the maximum unhappiness of any coalition. The concept was introduced by David Schmeidler in 1969.[^84]
 
@@ -1227,7 +1227,7 @@ Sorted excess vector: (50, 50, 100, 100, 150, 150). The minimum excess is again 
 
 Notice the pattern: in both cases, the minimum excess equals the smallest claimant's award. This is not coincidence — it follows from the structure of the bankruptcy game. The smallest claimant's coalition {1} has v({1}) = 0 (she can guarantee nothing alone), so her excess equals her award. The complementary coalition {2,3} has v = E − c₁, and its excess equals its award minus (E − c₁). When the allocation is CnD-consistent, these two excesses are equal.
 
-## VII.C. The Talmud Rule Is the Nucleolus
+## The Talmud Rule Is the Nucleolus
 
 Aumann and Maschler's Theorem D states: for any bankruptcy problem, the CG-consistent solution — the Talmud Rule — equals the nucleolus of the associated cooperative game.[^87]
 
@@ -1249,7 +1249,7 @@ For the reader who wants to see the full proof, Aumann and Maschler's original i
 
 For the skeptic who found the pairwise CnD argument too simple — too dependent on a particular reading of the Gemara — the nucleolus provides independent confirmation. The Mishnah's numbers are optimal in a precise mathematical sense that the Mishnah's authors could not have articulated but whose consequences they grasped intuitively.
 
-## VII.D. What the Mishnah Could Not Have Known
+## What the Mishnah Could Not Have Known
 
 Aumann and Maschler are explicit: "Of course, it is unlikely that the sages of the Mishna were familiar with the general notion of a coalitional game, to say nothing of the nucleolus."[^88]
 
@@ -1277,7 +1277,7 @@ What distinguishes these problems from the creditor cases is that each introduce
 
 Together, these cases map the boundary of algorithmic division in halakha — showing where the formal machinery applies, where it must be adapted, and where it gives way to human judgment.
 
-## VIII.A. Inheritance: The Firstborn's Double Portion
+## Inheritance: The Firstborn's Double Portion
 
 The Torah prescribes that a firstborn son receives a double portion of his father's estate — <span dir="rtl">פי שנים</span>, literally "a mouth of two."[^89] If a man leaves three sons, the firstborn receives 2/4 of the estate and the other two receive 1/4 each. With four sons, the firstborn receives 2/5 and the others 1/5 each. The general rule: with n sons, the firstborn receives 2/(n+1) and each other son receives 1/(n+1).
 
@@ -1316,7 +1316,7 @@ The algorithmic interest lies in edge cases.
 
 The inheritance algorithm, despite its apparent simplicity (just multiply by 2/(n+1) for the firstborn), opens onto a landscape of complexity when combined with debts, contested status, and mixed asset types. Each complication requires a decision about when and how the double-portion rule interacts with other division rules — and each decision reflects a moral judgment about the relationship between privilege and responsibility.
 
-## VIII.B. Land Division and Heterogeneous Goods
+## Land Division and Heterogeneous Goods
 
 The opening chapter of Bava Batra addresses dividing jointly owned property — a courtyard, a garden, a field. Here the problem is not insufficient funds but *heterogeneous goods*: different parts of the property have different values, and the division must be fair despite the asymmetry.[^92]
 
@@ -1348,7 +1348,7 @@ This insight — that the type of good constrains the available division algorit
 
 These problems are structurally different from claims problems. In a claims problem, the estate is homogeneous (money) and the challenge is the claims exceeding the estate. In land division, the estate is heterogeneous and the challenge is ensuring equal value from unequal objects. The algorithmic literature on "fair division" — from Steinhaus's moving-knife procedures to modern envy-free algorithms — addresses precisely this class of problems, and its roots trace directly to the Talmudic discussions of courtyard partition.
 
-## VIII.C. Partnership Dissolution
+## Partnership Dissolution
 
 When partners dissolve a joint venture, the division depends on the terms of the partnership. The Talmud (Bava Metzia 104b–105a) and the Shulchan Aruch (Choshen Mishpat 176–177) distinguish several cases.[^97]
 
@@ -1389,7 +1389,7 @@ Here the halakhic structure intervenes: the laborer's obligation on the loan hal
 
 The actual halakhic *iska* involves additional complications — the laborer receives a nominal wage for managing the investment half (<span dir="rtl">שכר טרחה</span>), and certain conditions (such as witnesses to the loss) apply to claims of capital loss — but the underlying structure is a layered division: guaranteed repayment first, then shared profit/loss on the remainder. The layering echoes the Ravad's incremental approach and the Talmud Rule's separation of regimes.
 
-## VIII.D. Damages with Insufficient Assets
+## Damages with Insufficient Assets
 
 When a tortfeasor causes damage to multiple parties and lacks sufficient assets to compensate all of them, the Talmud (Bava Kamma 9a) prescribes a division among the injured parties.[^100]
 
@@ -1420,7 +1420,7 @@ This comparison illustrates a policy choice embedded in the algorithm selection.
 
 This is the approach used in modern bankruptcy law as well — secured creditors first, then unsecured, then equity holders — with proportional division within each tier. The rabbinic innovation is in the specifics of priority ordering and in the edge cases where priority is itself disputed.
 
-## VIII.E. Shuda D'Dayanei: When No Algorithm Applies
+## Shuda D'Dayanei: When No Algorithm Applies
 
 Sometimes the Talmud reaches the boundary of algorithmic thinking and acknowledges it explicitly. <span dir="rtl">שודא דדייני</span> — "the judge's assessment" — is the halakhic mechanism for cases where no rule can determine the correct division.[^102]
 
@@ -1446,7 +1446,7 @@ The Aumann-Maschler paper opened a channel between Talmudic scholarship and math
 
 The modern literature on claims problems — sometimes called "bankruptcy problems" or "rationing problems" — is now vast, with characterization theorems, alternative axiomatizations, and connections to practical allocation problems. Thomson's 2019 monograph alone contains over 500 references, and the literature continues to grow.
 
-## IX.A. Thomson's Axiomatics
+## Thomson's Axiomatics
 
 William Thomson's comprehensive monograph *How to Divide When There Isn't Enough* (2019) provides the definitive axiomatic treatment of claims problems.[^105] Thomson catalogs dozens of division rules and characterizes each by the combinations of properties it satisfies.
 
@@ -1474,7 +1474,7 @@ Thomson catalogs these properties with extraordinary thoroughness. His monograph
 
 These characterizations don't settle which rule a court should use — that remains a moral judgment. But they make the consequences of each moral choice mathematically precise.
 
-## IX.B. Dagan's Alternative Characterizations
+## Dagan's Alternative Characterizations
 
 Nir Dagan developed alternative characterizations of the classical rules by focusing on independence properties — the conditions under which a rule's recommendations don't change when certain parameters shift.[^110]
 
@@ -1495,7 +1495,7 @@ Dagan also provides characterizations of CEA and CEL using different independenc
 
 These characterizations map the landscape of rules more finely than Thomson's property-combination approach. His work shows that the rabbinic algorithms are not just historically interesting but occupy distinguished positions in the space of all possible division rules — they are the natural solutions under different, clearly articulable fairness criteria.
 
-## IX.C. Balinski's "What Is Just?"
+## Balinski's "What Is Just?"
 
 Michel Balinski's 2005 paper "What Is Just?" in the *American Mathematical Monthly* approaches the problem from an explicitly philosophical angle.[^112] The title itself is significant — it's the question Aristotle asked in the *Nicomachean Ethics*, the question the Mishnah answers through worked examples, and the question that the axiomatic literature sometimes obscures through formalism.
 
@@ -1511,7 +1511,7 @@ The Talmud Rule's computational cost is modest — O(n log n) for sorting claims
 
 Balinski's philosophical grounding connects the rabbinic discussion to contemporary debates about distributive justice: how should a society allocate scarce healthcare resources, educational opportunities, or disaster relief? The rules developed for dividing Talmudic estates turn out to be the same rules economists and political scientists propose for these modern problems.
 
-## IX.D. Connections Forward
+## Connections Forward
 
 The claims problem is not a historical curiosity. It is a living mathematical structure that appears wherever demand exceeds supply and the excess must be rationed fairly.
 
@@ -1559,7 +1559,7 @@ The thread that connects Mishnah Bava Metzia to contemporary resource allocation
 
 # Part X: SYNTHESIS AND REFLECTION
 
-## X.A. A Map of the Algorithms
+## A Map of the Algorithms
 
 Twenty algorithms have appeared in this manuscript, spanning from the biblical period to the late twentieth century. Here they are, mapped together:
 
@@ -1598,7 +1598,7 @@ The fourth: the algorithms cluster by period in revealing ways. The Tannaitic pe
 
 Each period contributed something essential. No single period could have solved the problem alone. The Tannaim gave the numbers. The Amoraim gave the consistency principle. The Rishonim gave the building blocks. The Acharonim refined the edge cases. The economists gave the unifying framework. The problem required all of it.
 
-## X.B. What the Tradition Teaches About Fairness
+## What the Tradition Teaches About Fairness
 
 The multiplicity of algorithms in the rabbinic tradition encodes a deep insight: "fairness" is not a single concept. Different circumstances call for different rules, and the choice between them is a moral decision, not a technical one.
 
@@ -1630,7 +1630,7 @@ The tradition does not insist on one answer. It provides a family of algorithms,
 
 The convergence of the Talmud Rule with the nucleolus is, in this light, a remarkable fact but not a prescriptive one. It tells us that the Mishnah's specific numbers for the Ketuboth problem are mathematically optimal in a precise sense. It does not tell us that all division problems should be solved the same way. The tradition's wisdom is in recognizing both the power and the limits of algorithmic thinking — in developing algorithms where they apply and in reserving *shuda d'dayanei* for where they don't.
 
-## X.C. Open Questions
+## Open Questions
 
 Several questions remain open or under-explored.
 
@@ -1861,7 +1861,7 @@ The twenty algorithms cataloged in this manuscript are twenty attempts to answer
 
 [^22]: Tosafot on BT Ketuboth 93a, s.v. <span dir="rtl">ומאי שנא</span>.
 
-[^23]: Rif on Ketuboth. The Ravad's glosses offer alternative constructions; see Part III.D.
+[^23]: Rif on Ketuboth. The Ravad's glosses offer alternative constructions; see the Ravad's Two Algorithms section.
 
 [^24]: Ran on Ketuboth 93a. His priority-based reading attempts to reconcile the numbers through a sequential satisfaction model.
 

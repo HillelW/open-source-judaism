@@ -9,79 +9,79 @@ A study of madness as legal category, prophetic experience, philosophical provoc
 # Table of Contents
 
 - [Part I: The Problem of Madness](#part-i-the-problem-of-madness)
-  - [I.A. Five Kinds of Madness](#ia-five-kinds-of-madness)
-  - [I.B. The Terminological Landscape](#ib-the-terminological-landscape)
-  - [I.C. Absence, Limit, or Beyond?](#ic-absence-limit-or-beyond)
-  - [I.D. Scope and Method](#id-scope-and-method)
+  - [Five Kinds of Madness](#five-kinds-of-madness)
+  - [The Terminological Landscape](#the-terminological-landscape)
+  - [Absence, Limit, or Beyond?](#absence-limit-or-beyond)
+  - [Scope and Method](#scope-and-method)
 - [Part II: Madness in the Hebrew Bible](#part-ii-madness-in-the-hebrew-bible)
-  - [II.A. David Before Achish: Feigned Madness as Survival](#iia-david-before-achish-feigned-madness-as-survival)
-  - [II.B. Saul Among the Prophets: Ecstasy, Nakedness, and the Spirit of God](#iib-saul-among-the-prophets-ecstasy-nakedness-and-the-spirit-of-god)
-  - [II.C. Ezekiel: The Prophet Whose Behavior Defies Every Norm](#iic-ezekiel-the-prophet-whose-behavior-defies-every-norm)
-  - [II.D. Hosea: "The Prophet Is a Fool, the Man of Spirit Is Mad"](#iid-hosea-the-prophet-is-a-fool-the-man-of-spirit-is-mad)
-  - [II.E. Isaiah, Jeremiah, Micah: Prophetic Performers](#iie-isaiah-jeremiah-micah-prophetic-performers)
-  - [II.F. The Anointing of Jehu: "Why Did This Madman Come to You?"](#iif-the-anointing-of-jehu-why-did-this-madman-come-to-you)
-  - [II.G. Eldad and Medad: Unauthorized Prophecy](#iig-eldad-and-medad-unauthorized-prophecy)
-  - [II.H. Nebuchadnezzar's Madness](#iih-nebuchadnezzars-madness)
-  - [II.I. A Working Taxonomy of Biblical Madness](#iii-a-working-taxonomy-of-biblical-madness)
+  - [David Before Achish: Feigned Madness as Survival](#david-before-achish-feigned-madness-as-survival)
+  - [Saul Among the Prophets: Ecstasy, Nakedness, and the Spirit of God](#saul-among-the-prophets-ecstasy-nakedness-and-the-spirit-of-god)
+  - [Ezekiel: The Prophet Whose Behavior Defies Every Norm](#ezekiel-the-prophet-whose-behavior-defies-every-norm)
+  - [Hosea: "The Prophet Is a Fool, the Man of Spirit Is Mad"](#hosea-the-prophet-is-a-fool-the-man-of-spirit-is-mad)
+  - [Isaiah, Jeremiah, Micah: Prophetic Performers](#isaiah-jeremiah-micah-prophetic-performers)
+  - [The Anointing of Jehu: "Why Did This Madman Come to You?"](#the-anointing-of-jehu-why-did-this-madman-come-to-you)
+  - [Eldad and Medad: Unauthorized Prophecy](#eldad-and-medad-unauthorized-prophecy)
+  - [Nebuchadnezzar's Madness](#nebuchadnezzars-madness)
+  - [A Working Taxonomy of Biblical Madness](#a-working-taxonomy-of-biblical-madness)
 - [Part III: The Shoteh in Rabbinic Law](#part-iii-the-shoteh-in-rabbinic-law)
-  - [III.A. The Tosefta's Four Symptoms and Their Logic](#iiia-the-toseftas-four-symptoms-and-their-logic)
-  - [III.B. The Talmudic Sugya: When Is a Shoteh a Shoteh?](#iiib-the-talmudic-sugya-when-is-a-shoteh-a-shoteh)
-  - [III.C. Legal Consequences](#iiic-legal-consequences)
-  - [III.D. Intermittent Lucidity: Shoteh Le-Davar Echad](#iiid-intermittent-lucidity-shoteh-le-davar-echad)
-  - [III.E. The Rambam's Codification](#iiie-the-rambams-codification)
-  - [III.F. The Kelev Shoteh](#iiif-the-kelev-shoteh)
-  - [III.G. The JT Definition: Kynikos](#iiig-the-jt-definition-kynikos)
-  - [III.H. What the Talmud's Definition Is and Is Not](#iiih-what-the-talmuds-definition-is-and-is-not)
+  - [The Tosefta's Four Symptoms and Their Logic](#the-toseftas-four-symptoms-and-their-logic)
+  - [The Talmudic Sugya: When Is a Shoteh a Shoteh?](#the-talmudic-sugya-when-is-a-shoteh-a-shoteh)
+  - [Legal Consequences](#legal-consequences)
+  - [Intermittent Lucidity: Shoteh Le-Davar Echad](#intermittent-lucidity-shoteh-le-davar-echad)
+  - [The Rambam's Codification](#the-rambams-codification)
+  - [The Kelev Shoteh](#the-kelev-shoteh)
+  - [The JT Definition: Kynikos](#the-jt-definition-kynikos)
+  - [What the Talmud's Definition Is and Is Not](#what-the-talmuds-definition-is-and-is-not)
 - [Part IV: Piety, Prophecy, and Madness in the Talmud](#part-iv-piety-prophecy-and-madness-in-the-talmud)
-  - [IV.A. The Chasid Shoteh: When Piety Becomes Pathology](#iva-the-chasid-shoteh-when-piety-becomes-pathology)
-  - [IV.B. The Four Who Entered the Pardes: Ben Zoma's Madness](#ivb-the-four-who-entered-the-pardes-ben-zomas-madness)
-  - [IV.C. "Prophecy Was Given to Shotim and Children"](#ivc-prophecy-was-given-to-shotim-and-children)
-  - [IV.D. "Prophecy Was Given to the Sages"](#ivd-prophecy-was-given-to-the-sages)
-  - [IV.E. R. Yehudah bar Ilai's Beneficial Madness](#ive-r-yehudah-bar-ilais-beneficial-madness)
-  - [IV.F. Ruach Ra'ah and Demonic Madness](#ivf-ruach-raah-and-demonic-madness)
-  - [IV.G. Did the Rabbis Consider the Prophets Shotim?](#ivg-did-the-rabbis-consider-the-prophets-shotim)
+  - [The Chasid Shoteh: When Piety Becomes Pathology](#the-chasid-shoteh-when-piety-becomes-pathology)
+  - [The Four Who Entered the Pardes: Ben Zoma's Madness](#the-four-who-entered-the-pardes-ben-zomas-madness)
+  - ["Prophecy Was Given to Shotim and Children"](#prophecy-was-given-to-shotim-and-children)
+  - ["Prophecy Was Given to the Sages"](#prophecy-was-given-to-the-sages)
+  - [R. Yehudah bar Ilai's Beneficial Madness](#r-yehudah-bar-ilais-beneficial-madness)
+  - [Ruach Ra'ah and Demonic Madness](#ruach-raah-and-demonic-madness)
+  - [Did the Rabbis Consider the Prophets Shotim?](#did-the-rabbis-consider-the-prophets-shotim)
 - [Part V: Philosophers and Madmen](#part-v-philosophers-and-madmen)
-  - [V.A. Plato's Four Divine Madnesses](#va-platos-four-divine-madnesses)
-  - [V.B. Socrates' Daimonion and the Voice Within](#vb-socrates-daimonion-and-the-voice-within)
-  - [V.C. Diogenes: "Socrates Gone Mad"](#vc-diogenes-socrates-gone-mad)
-  - [V.D. The Cynic as Holy Fool](#vd-the-cynic-as-holy-fool)
-  - [V.E. Seneca and the Stoics: Passion as Madness](#ve-seneca-and-the-stoics-passion-as-madness)
-  - [V.F. Erasmus: The Praise of Folly](#vf-erasmus-the-praise-of-folly)
-  - [V.G. Parallels and Distinctions](#vg-parallels-and-distinctions)
+  - [Plato's Four Divine Madnesses](#platos-four-divine-madnesses)
+  - [Socrates' Daimonion and the Voice Within](#socrates-daimonion-and-the-voice-within)
+  - [Diogenes: "Socrates Gone Mad"](#diogenes-socrates-gone-mad)
+  - [The Cynic as Holy Fool](#the-cynic-as-holy-fool)
+  - [Seneca and the Stoics: Passion as Madness](#seneca-and-the-stoics-passion-as-madness)
+  - [Erasmus: The Praise of Folly](#erasmus-the-praise-of-folly)
+  - [Parallels and Distinctions](#parallels-and-distinctions)
 - [Part VI: The Rationalist Counter-Tradition](#part-vi-the-rationalist-counter-tradition)
-  - [VI.A. Maimonides on Prophecy and the Imagination](#via-maimonides-on-prophecy-and-the-imagination)
-  - [VI.B. Maimonides on Mental Health: The Middle Path](#vib-maimonides-on-mental-health-the-middle-path)
-  - [VI.C. Al-Farabi and the Islamic Context](#vic-al-farabi-and-the-islamic-context)
-  - [VI.D. Saadia Gaon on True vs. False Prophecy](#vid-saadia-gaon-on-true-vs-false-prophecy)
-  - [VI.E. Yehudah Halevi: The Kuzari's Defense](#vie-yehudah-halevi-the-kuzaris-defense)
-  - [VI.F. Philo of Alexandria: The Bridge Figure](#vif-philo-of-alexandria-the-bridge-figure)
+  - [Maimonides on Prophecy and the Imagination](#maimonides-on-prophecy-and-the-imagination)
+  - [Maimonides on Mental Health: The Middle Path](#maimonides-on-mental-health-the-middle-path)
+  - [Al-Farabi and the Islamic Context](#al-farabi-and-the-islamic-context)
+  - [Saadia Gaon on True vs. False Prophecy](#saadia-gaon-on-true-vs-false-prophecy)
+  - [Yehudah Halevi: The Kuzari's Defense](#yehudah-halevi-the-kuzaris-defense)
+  - [Philo of Alexandria: The Bridge Figure](#philo-of-alexandria-the-bridge-figure)
 - [Part VII: Kabbalistic Madness](#part-vii-kabbalistic-madness)
-  - [VII.A. The Zohar on Madness as Prerequisite for Wisdom](#viia-the-zohar-on-madness-as-prerequisite-for-wisdom)
-  - [VII.B. Shevirat HaKelim: The Breaking of Vessels as Cosmic Madness](#viib-shevirat-hakelim-the-breaking-of-vessels-as-cosmic-madness)
-  - [VII.C. Ma'aseh Merkavah and the Risk of Madness](#viic-maaseh-merkavah-and-the-risk-of-madness)
-  - [VII.D. The Paradox of Bittul: Self-Nullification](#viid-the-paradox-of-bittul-self-nullification)
+  - [The Zohar on Madness as Prerequisite for Wisdom](#the-zohar-on-madness-as-prerequisite-for-wisdom)
+  - [Shevirat HaKelim: The Breaking of Vessels as Cosmic Madness](#shevirat-hakelim-the-breaking-of-vessels-as-cosmic-madness)
+  - [Ma'aseh Merkavah and the Risk of Madness](#maaseh-merkavah-and-the-risk-of-madness)
+  - [The Paradox of Bittul: Self-Nullification](#the-paradox-of-bittul-self-nullification)
 - [Part VIII: Holy Madness in Chassidic Thought](#part-viii-holy-madness-in-chassidic-thought)
-  - [VIII.A. The Baal Shem Tov and Hitpashtut Ha-Gashmiyut](#viiia-the-baal-shem-tov-and-hitpashtut-ha-gashmiyut)
-  - [VIII.B. R. Nachman of Breslov: Casting Away the Mind](#viiib-r-nachman-of-breslov-casting-away-the-mind)
-  - [VIII.C. R. Nachman's Own Psychological Struggles](#viiic-r-nachmans-own-psychological-struggles)
-  - [VIII.D. R. Tzadok HaKohen: The Psychodynamic Law](#viiid-r-tzadok-hakohen-the-psychodynamic-law)
-  - [VIII.E. The Rebbe Rashab and the Lubavitcher Rebbe on Shtus Dekedusha](#viiie-the-rebbe-rashab-and-the-lubavitcher-rebbe-on-shtus-dekedusha)
-  - [VIII.F. Comparative Analysis: Multiple Chassidic Models](#viiif-comparative-analysis-multiple-chassidic-models)
+  - [The Baal Shem Tov and Hitpashtut Ha-Gashmiyut](#the-baal-shem-tov-and-hitpashtut-ha-gashmiyut)
+  - [R. Nachman of Breslov: Casting Away the Mind](#r-nachman-of-breslov-casting-away-the-mind)
+  - [R. Nachman's Own Psychological Struggles](#r-nachmans-own-psychological-struggles)
+  - [R. Tzadok HaKohen: The Psychodynamic Law](#r-tzadok-hakohen-the-psychodynamic-law)
+  - [The Rebbe Rashab and the Lubavitcher Rebbe on Shtus Dekedusha](#the-rebbe-rashab-and-the-lubavitcher-rebbe-on-shtus-dekedusha)
+  - [Comparative Analysis: Multiple Chassidic Models](#comparative-analysis-multiple-chassidic-models)
 - [Part IX: Madness and Mental Illness](#part-ix-madness-and-mental-illness)
-  - [IX.A. Is the Shoteh Mentally Ill?](#ixa-is-the-shoteh-mentally-ill)
-  - [IX.B. Foucault's Critique and the Talmudic Parallel](#ixb-foucaults-critique-and-the-talmudic-parallel)
-  - [IX.C. The Historical Construction of "Mental Illness"](#ixc-the-historical-construction-of-mental-illness)
-  - [IX.D. Nietzsche's Madman](#ixd-nietzsches-madman)
-  - [IX.E. William James and the Sick Soul](#ixe-william-james-and-the-sick-soul)
-  - [IX.F. Kierkegaard and the Leap](#ixf-kierkegaard-and-the-leap)
-  - [IX.G. R.D. Laing, Szasz, and Anti-Psychiatry](#ixg-rd-laing-szasz-and-anti-psychiatry)
-  - [IX.H. The Ethical Stakes](#ixh-the-ethical-stakes)
-  - [IX.I. Contemporary Halakhic Responsa on Mental Health](#ixi-contemporary-halakhic-responsa-on-mental-health)
+  - [Is the Shoteh Mentally Ill?](#is-the-shoteh-mentally-ill)
+  - [Foucault's Critique and the Talmudic Parallel](#foucaults-critique-and-the-talmudic-parallel)
+  - [The Historical Construction of "Mental Illness"](#the-historical-construction-of-mental-illness)
+  - [Nietzsche's Madman](#nietzsches-madman)
+  - [William James and the Sick Soul](#william-james-and-the-sick-soul)
+  - [Kierkegaard and the Leap](#kierkegaard-and-the-leap)
+  - [R.D. Laing, Szasz, and Anti-Psychiatry](#rd-laing-szasz-and-anti-psychiatry)
+  - [The Ethical Stakes](#the-ethical-stakes)
+  - [Contemporary Halakhic Responsa on Mental Health](#contemporary-halakhic-responsa-on-mental-health)
 - [Part X: Synthesis](#part-x-synthesis)
-  - [X.A. The Five Types Revisited](#xa-the-five-types-revisited)
-  - [X.B. The Developmental Arc](#xb-the-developmental-arc)
-  - [X.C. The Boundary Problem: Who Gets to Define "Mad"?](#xc-the-boundary-problem-who-gets-to-define-mad)
-  - [X.D. Original Contributions](#xd-original-contributions)
+  - [The Five Types Revisited](#the-five-types-revisited)
+  - [The Developmental Arc](#the-developmental-arc)
+  - [The Boundary Problem: Who Gets to Define "Mad"?](#the-boundary-problem-who-gets-to-define-mad)
+  - [Original Contributions](#original-contributions)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
@@ -89,7 +89,7 @@ A study of madness as legal category, prophetic experience, philosophical provoc
 
 # Part I: The Problem of Madness
 
-## I.A. Five Kinds of Madness
+## Five Kinds of Madness
 
 A man stands in a cemetery at midnight, ripping his clothes. His neighbors shake their heads: he has lost his mind. A prophet stands in a public square, naked, smeared with filth, shouting words no one wants to hear. His audience mutters: he has lost his mind. A philosopher squats in a ceramic jar in the marketplace, mocking passersby. The crowd laughs: he has lost his mind. A Chassidic master rolls in refuse, weeping and singing. His students whisper: he has transcended his mind. A patient sits in a ward, unable to recognize that two of his beliefs contradict each other. His doctor notes: his mind is impaired.
 
@@ -109,7 +109,7 @@ The Hebrew and Greek vocabulary of madness, <span dir="rtl">שוטה</span>, <sp
 
 The central argument of this manuscript is simple: collapsing these five categories into a single concept called "madness" generates confusion. Separating them reveals the real tensions. The prophet is not a lunatic. The mystic is not performing philosophy. The philosopher is not mentally ill. But the boundaries between these categories are neither obvious nor stable, and the most interesting material in the Jewish intellectual tradition sits precisely at the points where the boundaries blur.
 
-## I.B. The Terminological Landscape
+## The Terminological Landscape
 
 The classic word for a person of unsound mind in Mishnaic Hebrew is <span dir="rtl">שוטה</span> (*shoteh*). The word does not appear in the Hebrew Bible, and why the rabbis chose it over the biblical <span dir="rtl">משוגע</span> (*meshuga*) is not entirely clear.[^6] The two terms seem to carry similar meanings, but the rabbis reserved <span dir="rtl">שוטה</span> for their legal category and left <span dir="rtl">משוגע</span> as a more general descriptor.
 
@@ -125,7 +125,7 @@ The Greek terminology carries its own conceptual freight. *Mania* (<span dir="rt
 
 The terminological landscape matters because vocabulary shapes perception. A language that has one word for "person whose behavior meets legal criteria for incapacity" and "person overwhelmed by divine communication" will tend to confuse the two. A language that distinguishes them will tend to separate what might profitably be compared. The Hebrew tradition does both: it separates <span dir="rtl">שוטה</span> (legal) from <span dir="rtl">נביא</span> (prophetic) in its formal categories, while simultaneously noting, with considerable discomfort, that the behaviors associated with each can look identical from the outside.[^16]
 
-## I.C. Absence, Limit, or Beyond?
+## Absence, Limit, or Beyond?
 
 Three frameworks compete for how to understand the relationship between madness and reason.
 
@@ -137,7 +137,7 @@ The third treats madness as the **beyond of reason**. R. Nachman's "casting away
 
 These three frameworks organize the entire manuscript. The legal tradition (Part III) works primarily with the first: the <span dir="rtl">שוטה</span> is defined by the absence of rational behavior. The rationalist philosophers (Part VI) defend a sophisticated version of the first while occasionally gesturing toward the second. The kabbalists and Chassidic masters (Parts VII and VIII) work with the third. The biblical material (Part II) and the Talmudic aggadah (Part IV) sit uncomfortably between all three, recognizing that prophets sometimes look like <span dir="rtl">שוטים</span> without being willing to say that prophecy is madness or that madness is prophecy.
 
-## I.D. Scope and Method
+## Scope and Method
 
 This manuscript traces the concept of madness across the full arc of the Jewish textual tradition, from the Hebrew Bible through Chassidic thought, while engaging with the Western philosophical traditions that grappled with the same questions. The treatment is organized thematically rather than chronologically, though a developmental arc emerges across the Parts: from prophetic ecstasy (biblical) through legal definition (tannaitic and amoraic) through rationalist containment (medieval) through mystical reclamation (kabbalistic) through practical method (Chassidic) through modern clinical redefinition.
 
@@ -153,7 +153,7 @@ Two methodological commitments guide the analysis. First, the manuscript takes e
 
 The Hebrew Bible contains no theory of madness. It contains something more interesting: a collection of stories in which behavior that later traditions would call "mad" appears in contexts ranging from survival strategy to divine punishment, from prophetic commission to royal humiliation. Reading these stories together reveals a pattern the biblical authors themselves may not have intended: the same behaviors that mark a person as dangerously unstable in one context mark a person as divinely chosen in another. Context, not behavior, determines whether stripping naked in public is a sign of madness or a sign of God.
 
-## II.A. David Before Achish: Feigned Madness as Survival
+## David Before Achish: Feigned Madness as Survival
 
 The first appearance of the root <span dir="rtl">שגע</span> in the Hebrew Bible comes in a story about pretending. David, fleeing Saul's murderous jealousy, arrives at the court of Achish, king of Gath. The servants of Achish recognize him: "Is this not David, the king of the land?"[^23] David, terrified that Achish will kill him, changes his behavior:
 
@@ -169,7 +169,7 @@ The Midrash picks up on the deliberateness of David's act and sees divine orches
 
 David's feigned madness establishes a principle that will recur throughout this manuscript: the same behaviors can mean entirely different things depending on whether they originate from choice or from compulsion, from strategy or from breakdown. David scratches on doors because he wants Achish to dismiss him. The halakhic <span dir="rtl">שוטה</span> destroys what is given to him because he cannot do otherwise. The behavior is the same. The person behind it is not.
 
-## II.B. Saul Among the Prophets: Ecstasy, Nakedness, and the Spirit of God
+## Saul Among the Prophets: Ecstasy, Nakedness, and the Spirit of God
 
 Saul's encounters with prophetic ecstasy are among the most disturbing passages in the Bible, not because of what happens to him but because of how the text frames it.
 
@@ -193,7 +193,7 @@ For our purposes, the critical observation is behavioral. Saul strips off his cl
 
 The difference between Saul's prophetic nakedness and a <span dir="rtl">שוטה</span>'s nakedness is not the behavior. It is the cause, the context, and the duration. Saul's nakedness is temporary, involuntary (he is seized by the Spirit), and occurs in a recognizable prophetic setting (before Samuel, among prophets). A <span dir="rtl">שוטה</span>'s nakedness is chronic, has no identifiable cause in divine communication, and occurs without context. The distinction matters enormously in law and theology. It is invisible in behavior.
 
-## II.C. Ezekiel: The Prophet Whose Behavior Defies Every Norm
+## Ezekiel: The Prophet Whose Behavior Defies Every Norm
 
 No biblical figure pushes the boundary between prophetic commission and apparent madness further than Ezekiel. His book is a catalog of behaviors that, stripped of their prophetic context, would satisfy multiple criteria for the halakhic <span dir="rtl">שוטה</span>.
 
@@ -215,7 +215,7 @@ The cumulative picture is striking. Eating inedible objects (the scroll). Prolon
 
 Yet Ezekiel is lucid. He negotiates with God (the dung compromise shows practical reasoning). His symbolic actions are precisely structured and clearly explained. He moves between prophetic performance and ordinary communication with no apparent difficulty. The behaviors are extraordinary; the mind behind them is not impaired. This is the paradox of prophetic madness: the acts look pathological, but the agent is functioning at the highest level of which a human being is capable.[^39]
 
-## II.D. Hosea: "The Prophet Is a Fool, the Man of Spirit Is Mad"
+## Hosea: "The Prophet Is a Fool, the Man of Spirit Is Mad"
 
 Only one verse in the Hebrew Bible explicitly applies the vocabulary of madness to prophets, and it comes from a prophet describing how others see him:
 
@@ -231,7 +231,7 @@ This pattern, truth-teller dismissed as madman, recurs across cultures and centu
 
 Hosea's own prophetic career provides further material. God commands him to marry a prostitute (<span dir="rtl">אשת זנונים</span>) and to name his children after divine judgments: Jezreel (God will scatter), Lo-Ruhamah (Not-Pitied), and Lo-Ammi (Not My People).[^43] Marrying a sex worker and naming one's daughter "Unloved" are not behaviors that any society would consider normal. They are, within the prophetic framework, signs addressed to Israel about its relationship with God. Strip away the framework, and they look like the acts of a deeply disturbed man.
 
-## II.E. Isaiah, Jeremiah, Micah: Prophetic Performers
+## Isaiah, Jeremiah, Micah: Prophetic Performers
 
 The pattern established by Ezekiel and Hosea, prophetic behavior that looks like madness to outside observers, extends across the prophetic corpus.
 
@@ -257,7 +257,7 @@ Micah threatens to walk naked and howling through the streets, mourning the comi
 
 The prophetic pattern is now clear enough to state as a general principle: the Hebrew Bible's prophets routinely perform actions that match the behavioral criteria rabbinic law would later use to define the <span dir="rtl">שוטה</span>. They walk naked. They destroy valuable objects. They engage in prolonged, apparently purposeless physical acts. They speak in ways that violate social norms. And the biblical text presents these behaviors not as symptoms of illness but as the cost of carrying a divine message in a world that does not want to hear it.
 
-## II.F. The Anointing of Jehu: "Why Did This Madman Come to You?"
+## The Anointing of Jehu: "Why Did This Madman Come to You?"
 
 The anointing of Jehu as king of Israel contains a brief but telling exchange about how prophets were perceived. Elisha sends a young man from the company of prophets to anoint Jehu in secret. The young man pours oil on Jehu's head, delivers the divine message, and flees.[^51]
 
@@ -271,7 +271,7 @@ Jehu initially deflects: "You know the man and his talk." But the officers press
 
 The passage is fascinating because the label <span dir="rtl">משוגע</span> and the acceptance of prophetic authority coexist in the same scene. The officers call the prophet a madman. They also take his anointing of Jehu seriously enough to overthrow the sitting king. The word <span dir="rtl">משוגע</span> here functions less as a clinical assessment and more as a social category: prophets are the kind of people whom soldiers call crazy, even (or especially) when the soldiers act on what the prophet says. The label acknowledges the strangeness of the prophetic figure without negating his authority.
 
-## II.G. Eldad and Medad: Unauthorized Prophecy
+## Eldad and Medad: Unauthorized Prophecy
 
 Numbers 11 describes the appointment of seventy elders to share the burden of leadership with Moses. God takes some of the spirit that rests on Moses and distributes it to the seventy. They prophesy briefly and then stop. But two men, Eldad and Medad, who had remained in the camp rather than going to the Tent of Meeting, also begin to prophesy:
 
@@ -281,11 +281,11 @@ Numbers 11 describes the appointment of seventy elders to share the burden of le
 
 Joshua, alarmed, urges Moses to stop them. Moses' response is generous and revealing: "Are you jealous on my behalf? Would that all the Lord's people were prophets, that the Lord would put His spirit upon them!"[^54]
 
-The episode raises the question of unauthorized prophecy: what happens when the spirit falls on someone outside the designated framework? Joshua's instinct is to suppress it. Moses' instinct is to welcome it. The tension between containment and freedom, between institutional control of spiritual authority and the spirit's refusal to be contained, runs through the entire tradition. It will reappear in the Talmud's transfer of prophetic authority to sages (Part IV.D), in the Kabbalists' dangerous explorations of direct divine encounter (Part VII.C), and in the Chassidic masters' insistence that ecstatic experience cannot be confined to official channels (Part VIII).
+The episode raises the question of unauthorized prophecy: what happens when the spirit falls on someone outside the designated framework? Joshua's instinct is to suppress it. Moses' instinct is to welcome it. The tension between containment and freedom, between institutional control of spiritual authority and the spirit's refusal to be contained, runs through the entire tradition. It will reappear in the Talmud's transfer of prophetic authority to sages (the "Prophecy Was Given to the Sages" section), in the Kabbalists' dangerous explorations of direct divine encounter (the Ma'aseh Merkavah and the Risk of Madness section), and in the Chassidic masters' insistence that ecstatic experience cannot be confined to official channels (Part VIII).
 
 Eldad and Medad are not called mad, but their unauthorized prophecy sits at the boundary of the same category. Prophecy that arrives through recognized channels (Samuel, the Tent of Meeting) is prophecy. Prophecy that arrives outside those channels (Eldad and Medad in the camp, the young man who anoints Jehu) generates anxiety and the reflexive response: is this person legitimate, or is this person mad?
 
-## II.H. Nebuchadnezzar's Madness
+## Nebuchadnezzar's Madness
 
 Daniel 4 presents the most extended portrait of madness in the Hebrew Bible, and it comes not from a prophet but from a king. Nebuchadnezzar, ruler of Babylon, dreams of a great tree that is cut down by a heavenly decree. Daniel interprets the dream: the tree is Nebuchadnezzar, and the cutting-down is a divine punishment for his arrogance.
 
@@ -303,7 +303,7 @@ Second, the madness involves regression to an animal state. Nebuchadnezzar does 
 
 Third, the madness is temporary and purposeful. It has a defined duration (seven seasons), a defined cause (pride), and a defined resolution (acknowledgment of God's sovereignty). Nebuchadnezzar's madness is not a permanent condition but a corrective experience. He enters madness as an arrogant tyrant and exits it as a chastened worshipper. The question this raises for the Talmud's definition of the <span dir="rtl">שוטה</span> is whether a person whose madness serves a recognizable divine purpose should be classified alongside a person whose madness has no such purpose.
 
-## II.I. A Working Taxonomy of Biblical Madness
+## A Working Taxonomy of Biblical Madness
 
 The biblical material yields five distinct categories of madness, each operating through a different mechanism and serving a different narrative purpose:
 
@@ -327,7 +327,7 @@ The rabbis of the Mishnah and Talmud will inherit this complex legacy and attemp
 
 The transition from biblical narrative to rabbinic law marks a fundamental shift in how madness is conceptualized. The Bible tells stories about mad behavior and lets the reader sort out the implications. The rabbis need something more practical. They need to know: Can this person testify in court? Can this person execute a valid bill of divorce? Is this person obligated to perform the commandments? These questions require a definition, and the definition the rabbis construct is one of the most interesting things they ever produced.
 
-## III.A. The Tosefta's Four Symptoms and Their Logic
+## The Tosefta's Four Symptoms and Their Logic
 
 The earliest systematic definition of the <span dir="rtl">שוטה</span> appears in the Tosefta:
 
@@ -343,7 +343,7 @@ A deeper reading sees each criterion as testing a different faculty. Walking alo
 
 Together, the four criteria describe a person who has lost the capacity to navigate the basic structures of human social life: safety, boundaries, self-preservation, and reciprocity. The <span dir="rtl">שוטה</span> is not defined by what he thinks (the Tosefta says nothing about beliefs or delusions) but by what he does. And what he does is consistently incompatible with participation in the legal and social order.
 
-## III.B. The Talmudic Sugya: When Is a Shoteh a Shoteh?
+## The Talmudic Sugya: When Is a Shoteh a Shoteh?
 
 The primary Talmudic discussion of the <span dir="rtl">שוטה</span> appears in Chagigah 3b-4a, and it introduces a complication that the Tosefta left unresolved: does a person need to exhibit all four symptoms to be classified as a <span dir="rtl">שוטה</span>, or does any single symptom suffice?
 
@@ -361,7 +361,7 @@ R. Huna states that a person must exhibit all the symptoms to be classified as a
 
 The Gemara does not resolve the dispute definitively, but the later codifiers generally follow R. Yochanan: the critical question is whether the behavior exhibits the *quality* of madness (purposelessness, irrationality, disconnection from social context) rather than whether the person checks every box on the Tosefta's list.[^67]
 
-## III.C. Legal Consequences
+## Legal Consequences
 
 The classification of a person as a <span dir="rtl">שוטה</span> carries sweeping legal consequences. The Mishnah groups the <span dir="rtl">שוטה</span> with two other categories of diminished legal capacity: the <span dir="rtl">חרש</span> (deaf-mute) and the <span dir="rtl">קטן</span> (minor). Together, these three form a standard legal triad that appears throughout rabbinic literature:
 
@@ -381,7 +381,7 @@ All three share a common feature: they lack the legal capacity (*da'at*) require
 
 The cumulative effect of these rules is to place the <span dir="rtl">שוטה</span> outside the legal order. Not outside the community (the <span dir="rtl">שוטה</span> remains a person, not an animal, and retains basic protections) but outside the web of mutual obligations, responsibilities, and capacities that constitute legal personhood. The <span dir="rtl">שוטה</span> is cared for but cannot participate. He is protected but cannot obligate himself or others.
 
-## III.D. Intermittent Lucidity: Shoteh Le-Davar Echad
+## Intermittent Lucidity: Shoteh Le-Davar Echad
 
 One of the most sophisticated elements of the Talmudic treatment of the <span dir="rtl">שוטה</span> is the concept of intermittent lucidity. The rabbis recognized that madness is not always a total condition; some people function rationally in certain domains while exhibiting irrational behavior in others.
 
@@ -391,7 +391,7 @@ The question has no simple answer, and the Talmudic discussion reflects genuine 
 
 This concept is critical for the prophetic madness question. If a person can be "mad with respect to one thing" and sane with respect to everything else, then the prophets' bizarre behavior need not impugn their overall rationality. A prophet who lies on his side for 390 days (clearly irrational by ordinary standards) but negotiates competently with God about the dung (clearly rational) might be a <span dir="rtl">שוטה לדבר אחד</span>: "mad" in the prophetic domain, sane in every other. Whether this is the right framework for understanding prophetic behavior is debatable, but the Talmud at least provides the conceptual tools to ask the question.
 
-## III.E. The Rambam's Codification
+## The Rambam's Codification
 
 Maimonides codifies the law of the <span dir="rtl">שוטה</span> primarily in his laws of testimony (*Hilkhot Edut*), where he provides the most extensive legal definition in the classical codes:
 
@@ -415,7 +415,7 @@ The Shulchan Aruch, codifying centuries of post-Talmudic discussion, adds furthe
 
 The last criterion is particularly interesting: the inability to recognize contradictions. This is the only criterion that tests a purely cognitive capacity rather than an observable behavior. A person who walks naked might be a prophet (Isaiah) or a philosopher (Diogenes). A person who cannot tell that two of his beliefs are contradictory has a cognitive impairment that no prophetic commission or philosophical conviction can explain. This criterion comes closest to what modern psychology would recognize as a test of rational capacity.[^81]
 
-## III.F. The Kelev Shoteh
+## The Kelev Shoteh
 
 The Mishnah in Yoma introduces an unexpected application of the term <span dir="rtl">שוטה</span>: the mad dog (<span dir="rtl">כלב שוטה</span>).
 
@@ -429,7 +429,7 @@ The animal analogy cuts in two directions. On one hand, it suggests that the rab
 
 The legal relevance of the <span dir="rtl">כלב שוטה</span> is primarily in the domain of danger: the Mishnah discusses whether folk remedies (eating the animal's liver) may be employed to treat its bite. But the conceptual relevance extends further. The mad dog is an animal whose behavior has become unpredictable, whose normal instincts have been corrupted by a pathological process. The rabbinic <span dir="rtl">שוטה</span> is a person whose behavior has become similarly unpredictable, whose normal judgment has been similarly disrupted. In both cases, the response of the community is protective: contain the threat, care for the victim, and recognize that the normal rules of engagement no longer apply.
 
-## III.G. The JT Definition: Kynikos
+## The JT Definition: Kynikos
 
 The Jerusalem Talmud's discussion of the <span dir="rtl">שוטה</span> introduces a term that connects rabbinic law to Greek philosophy in a startling way:
 
@@ -447,7 +447,7 @@ The companion manuscript *Cynic Philosophy and Rabbinic Thought* explores this c
 
 The resonance extends beyond the historical relationship between rabbis and Cynics. The JT definition embeds a perennial question: when someone rejects the values and structures that society considers essential, is that rejection a sign of insight or a sign of madness? The Cynic says: I see through the illusion that these things have value. The rabbi says: your inability to recognize the value of what you have been given is a symptom of impairment. The disagreement is not about the behavior; it is about the framework within which the behavior is interpreted. And this disagreement maps directly onto the larger question of this manuscript: is prophetic, philosophical, or mystical "madness" a breakthrough or a breakdown?
 
-## III.H. What the Talmud's Definition Is and Is Not
+## What the Talmud's Definition Is and Is Not
 
 The Talmud's approach to defining the <span dir="rtl">שוטה</span> has a feature that becomes visible only when compared with later medical and philosophical approaches to madness: it is entirely behavioral. The rabbis do not ask what disease the <span dir="rtl">שוטה</span> has. They do not theorize about the causes of madness. They do not distinguish between madness caused by organic brain disease, psychological trauma, demonic possession, or divine punishment. They ask one question: what does the person do?
 
@@ -471,7 +471,7 @@ The tension between behavioral observation and motivational assessment is not a 
 
 The legal definition of the <span dir="rtl">שוטה</span> addresses one dimension of madness: the person who lacks rational agency and therefore cannot participate in the legal order. But the Talmud contains another, richer body of material about madness, scattered across aggadic passages, that addresses a different set of questions entirely. These passages do not ask "who is legally incompetent?" They ask: what is the relationship between piety and madness, between prophetic experience and mental breakdown, between divine inspiration and cognitive dissolution? The answers they give are disquieting, deliberately so.
 
-## IV.A. The Chasid Shoteh: When Piety Becomes Pathology
+## The Chasid Shoteh: When Piety Becomes Pathology
 
 The Mishnah identifies the <span dir="rtl">חסיד שוטה</span> (*chasid shoteh*), the pious fool, as one of the types of people who "destroy the world":
 
@@ -487,7 +487,7 @@ Aristotle identified this problem as the failure of *phronesis*, practical wisdo
 
 This diagnosis has implications beyond the case of the drowning woman. One form of "madness," the Talmud suggests, is the rigid application of rules without sensitivity to context. The prophet who strips naked in the marketplace is doing the opposite: he applies a communication method (embodied symbolism) that is bizarre in ordinary contexts but appropriate in the specific context of prophetic commission. The <span dir="rtl">חסיד שוטה</span> follows a valid rule in the wrong context; the prophet breaks ordinary rules in the right context. Both are "mad" by ordinary standards, but their madness points in opposite directions.
 
-## IV.B. The Four Who Entered the Pardes: Ben Zoma's Madness
+## The Four Who Entered the Pardes: Ben Zoma's Madness
 
 The story of the four who entered the *Pardes* (paradise, or the mystical orchard) is one of the Talmud's most famous and most opaque narratives:
 
@@ -515,9 +515,9 @@ The narrative presents mystical madness as distinct from both the legal <span di
 
 The *Pardes* narrative functions as a warning about the limits of human cognition in the face of divine reality. Ben Zoma's mind was not deficient; by all accounts, he was one of the most brilliant minds of his generation. His madness did not result from a failure of intellect but from an encounter with a reality that exceeded what intellect could contain. The vessel was not flawed; it was simply not large enough for what was poured into it.[^97]
 
-This maps onto the "limit of reason" framework introduced in Part I.C. Prophetic ecstasy is divine communication that the mind, with difficulty, can handle. Mystical contemplation of the *Pardes* is an encounter with divine reality so direct that the mind breaks. The difference is not in the quality of the mind but in the intensity of the encounter. Rabbi Akiva survived not because he was smarter than Ben Zoma but because, for reasons the Talmud does not explain, he possessed whatever quality allows a human mind to encounter the divine without shattering.
+This maps onto the "limit of reason" framework introduced in the Absence, Limit, or Beyond? section. Prophetic ecstasy is divine communication that the mind, with difficulty, can handle. Mystical contemplation of the *Pardes* is an encounter with divine reality so direct that the mind breaks. The difference is not in the quality of the mind but in the intensity of the encounter. Rabbi Akiva survived not because he was smarter than Ben Zoma but because, for reasons the Talmud does not explain, he possessed whatever quality allows a human mind to encounter the divine without shattering.
 
-## IV.C. "Prophecy Was Given to Shotim and Children"
+## "Prophecy Was Given to Shotim and Children"
 
 R. Yochanan's statement is one of the most provocative in the Talmud:
 
@@ -533,7 +533,7 @@ The pairing of <span dir="rtl">שוטים</span> with <span dir="rtl">תינוק
 
 The Talmud preserves examples that illustrate R. Yochanan's principle in action. Children blurting out prophetically significant statements. Madmen uttering phrases that, on closer examination, contain accurate predictions or hidden wisdom. These examples are scattered and anecdotal, but they collectively suggest that the rabbis took seriously the idea that cognitive impairment could, under certain circumstances, function as a window onto reality that normal cognition cannot access.[^100]
 
-## IV.D. "Prophecy Was Given to the Sages"
+## "Prophecy Was Given to the Sages"
 
 On the very same page of the Talmud, a counter-tradition appears:
 
@@ -551,7 +551,7 @@ The second statement (prophecy to <span dir="rtl">שוטים</span> and children
 
 The Talmud's decision to preserve both statements is itself a form of wisdom. It refuses to choose between the institutional and the marginal, between the sage and the fool, as the proper locus of post-Temple prophetic authority. Both claims contain truth. The sage can perceive divine patterns in Torah because his mind is trained to see them. The <span dir="rtl">שוטה</span> can perceive divine patterns in reality because his mind has no defenses against them. Neither perception is complete without the other, and any tradition that suppresses either one impoverishes itself.[^103]
 
-## IV.E. R. Yehudah bar Ilai's Beneficial Madness
+## R. Yehudah bar Ilai's Beneficial Madness
 
 A passage in Ketubot provides a concrete example of "beneficial madness" in a rabbinic context:
 
@@ -567,7 +567,7 @@ The passage introduces a category that will become central in Chassidic thought:
 
 The distinction between R. Yehudah bar Ilai's <span dir="rtl">שטות</span> and the <span dir="rtl">שוטה</span>'s behavior is agency. R. Yehudah bar Ilai chooses to dance wildly. He can stop when the wedding is over. He returns to his normal behavior when the occasion ends. The <span dir="rtl">שוטה</span> has no such choice: his behavior is not a performance but a permanent condition. This distinction, between voluntary madness that serves a purpose and involuntary madness that has no purpose, will become the organizing principle of the Chassidic doctrine of <span dir="rtl">שטות דקדושה</span>.[^105]
 
-## IV.F. Ruach Ra'ah and Demonic Madness
+## Ruach Ra'ah and Demonic Madness
 
 The Talmud's aggadic traditions include a third model of madness that stands apart from both the legal <span dir="rtl">שוטה</span> and the prophetic ecstatic: madness caused by evil spirits.
 
@@ -579,7 +579,7 @@ Demonic madness occupies a different conceptual space from both legal madness an
 
 The demonic model serves an important function in the Talmud's overall treatment of madness: it provides a framework for understanding madness that does not require either cognitive deficiency (the legal model) or divine communication (the prophetic model). Sometimes a person goes mad because something external has invaded his mind. The madness is real, the suffering is real, but the cause is neither the person's own weakness nor God's intention; it is an attack by hostile spiritual forces. This model shows the Talmud's willingness to acknowledge the full complexity of mental disturbance without reducing it to a single explanatory framework.
 
-## IV.G. Did the Rabbis Consider the Prophets Shotim?
+## Did the Rabbis Consider the Prophets Shotim?
 
 We can now ask directly: if we apply the Talmud's own criteria for the <span dir="rtl">שוטה</span> to the prophetic behaviors cataloged in Part II, what happens?
 
@@ -607,7 +607,7 @@ The rabbis' answer to these ambiguities is characteristic: they preserve the ten
 
 The Jewish tradition is not the only one to notice that the boundary between wisdom and madness is uncomfortably thin. Greek philosophy, from its earliest period, grappled with the same observation: the person who sees most clearly often looks most deranged to those around him. The parallels between the philosophical and Jewish treatments of this problem are structural, not merely coincidental. Both traditions identify a mechanism in which truth-telling and apparent irrationality are linked, and both struggle with the consequences of that linkage.
 
-## V.A. Plato's Four Divine Madnesses
+## Plato's Four Divine Madnesses
 
 In the *Phaedrus*, Socrates argues against the common Greek assumption that madness is always a misfortune. He identifies four types of divinely inspired madness, each associated with a specific god, and argues that "the greatest blessings come through madness, indeed madness that is heaven-sent":
 
@@ -627,7 +627,7 @@ The mapping between Plato's four types and Jewish categories is suggestive. Prop
 
 The parallel is not identity. Plato locates the value of madness in its epistemic function: each type of *mania* provides access to a form of knowledge that rational inquiry alone cannot reach. The Jewish tradition locates the value differently: prophetic experience is valuable not primarily because it produces knowledge but because it communicates God's will. The Greek philosopher asks: what can the madman *see*? The Jewish tradition asks: what does God *say* through him? The difference between a visual metaphor (insight, perception) and an auditory one (message, voice, word) runs deep.
 
-## V.B. Socrates' Daimonion and the Voice Within
+## Socrates' Daimonion and the Voice Within
 
 Socrates himself occupied an ambiguous position between sanity and divine madness. He claimed to be guided by a *daimonion*, a divine voice or sign that would warn him when he was about to do something wrong:
 
@@ -639,7 +639,7 @@ The structural parallel with the prophetic experience is exact. The prophet hear
 
 Socrates, like the prophets, was ultimately killed by a society that could not tell the difference between divine wisdom and dangerous delusion. The trial of Socrates and the stoning of prophets operate through the same social logic: the truth-teller who cannot prove his authority is indistinguishable, from the outside, from the madman who cannot prove his sanity.[^117]
 
-## V.C. Diogenes: "Socrates Gone Mad"
+## Diogenes: "Socrates Gone Mad"
 
 Plato reportedly called Diogenes of Sinope "Socrates gone mad" (<span dir="rtl">Σωκράτης μαινόμενος</span>, *Sōkratēs mainomenos*).[^118] The characterization is brilliant in its economy. Diogenes takes Socratic principles and pushes them past the point where they can be contained within the norms of polite society.
 
@@ -653,7 +653,7 @@ The companion manuscript *Cynic Philosophy and Rabbinic Thought* develops this p
 
 The available evidence suggests the latter. The Cynic sources consistently describe Diogenes as the happiest of men: free from desire, free from fear, free from the opinions of others. His "madness" was experienced, from the inside, as the most rational possible life. The gap between internal experience (freedom, clarity, joy) and external perception (madness, homelessness, degradation) is itself the philosophical point. What looks like breakdown from the outside is breakthrough from the inside, and the question of which perspective is correct cannot be settled by observation alone.
 
-## V.D. The Cynic as Holy Fool
+## The Cynic as Holy Fool
 
 The Cynic tradition embodies two principles that converge in the figure of the "holy fool": *parrhēsia* (free speech, speaking truth without regard for consequences) and *anaideia* (shamelessness, acting without concern for social judgment).[^122]
 
@@ -665,7 +665,7 @@ The Cynic exercises the same virtue in the philosophical domain. Diogenes tells 
 
 Epictetus, the Stoic philosopher, described the ideal Cynic in quasi-prophetic terms: a divine messenger, one called by God to serve as a scout (*kataskopos*) for humanity, reporting back on what is truly good and truly evil.[^124] The description could apply equally to an Israelite prophet. The structural parallel between the Cynic vocation and the prophetic calling, both figures sent by a higher authority to deliver unwelcome truths to an unreceptive audience, is one of the deepest connections between Greek philosophy and Jewish thought.
 
-## V.E. Seneca and the Stoics: Passion as Madness
+## Seneca and the Stoics: Passion as Madness
 
 The Stoic tradition offers a different angle on the madness-reason relationship. For the Stoics, *all* passions are forms of cognitive error: emotions arise from false judgments about what is truly good or bad. Seneca crystallized this view in a memorable formula: "Anger is brief madness" (*ira brevis furor est*).[^125]
 
@@ -677,7 +677,7 @@ This framework connects to Maimonides' rationalist position in a way that has no
 
 The Stoic framework also illuminates why the rabbis might have been uncomfortable with prophetic ecstasy. If passion is a form of irrationality, and prophetic ecstasy is the most intense passion of all (the overwhelming experience of God's presence), then the prophet is, in Stoic terms, the most irrational person in the room. The rationalist counter-tradition within Judaism (Part VI) will take this seriously: Maimonides insists that prophecy requires the *perfection* of the rational faculties, not their abandonment.
 
-## V.F. Erasmus: The Praise of Folly
+## Erasmus: The Praise of Folly
 
 Desiderius Erasmus published *The Praise of Folly* (*Moriae Encomium*) in 1511, and the work remains the most sustained philosophical defense of the value of foolishness in Western literature. The book is narrated by Folly herself (*Stultitia*), who argues that she is responsible for all human happiness, love, friendship, and religious devotion.[^127]
 
@@ -691,7 +691,7 @@ The parallel with <span dir="rtl">שטות דקדושה</span> (holy foolishness
 
 The difference is that Erasmus frames this as irony (Folly herself is making the argument, and the reader is never quite sure how seriously to take her), while the Chassidic masters frame it as deadly serious practical instruction. R. Nachman does not ironize the recommendation to "roll in refuse"; he means it. The gap between Erasmian literary wit and Breslov spiritual practice is the gap between philosophy and religion: both point to the same truth, but one plays with it and the other lives it.
 
-## V.G. Parallels and Distinctions
+## Parallels and Distinctions
 
 The philosophical traditions surveyed above converge on a single insight: performed irrationality can function as social critique. The prophet, the Cynic, and the holy fool all operate through the same mechanism. They perform an act that is rational within one framework and irrational within another, forcing the audience to confront which framework is correct. The "madman" has switched frameworks; the audience, unable to see the switch, interprets the behavior as pathological rather than revelatory.
 
@@ -703,7 +703,7 @@ The parallels are structural, but the distinctions are equally important.
 
 **The Chassidic master acts under mystical conviction as a spiritual practice.** R. Nachman's "casting away the mind" is neither a response to a specific divine command (like the prophet's) nor a permanent philosophical commitment (like the Cynic's) but a method, a technique for breaking through the barriers that ordinary consciousness erects between the soul and God. The madness is episodic, voluntarily entered, and aimed at a specific spiritual result.
 
-These distinctions map onto different answers to the organizing question of Part I.C. The prophet experiences madness as a divine imposition (absence of autonomous choice, replaced by divine command). The Cynic experiences "madness" as the most rational choice available (the limit of conventional reason, transcended by philosophical insight). The Chassidic master experiences madness as a method for reaching beyond reason (the beyond of reason, accessed through deliberate cognitive abandonment).[^130]
+These distinctions map onto different answers to the organizing question of the Absence, Limit, or Beyond? section. The prophet experiences madness as a divine imposition (absence of autonomous choice, replaced by divine command). The Cynic experiences "madness" as the most rational choice available (the limit of conventional reason, transcended by philosophical insight). The Chassidic master experiences madness as a method for reaching beyond reason (the beyond of reason, accessed through deliberate cognitive abandonment).[^130]
 
 R. Nachman's model is, in an important sense, closer to the Cynic than to the prophetic. The prophet has no choice; God seizes him. R. Nachman recommends a deliberate practice; the mystic chooses to "cast away the mind." This is not prophecy but spiritual technique, and its voluntariness places it in the same category as Diogenes' choice to live in a jar: both are rational decisions to abandon conventional rationality for the sake of a higher goal. The difference is that Diogenes' higher goal is philosophical truth (what *is*), while R. Nachman's is spiritual transformation (what one can *become*).
 
@@ -713,7 +713,7 @@ R. Nachman's model is, in an important sense, closer to the Cynic than to the pr
 
 Every tradition that valorizes madness provokes a counter-tradition that insists on the primacy of reason. In the Jewish context, the rationalist counter-tradition is among the most intellectually powerful in the history of philosophy. Its central figures (Maimonides, Saadia Gaon, Yehudah Halevi, Al-Farabi, Philo) do not deny the reality of prophetic experience. They redefine it so thoroughly that it ceases to have anything to do with madness. On their account, the prophet is not the person whose reason has been overwhelmed; the prophet is the person whose reason has reached its highest possible perfection. Madness and prophecy are not adjacent; they are opposites.
 
-## VI.A. Maimonides on Prophecy and the Imagination
+## Maimonides on Prophecy and the Imagination
 
 Maimonides' theory of prophecy, developed across chapters 32 through 48 of the second part of the *Guide for the Perplexed*, is the most sophisticated attempt in Jewish intellectual history to place prophecy entirely within the framework of rational psychology.
 
@@ -727,7 +727,7 @@ Maimonides classifies the prophetic visions, the strange images and symbolic act
 
 The Maimonidean position is a powerful objection to the "prophecy is madness" thesis, and it must be taken seriously. It explains why prophetic behavior is temporary (the prophet returns to normal when the divine overflow ceases), why it is purposeful (the perfected intellect gives it structure), and why it is communicative (the perfected imagination gives it vivid symbolic form). What it does not explain is why the divine overflow would produce behaviors (nakedness, scroll-eating, dung-baking) that so closely mimic the symptoms of mental illness. If prophecy is the perfection of reason, why does it look so much like its opposite?
 
-## VI.B. Maimonides on Mental Health: The Middle Path
+## Maimonides on Mental Health: The Middle Path
 
 Maimonides' ethical theory reinforces his prophetic theory. In the opening chapters of *Hilkhot De'ot* (Laws of Character Traits), he develops the Aristotelian doctrine of the mean into a comprehensive psychology:
 
@@ -741,9 +741,9 @@ The implications for madness are direct. If extremity is illness, then the <span
 
 More radically, the Maimonidean framework implies that the ecstatic experiences described by the kabbalists and Chassidic masters are themselves forms of extremity. A person who "casts away the mind" (R. Nachman) or who deliberately transcends rational consciousness (the Baal Shem Tov) has moved to one extreme of the psychological spectrum. From the Maimonidean perspective, this is not spiritual achievement but psychological imbalance, however elevated its motivation.
 
-The Lubavitcher Rebbe's *Basi LeGani* discourse will directly challenge this position (see Part VIII.E), arguing that <span dir="rtl">שטות דקדושה</span> is not an extremity to be avoided but a necessary transcendence of the middle path. The disagreement between Maimonides and the Rebbe is not a minor halakhic quibble. It is a genuine philosophical dispute about the nature of the ideal human life and the role of reason within it.
+The Lubavitcher Rebbe's *Basi LeGani* discourse will directly challenge this position (see the Rebbe Rashab and the Lubavitcher Rebbe on Shtus Dekedusha section), arguing that <span dir="rtl">שטות דקדושה</span> is not an extremity to be avoided but a necessary transcendence of the middle path. The disagreement between Maimonides and the Rebbe is not a minor halakhic quibble. It is a genuine philosophical dispute about the nature of the ideal human life and the role of reason within it.
 
-## VI.C. Al-Farabi and the Islamic Context
+## Al-Farabi and the Islamic Context
 
 Maimonides did not develop his theory of prophecy in a vacuum. He built on the work of Al-Farabi (c. 872-950 CE), the Islamic philosopher whose *The Perfect City* (*al-Madina al-Fadila*) provides the most immediate philosophical background for the *Guide*'s treatment of prophecy.
 
@@ -753,7 +753,7 @@ This is not madness; it is the opposite of madness. The imagination, in Al-Farab
 
 Al-Farabi's theory solves one problem (how prophecy can be a natural phenomenon without being irrational) but creates another. If prophetic imagination is a natural faculty, how do we distinguish between genuine prophecy and mere fantasy? The imagination is, after all, the faculty responsible for dreams, hallucinations, and delusions. Al-Farabi's answer is that the prophetic imagination is distinguished by its reliability: it consistently produces true beliefs and accurate predictions, unlike the ordinary imagination, which produces a mixture of truth and falsehood. Maimonides follows this line: the true prophet is known by the accuracy of his predictions and the coherence of his message, not by the intensity of his experience.[^140]
 
-## VI.D. Saadia Gaon on True vs. False Prophecy
+## Saadia Gaon on True vs. False Prophecy
 
 Saadia Gaon (882-942 CE) addressed the problem of distinguishing genuine from false prophecy in his *Emunot ve-De'ot* (The Book of Beliefs and Opinions). His concern was practical: if prophetic experience looks the same from the outside whether its source is divine or delusional, how can a community know whether to follow a prophet's instructions?
 
@@ -763,7 +763,7 @@ These criteria are designed to draw a bright line between prophecy and madness. 
 
 The limitation of Saadia's approach is that his criteria can only be applied retrospectively. You know a prediction came true only after the fact. You know a prophet's moral character only over time. In the moment, when a person stands in the marketplace claiming to speak for God, the question remains: is this prophecy or psychosis? Saadia's criteria are useful for evaluating the historical prophets but less useful for the community confronting a living claimant.[^142]
 
-## VI.E. Yehudah Halevi: The Kuzari's Defense
+## Yehudah Halevi: The Kuzari's Defense
 
 Yehudah Halevi (c. 1075-1141) takes a fundamentally different approach in the *Kuzari*. Rather than explaining prophecy as a natural phenomenon (Maimonides, Al-Farabi) or establishing criteria for evaluating it (Saadia), Halevi argues that prophetic experience is a *sui generis* faculty: a capacity that is neither rational nor irrational but belongs to an entirely different category.
 
@@ -773,7 +773,7 @@ Halevi's approach dissolves the madness question rather than answering it. If pr
 
 This position has a philosophical elegance that the other rationalist approaches lack. It does not need to explain why prophetic behavior looks like madness (the categories do not overlap, so the visual similarity is accidental). It does not need to defend the prophet's rationality (rationality is not the relevant standard). It does not need to distinguish between prophecy and psychosis by behavioral criteria (the distinction is ontological, not behavioral). The cost of this elegance is that Halevi's position is essentially unfalsifiable: if the prophetic faculty is *sui generis*, no external evidence can either confirm or disconfirm its existence.[^144]
 
-## VI.F. Philo of Alexandria: The Bridge Figure
+## Philo of Alexandria: The Bridge Figure
 
 Philo of Alexandria (c. 20 BCE-50 CE) occupies a unique position in the intersection of Greek philosophy and Jewish thought. Writing in Greek for a Hellenized Jewish audience in Roman Egypt, Philo attempted to synthesize Platonic philosophy with Torah, and his treatment of prophecy straddles both traditions in ways that illuminate the tensions between them.
 
@@ -795,7 +795,7 @@ This tension between Philo and Maimonides marks the fault line that runs through
 
 The kabbalistic tradition approaches madness from a direction that neither the legal tradition nor the rationalist philosophers anticipated. For the kabbalists, madness is not a deficiency to be diagnosed (the legal approach), nor a phenomenon to be explained away (the rationalist approach). It is a structural feature of reality itself. The cosmos was born from an act that looks like madness: the shattering of vessels that could not contain the divine light. Wisdom emerges from foolishness the way light emerges from darkness, not despite the darkness but through it. The kabbalists do not argue that madness is good. They argue that it is necessary.
 
-## VII.A. The Zohar on Madness as Prerequisite for Wisdom
+## The Zohar on Madness as Prerequisite for Wisdom
 
 The Zohar's treatment of madness and wisdom appears in Parashat Tazria, commenting on the verse "I have seen that wisdom has an advantage over foolishness" (Ecclesiastes 2:13). The passage deserves full quotation, as it contains the most direct kabbalistic statement on the relationship between wisdom and folly:
 
@@ -817,7 +817,7 @@ The claim that a teacher of wisdom is *obligated* (<span dir="rtl">חיובא ה
 
 This stands in direct tension with the Maimonidean position. Maimonides would say: the middle path is the ideal; learn wisdom and avoid extremity. The Zohar says: the person who has never experienced the extreme cannot fully appreciate the mean. Wisdom that has not passed through foolishness is wisdom that does not know itself.[^150]
 
-## VII.B. Shevirat HaKelim: The Breaking of Vessels as Cosmic Madness
+## Shevirat HaKelim: The Breaking of Vessels as Cosmic Madness
 
 Lurianic Kabbalah, the mystical system developed by R. Isaac Luria (1534-1572) and his disciples, provides the most ambitious kabbalistic framework for understanding the relationship between order and chaos, and by extension, between reason and madness.
 
@@ -831,7 +831,7 @@ The parallel with Ben Zoma's fate is precise. Ben Zoma's mind (the vessel) was o
 
 The implication for understanding madness is profound. If the cosmos itself was born from an event that looks like madness (an overwhelming of structure by content), then madness is not merely a human pathology. It is a structural feature of reality. The universe itself was, at its origin, "mad" in the sense that it could not contain what was being poured into it. And the process of tikkun, the work of gathering sparks and restoring order, is the cosmic version of what happens when a person recovers from madness: the pieces are reassembled, the structure is rebuilt, and meaning is restored.
 
-## VII.C. Ma'aseh Merkavah and the Risk of Madness
+## Ma'aseh Merkavah and the Risk of Madness
 
 The Heikhalot literature, the earliest Jewish mystical texts (dating roughly to the tannaitic and amoraic periods), describes the ascent of the soul through a series of celestial palaces (*heikhalot*) to the divine throne (*merkavah*). The journey is extraordinarily dangerous. The texts describe elaborate preparations: fasting, purification, the recitation of specific hymns and divine names. They also describe what happens to those who are not properly prepared.[^153]
 
@@ -847,7 +847,7 @@ The restriction is not about secrecy for its own sake. It is about protection. T
 
 The fact that the Mishnah associates mystical study primarily with the prophecies of Ezekiel is significant in the context of this manuscript. Ezekiel is the prophet whose behavior most closely resembles the <span dir="rtl">שוטה</span>'s. His vision of the chariot is the text whose study can cause madness. The tradition draws a line from prophetic experience (Ezekiel's vision) through mystical practice (the Merkavah journey) to cognitive destruction (Ben Zoma's fate). The line suggests that the same content, the direct apprehension of divine reality, produces prophetic ecstasy when encountered with adequate preparation and madness when encountered without it. The difference between the prophet and the <span dir="rtl">שוטה</span> may not be in what they encounter but in whether they can survive the encounter.[^156]
 
-## VII.D. The Paradox of Bittul: Self-Nullification
+## The Paradox of Bittul: Self-Nullification
 
 The kabbalistic concept of *bittul ha-yesh* (nullification of the self, or nullification of existence) represents the most radical intersection of mysticism and madness in the Jewish tradition.
 
@@ -867,7 +867,7 @@ The difference is that the rationalist treats this emptiness as a conclusion (th
 
 The Chassidic movement, born in eighteenth-century Eastern Europe, took the kabbalistic material explored in Part VII and transformed it from theosophical speculation into practical spiritual instruction. The kabbalists had argued that wisdom requires foolishness, that the cosmos was born from a shattering, that self-nullification opens a door to the divine. The Chassidic masters asked the next question: what should you actually *do* about this? Their answers range from the wildly radical (R. Nachman's recommendation to roll in refuse) to the carefully structured (the Lubavitcher Rebbe's redefinition of holy madness as suprarational commitment to mitzvot). Together, they constitute the most sustained practical theology of madness in the Jewish tradition.
 
-## VIII.A. The Baal Shem Tov and Hitpashtut Ha-Gashmiyut
+## The Baal Shem Tov and Hitpashtut Ha-Gashmiyut
 
 R. Israel ben Eliezer (c. 1698-1760), the Baal Shem Tov (Besht), founded the Chassidic movement on the principle that every moment of life offers an opportunity for divine encounter. His spiritual practice included *hitpashtut ha-gashmiyut*, the stripping away of corporeality: a state in which ordinary bodily awareness recedes and the soul experiences direct contact with the divine.
 
@@ -877,7 +877,7 @@ The Besht's innovation was not the experience itself, which has parallels in eve
 
 The Besht's approach to ecstatic practice was, in important ways, the opposite of the rationalist position. Maimonides held that prophecy (and by extension, intense spiritual experience) required the *perfection* of the rational and imaginative faculties. The Besht held that intense spiritual experience required the *suspension* of ordinary faculties: the body's awareness of itself, the mind's habitual patterns of thought, the ego's constant self-referencing. The Besht did not claim that reason was bad; he claimed that it was not enough. To encounter God, you must set aside the very faculties that make ordinary life possible. You must, in a carefully controlled way, go a little mad.
 
-## VIII.B. R. Nachman of Breslov: Casting Away the Mind
+## R. Nachman of Breslov: Casting Away the Mind
 
 R. Nachman of Breslov (1772-1810), the great-grandson of the Baal Shem Tov, developed the most radical formulation of holy madness in Jewish thought. His teaching in *Likutei Moharan* II:5 is the central text for the entire tradition of <span dir="rtl">שטות דקדושה</span>:
 
@@ -899,7 +899,7 @@ R. Nachman's teaching reaches its most paradoxical conclusion in the claim that 
 
 The person who casts away his mind, who rolls in refuse for the love of God, attains something that the greatest prophet (Moses) could not attain through the normal functioning of his intellect. The mind, operating normally, cannot solve the problem of theodicy. The mind, "cast away," transcends the problem entirely. This is the "beyond of reason" framework at its most extreme: not merely claiming that there are truths beyond reason's reach, but claiming that reason itself is the obstacle to reaching them.
 
-## VIII.C. R. Nachman's Own Psychological Struggles
+## R. Nachman's Own Psychological Struggles
 
 R. Nachman's theology of madness cannot be separated from his biography. Zvi Mark's *Mysticism and Madness: The Religious Thought of Rabbi Nachman of Bratslav* documents R. Nachman's lifelong struggles with psychological anguish: periods of intense despair, episodes that may have resembled clinical depression, and a constant tension between his spiritual ambitions and his psychological vulnerabilities.[^164]
 
@@ -911,7 +911,7 @@ The manuscript must handle this carefully. To reduce R. Nachman's theology to a 
 
 The most honest position is to hold both dimensions simultaneously. R. Nachman was a person who suffered, and he was a thinker who developed a sophisticated theology of suffering. His suffering informed his theology, and his theology gave meaning to his suffering. Neither dimension reduces to the other, and the tension between them is productive rather than contradictory.[^166]
 
-## VIII.D. R. Tzadok HaKohen: The Psychodynamic Law
+## R. Tzadok HaKohen: The Psychodynamic Law
 
 R. Tzadok HaKohen of Lublin (1823-1900) articulated a principle that functions as a psychodynamic law of spiritual life:
 
@@ -937,7 +937,7 @@ R. Tzadok himself noted, in *Tzidkas HaTzadik* 90, that rabbinic thought often r
 
 The convergence is instructive precisely because the metaphysics diverge. R. Tzadok attributes the psychodynamic law to the structure of the divine will: God created both the inclination toward good and the inclination toward evil, and they are proportional by design. Nietzsche attributes the linkage to the structure of human experience: pleasure and pain are organically connected, and the person who dulls one dulls both. The structural claim (joy and suffering are linked) is identical. The explanation (divine design vs. organic nature) is entirely different. The shared conclusion, reached independently from incompatible premises, suggests that the insight is genuine.
 
-## VIII.E. The Rebbe Rashab and the Lubavitcher Rebbe on Shtus Dekedusha
+## The Rebbe Rashab and the Lubavitcher Rebbe on Shtus Dekedusha
 
 The concept of <span dir="rtl">שטות דקדושה</span> (holy foolishness or holy madness) received its most systematic treatment in the Chabad tradition, culminating in the Lubavitcher Rebbe's discourse *Basi LeGani* (I Have Come into My Garden), delivered on the tenth of Shevat, 5711 (1951), upon assuming the leadership of the Chabad movement.
 
@@ -957,7 +957,7 @@ The Rebbe's redefinition of <span dir="rtl">שטות דקדושה</span> is note
 
 Reading Maimonides and the Lubavitcher Rebbe as interlocutors in a genuine philosophical dispute elevates both positions. Maimonides argues for the sovereignty of reason: the ideal person is the one who has brought every faculty under rational governance. The Rebbe argues for the transcendence of reason: the ideal person is the one who has deployed a suprarational force in the service of goals that reason endorses but cannot, by itself, achieve. The dispute is not about whether reason is good (both agree that it is) but about whether reason is *sufficient* (Maimonides says yes; the Rebbe says no).
 
-## VIII.F. Comparative Analysis: Multiple Chassidic Models
+## Comparative Analysis: Multiple Chassidic Models
 
 The major Chassidic movements developed distinct understandings of what "holy madness" means and what it requires. The differences are substantial enough to constitute distinct philosophies:
 
@@ -981,7 +981,7 @@ Each of these models represents a different understanding of the relationship be
 
 The preceding Parts have examined madness as legal category, prophetic experience, philosophical provocation, mystical doctrine, and spiritual practice. This Part confronts the question that all of them raise but none of them answers: what is the relationship between these various forms of "madness" and the condition that modern medicine calls mental illness? The question is not academic. It has consequences for how communities treat prophets and how clinicians treat patients, for whether ecstatic experience is celebrated or medicated, and for whether the person who hears voices is sent to a rabbi or to a psychiatrist.
 
-## IX.A. Is the Shoteh Mentally Ill?
+## Is the Shoteh Mentally Ill?
 
 The question seems simple: is the Talmud's <span dir="rtl">שוטה</span> a person with a mental illness? The answer is more complex than it appears.
 
@@ -993,7 +993,7 @@ The mismatch reveals a fundamental difference in approach. Modern psychiatry def
 
 The recognition that these categories do not overlap perfectly is essential for everything that follows. When we ask whether the prophets were "mad," the answer depends on which definition of madness we are using. By the Talmud's behavioral criteria, several prophets look like <span dir="rtl">שוטים</span>. By modern psychiatric criteria, they exhibit behaviors consistent with certain clinical presentations. By the prophetic tradition's own criteria, they are the sanest people in the room, because they alone perceive reality as it truly is.[^180]
 
-## IX.B. Foucault's Critique and the Talmudic Parallel
+## Foucault's Critique and the Talmudic Parallel
 
 Michel Foucault's *Madness and Civilization* (1961) argued that "madness" is not a natural category but a social construct. What counts as madness changes across historical periods, and the power to label someone mad is a form of social control. The "great confinement" of the seventeenth century, when European societies began institutionalizing the mad alongside the poor, the criminal, and the unemployed, was not a medical advance but a political act: the removal from public life of people who did not conform to the emerging bourgeois order.[^181]
 
@@ -1005,7 +1005,7 @@ On the other hand, the Talmud's approach does exactly what Foucault criticizes: 
 
 The convergence between the Talmudic and Foucauldian positions is structural, not intentional. The rabbis were not proto-Foucauldians, and Foucault was not drawing on the Talmud. But the parallel is instructive. Both traditions recognize that the definition of madness is not a neutral observation but an act with social consequences. Both recognize that behavior, not internal states, is the observable basis for the categorization. And both recognize that the boundary between madness and sanity is less stable than any particular society's definitions suggest.
 
-## IX.C. The Historical Construction of "Mental Illness"
+## The Historical Construction of "Mental Illness"
 
 The concept of "mental illness" as we now understand it is remarkably recent. A brief historical survey clarifies how unusual the modern framework is and how the Talmudic approach relates to it.
 
@@ -1023,7 +1023,7 @@ The concept of "mental illness" as we now understand it is remarkably recent. A 
 
 The Talmudic approach to the <span dir="rtl">שוטה</span> stands as an alternative to all of these frameworks. It does not medicalize (no disease entity), does not confine (the <span dir="rtl">שוטה</span> remains in the community), does not treat (no therapeutic intervention is prescribed), and does not moralize (the <span dir="rtl">שוטה</span>'s condition is not described as sin or punishment). It simply observes behavior and draws legal consequences. The simplicity of the approach is both its strength (it avoids the conceptual problems that plague more ambitious frameworks) and its limitation (it provides no guidance for helping the person, only for determining his legal status).
 
-## IX.D. Nietzsche's Madman
+## Nietzsche's Madman
 
 Nietzsche's parable of the madman, from *The Gay Science* (1882), is the modern text that most directly mirrors the biblical pattern of the prophet dismissed as mad:
 
@@ -1037,7 +1037,7 @@ The madman, in Nietzsche's parable, is the only person in the marketplace who un
 
 Nietzsche himself may have been aware of the prophetic parallel. His philosophical project shares structural features with the prophetic vocation: the lonely truth-teller who challenges the complacency of his society, speaks in vivid and disturbing imagery, and is rejected by those who cannot follow his vision. Nietzsche's own descent into madness in 1889 (likely caused by a neurological condition) adds a biographical dimension that mirrors R. Nachman's: the thinker who wrote most brilliantly about the boundary between wisdom and madness eventually crossed that boundary himself.[^189]
 
-## IX.E. William James and the Sick Soul
+## William James and the Sick Soul
 
 William James' *The Varieties of Religious Experience* (1902) offers the most systematic philosophical attempt to assess the relationship between psychological suffering and religious insight. James introduces the concept of the "sick soul": a person whose temperament inclines toward melancholy, suffering, and an acute awareness of evil, and who, through this suffering, achieves a depth of religious experience inaccessible to the "healthy-minded" person who lives on the surface of life.[^190]
 
@@ -1047,7 +1047,7 @@ By this standard, many of the figures examined in this manuscript fare well. R. 
 
 James's pragmatic approach parallels R. Tzadok's psychodynamic law. Both argue that suffering and insight are structurally linked: the person who has experienced the depths is better positioned to reach the heights. Both refuse to reduce the relationship to either direction (suffering does not guarantee insight, and insight does not require suffering). And both maintain that the value of a psychological state cannot be determined by its cause but only by its consequences.[^191]
 
-## IX.F. Kierkegaard and the Leap
+## Kierkegaard and the Leap
 
 Soren Kierkegaard's *Fear and Trembling* (1843) examines the most famous boundary case between faith and madness in the Western tradition: Abraham's binding of Isaac (the Akedah).
 
@@ -1059,7 +1059,7 @@ Kierkegaard's "leap of faith" is relevant to the madness question because it des
 
 This maps directly onto the Chassidic concept of <span dir="rtl">שטות דקדושה</span> as the Lubavitcher Rebbe understands it: not the abandonment of reason but a commitment that exceeds what reason alone can produce. The parallel suggests that the problem of "holy madness" is not uniquely Jewish but a structural feature of any tradition that takes both ethical obligation and divine command seriously. When the two conflict, the person of faith faces the same choice that Abraham faced: obey the voice, or obey the rule. And from the outside, choosing the voice always looks a little mad.
 
-## IX.G. R.D. Laing, Szasz, and Anti-Psychiatry
+## R.D. Laing, Szasz, and Anti-Psychiatry
 
 The anti-psychiatry movement of the 1960s and 1970s challenged the medical model of mental illness from within the psychiatric profession itself.
 
@@ -1071,7 +1071,7 @@ Both thinkers resonate with elements of the Jewish tradition. Laing's claim that
 
 The anti-psychiatry movement also raises the danger that Part IX has been building toward: the romanticization of mental illness. If the <span dir="rtl">שוטה</span> sees what the sage cannot, if the schizophrenic journey is a shamanic initiation, if madness is a form of suprarational perception, then there is a temptation to valorize the suffering of the mentally ill as though it were a spiritual gift. This temptation must be resisted, and the following section explains why.
 
-## IX.H. The Ethical Stakes
+## The Ethical Stakes
 
 Two dangers bookend the discussion of madness and mental illness, and the entire tradition struggles to navigate between them.
 
@@ -1089,7 +1089,7 @@ The halakhic <span dir="rtl">שוטה</span> lacks this capacity. His behavior i
 
 Conflating the two dishonors both. Treating the prophet as mentally ill denies the reality of his experience and the coherence of his message. Treating the mentally ill person as a prophet denies the reality of his suffering and the urgency of his need for care. The tradition's insistence on maintaining the distinction, even when the behaviors are identical, is not evasion; it is an ethical commitment to taking both the sacred and the suffering seriously on their own terms.[^197]
 
-## IX.I. Contemporary Halakhic Responsa on Mental Health
+## Contemporary Halakhic Responsa on Mental Health
 
 Modern halakhic authorities have engaged with psychiatric diagnosis and treatment, adapting the tradition's behavioral framework to accommodate medical categories that the Talmud did not anticipate.
 
@@ -1107,7 +1107,7 @@ The adaptive capacity of the halakhic framework is striking. A legal system desi
 
 # Part X: Synthesis
 
-## X.A. The Five Types Revisited
+## The Five Types Revisited
 
 This manuscript opened with five scenes and five kinds of madness: legal incapacity, prophetic ecstasy, philosophical provocation, mystical method, and mental illness. The intervening Parts have explored each in depth, and the time has come to assess what the exploration has revealed.
 
@@ -1121,7 +1121,7 @@ This manuscript opened with five scenes and five kinds of madness: legal incapac
 
 **Mental illness** (Part IX) proved to be the category that all others are measured against and that none of them correspond to. The Talmud's <span dir="rtl">שוטה</span> is not a psychiatric diagnosis. Prophetic ecstasy is not psychosis. Philosophical provocation is not delusion. Mystical practice is not dissociation. Yet all of them look like mental illness from the outside, and the persistence of this resemblance is the central puzzle of the entire manuscript.[^202]
 
-## X.B. The Developmental Arc
+## The Developmental Arc
 
 The five categories are not merely conceptual alternatives; they emerge in a rough historical sequence that tells a story about how the Jewish tradition has understood and managed the phenomenon of madness across its development.
 
@@ -1139,7 +1139,7 @@ The five categories are not merely conceptual alternatives; they emerge in a rou
 
 Each period answered the question of madness differently because each asked a different version of the question. The Bible asked: what does God do to people? The Talmud asked: what can this person do in the legal system? The rationalists asked: how does the human mind work? The kabbalists asked: what is the structure of reality? The Chassidic masters asked: how should we serve God? Modern psychiatry asks: what disease does this person have? The categories do not correspond because the questions do not correspond, and any attempt to reduce all the questions to one framework (legal, theological, philosophical, mystical, or medical) impoverishes the others.[^203]
 
-## X.C. The Boundary Problem: Who Gets to Define "Mad"?
+## The Boundary Problem: Who Gets to Define "Mad"?
 
 Four authorities compete for the power to define madness, and the contest between them reveals as much about what a society values as the definitions themselves.
 
@@ -1157,7 +1157,7 @@ The contest over definition is itself the most revealing aspect of the madness q
 
 The Jewish tradition, at its best, has maintained multiple definitions simultaneously. The legal definition (Part III) coexists with the aggadic tradition (Part IV), the rationalist position (Part VI), the kabbalistic framework (Part VII), and the Chassidic practices (Part VIII). No single definition has been allowed to swallow the others. This pluralism is not indecisiveness; it is wisdom. The phenomenon of madness is too complex, too multifaceted, and too important to be captured by any single framework, and a tradition that preserves multiple frameworks is better equipped to navigate the complexity than one that commits to a single approach.[^204]
 
-## X.D. Original Contributions
+## Original Contributions
 
 This manuscript advances several arguments that, to the best of my knowledge, have not been made elsewhere in this form:
 
@@ -1379,7 +1379,7 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^21]: Plato, *Phaedrus* 244a.
 
-[^22]: The companion manuscript, *Cynic Philosophy and Rabbinic Thought*, is available in the same repository. For the specific treatment of prophecy and Cynicism, see that manuscript's Parts V.E and VII.
+[^22]: The companion manuscript, *Cynic Philosophy and Rabbinic Thought*, is available in the same repository. For the specific treatment of prophecy and Cynicism, see that manuscript's Prophecy, Cynicism, and Madness and Prophets as Proto-Cynics sections.
 
 [^23]: 1 Samuel 21:12.
 
@@ -1453,7 +1453,7 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^58]: Mishnah Yoma 8:6 (<span dir="rtl">כלב שוטה</span>). The connection between human <span dir="rtl">שטות</span> and animal rabidity is implicit in the shared terminology.
 
-[^59]: This taxonomy of biblical madness draws on the material surveyed in Parts II.A through II.H and synthesizes it into a classification scheme that, to my knowledge, has not been proposed in this form elsewhere.
+[^59]: This taxonomy of biblical madness draws on the material surveyed in the David Before Achish through Nebuchadnezzar's Madness sections and synthesizes it into a classification scheme that, to my knowledge, has not been proposed in this form elsewhere.
 
 [^60]: Tosefta Terumot 1:3.
 
@@ -1501,13 +1501,13 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^82]: Mishnah Yoma 8:6.
 
-[^83]: Daniel 4:29-30, discussed in Part II.H above.
+[^83]: Daniel 4:29-30, discussed in the Nebuchadnezzar's Madness section above.
 
-[^84]: JT Gittin 7:1 (48a in the Vilna edition). For detailed discussion of the <span dir="rtl">קוניקוס</span> identification, see the companion manuscript *Cynic Philosophy and Rabbinic Thought*, Part V.E.3.
+[^84]: JT Gittin 7:1 (48a in the Vilna edition). For detailed discussion of the <span dir="rtl">קוניקוס</span> identification, see the companion manuscript *Cynic Philosophy and Rabbinic Thought*, the Prophecy, Madness, and the End of Prophetic Authority section.
 
 [^85]: Diogenes Laertius, *Lives* 6.37 (Diogenes throwing away his cup).
 
-[^86]: The reading of the JT's <span dir="rtl">קוניקוס</span> definition as a rabbinic "defacement" of the Cynic enterprise is developed in the companion manuscript *Cynic Philosophy and Rabbinic Thought*, Part V.E.3. Menachem Luz discusses the Palestinian rabbis' awareness of Cynic philosophy; see Luz's works on rabbis and Cynics. [Verify: specific Luz publication details needed]
+[^86]: The reading of the JT's <span dir="rtl">קוניקוס</span> definition as a rabbinic "defacement" of the Cynic enterprise is developed in the companion manuscript *Cynic Philosophy and Rabbinic Thought*, the Prophecy, Madness, and the End of Prophetic Authority section. Menachem Luz discusses the Palestinian rabbis' awareness of Cynic philosophy; see Luz's works on rabbis and Cynics. [Verify: specific Luz publication details needed]
 
 [^87]: For the full treatment of the rabbinic-Cynic relationship, see *Cynic Philosophy and Rabbinic Thought*, particularly Parts V and VII.
 
@@ -1529,7 +1529,7 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^96]: BT Chagigah 15a.
 
-[^97]: The "vessel too small for the light" metaphor anticipates the Lurianic concept of shevirat ha-kelim (Part VII.B).
+[^97]: The "vessel too small for the light" metaphor anticipates the Lurianic concept of shevirat ha-kelim (the Shevirat HaKelim section).
 
 [^98]: BT Bava Batra 12b.
 
@@ -1545,7 +1545,7 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^104]: BT Ketubot 17a.
 
-[^105]: The distinction between voluntary and involuntary altered states, developed here, is central to Part IX.H (The Ethical Stakes).
+[^105]: The distinction between voluntary and involuntary altered states, developed here, is central to the Ethical Stakes section.
 
 [^106]: 1 Samuel 16:14.
 
@@ -1575,11 +1575,11 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^119]: Diogenes Laertius, *Lives* 6.69 (free speech), 6.38 (Alexander), 6.41 (the lantern). For full discussion, see the companion manuscript *Cynic Philosophy and Rabbinic Thought*, Part I.
 
-[^120]: The mechanism of performed irrationality as framework-switching is developed as an original argument of this manuscript. See Part V.G for the full analysis.
+[^120]: The mechanism of performed irrationality as framework-switching is developed as an original argument of this manuscript. See the Parallels and Distinctions section for the full analysis.
 
-[^121]: *Cynic Philosophy and Rabbinic Thought*, Part VII.A.2 (parallel catalog of Cynic themes and prophetic parallels).
+[^121]: *Cynic Philosophy and Rabbinic Thought*, the Parallel Catalog section (Cynic themes and prophetic parallels).
 
-[^122]: For parrhēsia and anaideia as Cynic virtues, see *Cynic Philosophy and Rabbinic Thought*, Part I.C; also Epictetus, *Discourses* III.22.
+[^122]: For parrhēsia and anaideia as Cynic virtues, see *Cynic Philosophy and Rabbinic Thought*, the Core Doctrines of Cynic Philosophy section; also Epictetus, *Discourses* III.22.
 
 [^123]: The structural parallel between Cynic shamelessness and prophetic norm-violation is developed in *Cynic Philosophy and Rabbinic Thought*, Part VII.
 
@@ -1699,7 +1699,7 @@ Urbach, Ephraim E. *The Sages: The World and Wisdom of the Rabbis of the Talmud*
 
 [^181]: Foucault, *Madness and Civilization*, chapters 2-3 (the "great confinement").
 
-[^182]: The parallel between the Talmud's behavioral approach and Foucault's critique of medicalization was introduced in Part III.H and is developed further here.
+[^182]: The parallel between the Talmud's behavioral approach and Foucault's critique of medicalization was introduced in the What the Talmud's Definition Is and Is Not section and is developed further here.
 
 [^183]: The other side of the parallel, the Talmud's use of the <span dir="rtl">שוטה</span> label to exclude people from the legal order, shows that the Foucauldian critique applies, in modified form, to the rabbinic system as well.
 

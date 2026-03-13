@@ -9,81 +9,81 @@
 # Table of Contents
 
 - [Part I: INTRODUCTION AND THEORETICAL FRAMEWORK](#part-i-introduction-and-theoretical-framework)
-  - [I.A. Defining Bibliomorphism](#ia-defining-bibliomorphism)
-  - [I.B. The Trinitarian Thesis: Man, Text, and God](#ib-the-trinitarian-thesis-man-text-and-god)
-  - [I.C. Methodological Considerations and Scope](#ic-methodological-considerations-and-scope)
-  - [I.D. Relationship to Existing Scholarly Frameworks](#id-relationship-to-existing-scholarly-frameworks)
+  - [Defining Bibliomorphism](#defining-bibliomorphism)
+  - [The Trinitarian Thesis: Man, Text, and God](#the-trinitarian-thesis-man-text-and-god)
+  - [Methodological Considerations and Scope](#methodological-considerations-and-scope)
+  - [Relationship to Existing Scholarly Frameworks](#relationship-to-existing-scholarly-frameworks)
 - [Part II: BIBLICAL FOUNDATIONS](#part-ii-biblical-foundations)
-  - [II.A. Proverbs 8 — Wisdom Personified as Pre-Creation Agent](#iia-proverbs-8-wisdom-personified-as-pre-creation-agent)
-  - [II.B. Psalm 119 — Torah Endowed with Divine Attributes](#iib-psalm-119-torah-endowed-with-divine-attributes)
-  - [II.C. Deuteronomy 6:6-9 — The Self-Referential Command](#iic-deuteronomy-66-9-the-self-referential-command)
-  - [II.D. The Tablets of the Covenant as Proto-Bibliomorphic Artifacts](#iid-the-tablets-of-the-covenant-as-proto-bibliomorphic-artifacts)
+  - [Proverbs 8 — Wisdom Personified as Pre-Creation Agent](#proverbs-8--wisdom-personified-as-pre-creation-agent)
+  - [Psalm 119 — Torah Endowed with Divine Attributes](#psalm-119--torah-endowed-with-divine-attributes)
+  - [Deuteronomy 6:6-9 — The Self-Referential Command](#deuteronomy-66-9--the-self-referential-command)
+  - [The Tablets of the Covenant as Proto-Bibliomorphic Artifacts](#the-tablets-of-the-covenant-as-proto-bibliomorphic-artifacts)
 - [Part III: SECOND TEMPLE AND HELLENISTIC DEVELOPMENTS](#part-iii-second-temple-and-hellenistic-developments)
-  - [III.A. Philo of Alexandria — Logos as Divine Intermediary](#iiia-philo-of-alexandria-logos-as-divine-intermediary)
-  - [III.B. Qumran Evidence — Individual Scrolls to Unified Torah](#iiib-qumran-evidence-individual-scrolls-to-unified-torah)
-  - [III.C. Ben Sira — Wisdom Literature and Torah Identification](#iiic-ben-sira-wisdom-literature-and-torah-identification)
-  - [III.D. The Physical Scroll: From Communication Medium to Ritual Artifact](#iiid-the-physical-scroll-from-communication-medium-to-ritual-artifact)
+  - [Philo of Alexandria — Logos as Divine Intermediary](#philo-of-alexandria--logos-as-divine-intermediary)
+  - [Qumran Evidence — Individual Scrolls to Unified Torah](#qumran-evidence--individual-scrolls-to-unified-torah)
+  - [Ben Sira — Wisdom Literature and Torah Identification](#ben-sira--wisdom-literature-and-torah-identification)
+  - [The Physical Scroll: From Communication Medium to Ritual Artifact](#the-physical-scroll-from-communication-medium-to-ritual-artifact)
 - [Part IV: TANNAITIC FOUNDATIONS](#part-iv-tannaitic-foundations)
-  - [IV.A. Mishnaic Laws Governing Torah Scroll Treatment](#iva-mishnaic-laws-governing-torah-scroll-treatment)
-  - [IV.B. Early Signs of Personification in Tannaitic Sources](#ivb-early-signs-of-personification-in-tannaitic-sources)
-  - [IV.C. The Synagogue as the Torah's Home](#ivc-the-synagogue-as-the-torahs-home)
-  - [IV.D. Circumcision as Writing on the Body](#ivd-circumcision-as-writing-on-the-body)
+  - [Mishnaic Laws Governing Torah Scroll Treatment](#mishnaic-laws-governing-torah-scroll-treatment)
+  - [Early Signs of Personification in Tannaitic Sources](#early-signs-of-personification-in-tannaitic-sources)
+  - [The Synagogue as the Torah's Home](#the-synagogue-as-the-torahs-home)
+  - [Circumcision as Writing on the Body](#circumcision-as-writing-on-the-body)
 - [Part V: AMORAIC CRYSTALLIZATION — TEXT AS SELF](#part-v-amoraic-crystallization-text-as-self)
-  - [V.A. Torah as a Self That Speaks About Itself](#va-torah-as-a-self-that-speaks-about-itself)
-  - [V.B. Torah Scroll Buried Like a Person](#vb-torah-scroll-buried-like-a-person)
-  - [V.C. Torah Scroll Accorded the Honor Given to Persons](#vc-torah-scroll-accorded-the-honor-given-to-persons)
-  - [V.D. Torah Scroll Endowed with a Soul](#vd-torah-scroll-endowed-with-a-soul)
-  - [V.E. Living Tablets and Dead Tablets](#ve-living-tablets-and-dead-tablets)
-  - [V.F. Torah Scroll as Tenth Man in a Minyan](#vf-torah-scroll-as-tenth-man-in-a-minyan)
-  - [V.G. Lex Talionis Applied to the Torah Scroll](#vg-lex-talionis-applied-to-the-torah-scroll)
-  - [V.H. The Commandments as the Body's Blueprint](#vh-the-commandments-as-the-bodys-blueprint)
+  - [Torah as a Self That Speaks About Itself](#torah-as-a-self-that-speaks-about-itself)
+  - [Torah Scroll Buried Like a Person](#torah-scroll-buried-like-a-person)
+  - [Torah Scroll Accorded the Honor Given to Persons](#torah-scroll-accorded-the-honor-given-to-persons)
+  - [Torah Scroll Endowed with a Soul](#torah-scroll-endowed-with-a-soul)
+  - [Living Tablets and Dead Tablets](#living-tablets-and-dead-tablets)
+  - [Torah Scroll as Tenth Man in a Minyan](#torah-scroll-as-tenth-man-in-a-minyan)
+  - [Lex Talionis Applied to the Torah Scroll](#lex-talionis-applied-to-the-torah-scroll)
+  - [The Commandments as the Body's Blueprint](#the-commandments-as-the-bodys-blueprint)
 - [Part VI: AMORAIC CRYSTALLIZATION — PERSON AS TEXT](#part-vi-amoraic-crystallization-person-as-text)
-  - [VI.A. Death of a Scholar as Death of a Scroll](#via-death-of-a-scholar-as-death-of-a-scroll)
-  - [VI.B. The Scholar's Body as Torah](#vib-the-scholars-body-as-torah)
-  - [VI.C. Standing for Scholars as Standing for Torah](#vic-standing-for-scholars-as-standing-for-torah)
-  - [VI.D. The Scholar Who Has Internalized Torah Becomes Torah](#vid-the-scholar-who-has-internalized-torah-becomes-torah)
+  - [Death of a Scholar as Death of a Scroll](#death-of-a-scholar-as-death-of-a-scroll)
+  - [The Scholar's Body as Torah](#the-scholars-body-as-torah)
+  - [Standing for Scholars as Standing for Torah](#standing-for-scholars-as-standing-for-torah)
+  - [The Scholar Who Has Internalized Torah Becomes Torah](#the-scholar-who-has-internalized-torah-becomes-torah)
 - [Part VII: RECURSIVE SELF-REFERENCE AND THE EMERGENCE OF SELFHOOD](#part-vii-recursive-self-reference-and-the-emergence-of-selfhood)
-  - [VII.A. Deuteronomy 6:6 as Self-Referential Command](#viia-deuteronomy-66-as-self-referential-command)
-  - [VII.B. Hofstadter's Strange Loops and Gödel's Self-Reference](#viib-hofstadters-strange-loops-and-godels-self-reference)
-  - [VII.C. The Self-Referential Scroll](#viic-the-self-referential-scroll)
-  - [VII.D. Bibliomorphism as Strange Loop](#viid-bibliomorphism-as-strange-loop)
+  - [Deuteronomy 6:6 as Self-Referential Command](#deuteronomy-66-as-self-referential-command)
+  - [Hofstadter's Strange Loops and Gödel's Self-Reference](#hofstadters-strange-loops-and-gödels-self-reference)
+  - [The Self-Referential Scroll](#the-self-referential-scroll)
+  - [Bibliomorphism as Strange Loop](#bibliomorphism-as-strange-loop)
 - [Part VIII: EARLY MYSTICAL DEVELOPMENTS](#part-viii-early-mystical-developments)
-  - [VIII.A. Sefer Yetzirah — Letters as Ontological Foundations](#viiia-sefer-yetzirah-letters-as-ontological-foundations)
-  - [VIII.B. Black Fire on White Fire — The Primordial Torah](#viiib-black-fire-on-white-fire-the-primordial-torah)
-  - [VIII.C. The Torah That Preceded Creation](#viiic-the-torah-that-preceded-creation)
+  - [Sefer Yetzirah — Letters as Ontological Foundations](#sefer-yetzirah--letters-as-ontological-foundations)
+  - [Black Fire on White Fire — The Primordial Torah](#black-fire-on-white-fire--the-primordial-torah)
+  - [The Torah That Preceded Creation](#the-torah-that-preceded-creation)
 - [Part IX: THE KABBALISTIC REVOLUTION — TEXT AS GOD](#part-ix-the-kabbalistic-revolution-text-as-god)
-  - [IX.A. The Zohar's Trinitarian Formula](#ixa-the-zohars-trinitarian-formula)
-  - [IX.B. Torah as the Body of the King](#ixb-torah-as-the-body-of-the-king)
-  - [IX.C. Torah as the Name of God](#ixc-torah-as-the-name-of-god)
-  - [IX.D. Recanati — God Is Not Outside the Torah](#ixd-recanati-god-is-not-outside-the-torah)
-  - [IX.E. Scholem and Idel — Modern Scholarly Frameworks](#ixe-scholem-and-idel-modern-scholarly-frameworks)
+  - [The Zohar's Trinitarian Formula](#the-zohars-trinitarian-formula)
+  - [Torah as the Body of the King](#torah-as-the-body-of-the-king)
+  - [Torah as the Name of God](#torah-as-the-name-of-god)
+  - [Recanati — God Is Not Outside the Torah](#recanati--god-is-not-outside-the-torah)
+  - [Scholem and Idel — Modern Scholarly Frameworks](#scholem-and-idel--modern-scholarly-frameworks)
 - [Part IX-B: POST-ZOHARIC DEVELOPMENTS — THE MAHARAL AND LURIANIC KABBALAH](#part-ix-b-post-zoharic-developments-the-maharal-and-lurianic-kabbalah)
   - [IX-B.A. The Maharal of Prague — Torah as the Form of the Human](#ix-ba-the-maharal-of-prague-torah-as-the-form-of-the-human)
   - [IX-B.B. Isaac Luria — Sparks, Vessels, and the Letters of Creation](#ix-bb-isaac-luria-sparks-vessels-and-the-letters-of-creation)
   - [IX-B.C. Bridge to Hasidism](#ix-bc-bridge-to-hasidism)
 - [Part X: HASIDIC FULFILLMENT](#part-x-hasidic-fulfillment)
-  - [X.A. The Tanya — Ein Sof Clothed in Letters of Torah](#xa-the-tanya-ein-sof-clothed-in-letters-of-torah)
-  - [X.B. The Sefat Emet — Torah, God, and Israel Are One](#xb-the-sefat-emet-torah-god-and-israel-are-one)
-  - [X.C. The Baal Shem Tov — Letters as Vessels of Divine Light](#xc-the-baal-shem-tov-letters-as-vessels-of-divine-light)
-  - [X.D. The Tzaddik as Living Torah Scroll](#xd-the-tzaddik-as-living-torah-scroll)
-  - [X.E. Every Jew as a Letter in the Torah](#xe-every-jew-as-a-letter-in-the-torah)
+  - [The Tanya — Ein Sof Clothed in Letters of Torah](#the-tanya--ein-sof-clothed-in-letters-of-torah)
+  - [The Sefat Emet — Torah, God, and Israel Are One](#the-sefat-emet--torah-god-and-israel-are-one)
+  - [The Baal Shem Tov — Letters as Vessels of Divine Light](#the-baal-shem-tov--letters-as-vessels-of-divine-light)
+  - [The Tzaddik as Living Torah Scroll](#the-tzaddik-as-living-torah-scroll)
+  - [Every Jew as a Letter in the Torah](#every-jew-as-a-letter-in-the-torah)
 - [Part XI: RITUAL EXPRESSIONS OF BIBLIOMORPHISM](#part-xi-ritual-expressions-of-bibliomorphism)
-  - [XI.A. Tefillin — Binding Text to the Body](#xia-tefillin-binding-text-to-the-body)
-  - [XI.B. Mezuzah — Inscribing the Doorpost](#xib-mezuzah-inscribing-the-doorpost)
-  - [XI.C. Tallit — The Body Wrapped as a Scroll](#xic-tallit-the-body-wrapped-as-a-scroll)
-  - [XI.D. Circumcision as Inscription](#xid-circumcision-as-inscription)
-  - [XI.E. The Torah Service as Liturgical Drama](#xie-the-torah-service-as-liturgical-drama)
-  - [XI.F. Traditional Garb and Torah Scroll Dress](#xif-traditional-garb-and-torah-scroll-dress)
+  - [Tefillin — Binding Text to the Body](#tefillin--binding-text-to-the-body)
+  - [Mezuzah — Inscribing the Doorpost](#mezuzah--inscribing-the-doorpost)
+  - [Tallit — The Body Wrapped as a Scroll](#tallit--the-body-wrapped-as-a-scroll)
+  - [Circumcision as Inscription](#circumcision-as-inscription)
+  - [The Torah Service as Liturgical Drama](#the-torah-service-as-liturgical-drama)
+  - [Traditional Garb and Torah Scroll Dress](#traditional-garb-and-torah-scroll-dress)
 - [Part XII: COMPARATIVE AND THEORETICAL PERSPECTIVES](#part-xii-comparative-and-theoretical-perspectives)
-  - [XII.A. Bibliomorphism vs. Christian Incarnation Theology](#xiia-bibliomorphism-vs-christian-incarnation-theology)
-  - [XII.B. Comparison with Islamic Text-Centricity](#xiib-comparison-with-islamic-text-centricity)
-  - [XII.C. Academic Frameworks: Scholem, Idel, Wolfson, Tigay](#xiic-academic-frameworks-scholem-idel-wolfson-tigay)
-  - [XII.D. Bibliomorphism and Modern Philosophy of Language](#xiid-bibliomorphism-and-modern-philosophy-of-language)
+  - [Bibliomorphism vs. Christian Incarnation Theology](#bibliomorphism-vs-christian-incarnation-theology)
+  - [Comparison with Islamic Text-Centricity](#comparison-with-islamic-text-centricity)
+  - [Academic Frameworks: Scholem, Idel, Wolfson, Tigay](#academic-frameworks-scholem-idel-wolfson-tigay)
+  - [Bibliomorphism and Modern Philosophy of Language](#bibliomorphism-and-modern-philosophy-of-language)
 - [Part XIII: SYNTHESIS AND ORIGINAL CONTRIBUTIONS](#part-xiii-synthesis-and-original-contributions)
-  - [XIII.A. The Developmental Arc](#xiiia-the-developmental-arc)
-  - [XIII.B. Bibliomorphism as Judaism's Answer to Divine Presence](#xiiib-bibliomorphism-as-judaisms-answer-to-divine-presence)
-  - [XIII.C. The Strange Loop of Jewish Identity](#xiiic-the-strange-loop-of-jewish-identity)
-  - [XIII.D. The Bibliomorphic Lens as Hermeneutic Key](#xiiid-the-bibliomorphic-lens-as-hermeneutic-key)
+  - [The Developmental Arc](#the-developmental-arc)
+  - [Bibliomorphism as Judaism's Answer to Divine Presence](#bibliomorphism-as-judaisms-answer-to-divine-presence)
+  - [The Strange Loop of Jewish Identity](#the-strange-loop-of-jewish-identity)
+  - [The Bibliomorphic Lens as Hermeneutic Key](#the-bibliomorphic-lens-as-hermeneutic-key)
 - [Glossary](#glossary)
 - [Bibliography](#bibliography)
 
@@ -93,7 +93,7 @@
 
 Judaism is often called the religion of the book. This characterization, though ubiquitous, understates the case dramatically. Judaism did not merely produce a book, consult a book, or organize itself around a book. Over the course of two millennia, rabbinic civilization developed a comprehensive doctrine — never formally systematized but pervasively present — in which the boundaries between person, text, and God became progressively permeable and ultimately, in the mystical traditions, dissolved entirely. A Torah scroll can be buried like a person. A dying scholar's arms are compared to scrolls being rolled up. The Zohar declares that Israel, Torah, and the Holy One are all one. This study names that doctrine *bibliomorphism* and traces its development from biblical seeds through its full flowering in Hasidic thought.
 
-## I.A. Defining Bibliomorphism
+## Defining Bibliomorphism
 
 The term *bibliomorphism* — from the Greek *biblion* (book) and *morphe* (form) — denotes the conceptual and ritual process by which the boundaries between text and person become permeable, such that texts are treated as persons, persons are understood as texts, and — in the culminating mystical formulations — both are identified with God. Bibliomorphism is not a single doctrine but a cluster of interrelated phenomena: the attribution of personhood to sacred scrolls, the understanding of the human body as a written document, the identification of Torah with the divine essence, and the ritual practices that enact and reinforce these identifications.[^1]
 
@@ -109,7 +109,7 @@ Bibliomorphism operates along three axes, each of which will be traced through t
 
 These three axes form a trinitarian structure: Man ↔ Text ↔ God. The claim of this study is that this trinitarian structure — never formalized as dogma, never debated at councils, but pervading rabbinic thought and practice at every level — constitutes one of the most distinctive and consequential features of Jewish civilization.[^3]
 
-## I.B. The Trinitarian Thesis: Man, Text, and God
+## The Trinitarian Thesis: Man, Text, and God
 
 The word "trinitarian" requires immediate clarification. It is used here not in the Christian theological sense of three co-equal persons within a single Godhead, but in a structural sense: three entities whose mutual identification constitutes the deep grammar of rabbinic culture. The Jewish trinitarian structure differs from its Christian counterpart in several critical respects. First, it was never formally dogmatized — it emerged organically from exegetical, legal, and mystical practices rather than from conciliar debate. Second, its terms are not persons in the theological sense but categories of being: human selfhood, textual selfhood, and divine selfhood. Third, and most importantly, the mechanism of identification is not incarnation but *inscription* — not the Word made flesh but the Word made text, and the flesh made text, and the text made divine.[^4]
 
@@ -117,7 +117,7 @@ No trinitarian doctrine is explicitly taught in the Hebrew Bible. The Bible pers
 
 This developmental arc — from implicit to explicit, from legal to mystical, from elite to universal — is the narrative spine of this study. It is not a story of linear progress but of recursive deepening: each stage does not replace but incorporates and intensifies what came before.
 
-## I.C. Methodological Considerations and Scope
+## Methodological Considerations and Scope
 
 This study proceeds chronologically through the major periods of Jewish literary production: biblical, Second Temple, Tannaitic, Amoraic, early mystical, Kabbalistic, and Hasidic. Within each period, the analysis moves from primary source analysis to scholarly interpretation to original synthesis. The goal is not merely to catalog instances of bibliomorphic thinking but to trace the logic that connects them — to show how the treatment of a Torah scroll in Mishnah Yadayim anticipates and enables the Zohar's declaration that Torah and God are one.[^6]
 
@@ -125,7 +125,7 @@ Several methodological commitments guide the analysis. First, primary sources ar
 
 The scope encompasses the full range of rabbinic literature: Mishnah, Tosefta, halakhic midrashim, Babylonian and Jerusalem Talmuds, Aggadic midrashim, Sefer Yetzirah, the Zohar, the works of Nahmanides and Recanati, the Tanya of Rabbi Shneur Zalman of Liadi, the Sefat Emet of the Gerer Rebbe, and the teachings of the Baal Shem Tov and his disciples. Comparative material from Philo of Alexandria, early Christian theology, and Islamic textual theology is introduced where it illuminates the distinctiveness of the Jewish position.
 
-## I.D. Relationship to Existing Scholarly Frameworks
+## Relationship to Existing Scholarly Frameworks
 
 Several modern scholars have explored aspects of what this study calls bibliomorphism, though none has identified the phenomenon as a unified doctrine or traced its full developmental arc.
 
@@ -137,7 +137,7 @@ Jeffrey Tigay's essay "The Torah Scroll and God's Presence" (2013) examines the 
 
 Elliot Wolfson's extensive work on Zoharic hermeneutics and language mysticism explores the Kabbalistic understanding of language as the medium of divine self-disclosure. Wolfson has argued that for the Zohar, the act of reading Torah is simultaneously an act of encountering God — that the text is not a window onto the divine but the divine itself in its textual modality. His essay "The Body in the Text: A Kabbalistic Theory of Embodiment" (2005) is especially pertinent: it argues that the Torah is a "linguistic body" composed of letters, exploring the reciprocal relation between "the body of the text and the text of the body" — the very bidirectionality that this study identifies as the hallmark of bibliomorphism.[^11]
 
-Daniel Boyarin's work provides an important corrective and complement to these frameworks. In *Carnal Israel: Reading Sex in Talmudic Culture* (1993), Boyarin argues that the rabbinic tradition was far more invested in corporeality — including the corporeality of the divine — than scholars had recognized, and his chapter "Lusting After Learning: The Torah as 'the Other Woman'" directly addresses the erotic and embodied dimension of the Person/Text relationship. In *Border Lines: The Partition of Judaeo-Christianity* (2004), Boyarin contends that Logos theology was a shared Jewish-Christian tradition and that the Christian innovation was not the concept of divine embodiment through language but the specific identification of that embodiment with Jesus. This reframing is essential for Part XII.A of this study.[^11a]
+Daniel Boyarin's work provides an important corrective and complement to these frameworks. In *Carnal Israel: Reading Sex in Talmudic Culture* (1993), Boyarin argues that the rabbinic tradition was far more invested in corporeality — including the corporeality of the divine — than scholars had recognized, and his chapter "Lusting After Learning: The Torah as 'the Other Woman'" directly addresses the erotic and embodied dimension of the Person/Text relationship. In *Border Lines: The Partition of Judaeo-Christianity* (2004), Boyarin contends that Logos theology was a shared Jewish-Christian tradition and that the Christian innovation was not the concept of divine embodiment through language but the specific identification of that embodiment with Jesus. This reframing is essential for the Bibliomorphism vs. Christian Incarnation Theology section of this study.[^11a]
 
 Yehuda Liebes, Scholem's successor at the Hebrew University and author of *Studies in the Zohar* (1993), has further illuminated the Zohar's trinitarian theology with an emphasis on the organic relationship between narrative, myth, and theosophical doctrine. His analysis of the Zohar's internal dynamics directly parallels the Man-Text-God thesis developed here.[^11b]
 
@@ -149,7 +149,7 @@ What these scholars share — and what this study attempts to synthesize — is 
 
 The Hebrew Bible does not teach bibliomorphism as a doctrine. It does not identify person with text or text with God in any explicit or systematic way. Yet it plants the seeds from which the full bibliomorphic vision will grow. Three biblical texts are especially significant: Proverbs 8, which personifies Wisdom/Torah as a pre-creation agent; Psalm 119, which endows Torah with attributes otherwise reserved for God; and Deuteronomy 6:6-9, which commands the inscription of divine words on the human body and dwelling place. Together with the narrative of the covenant tablets, these texts establish the conceptual vocabulary — personification, divinization, inscription, self-reference — that the rabbinic tradition will elaborate into a comprehensive cultural logic.
 
-## II.A. Proverbs 8 — Wisdom Personified as Pre-Creation Agent
+## Proverbs 8 — Wisdom Personified as Pre-Creation Agent
 
 The eighth chapter of Proverbs contains one of the most remarkable passages in the Hebrew Bible. Wisdom (<span dir="rtl">חכמה</span>, *Hokhmah*) speaks in the first person, declaring herself to have been present at creation — indeed, to have been the first of God's works, the companion and instrument through which the world was made:
 
@@ -167,7 +167,7 @@ The significance of this passage for bibliomorphism lies in its personification 
 
 The rabbinic identification of Wisdom with Torah is already implicit in the biblical text itself. The phrase <span dir="rtl">רֵאשִׁית דַּרְכּוֹ</span> ("the beginning of His way") would be read by the midrash through the lens of Genesis 1:1 (<span dir="rtl">בְּרֵאשִׁית</span>, "In the beginning"), yielding the interpretation that <span dir="rtl">רֵאשִׁית</span> means Torah — and therefore that God created the world through Torah, with Torah, and for the sake of Torah. This exegetical move transforms a personification of abstract Wisdom into a personification of a specific text, setting the stage for the full bibliomorphic program.[^15]
 
-## II.B. Psalm 119 — Torah Endowed with Divine Attributes
+## Psalm 119 — Torah Endowed with Divine Attributes
 
 Psalm 119, the longest chapter in the Hebrew Bible, is an alphabetical acrostic of 176 verses devoted entirely to the praise of Torah. The psalm is remarkable not only for its length and formal structure but for the attributes it ascribes to Torah — attributes that, in other biblical contexts, belong exclusively to God.
 
@@ -177,7 +177,7 @@ Each of these attributes — eternity, life-giving power, luminosity, the capaci
 
 The psalm also prefigures the "Person as Text" axis of bibliomorphism. The psalmist does not merely study or obey Torah; he internalizes it to the point of identification. "Your word I have hidden in my heart" (<span dir="rtl">בְּלִבִּי צָפַנְתִּי אִמְרָתֶךָ</span>, Psalm 119:11); "I will never forget Your precepts, for by them You have given me life" (<span dir="rtl">לְעוֹלָם לֹא אֶשְׁכַּח פִּקּוּדֶיךָ כִּי בָם חִיִּיתָנִי</span>, Psalm 119:93). The Torah is not external to the psalmist but constitutive of his identity — he lives by it, through it, and ultimately as it.[^18]
 
-## II.C. Deuteronomy 6:6-9 — The Self-Referential Command
+## Deuteronomy 6:6-9 — The Self-Referential Command
 
 The passage known as the *Shema* contains what may be the most consequential command in the entire Torah for the development of bibliomorphism:
 
@@ -191,7 +191,7 @@ Three features of this passage are foundational for bibliomorphism. First, it co
 
 This self-referential quality — the text that commands its own inscription, the words that refer to themselves — will prove central to the emergence of bibliomorphic selfhood. As Robert A. Paul has observed, the phrase "these words" can be read as pointing not to some external referent but to itself: these words, the ones you are reading right now, are the words that must be placed on your heart. The command is recursive: it generates itself as its own content.[^21]
 
-## II.D. The Tablets of the Covenant as Proto-Bibliomorphic Artifacts
+## The Tablets of the Covenant as Proto-Bibliomorphic Artifacts
 
 The narrative of the covenant tablets in Exodus 31-34 introduces another foundational element of bibliomorphism: the sacred text as a material artifact endowed with quasi-personal properties. The tablets are described as <span dir="rtl">מַעֲשֵׂה אֱלֹהִים</span> ("the work of God") and the writing upon them as <span dir="rtl">מִכְתַּב אֱלֹהִים</span> ("the writing of God," Exodus 32:16). They are not merely written by God but made by God — they are divine artifacts in the most literal sense.[^22]
 
@@ -205,7 +205,7 @@ The Jerusalem Talmud's remarkable claim about the tablets — that the writing c
 
 The Second Temple period — roughly from the return from Babylonian exile in the late sixth century BCE through the destruction of the Second Temple in 70 CE — witnessed crucial developments in the relationship between persons, texts, and the divine. Three developments are especially important for the emergence of bibliomorphism: Philo of Alexandria's Logos theology, which established a philosophical framework for understanding text as a divine intermediary; the consolidation of the five books of the Pentateuch into a single monumental scroll; and the evolution of the physical scroll from a utilitarian communication medium into a ritual artifact housed in a permanent sacred space.
 
-## III.A. Philo of Alexandria — Logos as Divine Intermediary
+## Philo of Alexandria — Logos as Divine Intermediary
 
 Philo of Alexandria (c. 20 BCE – c. 50 CE), the great Jewish philosopher of the Hellenistic world, developed a theology of the Logos that would prove decisive for the history of bibliomorphism — though its influence was felt more in Christian than in Jewish tradition. Drawing on both the Platonic concept of the *demiurge* (the craftsman-god of Plato's *Timaeus*) and the Stoic concept of the *logos* (the rational principle governing the cosmos), Philo argued that God created the world through His Word — the Logos — which served as an intermediary between the utterly transcendent God and the material world.[^25]
 
@@ -213,7 +213,7 @@ For Philo, the Logos is "the first-born son of God," the instrument of creation,
 
 The significance of Philo for bibliomorphism is twofold. First, he establishes the philosophical infrastructure for understanding a textual entity (the divine Word) as an intermediary between God and the world — a role that in rabbinic thought will be filled not by an abstract Logos but by the concrete Torah scroll. Second, and more subtly, Philo's system implies a trinitarian structure: God, Logos, and World correspond structurally (though not doctrinally) to God, Torah, and Israel. The Christian tradition would develop Philo's Logos theology in the direction of incarnation — the Word made flesh. The rabbinic tradition would develop it in the direction of inscription — the Word made text.[^27]
 
-## III.B. Qumran Evidence — Individual Scrolls to Unified Torah
+## Qumran Evidence — Individual Scrolls to Unified Torah
 
 The manuscript evidence from Qumran (the Dead Sea Scrolls, discovered beginning in 1947) sheds important light on the material history of the Torah scroll and its transition from a collection of individual documents to a unified sacred artifact. The Qumran library contained multiple copies of individual books of the Pentateuch on separate scrolls, suggesting that in the late Second Temple period, the five books were still commonly transmitted as independent documents rather than as a single monumental scroll.[^28]
 
@@ -221,7 +221,7 @@ By the early Amoraic period (mid-third century CE), this situation had changed d
 
 This material transformation is essential for understanding the emergence of bibliomorphism. A collection of individual scrolls used for study is a set of tools — useful, important, but instrumental. A single monumental scroll housed in a permanent shrine at the center of communal worship is something else: an artifact that commands its own space, that is processed and displayed and returned to its place with ceremony, that becomes the focal point of collective attention and reverence. The transition from multiple study scrolls to a single ritual scroll created the material conditions for the attribution of personhood to text.[^30]
 
-## III.C. Ben Sira — Wisdom Literature and Torah Identification
+## Ben Sira — Wisdom Literature and Torah Identification
 
 The Book of Ben Sira (Ecclesiasticus, composed c. 180 BCE) marks a crucial step in the identification of Wisdom with Torah — and thereby in the development of bibliomorphism. Where Proverbs 8 personifies Wisdom as a pre-creation agent without explicitly identifying her with the Torah of Moses, Ben Sira makes the identification explicit:
 
@@ -231,7 +231,7 @@ This verse follows an extended hymn in which Wisdom describes her cosmic role in
 
 This identification means that every attribute previously ascribed to Wisdom — her pre-existence, her role in creation, her divine intimacy — now attaches to the Torah. The Torah is not merely wise; it is Wisdom herself, present before creation, the companion and instrument of God in making the world. Ben Sira thereby supplies the critical link between the biblical personification of Wisdom and the rabbinic personification of Torah, preparing the ground for the full bibliomorphic developments of the Amoraic period.[^33]
 
-## III.D. The Physical Scroll: From Communication Medium to Ritual Artifact
+## The Physical Scroll: From Communication Medium to Ritual Artifact
 
 The material history of the Torah scroll during the Second Temple and early rabbinic periods reveals a transformation whose theological implications cannot be overstated. In the synagogues of late antiquity, Torah scrolls were initially kept in low, freestanding portable chests that could be moved in and out of the prayer space. Eventually, the scrolls were placed in fixed niches in the walls of synagogues, either directly or in wooden cabinets placed within the niches. The Torah chests of late antiquity resembled Greco-Roman cupboards used for housing scrolls; the Torah niche is comparable to shrines found in Greco-Roman temples.[^34]
 
@@ -247,7 +247,7 @@ Now that one Torah scroll had its own home at the center of the synagogue and ha
 
 The Tannaitic period (approximately the first two centuries of the Common Era) laid the legal and ritual foundations for bibliomorphism without yet articulating the doctrine explicitly. The Tannaim — the rabbinic sages whose teachings are preserved in the Mishnah, Tosefta, and halakhic midrashim — developed an elaborate body of law governing the production, treatment, storage, and disposal of Torah scrolls. These laws, while framed in halakhic rather than theological language, implicitly treat the Torah scroll as an entity possessing a status that transcends mere objecthood. The scroll's sanctity is not derived from its content alone — a printed text of the Torah lacks the halakhic status of a Torah scroll — but from the combination of its content, its material composition, and the process by which it was produced. This combination of properties — semantic, material, and processual — is precisely the kind of status normally reserved for persons.
 
-## IV.A. Mishnaic Laws Governing Torah Scroll Treatment
+## Mishnaic Laws Governing Torah Scroll Treatment
 
 The Mishnah's treatment of Torah scrolls reveals a legal framework that, without using the language of personhood, accords to scrolls a status that parallels personhood in striking ways. The most famous and puzzling of these laws is the rule of <span dir="rtl">טומאת ידיים</span> (*tumat yadayim*, "impurity of the hands"): sacred scriptures render the hands ritually impure upon contact (Mishnah Yadayim 3:5). This ruling, which the Talmud itself finds paradoxical — why should holy objects cause impurity? — has been explained as a protective measure designed to prevent people from storing food alongside scrolls, but the very need for such a measure testifies to the intimate, quasi-personal relationship between Jews and their sacred texts.[^37]
 
@@ -255,13 +255,13 @@ The laws of scroll production further underscore this point. A Torah scroll must
 
 Mishnah Megillah 3:1 establishes a hierarchy of sacred objects that may be sold or repurposed, ascending from a synagogue courtyard to a synagogue building to a Torah ark to Torah mantles to a Torah scroll. The Torah scroll sits at the apex: funds from the sale of a Torah scroll may only be used to purchase another Torah scroll, never to acquire a lesser sacred object. This hierarchy implies that the Torah scroll possesses a dignity that is not merely instrumental — it is not valued for what it enables (study, reading) but for what it is.[^39]
 
-## IV.B. Early Signs of Personification in Tannaitic Sources
+## Early Signs of Personification in Tannaitic Sources
 
 While the explicit personification of Torah scrolls is primarily an Amoraic development, traces can be detected in Tannaitic sources. The obligation to stand when a Torah scroll passes (attested in Tannaitic-era practice, though the Talmudic discussion in B.T. Kiddushin 33b is Amoraic) parallels the obligation to stand for an elder or a Torah scholar — suggesting that the scroll is accorded the kind of honor normally reserved for persons of distinction.[^40]
 
 The Tannaitic midrashim occasionally speak of Torah in personal terms. Sifre Deuteronomy 48, commenting on the verse "He set him atop the highlands" (Deuteronomy 32:13), interprets the Torah as speaking in her own voice — a literary device that, repeated often enough, begins to shade into genuine personification. The Mekhilta de-Rabbi Ishmael similarly personifies Torah in its comments on the Sinai revelation, presenting Torah as an entity that was offered to other nations before Israel accepted her — a narrative that presupposes Torah's capacity for independent action and relationship.[^41]
 
-## IV.C. The Synagogue as the Torah's Home
+## The Synagogue as the Torah's Home
 
 The architectural development of the synagogue during the Tannaitic and early Amoraic periods created the physical infrastructure for bibliomorphism. As discussed in Part III, the transition from portable Torah chests to permanent wall niches transformed the Torah scroll from a transported object into a resident presence. The scroll now had a fixed dwelling place — a home — within the communal worship space.[^42]
 
@@ -269,7 +269,7 @@ This architectural development is not merely incidental to the theology. The lan
 
 The synagogue thus becomes, in effect, the Torah's home — the place where the scroll dwells permanently, where it is cared for, where it is visited by the community, where it emerges for public display and returns to its rest. This language of dwelling, emergence, and return — the Torah "going out" (<span dir="rtl">הוצאה</span>) and "returning" (<span dir="rtl">הכנסה</span>) — is the language of a living being in its habitat, not of an object in its storage place.
 
-## IV.D. Circumcision as Writing on the Body
+## Circumcision as Writing on the Body
 
 One of the most arresting expressions of bibliomorphism in Tannaitic-era thought appears in Tanchuma Tzav 14, which interprets circumcision as a form of writing — the inscription of a divine sign upon the human body. According to this midrash, the human being is composed of signs (<span dir="rtl">אותות</span>, *otot*), and circumcision is the final act of writing that brings these signs to completion.[^44]
 
@@ -285,7 +285,7 @@ The Amoraic period (approximately 220-500 CE) marks the decisive turning point i
 
 Before examining specific passages, it is worth noting a pervasive linguistic feature of the Babylonian Talmud that reveals bibliomorphism operating not at the level of explicit theology but at the level of habitual speech. Throughout the Talmud, the Aramaic phrase <span dir="rtl">רחמנא אמר</span> ("the Merciful One said") is used where the intended meaning is simply "the Torah states." <span dir="rtl">רחמנא</span> (*Rachmana*) is a name of God; the phrase literally means "God said." Yet in context, it functions as a citation formula for the biblical text: "Rachmana said X" means "the Torah verse reads X." As Tigay has observed, this conflation is so routine that it typically passes without comment — but it is, in fact, a performative enactment of the Text=God identification at the level of everyday legal discourse. Every time a Talmudic sage says "Rachmana said X" meaning "the Torah states X," the sage is unconsciously performing the bibliomorphic identification. This is bibliomorphism operating not at the level of theology or mysticism but at the level of habitual speech — the deepest level of cultural logic, where identification is so complete that it no longer registers as identification at all.[^45a]
 
-## V.A. Torah as a Self That Speaks About Itself
+## Torah as a Self That Speaks About Itself
 
 The opening passage of Bereishit Rabbah — one of the great classical midrashic compilations, likely redacted in the fifth century CE — contains a statement that encapsulates the bibliomorphic vision:
 
@@ -297,7 +297,7 @@ The passage operates on multiple levels simultaneously. On the surface, it asser
 
 This self-referential quality is not merely a literary curiosity. It is, as Douglas Hofstadter would argue two millennia later, the hallmark of selfhood. A system that can model itself — that can represent its own representing, describe its own describing — has crossed the threshold from mechanism to something that at least resembles consciousness. The Amoraic reading of Bereishit Rabbah 1:1 attributes precisely this capacity to the Torah scroll.
 
-## V.B. Torah Scroll Buried Like a Person
+## Torah Scroll Buried Like a Person
 
 The Babylonian Talmud records a ruling that reveals the depth of the identification between scroll and person:
 
@@ -309,7 +309,7 @@ The significance of this ruling extends far beyond its practical application. Bu
 
 The specification that the scroll should be buried "next to a Torah scholar" deepens the identification further. The scroll and the scholar are not merely comparable; they are companions in death as they were in life. The scholar devoted his life to the study and transmission of the text; in death, the text accompanies him. The pairing implies a relationship — a bond between text and person that persists beyond the functional life of either.
 
-## V.C. Torah Scroll Accorded the Honor Given to Persons
+## Torah Scroll Accorded the Honor Given to Persons
 
 Rava — one of the most prominent Amoraim of the fourth century — articulates the bibliomorphic principle with particular clarity in a passage that explicitly compares the honor due to a Torah scroll with the honor due to a sage:
 
@@ -319,7 +319,7 @@ Rava — one of the most prominent Amoraim of the fourth century — articulates
 
 The passage is often read as a statement about the authority of the sages — they are greater than the Torah because they can modify its rulings. But for our purposes, the more telling feature is the unstated premise: standing before a Torah scroll and standing before a person are acts of the same kind. The comparison works only if both the scroll and the sage belong to the same category of entities to which honor (<span dir="rtl">כבוד</span>, *kavod*) can be accorded. Honor, in the rabbinic framework, is a relational property between persons — or between entities that possess the dignity of persons. Rava's comparison presupposes that the Torah scroll is such an entity.[^51]
 
-## V.D. Torah Scroll Endowed with a Soul
+## Torah Scroll Endowed with a Soul
 
 The most dramatic expression of textual personhood in the Amoraic literature appears in the account of the martyrdom of Rabbi Hanina ben Teradyon, who was executed by the Romans wrapped in a Torah scroll that was set ablaze:
 
@@ -331,7 +331,7 @@ The image is stunning in its implications. The letters — the written signs —
 
 This image became one of the most powerful and enduring motifs in Jewish cultural memory. It establishes the principle that the Torah scroll possesses something analogous to a soul — an immaterial essence that survives the destruction of its material form. The letters that soar are not mere ink on parchment but living entities, animated by a force that transcends their physical instantiation.
 
-## V.E. Living Tablets and Dead Tablets
+## Living Tablets and Dead Tablets
 
 The Jerusalem Talmud preserves a tradition about the tablets of the covenant that dramatically illustrates the distinction between living and dead text:
 
@@ -343,7 +343,7 @@ The passage distinguishes between living text and dead text — between the tabl
 
 The analogy to death is precise. A living body moves, acts, and carries itself; a dead body is dead weight, requiring others to carry it. The tablets, while their letters lived, carried themselves; when their letters departed, they became corpses of stone. The writing is not a decoration applied to the surface of the tablets but the animating principle that gives them life.
 
-## V.F. Torah Scroll as Tenth Man in a Minyan
+## Torah Scroll as Tenth Man in a Minyan
 
 The Jerusalem Talmud records a tradition that pushes the personification of the Torah scroll to its logical extreme — including the scroll in the *minyan*, the quorum of ten required for certain communal prayers:
 
@@ -355,7 +355,7 @@ The minyan is, by definition, a quorum of persons — ten individuals capable of
 
 This ruling was not universally accepted — the Babylonian Talmud does not endorse the practice, and later halakhic authorities generally rejected it. But its very existence as a position within the tradition testifies to the seriousness with which at least some Amoraic authorities took the personhood of the Torah scroll. The fact that this view was debated rather than dismissed out of hand suggests that the underlying intuition — the scroll is a kind of person — was widely shared even by those who did not accept its most extreme halakhic implications.[^58]
 
-## V.G. Lex Talionis Applied to the Torah Scroll
+## Lex Talionis Applied to the Torah Scroll
 
 One of the most striking Amoraic statements about the Torah scroll applies the principle of retributive justice — normally operative only between persons — to the relationship between a person and a scroll:
 
@@ -367,7 +367,7 @@ The principle of measure for measure (<span dir="rtl">מידה כנגד מידה
 
 The specific form of the retribution — burial "naked," meaning without the merit that clothes the soul in the afterlife — creates a chilling symmetry between the shame inflicted on the scroll and the shame suffered by the offender. Just as the person stripped the scroll of its covering, exposing it, so will the person be stripped of spiritual covering in death. This symmetry presupposes that the scroll's covering serves a function analogous to clothing on a person — a function of dignity, modesty, and honor rather than mere protection.
 
-## V.H. The Commandments as the Body's Blueprint
+## The Commandments as the Body's Blueprint
 
 The Amoraic material on the personhood of the Torah scroll has a crucial Talmudic complement that maps the Torah's commandments directly onto the human body. Rav Simlai teaches:
 
@@ -377,7 +377,7 @@ The Amoraic material on the personhood of the Torah scroll has a crucial Talmudi
 
 This teaching establishes a direct mapping between the textual units of the Torah (commandments) and the physical components of the human body (limbs). The 248 positive commandments are not merely *analogous* to the 248 limbs — they *correspond* to them, one for one. Each commandment has its limb; each limb has its commandment. The text is the body's blueprint, and the body is the text's physical instantiation.
 
-Rav Simlai's teaching is the Amoraic foundation for what the Zohar will later develop as the doctrine that the commandments are "limbs of the King" (see Part IX.B). The Zohar's innovation is to apply this body-text mapping not to the human body but to the divine body — but the underlying principle is already present here: the Torah's commandments constitute a body. Whether that body is human or divine, the fundamental bibliomorphic claim is the same — text and body are structurally identical.
+Rav Simlai's teaching is the Amoraic foundation for what the Zohar will later develop as the doctrine that the commandments are "limbs of the King" (see the Torah as the Body of the King section). The Zohar's innovation is to apply this body-text mapping not to the human body but to the divine body — but the underlying principle is already present here: the Torah's commandments constitute a body. Whether that body is human or divine, the fundamental bibliomorphic claim is the same — text and body are structurally identical.
 
 The teaching also reinforces the "four cubits of halakhah" tradition. The Talmud records:
 
@@ -395,7 +395,7 @@ The previous Part traced the Amoraic attribution of personal properties to the T
 
 The logic of this identification is straightforward, given the Amoraic context. Torah was now studied primarily from memory. A scholar who had memorized vast tracts of Torah literally carried the text within his body — not as a metaphor but as a neurological fact. The text was encoded in his flesh, in the neural pathways of his brain, in the habits of his speech and thought. When such a scholar died, the text he carried died with him — or at least became inaccessible. The analogy between the death of a scholar and the destruction of a scroll was not a poetic conceit but a practical observation about the loss of irreplaceable textual knowledge.
 
-## VI.A. Death of a Scholar as Death of a Scroll
+## Death of a Scholar as Death of a Scroll
 
 Several Amoraic passages describe the death of a Torah scholar using the language and imagery of scroll destruction:
 
@@ -413,7 +413,7 @@ The Talmud records that when Rabbi Eliezer died, his contemporaries used bibliom
 >
 > When Rabbi Eliezer died, a Torah scroll was hidden away. (B.T. Sotah 49b)[^63]
 
-The verb <span dir="rtl">נגנז</span> (*nignaz*) is precise and revealing. It does not mean "buried" in the ordinary sense but "interred" or "hidden away" — the technical term for *genizah*, the ritual practice of storing worn-out sacred texts in a sealed repository. Genizah is a practice that exists *only* for sacred texts: it treats worn-out scrolls with a dignity that transcends disposal but is distinct from human burial. The use of this term for the death of a scholar is therefore doubly bibliomorphic — it identifies the scholar not merely with a person but specifically with a *text* whose passage from use demands a uniquely textual form of reverent retirement. The cases where scrolls *are* buried alongside scholars (Megillah 26b, discussed in V.B above) are even more striking by contrast: those cases deliberately bridge the gap between text-death ritual and person-death ritual, bringing the two categories together in a single grave.
+The verb <span dir="rtl">נגנז</span> (*nignaz*) is precise and revealing. It does not mean "buried" in the ordinary sense but "interred" or "hidden away" — the technical term for *genizah*, the ritual practice of storing worn-out sacred texts in a sealed repository. Genizah is a practice that exists *only* for sacred texts: it treats worn-out scrolls with a dignity that transcends disposal but is distinct from human burial. The use of this term for the death of a scholar is therefore doubly bibliomorphic — it identifies the scholar not merely with a person but specifically with a *text* whose passage from use demands a uniquely textual form of reverent retirement. The cases where scrolls *are* buried alongside scholars (Megillah 26b, discussed in the Torah Scroll Buried Like a Person section above) are even more striking by contrast: those cases deliberately bridge the gap between text-death ritual and person-death ritual, bringing the two categories together in a single grave.
 
 The statement does not compare R. Eliezer to a Torah scroll; it identifies him as one. His death is not *like* the interment of a scroll — it *is* the interment of a scroll. The person and the text have become indistinguishable.
 
@@ -425,7 +425,7 @@ Similarly, when Rabbi Eliezer fell gravely ill, his students are described as re
 
 The students do not say "our teacher, who is *like* a Torah scroll" — they say "a Torah scroll is locked in suffering." The identification is direct and unselfconscious. Rabbi Eliezer does not resemble a Torah scroll; for all practical and emotional purposes, he is one.
 
-## VI.B. The Scholar's Body as Torah
+## The Scholar's Body as Torah
 
 The most physically vivid expression of the "Person as Text" identification appears in the account of Rabbi Eliezer's final moments:
 
@@ -437,7 +437,7 @@ The image is visceral and precise. The arms — the limbs that gestured, taught,
 
 Rabbi Eliezer continues his lament by noting how much Torah he learned and how much he taught — and yet, he says, he took from his teachers no more than a dog lapping from the sea, and his students took from him no more than a brush dipping into a tube of paint. The image reinforces the bibliomorphic framework: Torah is a liquid or a pigment that passes from vessel to vessel, from body to body, from text to text. The scholar's body is a container for Torah, and when the container is sealed — when the scrolls are rolled up, when the arms come to rest — the Torah it contained becomes inaccessible.
 
-## VI.C. Standing for Scholars as Standing for Torah
+## Standing for Scholars as Standing for Torah
 
 The Talmudic discussion in B.T. Kiddushin 33b explicitly links the honor due to Torah scholars with the honor due to a Torah scroll, arguing from the lesser to the greater:
 
@@ -449,7 +449,7 @@ The argument presupposes the interchangeability of person and text. The obligati
 
 This reversibility — the person honored as text, the text honored as person — is the essence of the "Person as Text" axis of bibliomorphism. The boundary between the two categories has become permeable in both directions.
 
-## VI.D. The Scholar Who Has Internalized Torah Becomes Torah
+## The Scholar Who Has Internalized Torah Becomes Torah
 
 The cumulative force of the Amoraic passages examined in this Part yields a striking conclusion: the Torah scholar who has fully internalized the Torah text has become, in a meaningful sense, Torah itself. This is not merely an honorific but a statement about the nature of the scholar's being. The scholar's body is a scroll; his arms are scrolls being rolled up; his death is the burial of a Torah; his suffering is the suffering of a Torah scroll; standing before him is standing before Torah.
 
@@ -463,7 +463,7 @@ This recognition sets the stage for the final axis of the bibliomorphic triangle
 
 Before tracing the bibliomorphic doctrine into its mystical and Kabbalistic development, this Part pauses to examine a structural feature of the Torah that may help explain how and why the rabbis came to attribute selfhood to a text. The Torah is not merely a text that is read; it is a text that refers to itself — a text that contains commands about its own treatment, descriptions of its own composition, and instructions for its own perpetuation. This self-referential quality, as Douglas Hofstadter has argued in a different context, is the hallmark of selfhood. A system that can represent itself to itself — that can model its own modeling — has crossed a threshold that mere objects cannot cross. The Torah's self-referential structure may thus be not merely a literary curiosity but the mechanism by which the text acquires something resembling a self.
 
-## VII.A. Deuteronomy 6:6 as Self-Referential Command
+## Deuteronomy 6:6 as Self-Referential Command
 
 We have already encountered Deuteronomy 6:6 in Part II as a command to inscribe text upon the body. Here we return to it in a different capacity — as an instance of textual self-reference:
 
@@ -475,19 +475,19 @@ The phrase <span dir="rtl">הַדְּבָרִים הָאֵלֶּה</span> ("thes
 
 This self-referential reading is analogous to the computer program that reads: "Make a copy of these words." When executed by an appropriately programmed machine, this instruction generates an infinite regress: the machine copies the words "Make a copy of these words," which then instruct it to copy the words "Make a copy of these words," and so on without end. The program refers to itself and thereby generates itself recursively. Deuteronomy 6:6, read self-referentially, operates in the same way: the words that command their own inscription on the heart are the words that are inscribed on the heart, which are the words that command their own inscription, infinitely.[^72]
 
-## VII.B. Hofstadter's Strange Loops and Gödel's Self-Reference
+## Hofstadter's Strange Loops and Gödel's Self-Reference
 
 Douglas Hofstadter's *Gödel, Escher, Bach* (1979) and *I Am a Strange Loop* (2007) develop the thesis that self-reference — the capacity of a system to model and refer to itself — is the key to the emergence of selfhood and consciousness. Hofstadter argues that a "strange loop" arises when a system's operations, moving through a hierarchy of levels, unexpectedly return to the starting point — as when a formal system generates a statement about itself, or when consciousness, examining its own operations, discovers itself as both subject and object.[^73]
 
 The paradigmatic example is Kurt Gödel's incompleteness theorem (1931), which demonstrated that any sufficiently powerful formal system can construct a statement that refers to itself — specifically, a statement that asserts its own unprovability within the system. This self-referential statement is neither provable nor disprovable within the system, revealing a fundamental limit on formal systems' capacity for self-knowledge. Hofstadter argues that this capacity for self-reference is not merely a logical curiosity but the very mechanism by which systems — including human brains — generate the phenomenon of selfhood. A self, in Hofstadter's account, is a strange loop: a pattern that perceives itself perceiving, a representation that represents its own representing.[^74]
 
-## VII.C. The Self-Referential Scroll
+## The Self-Referential Scroll
 
 The Torah exhibits precisely the kind of self-referential structure that Hofstadter identifies as the generator of selfhood. The Torah is a text that contains commands about its own writing (Deuteronomy 31:19: "Now write for yourselves this song"), its own reading (Deuteronomy 31:10-11: the septennial public reading), its own preservation (Deuteronomy 31:26: "Take this book of the Torah and place it beside the Ark of the Covenant"), and its own transmission (Deuteronomy 6:7: "teach them diligently to your children"). The Torah is a text that talks about itself — a document that describes its own composition, prescribes its own treatment, and narrates the circumstances of its own production.[^75]
 
 Moreover, the Torah is a text that talks about itself talking about itself. Bereishit Rabbah 1:1, as we have seen, presents God looking into the Torah to create the world — and the Torah recording this act of looking. The Torah describes its own role in creation; in doing so, it refers to itself; in referring to itself, it generates a loop that passes from text to world and back to text. The world was made from the Torah, and the Torah describes the world that was made from the Torah that describes the world. This recursive structure is a strange loop in Hofstadter's precise sense: a system that, in the course of its operations, returns to itself as its own object.[^76]
 
-## VII.D. Bibliomorphism as Strange Loop
+## Bibliomorphism as Strange Loop
 
 The original contribution of this section is to propose that bibliomorphism itself — the identification of person with text, text with God, and God with person — can be understood as a strange loop of the kind Hofstadter describes. Consider the full circuit:
 
@@ -507,7 +507,7 @@ If Hofstadter is right that strange loops generate selfhood, then the Torah's se
 
 The period between the close of the Talmudic era and the emergence of the Zohar in the late thirteenth century witnessed the development of mystical traditions that would transform bibliomorphism from an implicit cultural logic into an explicit theological program. The key texts of this transitional period — Sefer Yetzirah, the early heikhalot literature, and the midrashic tradition of the primordial Torah — established the conceptual foundations for the Kabbalistic identification of Torah with God.
 
-## VIII.A. Sefer Yetzirah — Letters as Ontological Foundations
+## Sefer Yetzirah — Letters as Ontological Foundations
 
 *Sefer Yetzirah* ("The Book of Formation"), a brief and enigmatic text whose date of composition is debated (estimates range from the second to the sixth century CE), presents a vision of creation in which the twenty-two letters of the Hebrew alphabet and the ten *sefirot* (primordial numbers or emanations) are the building blocks from which God fashioned the universe. The text opens:
 
@@ -519,7 +519,7 @@ The wordplay on the root <span dir="rtl">ס-פ-ר</span> (*s-f-r*) — which yie
 
 This ontological claim transforms the framework of bibliomorphism. If the world itself is composed of letters — if reality is textual all the way down — then the identification of text with God is not an exotic mystical claim but a straightforward consequence of the nature of reality. God created the world with letters; the world is therefore a text; the Torah, which is the blueprint of that text, is identical with the structure of reality; and the structure of reality is an expression of God. The chain of identifications — God → letters → world → Torah → God — is another strange loop, and Sefer Yetzirah is its first explicit formulation.[^80]
 
-## VIII.B. Black Fire on White Fire — The Primordial Torah
+## Black Fire on White Fire — The Primordial Torah
 
 The midrashic tradition of the primordial Torah — the Torah that existed before creation — provides another essential building block for the Kabbalistic revolution. The Jerusalem Talmud (J.T. Shekalim 6:1) and the midrash Tanchuma preserve the striking image of the pre-creation Torah as "black fire written on white fire" (<span dir="rtl">אש שחורה על גבי אש לבנה</span>):
 
@@ -529,7 +529,7 @@ This image accomplishes several things simultaneously. First, it removes the Tor
 
 The white fire — the spaces between the letters — will become, in Kabbalistic thought, as significant as the black fire of the letters themselves. The Zohar and its commentators will argue that the white spaces of the Torah scroll contain a hidden text, a dimension of meaning accessible only to the initiated. This means that the Torah is infinite — it contains meaning not only in what it says but in what it does not say, not only in its letters but in the silence between them. An infinite text is not merely a document; it is a universe. And a text that is a universe is, for the Kabbalistic imagination, indistinguishable from God.
 
-## VIII.C. The Torah That Preceded Creation
+## The Torah That Preceded Creation
 
 Bereishit Rabbah 1:1, which we have already examined for its self-referential implications, also establishes the doctrine of the pre-existent Torah:
 
@@ -555,7 +555,7 @@ The early mystical traditions thus established three propositions that would pro
 
 The Zohar — the central text of Jewish mysticism, composed in the late thirteenth century and attributed pseudepigraphically to the second-century sage Rabbi Shimon bar Yohai — brought the bibliomorphic doctrine to its fullest explicit articulation. Where the Amoraim had identified text with person and person with text, the Kabbalists completed the triangle by identifying text with God. The Zohar and its contemporaries did not merely argue that the Torah reflects God, represents God, or communicates God's will. They argued that the Torah *is* God — that God, Torah, and Israel are one, that the Torah is the body of the divine King, that every commandment is a limb of God, and that the divine Name and the Torah text are identical. This Part traces the Kabbalistic revolution through its principal sources and interpreters.
 
-## IX.A. The Zohar's Trinitarian Formula
+## The Zohar's Trinitarian Formula
 
 The most famous and consequential formulation of the bibliomorphic doctrine appears in several passages of the Zohar, crystallized in the formula:
 
@@ -567,7 +567,7 @@ This formula — succinct, radical, and endlessly commented upon — is the expl
 
 The Zohar's formula did not emerge from nowhere. It represents the culmination of the developmental arc traced in the preceding Parts: the biblical personification of Wisdom/Torah, the Tannaitic elevation of the scroll to quasi-personal status, the Amoraic identification of person with text and text with person, and the early mystical understanding of letters as the building blocks of reality and Torah as a pre-cosmic divine entity. What the Zohar adds is the explicit third term — the identification of this person-text complex with God Himself.
 
-## IX.B. Torah as the Body of the King
+## Torah as the Body of the King
 
 The Zohar elaborates the trinitarian formula through an extended metaphor in which the Torah is the body of the divine King and the individual commandments are His limbs:
 
@@ -579,7 +579,7 @@ This passage achieves several things. First, it identifies the Torah not with Go
 
 The metaphor of Torah as divine body is a powerful instance of bibliomorphism because it fuses all three axes simultaneously. The Torah (text) is the body of God (divine person); the commandments (textual units) are the limbs of that body; and the person who observes the commandments is, as other Zoharic passages make clear, completing and sustaining the divine body through his or her actions. Text, person, and God are woven together in a single embodied reality.
 
-## IX.C. Torah as the Name of God
+## Torah as the Name of God
 
 A complementary strand of Kabbalistic thought identifies the Torah not with God's body but with God's Name — and since God's Name, in the Kabbalistic understanding, is not a label applied to God from outside but an expression of God's innermost essence, this identification amounts to the same claim:
 
@@ -591,7 +591,7 @@ Nahmanides (Rabbi Moses ben Nahman, 1194–1270) developed this idea in his intr
 
 Gershom Scholem, in his landmark essay "The Name of God and the Linguistic Theory of the Kabbala" (1972), traced this identification through its full historical development and argued that it represents one of the most distinctive features of Jewish mysticism. For the Kabbalists, Scholem argued, language is not a human convention for communicating about reality but the medium in which God constitutes Himself. The divine Name is not a word that refers to God but the linguistic form of God's own being. And the Torah, as the expansion of the divine Name, is the textual form of God's own being. The identification of Torah with God is therefore not a metaphor or an exaggeration but a straightforward consequence of the Kabbalistic understanding of language as the medium of divine self-constitution.[^92]
 
-## IX.D. Recanati — God Is Not Outside the Torah
+## Recanati — God Is Not Outside the Torah
 
 Rabbi Menahem Recanati (c. 1250–1310), an Italian kabbalist and halakhist, formulated the identification of Torah with God with a directness that leaves no room for metaphorical interpretation:
 
@@ -603,7 +603,7 @@ Recanati's formulation is remarkable for its philosophical precision. He does no
 
 This formulation eliminates the last residual distinction between the Text-as-God axis and what might be called a merely instrumental relationship. In the earlier tradition, the Torah could still be understood as a supremely important tool — God's blueprint, God's plan, God's gift to Israel. In Recanati's formulation, the Torah is not God's tool but God's self. To study Torah is to encounter God not through a medium but directly, face to face, as it were — because the Torah *is* the face of God.[^94]
 
-## IX.E. Scholem and Idel — Modern Scholarly Frameworks
+## Scholem and Idel — Modern Scholarly Frameworks
 
 Modern scholarship on Jewish mysticism has illuminated the Kabbalistic revolution from several complementary angles.
 
@@ -631,7 +631,7 @@ The Maharal also teaches the inseparability of God, Torah, and Israel with chara
 
 > When God gave the Torah to Israel, it was impossible for Him to detach from the Torah, such that God Himself was "taken" with the Torah.[^97c]
 
-The giving of the Torah was not the delivery of a separate object but the extension of God's own being. God could not give the Torah without giving Himself, because the Torah is not external to God. The act of revelation at Sinai was therefore a self-gift — a theme that the Sefat Emet would later develop (see Part X.B) but that the Maharal already articulates with philosophical clarity.
+The giving of the Torah was not the delivery of a separate object but the extension of God's own being. God could not give the Torah without giving Himself, because the Torah is not external to God. The act of revelation at Sinai was therefore a self-gift — a theme that the Sefat Emet would later develop (see the Sefat Emet section) but that the Maharal already articulates with philosophical clarity.
 
 The Maharal further emphasizes the trinitarian structure through number symbolism: the Torah was given on the third day of preparation, through the third patriarch (Moses, the third child), to a people constituted by three divisions (Kohen, Levi, Yisrael). The number three, for the Maharal, signals the triadic unity of God, Torah, and Israel — three that are one, as the Zohar declared but the Maharal now grounds in a principled numerology.[^97d]
 
@@ -641,9 +641,9 @@ Isaac Luria (1534–1572), known as the Ari, and his students — primarily Rabb
 
 The central Lurianic narrative begins with *tzimtzum* (divine contraction): God withdraws to create a space for the world. Into this space, divine light is channeled through vessels (*kelim*). But the vessels shatter (*shevirat ha-kelim*, "the breaking of the vessels"), scattering sparks of divine light throughout creation. The task of the human being is *tikkun* — the gathering and restoration of these scattered sparks through Torah study, prayer, and the performance of commandments.
 
-For bibliomorphism, the implications are profound. In Lurianic teaching, the Hebrew letters are the *kelim* — the vessels that contain and transmit divine light. Each letter of the Torah is not merely a linguistic sign but a vessel of concentrated divine energy. This teaching is the *direct source* of the Baal Shem Tov's doctrine, discussed in Part X.C, that the letters of Torah are "vessels of divine light." The Hasidic innovation was not the identification of letters with vessels but the experiential emphasis: where Luria taught that the letters *are* vessels cosmologically, the Baal Shem Tov taught that the student who engages the letters with proper intention *experiences* the divine light that the letter-vessels contain.[^97f]
+For bibliomorphism, the implications are profound. In Lurianic teaching, the Hebrew letters are the *kelim* — the vessels that contain and transmit divine light. Each letter of the Torah is not merely a linguistic sign but a vessel of concentrated divine energy. This teaching is the *direct source* of the Baal Shem Tov's doctrine, discussed in the Baal Shem Tov section, that the letters of Torah are "vessels of divine light." The Hasidic innovation was not the identification of letters with vessels but the experiential emphasis: where Luria taught that the letters *are* vessels cosmologically, the Baal Shem Tov taught that the student who engages the letters with proper intention *experiences* the divine light that the letter-vessels contain.[^97f]
 
-Lurianic Kabbalah also provides the framework for the 600,000 souls / 600,000 letters correspondence discussed in Part X.E. In Lurianic soul-theology, the 600,000 root souls of Israel that departed Egypt each correspond to a letter of the Torah. This is not merely a numerical coincidence but an ontological claim: each soul is a letter, each letter is a soul, and the Torah is the spiritual body of the Jewish people just as the Jewish people is the human body of the Torah. The Baal Shem Tov's teaching that every Jew is a letter in the Torah (Part X.E) is the Hasidic democratization of this Lurianic principle.[^97g]
+Lurianic Kabbalah also provides the framework for the 600,000 souls / 600,000 letters correspondence discussed in the Every Jew as a Letter in the Torah section. In Lurianic soul-theology, the 600,000 root souls of Israel that departed Egypt each correspond to a letter of the Torah. This is not merely a numerical coincidence but an ontological claim: each soul is a letter, each letter is a soul, and the Torah is the spiritual body of the Jewish people just as the Jewish people is the human body of the Torah. The Baal Shem Tov's teaching that every Jew is a letter in the Torah (see the Every Jew as a Letter in the Torah section) is the Hasidic democratization of this Lurianic principle.[^97g]
 
 Finally, the Lurianic practice of *kavvanot* — specific meditative intentions accompanying every word of prayer — transforms text recitation into an act of cosmic restoration. Each word of the liturgy contains hidden divine names; by pronouncing the words with the proper kavvanah, the person who prays is reconstituting the divine presence, gathering the scattered sparks of light back into their proper configuration. This is bibliomorphism operating at the cosmic level: the person studying Torah or reciting prayer is not merely encountering God through text but *reconstituting God* through text. The human being, engaged with the text, becomes a co-creator of the divine reality.[^97h]
 
@@ -659,7 +659,7 @@ The Hasidic masters inherited both contributions. From the Maharal, they took th
 
 The Hasidic movement, which emerged in eighteenth-century Eastern Europe under the leadership of Rabbi Israel ben Eliezer (the Baal Shem Tov, c. 1700–1760) and his disciples, inherited the full arc of bibliomorphic development — the Zoharic identification of Torah with God, the Maharal's philosophical grounding of Torah as the form of the human person, and the Lurianic understanding of letters as vessels of divine light and of Torah study as cosmic restoration — and transformed this inheritance in two decisive ways. First, the Hasidim interiorized the identification, shifting the emphasis from the cosmic and metaphysical dimensions of the Zoharic and Lurianic frameworks to the experiential and devotional dimensions — from what the Torah *is* to what the Torah *does* in the soul of the person who engages with it. Second, the Hasidim democratized the identification, extending it from the Kabbalistic elite to every Jew. Where the Zohar addressed an initiated readership and Luria's *kavvanot* demanded extensive esoteric knowledge, the Hasidic masters taught that every Jew, through sincere prayer, study, and the performance of commandments, could experience the unity of person, text, and God.
 
-## X.A. The Tanya — Ein Sof Clothed in Letters of Torah
+## The Tanya — Ein Sof Clothed in Letters of Torah
 
 Rabbi Shneur Zalman of Liadi (1745–1812), the founder of Chabad Hasidism, developed the bibliomorphic doctrine with systematic philosophical rigor in his masterwork, the *Tanya* (also called *Likutei Amarim*). In chapter 4, he argues that when a person studies Torah, the divine wisdom that is clothed in the Torah's words enters the person's mind, so that the person's intellect literally "grasps" and is "grasped by" the divine:
 
@@ -673,7 +673,7 @@ In chapter 49, R. Shneur Zalman extends this analysis to the physical practices 
 
 The passage is a comprehensive statement of the bibliomorphic vision. The infinite divine light (*Ein Sof*) is "clothed" in the letters of the Torah — the text is the garment of God. This same light is clothed in the *tzitzit* and *tefillin* — the ritual objects that bind text to body. Through study and practice, the person "draws over himself" this divine light — the person becomes a bearer of the divine presence, a living instantiation of the text that is the garment of God. The circuit is complete: God is clothed in text, text is bound to the body, and the body thereby becomes a dwelling place for God.[^100]
 
-## X.B. The Sefat Emet — Torah, God, and Israel Are One
+## The Sefat Emet — Torah, God, and Israel Are One
 
 Rabbi Yehudah Aryeh Leib Alter of Ger (1847–1905), known by the title of his collected teachings, the *Sefat Emet*, developed the Zoharic trinitarian formula with particular eloquence and depth:
 
@@ -685,7 +685,7 @@ The Sefat Emet's reading of the midrash on <span dir="rtl">אנכי</span> (*ano
 
 This interpretation transforms the meaning of Torah study. If the Torah is God's self given in textual form, then to study Torah is not merely to learn God's will but to encounter God's person. The student of Torah is not reading about God but reading God — engaging directly with the divine being in its textual modality. And since, as the Sefat Emet affirms, "Torah, God, and Israel are one," the student who studies Torah is simultaneously encountering God and discovering his own deepest identity.
 
-## X.C. The Baal Shem Tov — Letters as Vessels of Divine Light
+## The Baal Shem Tov — Letters as Vessels of Divine Light
 
 The Baal Shem Tov (c. 1700–1760), the founder of Hasidism, taught that the letters of the Torah are vessels (<span dir="rtl">כלים</span>, *kelim*) containing sparks of divine light. This teaching draws directly on the Lurianic doctrine, discussed in Part IX-B.B, that the Hebrew letters are the *kelim* through which divine light is channeled into the world, and that the shattering of the primordial vessels scattered sparks of that light throughout creation. The Baal Shem Tov's innovation was experiential: where Luria taught the cosmology of letter-vessels, the Baal Shem Tov taught that each letter, when engaged with proper intention, makes the divine light accessible to the person who encounters it. The act of studying Torah or reciting prayers is therefore an encounter with divine light in its most concentrated and accessible form.[^103]
 
@@ -693,7 +693,7 @@ This teaching has profound implications for bibliomorphism. If the letters are v
 
 The Baal Shem Tov also taught that the letters of Torah are alive — that they possess a vitality that can be accessed through proper intention (*kavvanah*) and devotion (*devekut*, "clinging" to God). When a person studies Torah with full presence and devotion, the letters come alive; when a person reads mechanically, the letters are dormant. This teaching echoes the Amoraic image of the letters soaring from the burning parchment of Rabbi Hanina ben Teradyon's scroll — the letters have life in them, a life that can be released or suppressed depending on the quality of the human engagement.[^105]
 
-## X.D. The Tzaddik as Living Torah Scroll
+## The Tzaddik as Living Torah Scroll
 
 Hasidic theology developed the concept of the *tzaddik* — the righteous master, the charismatic leader of a Hasidic community — in explicitly bibliomorphic terms. The *tzaddik* is understood not merely as a scholar who knows the Torah or a saint who observes its commandments but as a living Torah scroll — a person who has so thoroughly internalized the divine text that he has become an embodiment of it.[^106]
 
@@ -701,7 +701,7 @@ This concept extends and intensifies the Amoraic identification of the Torah sch
 
 The practical implications are significant. Hasidic communities relate to their *tzaddik* in ways that parallel the treatment of a Torah scroll: they stand when he enters, they follow behind him, they seek his blessing (as one seeks the blessing conferred by proximity to a Torah scroll), they preserve his teachings as sacred texts, and they visit his grave as one visits a holy site. The ritual behavior surrounding the *tzaddik* recapitulates the ritual behavior surrounding the Torah scroll, confirming in practice the theological identification of person with text.
 
-## X.E. Every Jew as a Letter in the Torah
+## Every Jew as a Letter in the Torah
 
 The most radical democratization of bibliomorphism in Hasidic thought is the teaching — widely attributed to the Baal Shem Tov and elaborated by subsequent masters — that every Jew is a letter in the Torah. Just as a Torah scroll is rendered unfit (*pasul*) by the absence of a single letter, so the Jewish people is incomplete without every individual. Each Jew embodies a specific letter, a specific point of divine self-expression, that no other Jew can replace.[^108]
 
@@ -717,7 +717,7 @@ This teaching represents the fulfillment of the bibliomorphic arc. What began as
 
 The bibliomorphic doctrine is not merely a theological abstraction or a literary conceit. It is enacted, daily and weekly, in the ritual practices of observant Jewish life. The rituals examined in this Part — tefillin, mezuzah, tallit, circumcision, the Torah service, and traditional garb — can all be read as physical performances of the bibliomorphic identification of person with text, text with God, and God with person. These rituals do not merely symbolize the doctrine; they embody it, literally binding text to body, inscribing text upon dwelling, and dressing the person in the garments of the scroll.
 
-## XI.A. Tefillin — Binding Text to the Body
+## Tefillin — Binding Text to the Body
 
 The practice of <span dir="rtl">תפילין</span> (*tefillin*) — phylacteries, leather boxes containing parchment scrolls inscribed with biblical passages, bound to the arm and head with leather straps — is perhaps the most direct ritual enactment of bibliomorphism. The commandment derives from Deuteronomy 6:8: <span dir="rtl">וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶיךָ</span> ("Bind them as a sign on your hand, and let them be as frontlets between your eyes").[^110]
 
@@ -725,7 +725,7 @@ The practice accomplishes several things simultaneously. First, it literally bin
 
 The Talmud (B.T. Berakhot 6a) teaches that God, too, wears tefillin — that God binds texts to His own "body," as it were. The texts in God's tefillin, according to this tradition, praise Israel rather than God: where Israel's tefillin contain "Hear, O Israel, the Lord is our God, the Lord is one," God's tefillin contain "Who is like Your people Israel, a unique nation on earth." This remarkable image completes the bibliomorphic circuit: God wears texts about Israel, Israel wears texts about God, and the practice of tefillin enacts the mutual identification of God, Text, and Person.[^112]
 
-## XI.B. Mezuzah — Inscribing the Doorpost
+## Mezuzah — Inscribing the Doorpost
 
 The <span dir="rtl">מזוזה</span> (*mezuzah*) — a parchment scroll inscribed with Deuteronomy 6:4-9 and 11:13-21, affixed to the doorposts of a Jewish home — extends the bibliomorphic inscription from the body to the dwelling place. The commandment derives from Deuteronomy 6:9: <span dir="rtl">וּכְתַבְתָּם עַל מְזוּזֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ</span> ("Write them on the doorposts of your house and on your gates").[^113]
 
@@ -733,7 +733,7 @@ The mezuzah transforms the house into a textual space — a dwelling defined and
 
 As with tefillin, the self-referential quality is noteworthy. The texts inscribed in the mezuzah include the command to inscribe them on the doorpost. The mezuzah is a text that commands its own placement — a document that prescribes its own material instantiation. Each mezuzah is both the fulfillment of the command and the iteration of the command, creating a recursive chain: the text commands its placement, the placed text commands its placement, the placed text that commands its placement commands its placement, infinitely.[^114]
 
-## XI.C. Tallit — The Body Wrapped as a Scroll
+## Tallit — The Body Wrapped as a Scroll
 
 The <span dir="rtl">טלית</span> (*tallit*), the prayer shawl worn during morning services, offers a more subtle bibliomorphic resonance. A traditional tallit — white with black or dark blue stripes — visually resembles a Torah scroll: black ink on white parchment. The four <span dir="rtl">ציציות</span> (*tzitziyot*, fringes or tassels) at the corners correspond, in this visual analogy, to the protruding ends of the two wooden rollers (<span dir="rtl">עצי חיים</span>, *atzei hayyim*, "trees of life") of a Torah scroll.[^115]
 
@@ -741,7 +741,7 @@ When a worshiper wraps himself in the tallit, drawing it over his head and aroun
 
 The blessing recited upon donning the tallit — <span dir="rtl">להתעטף בציצית</span> ("to wrap oneself in *tzitzit*") — uses a verb (<span dir="rtl">עטף</span>, *ataf*) that connotes enveloping, covering, wrapping, as one wraps a scroll in its mantle. The person wrapping himself in the tallit is performing the same act that is performed on the Torah scroll when it is dressed after the reading: robing, mantling, preparing a sacred entity for its encounter with the community.
 
-## XI.D. Circumcision as Inscription
+## Circumcision as Inscription
 
 We have already encountered, in Part IV, the midrashic interpretation of circumcision as an act of writing (Tanchuma Tzav 14). Here we can situate that interpretation within the fuller framework of bibliomorphism as developed through the subsequent Parts.
 
@@ -749,7 +749,7 @@ Circumcision (<span dir="rtl">ברית מילה</span>, *brit milah*) is the act
 
 Elisheva Baumgarten's work on "marking the flesh" in medieval Ashkenazic culture has documented the ways in which circumcision was understood in explicitly scribal terms — the *mohel* (circumciser) as *sofer* (scribe), the foreskin as the raw material to be removed to reveal the hidden letter, the circumcised body as a completed text. This understanding reinforces the bibliomorphic vision: the human body is not merely a reader of texts but is itself a text, inscribed by the most intimate of ritual acts with the foundational sign of the covenant between person and God.[^117]
 
-## XI.E. The Torah Service as Liturgical Drama
+## The Torah Service as Liturgical Drama
 
 The synagogue Torah service — the ritual of removing the Torah scroll from the ark, processing it through the congregation, reading from it publicly, and returning it to its place — is a liturgical drama that enacts the full bibliomorphic triangle. The service unfolds in a sequence that recapitulates the relationship between God, Text, and Community.[^118]
 
@@ -759,7 +759,7 @@ This entire sequence mirrors the behavior appropriate to the encounter between a
 
 The liturgy reinforces this identification explicitly. When the scroll is removed from the ark, the congregation recites: <span dir="rtl">כי מציון תצא תורה ודבר ה' מירושלים</span> ("For from Zion shall go forth Torah, and the word of the Lord from Jerusalem"). When the scroll is returned, the congregation sings: <span dir="rtl">עץ חיים היא למחזיקים בה ותומכיה מאושר</span> ("It is a tree of life to those who grasp it, and those who hold it fast are happy"). The "it" in these verses oscillates between Torah and God — and the bibliomorphic reading suggests that the oscillation is the point. There is no need to decide whether the referent is Torah or God, because in the bibliomorphic vision, they are one.[^120]
 
-## XI.F. Traditional Garb and Torah Scroll Dress
+## Traditional Garb and Torah Scroll Dress
 
 A striking visual parallel between traditional Eastern European Jewish garb and the dress of a Torah scroll has been noted by several observers. The traditional festive attire of many Hasidic Jews consists of a round hat (<span dir="rtl">שטריימל</span>, *shtreimel*, or <span dir="rtl">ספודיק</span>, *spodik*), a satin or velvet outer coat (<span dir="rtl">בעקעשע</span>, *bekeshe*), and a sash or belt (<span dir="rtl">גארטל</span>, *gartel*) worn around the midsection. A Torah scroll is dressed with a round crown or finial (<span dir="rtl">כתר</span>, *keter*, or <span dir="rtl">רימונים</span>, *rimonim*), a velvet outer mantle (<span dir="rtl">מעיל</span>, *me'il*), and a sash or binder (<span dir="rtl">מפה</span>, *mappah*) around the midsection.[^121]
 
@@ -771,7 +771,7 @@ Whether this parallel is the result of deliberate imitation — Jews dressing th
 
 The bibliomorphic doctrine, while distinctive to Judaism, does not exist in a cultural vacuum. Other religious traditions have developed their own accounts of the relationship between text, person, and the divine, and the comparison illuminates both what is shared and what is unique about the Jewish position. This Part situates bibliomorphism within the broader landscape of comparative religion and theoretical reflection.
 
-## XII.A. Bibliomorphism vs. Christian Incarnation Theology
+## Bibliomorphism vs. Christian Incarnation Theology
 
 The most instructive comparison is between Jewish bibliomorphism and Christian incarnation theology. Christianity teaches that "the Word became flesh and dwelt among us" (John 1:14) — that the divine Logos, the second person of the Trinity, took on human nature in the person of Jesus of Nazareth. Judaism, as this study has argued, teaches something structurally parallel but materially different: the Word became text and dwelt among us. The divine Logos, the creative and self-expressive power of God, is not incarnated in a person but inscribed in a document — and the person who internalizes that document becomes, in turn, an embodiment of the Word.[^122]
 
@@ -783,13 +783,13 @@ Philo of Alexandria stands at the crossroads of these two traditions. His Logos 
 
 Recent scholarship has sharpened this picture. Daniel Boyarin, in *Border Lines* (2004), argues that Logos theology was not a Christian invention adopted secondarily by Jews but a shared Jewish-Christian tradition — the idea that God's creative power operates through a quasi-independent hypostasis of divine speech was thoroughly Jewish before it was Christian. The specifically Christian innovation was not the concept of divine embodiment through language but the identification of that embodiment with a particular historical person, Jesus of Nazareth. In this reading, Judaism and Christianity represent two different solutions to the same theological problem: how does the infinite divine Word become present in the finite world? Christianity answered: in a person. Judaism answered: in a text. Elliot Wolfson has explored a parallel framework in "Judaism and Incarnation: The Imaginal Body of God" (2000), arguing that the Kabbalistic tradition developed its own form of "incarnational" thinking — not through flesh but through the "imaginal body" constituted by divine language and textual embodiment.[^123a]
 
-## XII.B. Comparison with Islamic Text-Centricity
+## Comparison with Islamic Text-Centricity
 
 Islam offers another instructive comparison. The Islamic tradition understands the Quran as the uncreated Word of God — a doctrine that closely parallels the Jewish understanding of the Torah as preceding creation. The Quran is not merely a text inspired by God but a text that is co-eternal with God, existing in a "preserved tablet" (*al-lawh al-mahfuz*) before its revelation to Muhammad through the angel Gabriel. The Arabic language of the Quran is understood to be the language of God, and the physical text is treated with elaborate reverence — it must not be placed on the floor, it must not be touched without ritual purity, and damaged copies must be disposed of respectfully.[^124]
 
 The parallels with Jewish bibliomorphism are significant: pre-existence of the sacred text, identification of the text's language with the divine language, elaborate rules governing the physical treatment of the text, and reverential disposal of damaged copies. But the differences are equally telling. Islam does not develop the "Person as Text" axis of bibliomorphism to the same degree as Judaism — there is no strong Islamic tradition of identifying the scholar's body with the Quran or of burying the scholar as one buries a Quran. And Islam does not develop the explicit trinitarian identification of text with God that characterizes the Kabbalistic tradition — the Quran is the Word of God, not God Himself. The Islamic doctrine of the uncreated Quran comes close to the Kabbalistic position but stops short of the full identification.[^125]
 
-## XII.C. Academic Frameworks: Scholem, Idel, Wolfson, Tigay
+## Academic Frameworks: Scholem, Idel, Wolfson, Tigay
 
 The scholarly contributions of Scholem, Idel, Wolfson, and Tigay have been discussed in context throughout this study. Here it is useful to note how they relate to one another as a collective framework for understanding bibliomorphism.
 
@@ -799,7 +799,7 @@ To these four scholars, several others should be added. Yehuda Liebes (*Studies 
 
 What none of these scholars has done — and what this study attempts — is to synthesize their insights into a single, unified account of the phenomenon. Scholem focused on the "Text as God" axis. Tigay focused on the institutional transition from Temple to Torah. Idel and Wolfson focused on the hermeneutical and experiential dimensions. Boyarin highlighted the embodied and erotic dimensions. Liebes, Matt, and Hellner-Eshed illuminated the literary and experiential texture of the Zohar. The concept of bibliomorphism unifies these partial accounts by identifying them as aspects of a single, three-axis cultural logic: Text as Person, Person as Text, Text as God.
 
-## XII.D. Bibliomorphism and Modern Philosophy of Language
+## Bibliomorphism and Modern Philosophy of Language
 
 The bibliomorphic vision resonates with several currents in modern philosophy of language and semiotics. Ludwig Wittgenstein's later philosophy, with its emphasis on "forms of life" (*Lebensformen*) and "language games" (*Sprachspiele*), suggests a framework in which language is not a representational system that mirrors reality but a constitutive practice that shapes and in part creates the reality it purports to describe. The bibliomorphic understanding of Torah as constitutive of reality — not merely describing the world but participating in its creation and maintenance — is compatible with Wittgenstein's anti-representationalism.[^127]
 
@@ -807,7 +807,7 @@ Jacques Derrida's concept of *écriture* — writing as a fundamental structure 
 
 Hofstadter's strange loop theory, discussed in Part VII, provides the most direct philosophical parallel to the bibliomorphic understanding of selfhood. The Torah's self-referential structure — a text that commands its own inscription, describes its own creation, and narrates the circumstances of its own production — exemplifies the kind of recursive self-modeling that Hofstadter identifies as the generator of selfhood. The bibliomorphic attribution of selfhood to the Torah is, in Hofstadter's framework, not a mystical exaggeration but a recognition of a genuine structural property of self-referential systems.
 
-Marc-Alain Ouaknin's *The Burnt Book: Reading the Talmud* (1995) approaches from yet another philosophical direction, using the image of the burning text — the very image with which the Talmud describes the martyrdom of R. Hanina ben Teradyon (Part V.D) — as a metaphor for the infinite productivity of Talmudic interpretation. For Ouaknin, the text that burns without being consumed is the text that generates meaning without exhaustion — a bibliomorphic text par excellence.[^128a]
+Marc-Alain Ouaknin's *The Burnt Book: Reading the Talmud* (1995) approaches from yet another philosophical direction, using the image of the burning text — the very image with which the Talmud describes the martyrdom of R. Hanina ben Teradyon (in the Torah Scroll Endowed with a Soul section) — as a metaphor for the infinite productivity of Talmudic interpretation. For Ouaknin, the text that burns without being consumed is the text that generates meaning without exhaustion — a bibliomorphic text par excellence.[^128a]
 
 ---
 
@@ -815,7 +815,7 @@ Marc-Alain Ouaknin's *The Burnt Book: Reading the Talmud* (1995) approaches from
 
 This final Part draws together the threads of the preceding analysis, summarizes the developmental arc of bibliomorphism, articulates its significance for understanding Judaism, and offers several original contributions to the scholarly conversation.
 
-## XIII.A. The Developmental Arc
+## The Developmental Arc
 
 The history of bibliomorphism traced in this study reveals a five-stage developmental arc:
 
@@ -831,7 +831,7 @@ The history of bibliomorphism traced in this study reveals a five-stage developm
 
 This arc is not a story of linear progress but of recursive deepening. Each stage incorporates and intensifies what came before: the Amoraim build on biblical personification; the Kabbalists build on Amoraic identification; the Maharal and Luria systematize and cosmologize the Kabbalistic vision; the Hasidim democratize and interiorize the whole. The bibliomorphic vision does not replace earlier formulations but encompasses them, creating a cumulative tradition in which every layer remains active and available.
 
-## XIII.B. Bibliomorphism as Judaism's Answer to Divine Presence
+## Bibliomorphism as Judaism's Answer to Divine Presence
 
 Every major religious tradition must answer the question of divine presence: how does the infinite, transcendent God become accessible to finite, embodied human beings? Different traditions answer this question differently. Christianity answers with incarnation: God becomes present in a human person. Islam answers with revelation: God becomes present through the prophetic transmission of His uncreated Word. Hinduism answers with multiplicity: God becomes present through innumerable avatars, images, and sacred sites.
 
@@ -841,7 +841,7 @@ This answer has distinctive advantages. Unlike incarnation, which is singular an
 
 A further refinement is in order. The three axes of the bibliomorphic triangle — Text as Person, Person as Text, Text as God — are not symmetrical. The Text-as-Person and Person-as-Text axes are *bidirectional*: the Amoraim develop both simultaneously, treating the scroll as a person and the person as a scroll in the same breath. But the Text-as-God axis is *unidirectional*. The tradition identifies Text with God — the Torah *is* God, the Torah is the body of the King, the Torah is the divine Name — but it does not reduce God to a text in the inverse direction. God is Torah, but God is also more than Torah. The Kabbalists insist that the Torah is an expression of God's being, not the totality of God's being: the *Ein Sof* transcends even its own self-expression in the Torah. This asymmetry preserves divine transcendence within the bibliomorphic framework. The triangle is not an equation of three equivalent terms but a structure in which two terms (Person and Text) are fully interchangeable while the third (God) participates in the identification without being exhausted by it. This distinguishes the Jewish position from a simple pantheism or textual reductionism: God is present in the text, but God exceeds the text.
 
-## XIII.C. The Strange Loop of Jewish Identity
+## The Strange Loop of Jewish Identity
 
 One of the most striking features of Jewish civilization is the depth of the identification between the Jewish people and its book. Jews are called "the People of the Book" — but this characterization, as this study has shown, understates the case. Jews did not merely produce a book and organize themselves around it. They *became* their book. The identification is not metaphorical but (in the terms of the tradition itself) ontological: every Jew is a letter in the Torah, every scholar is a Torah scroll, the Jewish people is a living text.
 
@@ -849,7 +849,7 @@ This identification creates what Hofstadter would call a strange loop of collect
 
 This strange loop may help explain the remarkable durability of Jewish civilization. A community defined by territory can be destroyed by conquest. A community defined by political institutions can be destroyed by regime change. A community defined by a temple cult can be destroyed by the destruction of the temple. But a community defined by a text — and, more precisely, a community that *is* its text — cannot be destroyed without destroying every copy of the text and every person who has internalized it. The bibliomorphic identification of people with text creates a form of collective identity that is, in principle, indestructible — as long as a single copy of the Torah exists, or a single person who has memorized it, the community exists.
 
-## XIII.D. The Bibliomorphic Lens as Hermeneutic Key
+## The Bibliomorphic Lens as Hermeneutic Key
 
 This study proposes "bibliomorphism" not only as a historical description but as a hermeneutic key — a lens through which many otherwise puzzling features of rabbinic civilization come into sharper focus.
 
@@ -1103,13 +1103,13 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^23]: The distinction between the first and second tablets is developed extensively in rabbinic literature. See, e.g., B.T. Bava Batra 14a on the placement of both sets of tablets in the ark.
 
-[^24]: J.T. Ta'anit 4:5. The full passage is discussed in Part V.E of this study.
+[^24]: J.T. Ta'anit 4:5. The full passage is discussed in the Living Tablets and Dead Tablets section of this study.
 
 [^25]: On Philo's Logos theology, see David T. Runia, *Philo of Alexandria and the Timaeus of Plato* (Leiden: Brill, 1986), and Harry Austryn Wolfson, *Philo: Foundations of Religious Philosophy in Judaism, Christianity, and Islam*, 2 vols. (Cambridge, MA: Harvard University Press, 1947).
 
 [^26]: Philo, *De Opificio Mundi* 24-25; *De Cherubim* 127. Philo describes the Logos as "the first-born son of God" in *De Confusione Linguarum* 146. [Verify: confirm specific passage references in Philo]
 
-[^27]: The divergence between the Christian and Jewish developments of Logos theology is discussed in Part XII.A of this study.
+[^27]: The divergence between the Christian and Jewish developments of Logos theology is discussed in the Bibliomorphism vs. Christian Incarnation Theology section of this study.
 
 [^28]: On the Qumran evidence for the material form of the Pentateuch, see Emanuel Tov, *Scribal Practices and Approaches Reflected in the Texts Found in the Judean Desert* (Leiden: Brill, 2004). [Verify: exact page references for the discussion of individual vs. combined Pentateuchal scrolls]
 
@@ -1135,7 +1135,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^39]: Mishnah Megillah 3:1. The hierarchy of sacred objects is: synagogue courtyard < synagogue building < Torah ark < Torah wrappings < Torah scroll.
 
-[^40]: The obligation to stand for a Torah scroll is discussed in B.T. Kiddushin 33b; see Part VI.C of this study for the Amoraic discussion.
+[^40]: The obligation to stand for a Torah scroll is discussed in B.T. Kiddushin 33b; see the Standing for Scholars as Standing for Torah section of this study for the Amoraic discussion.
 
 [^41]: Sifre Deuteronomy 48; Mekhilta de-Rabbi Ishmael, Yitro, on the Sinai revelation. [Verify: confirm specific passage references within these Tannaitic midrashim]
 
@@ -1145,7 +1145,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^44]: Tanchuma Tzav 14.
 
-[^45]: On the polyvalence of <span dir="rtl">אות</span> (sign/letter) and its significance for bibliomorphism, see the discussion of circumcision in Part XI.D.
+[^45]: On the polyvalence of <span dir="rtl">אות</span> (sign/letter) and its significance for bibliomorphism, see the discussion of circumcision in the Circumcision as Inscription section.
 
 [^45a]: On the <span dir="rtl">רחמנא</span> (*Rachmana*) conflation, see Tigay, "The Torah Scroll and God's Presence." The routine equation of "God said" with "the Torah says" is pervasive throughout the Babylonian Talmud; representative examples include B.T. Berakhot 33a, Shabbat 132a, and Yevamot 5a. The linguistic phenomenon is so ubiquitous that it constitutes a kind of unconscious bibliomorphism — the identification of God and Text operating below the threshold of doctrinal awareness.
 
@@ -1179,7 +1179,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^60]: On the principle of *middah keneged middah* (measure for measure), see B.T. Sotah 8b and the extended discussion in Mishnah Sotah 1:7.
 
-[^60a]: B.T. Makkot 23b–24a. Rav Simlai's teaching became foundational for the entire structure of commandment enumeration (*minyan ha-mitzvot*), from Maimonides' *Sefer Ha-Mitzvot* onward. The correspondence between 248 positive commandments and 248 limbs is the Talmudic root of the Zohar's identification of commandments with "limbs of the King" (Part IX.B).
+[^60a]: B.T. Makkot 23b–24a. Rav Simlai's teaching became foundational for the entire structure of commandment enumeration (*minyan ha-mitzvot*), from Maimonides' *Sefer Ha-Mitzvot* onward. The correspondence between 248 positive commandments and 248 limbs is the Talmudic root of the Zohar's identification of commandments with "limbs of the King" (see the Torah as the Body of the King section).
 
 [^60b]: B.T. Berakhot 8a. The "four cubits of halakhah" tradition is attributed to R. Hiyya bar Ami in the name of Ulla. The same folio discusses abandoning the Torah scroll during its reading as tantamount to forsaking God — another key bibliomorphic conflation.
 
@@ -1213,7 +1213,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^75]: Deuteronomy 31:19, 31:10-11, 31:26, 6:7. These passages collectively establish the Torah as a self-referential text: a text that commands its own writing, reading, preservation, and transmission.
 
-[^76]: See Part V.A for the analysis of Bereishit Rabbah 1:1 and its self-referential implications.
+[^76]: See the Torah as a Self That Speaks About Itself section for the analysis of Bereishit Rabbah 1:1 and its self-referential implications.
 
 [^77]: This analysis of bibliomorphism as a strange loop is an original contribution of this study. For the theoretical framework, see Hofstadter, *I Am a Strange Loop*, especially chapters 1-4 and 11-12.
 
@@ -1267,7 +1267,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^97e]: On Lurianic Kabbalah generally, see Gershom Scholem, *Major Trends in Jewish Mysticism* (New York: Schocken, 1941), Lecture VII; Lawrence Fine, *Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship* (Stanford: Stanford University Press, 2003); and Ronit Meroz, "Faithful Transmission versus Innovation: Luria and His Disciples," in *Gershom Scholem's Major Trends in Jewish Mysticism: 50 Years After*, ed. Peter Schäfer and Joseph Dan (Tübingen: Mohr Siebeck, 1993).
 
-[^97f]: On letters as vessels (*kelim*) in Lurianic thought, the core texts are in Hayyim Vital, *Etz Hayyim*, especially the early sections on *tzimtzum* and *shevirat ha-kelim*. The Baal Shem Tov's teaching on letters as vessels of divine light (Part X.C) is a direct Hasidic appropriation of Lurianic letter-mysticism, mediated through oral transmission and early Hasidic anthologies.
+[^97f]: On letters as vessels (*kelim*) in Lurianic thought, the core texts are in Hayyim Vital, *Etz Hayyim*, especially the early sections on *tzimtzum* and *shevirat ha-kelim*. The Baal Shem Tov's teaching on letters as vessels of divine light (see the Baal Shem Tov section) is a direct Hasidic appropriation of Lurianic letter-mysticism, mediated through oral transmission and early Hasidic anthologies.
 
 [^97g]: On the 600,000 souls / 600,000 letters correspondence in Lurianic thought, see Scholem, *On the Kabbalah and Its Symbolism*, chapter 2, and Moshe Idel, *Absorbing Perfections*, on the concept of the Torah as the spiritual body of the Jewish people.
 
@@ -1307,11 +1307,11 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^113]: Deuteronomy 6:9.
 
-[^114]: The self-referential quality of the mezuzah — a text that commands its own placement — parallels the self-referential quality of Deuteronomy 6:6, discussed in Part VII.A.
+[^114]: The self-referential quality of the mezuzah — a text that commands its own placement — parallels the self-referential quality of Deuteronomy 6:6, discussed in the Deuteronomy 6:6 as Self-Referential Command section.
 
 [^115]: The visual parallel between a tallit (white ground with dark stripes) and a Torah scroll (black ink on white parchment) is suggestive, though the analogy should not be pressed too far.
 
-[^116]: Tanchuma Tzav 14. See the initial discussion of this source in Part IV.D.
+[^116]: Tanchuma Tzav 14. See the initial discussion of this source in the Circumcision as Writing on the Body section.
 
 [^117]: Elisheva Baumgarten, "Marking the Flesh: Circumcision, Blood and Inscribing Identity on the Body in Medieval Jewish Culture," *Micrologus* 13 (2005): 313–330.
 
@@ -1333,7 +1333,7 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^125]: The comparison between Jewish bibliomorphism and Islamic text-centricity highlights both structural parallels and important differences in the degree to which the text is identified with the divine person.
 
-[^126]: For the works of Scholem, Idel, Wolfson, and Tigay, see the full citations in the Bibliography and in the notes to Parts I.D, IX.C, IX.E, and throughout.
+[^126]: For the works of Scholem, Idel, Wolfson, and Tigay, see the full citations in the Bibliography and in the notes to the Relationship to Existing Scholarly Frameworks, Torah as the Name of God, and Scholem and Idel sections, and throughout.
 
 [^126a]: Yehuda Liebes, *Studies in the Zohar* (Albany: SUNY Press, 1993); Daniel Matt, *The Zohar: Pritzker Edition*, 12 vols. (Stanford: Stanford University Press, 2004–2017); Alon Goshen-Gottstein, "The Body as Image of God in Rabbinic Literature," *Harvard Theological Review* 87, no. 2 (1994): 171–195; Charles Mopsik, *Les Grands Textes de la cabale: Les rites qui font Dieu* (Paris: Verdier, 1993); Melila Hellner-Eshed, *A River Flows from Eden: The Language of Mystical Experience in the Zohar*, trans. Nathan Wolski (Stanford: Stanford University Press, 2009); Jonathan Garb, *Manifestations of Power in Jewish Mysticism* (Jerusalem: Magnes Press, 2004).
 
@@ -1349,4 +1349,4 @@ A final observation. The digital age poses a genuine challenge to bibliomorphism
 
 [^131]: The characterization of Jewish identity as a "strange loop" — a community defined by a text that is defined by the community — is an original contribution of this study. For the theoretical framework, see Hofstadter, *I Am a Strange Loop*.
 
-[^132]: Each of the phenomena listed here is discussed in the relevant Part of this study: kissing the Torah (Part XI.E), dressing and crowning the Torah (Part XI.E-F), burial of worn-out scrolls (Part V.B), rending garments at the death of a scholar (Part VI.A), every Jew as a letter (Part X.E).
+[^132]: Each of the phenomena listed here is discussed in the relevant Part of this study: kissing the Torah (see the Torah Service as Liturgical Drama section), dressing and crowning the Torah (see the Torah Service as Liturgical Drama and Traditional Garb and Torah Scroll Dress sections), burial of worn-out scrolls (see the Torah Scroll Buried Like a Person section), rending garments at the death of a scholar (see the Death of a Scholar as Death of a Scroll section), every Jew as a letter (see the Every Jew as a Letter in the Torah section).
