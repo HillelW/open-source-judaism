@@ -1,10 +1,8 @@
 <div align="center">
 
-# JEWISH THOUGHT AND JEWISH LAW
+# ALGORITHMS AND MITZVOT
 
-# FROM AN ALGORITHMIC PERSPECTIVE
-
-*How Algorithmic Thinking Clarifies Jewish Law, Ethics, and Mysticism*
+# A COMPUTATIONAL GUIDE TO JEWISH THOUGHT
 
 *We shall not cease from exploration*<br>
 *And the end of all our exploring*<br>
@@ -17,14 +15,14 @@
 
 # Table of Contents
 
-  - [Introduction: Algorithms, Mitzvoth and Elitism](#introduction-algorithm-as-the-unifying-lens-of-jewish-thought)
-- [Part I: FIRST PRINCIPLES: WHAT IS AN ALGORITHM?](#part-i-first-principles--what-is-an-algorithm)
+  - [Introduction: Algorithms, Mitzvot and Elitism](#introduction-algorithms-mitzvot-and-elitism)
+- [Part I: FIRST PRINCIPLES: WHAT IS AN ALGORITHM?](#part-i-first-principles-what-is-an-algorithm)
   - [Formal Definitions of Algorithm](#what-is-an-algorithm)
   - [The Building Blocks of Algorithms](#the-building-blocks-of-algorithms)
   - [Algorithm vs. Procedure vs. Program](#algorithm-vs-procedure-vs-program)
   - [The Agent Question: Symbolic Manipulation vs. Action in the World](#the-agent-question)
   - [The Algorithmic Mind and Jewish Law](#the-algorithmic-mind-and-jewish-law)
-- [Part II: TORAH AS ALGORITHM: GOD'S COMPUTATIONAL ACTIVITY IN THE FIVE BOOKS OF MOSES](#part-ii-torah-as-algorithm--gods-computational-activity-in-the-five-books-of-moses)
+- [Part II: TORAH AS ALGORITHM: GOD'S COMPUTATIONAL ACTIVITY IN THE FIVE BOOKS OF MOSES](#part-ii-torah-as-algorithm-gods-computational-activity-in-the-five-books-of-moses)
   - [Creation as Divine Algorithm](#creation-as-divine-algorithm)
   - [The Ten Utterances as Computational Steps](#the-ten-utterances)
   - [Divine Names as Functions/Operational Modes](#divine-names-as-operational-modes)
@@ -40,7 +38,7 @@
   - [Talmudic Data Structures](#talmudic-data-structures)
   - [Post-Talmudic Data Structures](#post-talmudic-data-structures)
   - [The Relationship Between Data Structures and Algorithms](#the-relationship-between-data-structures-and-algorithms)
-- [Part IV: MITZVAH AS ALGORITHM: THE HALAKHIC SYSTEM](#part-iv-mitzvah-as-algorithm--the-halakhic-system)
+- [Part IV: MITZVAH AS ALGORITHM: THE HALAKHIC SYSTEM](#part-iv-mitzvah-as-algorithm-the-halakhic-system)
   - [The 613 Commandments as a Complete Algorithmic System](#the-613-commandments-as-a-complete-algorithmic-system)
   - [Torah → Mishnah → Talmud: From Procedure to Full Algorithm](#torah-mishnah-talmud-from-procedure-to-full-algorithm)
   - [The 13 Hermeneutical Rules of Rabbi Ishmael as Meta-Algorithms](#the-13-hermeneutical-rules-of-rabbi-ishmael-as-meta-algorithms)
@@ -49,7 +47,7 @@
   - [Minhag (Custom) as Locally-Optimized Subroutine](#minhag-custom-as-locally-optimized-practice)
   - [Claims Problems and Fair Division](#claims-problems-and-fair-division)
   - [Edge Cases and Algorithmic Complexity in Halakha](#edge-cases-and-algorithmic-complexity-in-halakha)
-- [Part V: ETHICS AS ALGORITHM: MITZVOT AND HUMAN AGENCY](#part-v-ethics-as-algorithm--mitzvot-and-human-agency)
+- [Part V: ETHICS AS ALGORITHM: MITZVOT AND HUMAN AGENCY](#part-v-ethics-as-algorithm-mitzvot-and-human-agency)
   - [Can Ethics Be Algorithmic?](#can-ethics-be-algorithmic)
   - [Positive Commandments as "Do" Algorithms](#positive-commandments-as-do-algorithms)
   - [Negative Commandments as Constraints and Guards](#negative-commandments-as-constraints-and-guards)
@@ -62,7 +60,7 @@
   - [Rodef Algorithm: Stopping the Pursuer](#rodef-stopping-the-pursuer)
   - [Infinite Loops: The Perpetual Processes of Jewish Life](#infinite-loops-the-perpetual-processes-of-jewish-life)
   - [Shabbat as Timer Interrupt](#shabbat-as-timer-interrupt)
-- [Part VI: KABBALISTIC COMPUTATION: SYMBOLIC MANIPULATION AND MYSTICAL ALGORITHMS](#part-vi-kabbalistic-computation--symbolic-manipulation-and-mystical-algorithms)
+- [Part VI: KABBALISTIC COMPUTATION: SYMBOLIC MANIPULATION AND MYSTICAL ALGORITHMS](#part-vi-kabbalistic-computation-symbolic-manipulation-and-mystical-algorithms)
   - [Introduction: Kabbalah as Computational Tradition](#introduction-kabbalah-as-computational-tradition)
   - [Sefer Yetzirah: The First Computational Cosmology](#sefer-yetzirah-the-first-computational-cosmology)
   - [Symbolic Manipulation as Computation: The Four Classical Methods](#symbolic-manipulation-as-computation-the-four-classical-methods)
@@ -72,7 +70,7 @@
   - [Tzimtzum, Shevirah, and Tikkun: Cosmic Computation](#tzimtzum-shevirah-and-tikkun-cosmic-computation)
   - [Kavvanot and Yichudim: Programs of Mystical Intention](#kavvanot-and-yichudim-programs-of-mystical-intention)
   - [How Kabbalistic Algorithms Differ from Rabbinic Algorithms](#how-kabbalistic-algorithms-differ-from-rabbinic-algorithms)
-- [Part VII: THE HUMAN AS COMPUTATIONAL AGENT: PSYCHOLOGY AND SPIRITUAL DEVELOPMENT](#part-vii-the-human-as-computational-agent--psychology-and-spiritual-development)
+- [Part VII: THE HUMAN AS COMPUTATIONAL AGENT: PSYCHOLOGY AND SPIRITUAL DEVELOPMENT](#part-vii-the-human-as-computational-agent-psychology-and-spiritual-development)
   - [Yetzer ha-Ra and Yetzer ha-Tov: Dual-Process Architecture](#yetzer-ha-ra-and-yetzer-ha-tov-dual-process-architecture)
   - [The Soul Hierarchy: Privilege Rings and Abstraction Layers](#the-soul-hierarchy-privilege-rings-and-abstraction-layers)
   - [Teshuvah as Debugging / Error Correction](#teshuvah-as-debugging-error-correction)
@@ -81,9 +79,9 @@
   - [Middot (Character Traits) as Parameters](#middot-character-traits-as-parameters)
   - [The Mussar Movement: Systematic Character Engineering](#the-mussar-movement-systematic-character-engineering)
   - [Prayer as Self-Programming: The Reflexive Verb](#prayer-as-self-programming-the-reflexive-verb)
-  - [Sefirat ha-Omer: A 7x7 Matrix Traversal](#sefirat-ha-omer-a-77-matrix-traversal)
+  - [Sefirat ha-Omer: A 7×7 Matrix Traversal](#sefirat-ha-omer-a-7×7-matrix-traversal)
   - [Jewish Practice as Operating System](#jewish-practice-as-operating-system)
-- [Part VIII: ALGORITHMS ACROSS THE RABBINIC CORPUS: PERIOD SURVEY](#part-viii-algorithms-across-the-rabbinic-corpus--period-survey)
+- [Part VIII: ALGORITHMS ACROSS THE RABBINIC CORPUS: PERIOD SURVEY](#part-viii-algorithms-across-the-rabbinic-corpus-period-survey)
   - [The Tannaitic Period (1–220 CE): Oral Law Becomes System](#the-tannaitic-period-1220-ce-oral-law-becomes-system)
   - [The Amoraic Period (220–500 CE): Execution Tracing](#the-amoraic-period-220500-ce-execution-tracing)
   - [The Geonic Period (500–1000 CE): Case-Based Reasoning](#the-geonic-period-5001000-ce-case-based-reasoning)
@@ -92,7 +90,7 @@
   - [Kabbalah in Historical Context](#kabbalah-in-historical-context)
   - [The Algorithm Meets New Inputs](#the-algorithm-meets-new-inputs)
   - [Conclusion: Law as Living Process](#conclusion-law-as-living-process)
-- [Part IX: SYNTHESIS: A UNIFIED THEORY](#part-ix-synthesis--a-unified-theory)
+- [Part IX: SYNTHESIS: A UNIFIED THEORY](#part-ix-synthesis-a-unified-theory)
   - [The Configuration Thesis](#the-configuration-thesis)
   - [Implications for Contemporary AI Ethics](#implications-for-contemporary-ai-ethics)
 - [Appendices](#appendices)
@@ -100,7 +98,7 @@
   - [Appendix B: Key Algorithms in Jewish Law](#appendix-b-key-algorithms-in-jewish-law)
   - [Appendix C: Comprehensive Bibliography](#appendix-c-comprehensive-bibliography)
 
-## Introduction: Algorithms, Mitzvoth and Elitism
+## Introduction: Algorithms, Mitzvot and Elitism
 
 One winter night in first-century Jerusalem, a young scholar named Hillel climbed onto the roof of the study hall and pressed his ear to the skylight because he couldn't afford the entrance fee. Snow fell. By morning he was nearly frozen to death. The scholars found him, brought him inside, and revivied him. After that, they abolished the fee.[^1]
 
@@ -118,11 +116,7 @@ You don't need a specialized vocabulary to think seriously about how Jewish law 
 
 The process of Jewish law is literally an algorithm. When a question arises, sources are consulted. Prior rulings are weighed, and principles of interpretation are applied. This culminates in a ruling. This process, from question to ruling, is structured like an algorithm. This perspective reveals an architecture that was always implicit in the way rabbis organized knowledge, resolved contradictions, and transmitted law across generations.
 
-The book unfolds in nine parts. The first establishes what an algorithm actually is, building from everyday experience to formal definitions. The second examines Torah itself (creation, revelation, the design of the Tabernacle) as divine computational activity. From there, we turn to how rabbinic literature organizes its vast body of knowledge: the data structures of Mishnah, Talmud, and the codes that followed. Parts four and five treat Jewish law and ethics as algorithmic systems, with commandments as instructions, ethical obligations as decision procedures, and the overrides that apply when life is at stake. The sixth part enters the world of Kabbalistic computation, where mystical traditions developed their own formal methods for manipulating letters, numbers, and symbols into cosmological arguments. Part seven considers the human being as a computational agent, exploring moral psychology, repentance, prayer, and character development through an algorithmic frame. The eighth surveys how these patterns evolved across the rabbinic periods, from the Tannaitic era through modernity. The final part synthesizes everything into a unified theory: Judaism as a comprehensive computational worldview.
-
 None of this requires prior expertise in computer science nor Talmud. Every concept is illustrated with concrete examples. Our goal is to make Jewish thought as intuitive as possible.
-
-This book was written with the help of artificial intelligence. Today, AI does for rabbinic literature what the printing press did for the Bible in its time. It doesn't replace the need for scholarship, but it makes the vast amount of informaiton manageable.
 
 In the pursuit of Torah, Hillel climbed the roof, risking his life. This book is an attempt to open the door, welcoming future students like Hillel.
 
@@ -3935,4 +3929,3 @@ Zibulevsky, Michael. "Creating Safe AI: Integrating Ancient Wisdom of Torah and 
 [^127]: Rabbi Joseph B. Soloveitchik, *Worship of the Heart: Essays on Jewish Prayer* (Jersey City: Ktav, 2003), ed. Shalom Carmy. See also Soloveitchik, *The Lonely Man of Faith* (1965), on the dialectic of prayer and self-creation, and *Halakhic Man* (1944/1983), Part II, on the creative religious personality. The reflexive grammar of *lehitpallel* and its implications for understanding prayer as self-transformation is a recurring theme in Soloveitchik's lectures on prayer.
 
 [^128]: On Sefirat ha-Omer as spiritual practice, see Rabbi Moshe Cordovero, *Pardes Rimonim* (Orchard of Pomegranates), Gate 9, on the interinclusion of the Sefirot; and Chaim Vital, *Pri Etz Chaim* (Fruit of the Tree of Life), Sha'ar Sefirat ha-Omer, which maps the 49-day count to the 7×7 sefirotic matrix. On the character-refinement dimension, see the widespread custom recorded in Siddur HaAri and elaborated in Hasidic literature of meditating on a specific sefirah-combination each day of the Omer.
-

@@ -6,7 +6,7 @@ A collection of scholarly essays exploring Jewish textual tradition through the 
 
 ### Algorithms, Mathematics & Computer Science
 
-- [Algorithms and Data Structures in Jewish Thought](book/algorithms/algorithms-and-data-structures-in-jewish-thought.md) — Algorithmic thinking applied to Jewish law, ethics, and mysticism.
+- [Algorithms and Mitzvot: A Computational Guide to Jewish Thought](book/algorithms/algorithms-and-data-structures-in-jewish-thought.md) — Algorithmic thinking applied to Jewish law, ethics, and mysticism.
 - [The Hebrew Calendar](book/algorithms/the-hebrew-calendar.md) — The deterministic algorithm that reconciles solar and lunar cycles.
 - [Mathematics of Tractate Kinnim](book/algorithms/mathematics-of-tractate-kinnim.md) — Bird offerings encoding the pigeonhole principle and NP-completeness.
 - [Behavioral Despair in the Talmud](book/algorithms/behavioral-despair-in-the-talmud.md) — Decision boundaries and Kolmogorov complexity in Talmudic law.
