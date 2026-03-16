@@ -100,7 +100,7 @@
   - [Appendix B: Key Algorithms in Jewish Law](#appendix-b-key-algorithms-in-jewish-law)
   - [Appendix C: Comprehensive Bibliography](#appendix-c-comprehensive-bibliography)
 
-## Introduction: Algorithms, Mitvoth and Elitism
+## Introduction: Algorithms, Mitzvoth and Elitism
 
 One winter night in first-century Jerusalem, a young scholar named Hillel climbed onto the roof of the study hall and pressed his ear to the skylight because he couldn't afford the entrance fee. Snow fell. By morning he was nearly frozen to death. The scholars found him, brought him inside, and revivied him. After that, they abolished the fee.[^1]
 
