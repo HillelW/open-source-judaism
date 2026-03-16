@@ -17,7 +17,7 @@
 
 # Table of Contents
 
-  - [Introduction: Algorithm as the Unifying Lens of Jewish Thought](#introduction-algorithm-as-the-unifying-lens-of-jewish-thought)
+  - [Introduction: Algorithms, Mitzvoth and Elitism](#introduction-algorithm-as-the-unifying-lens-of-jewish-thought)
 - [Part I: FIRST PRINCIPLES: WHAT IS AN ALGORITHM?](#part-i-first-principles--what-is-an-algorithm)
   - [Formal Definitions of Algorithm](#what-is-an-algorithm)
   - [The Building Blocks of Algorithms](#the-building-blocks-of-algorithms)
