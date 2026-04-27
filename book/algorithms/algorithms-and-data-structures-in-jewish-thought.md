@@ -105,17 +105,17 @@ What follows is a map that a reader can use to study Torah, Mishnah, Talmud, hal
 
 ## What Is an Algorithm?
 
-If you make coffee in the morning, you probably follow the same order each time. Fill the kettle. Heat the water. Put coffee in the filter. Pour. Wait. Drink. The procedure your accountant uses to file your taxes, the way you tie your shoes, how you parallel park. In each case, you begin with a situation, follow a set of steps, and arrive at a result.
+While Pythagorous claims that all is number, the Jewish perspective holds that *all is instruction*. We often organize our days around templates. If you make coffee in the morning, you probably follow the same recipe each time. Fill the kettle. Heat the water. Put coffee in the filter. Pour. Wait. Drink. The procedure your accountant uses to file your taxes, the way you tie your shoes, how you parallel park. In each case, you begin with a situation, follow a set of steps, and arrive at a result.
 
 An *algorithm* is a set of steps for getting from a situation to a result.
 
 An algorithm starts with something. It could be ingredients on a kitchen counter, a question about which blessing to say, a shirt that needs folding, or a legal case that needs a ruling. Then it gives a way forward. Follow the steps, and you reach the intended result.
 
 We can already see that algorithms have properties such as:
-- An algorithm has a beginning. It starts with a real situation.
-- An algorithm has steps. It tells you what to do.
-- An algorithm has an end. It is supposed to produce a result.
-- An algorithm has enough clarity that someone can actually follow it.
+- An algorithm has a *beginning*. It starts with a real situation.
+- An algorithm has *steps*. It tells you what to do.
+- An algorithm has an *end*. It is supposed to produce a result.
+- An algorithm has enough *clarity* that someone can actually follow it.
 
 More precisely, an algorithm must be:
 
@@ -129,36 +129,41 @@ More precisely, an algorithm must be:
 
 The simplest mitzvah is one instruction: say this blessing, hear this shofar, return that object, eat this matzah.
 
-A command may begin as a single instruction. "Honor your father and mother" first appears that way, as does "remember the Sabbath day" or "do not steal." But the tradition does not leave commands at the level of slogan. It asks what counts as honor, what counts as remembering, what counts as theft, what happens when duties collide, and what must be done for the command to be carried out in an embodied community.
+A command may begin as a single instruction. "Honor your father and mother" first appears that way, as does "remember the Sabbath day" or "do not steal." But the tradition does not leave commands at the level of simple instructions. It asks question such as: 
+- what counts as honor 
+- what counts as remembering 
+- what counts as theft
+- what happens when duties collide
+- what must be done for the command to be carried out in an embodied community
 
-Once that process begins, a command can unfold into an ordered sequence. Lighting Shabbat candles, reciting kiddush, eating the meal, and making havdalah are not one act but a procedure. A procedure may then branch by condition. One blessing is said over bread, another over fruit. One rule applies in ordinary circumstances, another under threat to life. A branch may recur as a repeated cycle. Prayer returns morning, afternoon, and evening. The Omer is counted day after day. Torah study itself, as Ben Bag Bag put it, has no natural stopping point.
+Once that process begins, a command can expand into an ordered sequence. Lighting Shabbat candles, reciting kiddush, eating the meal, and making havdalah are not one act but a procedure. A procedure may then branch by condition. One blessing is said over bread, another over fruit. One rule applies in ordinary circumstances, another under threat to life. A branch may recur as a repeated cycle. Prayer returns morning, afternoon, and evening. The Omer is counted day after day. Torah study itself, as Ben Bag Bag put it, has no natural stopping point.
 
-Many mitzvot also govern states and transitions. A person may be obligated or exempt, pure or impure, permitted or forbidden, in weekday time or in sacred time. In such cases the law is not merely telling someone to do a thing. It is tracking what state now obtains, what state has changed, and what follows from that change.
+Many mitzvot also govern states and transitions. A person may be obligated or exempt, pure or impure, permitted or forbidden, in weekday time or in sacred time. In such cases the law is not merely telling someone to do a thing. It is tracking what state the person is currently in, what state has changed, and the consequences that change has caused.
 
-Prohibitions belong to the same architecture. "Do not steal" and "do not kindle fire" are not empty negations. They are guards. They establish boundaries the system must maintain. And Shabbat makes the point even more sharply. From the outside it can look like a command to do nothing. But that description is too thin. Shabbat is not a literal no-op. It is a guarded transition into a sanctified state of time, one that suspends one class of actions while activating another.
+Prohibitions exhibit a similar structure. "Do not steal" and "do not kindle fire" are not empty prohibitions. They are guardrails. They establish boundaries that must maintained by the system. For example, take the case of Shabbat. From the outside, it can look like an instruction to do nothing. But this description is lacking. Shabbat is not a literal instruction to do nothing. It is a guided transition into a state of sanctified time, a time that suspends one class of actions in favor of activating another.
 
-A mature legal and ethical system must also contain priority rules and overrides. Pikuach nefesh does not abolish the law. It reveals that the law contains within itself principles for interrupting ordinary execution when life is at stake.
-
-This ladder is the architecture of the book. Part II shows these structures already at work in Torah itself. Part III turns to the data structures that store, partition, and connect Jewish knowledge. Part IV shows how terse commandments become executable rabbinic systems. Part V narrows to Kabbalistic symbolic computation, and Part VI turns the whole framework back toward the reader as a way of approaching Jewish primary texts without losing the shape of the corpus.
+A mature legal and ethical system must also contain priority rules. Pikuach nefesh (saving a life) does not abolish the law. It reveals that the law contains a set of instructions for interrupting ordinary execution when a life is at stake.
 
 ## The Three Basic Patterns
 
-Many step-by-step processes feel complicated when you are inside them. However, reflection reveals that most of them are built from just three few simple patterns:
-- doing things in order
-- choosing between alternatives
-- repeating something until you are done
+Many step-by-step processes feel complicated when one is inside them. However, most step-by-step processes are built from three simple patterns:
+1. doing things in order
+2. choosing between alternatives
+3. repeating something until some condition is satisfied
 
 ### 1. Sequence
 
-Sequence is the simplest pattern of all: first do this, then do that, then do the next thing.
+Sequence is the simplest pattern of all: do this, then do that, then do the next thing.
 
-If you brush your teeth, there is an order. You put toothpaste on the brush, then brush, then rinse. If you make toast, you put the bread in the toaster first, not after it has already popped up. Some actions only make sense when they happen in the right order.
+If you brush your teeth, you have in mind an implicit order. You put toothpaste on the brush, then brush, then rinse. 
 
-The same is true in Jewish practice. If a household is lighting Shabbat candles, the timing matters. You light before sunset, not after. The order is part of the act itself. Once Shabbat has begun, the situation has changed. The sequence is not arbitrary. It is built into the meaning of the practice.
+Some actions only make sense when they happen in the right order.
 
-Sequence sounds obvious, and it is. But that is exactly the point. Algorithms are not mysterious. They begin with ordinary truths like this one: some things must happen in the right order.
+The same is true in Jewish practice. In the case of lighting Shabbat candles, the sequence matters. You light before sunset, not after. *The order is part of the act itself*. 
 
-More formally, we denote as a sequence as follows:
+The term *Sequence* sounds obvious. But, that is the point. Algorithms are not mysterious. They begin with ordinary truths like, some things must happen in a particular order.
+
+More formally, we denote a sequence as follows:
 
 > ⟨instruction 1⟩;
 >
@@ -166,23 +171,23 @@ More formally, we denote as a sequence as follows:
 >
 > ⟨instruction 3⟩;
 
-The semi-colon at the end of each instruction indicates that the instruction should be executed.
+The semi-colon at the end indicates that the instruction should be executed.
 
-For example, the sequence of instructions for brushing teeth looks as follows:
+For example, the sequence of instructions for brushing teeth looks like this:
 
-> put toothpaste on the brush;
+> ⟨put toothpaste on the brush⟩;
 >
-> brush;
+> ⟨brush⟩;
 >
-> rinse;
+> ⟨rinse⟩;
 
-The simplest kind of algorithm consists of a seqeunce of instructions:
+The simplest kind of algorithm consists of a sequence of instructions:
 
 > Algorithm: ⟨algorithm name⟩
 >
-> INPUT: ⟨what the algorithm receives⟩
+> INPUT: ⟨what goes in⟩
 >
-> OUTPUT: ⟨what the algorithm produces⟩
+> OUTPUT: ⟨what comes out⟩
 >
 > ⟨statement 1⟩;
 >
@@ -194,34 +199,38 @@ The simplest kind of algorithm consists of a seqeunce of instructions:
 >
 > end.
 
-Filling in this template for our example gives us a tooth-brushing algorithm:
+Filling in this template gives us a tooth-brushing algorithm:
 
 > Algorithm: Brush Teeth
 >
-> INPUT: teeth, brush, toothpaste
+> INPUT: brush, toothpaste, teeth
 >
-> OUTPUT: clean teeth
+> OUTPUT: brushed teeth
 >
-> put toothpaste on the brush;
+> ⟨put toothpaste on the brush⟩;
 >
-> brush;
+> ⟨brush⟩;
 >
-> rinse;
+> ⟨rinse⟩;
 >
 > end.
 
 ### 2. Selection
 
-*Selection* involves choosing between alternatives based on whether a condition is true or false.
-Selection means that the next step depends on what kind of situation you are in. When describing selection, we often find ourselves using words like "if," "then," "not" and "otherwise."
+*Selection* means choosing between alternatives based on whether a condition is true or false.
+Selection also means that the next step depends on the type of situation. When describing selection, we often find ourselves using words like "if," "then," "not" and "otherwise."
 
-*If* it is raining, *then* take an umbrella. *Otherwise* leave it home. *If* the traffic light is red, *then* stop. If it is green, *then* go. In both cases, the process includes a question: what kind of situation is this? The answer determines what happens next.
+*If* it is raining, *then* take an umbrella. *Otherwise* leave it home. *If* the traffic light is red, *then* stop. If it is green, *then* go.  
 
-Jewish practice uses this pattern constantly. If the food in front of you is bread, you say one blessing. If it is fruit, you say another. If it is still before sunset on Friday, candle-lighting is possible. If sunset has already passed, that option is gone. The process changes because the situation changes.
+In both cases, the process includes a question: what type of situation is this? The answer determines what will happen next.
 
-Later we will use more technical language for this kind of thing. For now, the important point is simple: an algorithm often contains a fork in the road. What you do next depends on the answer to a real question.
+Jewish practice uses this pattern constantly: 
+- If the food in front of one is bread one kind of blessing is recited. If it is fruit, another kind of blessing is recited.   
+- If it is still before sunset on Friday, candle-lighting is possible. If sunset has already occurred, that is no longer an option. The process changes because the situation changes.
 
-The general template for selection looks like:
+The important point is simple: an algorithm often contains a fork in the road. What you do next depends on the answer to the given question.
+
+The general template for selection looks like (The `fi` at the end is just `if` backwards and conveys that the if clause has ended):
 
 > if ⟨condition⟩ then
 >
@@ -233,23 +242,21 @@ The general template for selection looks like:
 >
 > fi;
 
-The `fi` at the end is just `if` backwards and conveys that the if clause has ended.
-
 For example:
 
-> if eating bread then
+> if eating bread, then
 >
 >     recite the Ha'motzei blessing
 >
-> else if eating fruit
+> else, if eating fruit
 >
 >     recite the Ha'eitz blessing
 >
 > fi;
 
-The controlling condition is called a *boolean expression*, an expression that evaluates to TRUE or FALSE. Boolean expressions can be simple ("Is the object valuable?") or compound, using AND, OR, and NOT to combine conditions ("Is the object valuable AND does its owner live nearby?").
+The controlling condition is called a *boolean expression*, an expression that is either TRUE or FALSE. Boolean expressions can be simple ("Is the object valuable?") or compound, using AND, OR, and NOT to combine conditions ("Is the object valuable AND does its owner live nearby?").
 
-Selection pervades halakhic reasoning. When the Talmud asks, "Does this case fall under category A or category B?" it is performing selection using if/else reasoning. The entire structure of case law, distinguishing situations and applying different rules to different circumstances, is an elaborate system of nested selections. The thirteen hermeneutical rules of Rabbi Ishmael, which we examine in Part IV, are themselves formal selection rules: given certain textual conditions, apply this inference rather than that one.
+Selection is pervasive in halakhic reasoning. When the Talmud asks, "Does this case fall under category A or category B?" it is performing selection using if/else reasoning. The entire structure of case law, distinguishing situations and applying different rules to different circumstances, is an elaborate system of nested selections. The thirteen hermeneutical rules of Rabbi Ishmael, which we will examine in Part IV, are themselves formal selection rules: given certain textual conditions, one can apply this inference rather than that one.
 
 ### 3: Iteration
 
