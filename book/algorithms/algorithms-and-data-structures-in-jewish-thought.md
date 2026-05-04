@@ -262,13 +262,13 @@ Selection is pervasive in halakhic reasoning. When the Talmud asks, "Does this c
 
 Iteration means repetition with a stopping point.
 
-You stir soup until it is mixed. You wash dishes until the sink is empty. You walk until you reach the corner. In each case, you are doing something again and again, but not forever. You stop when a condition has been met.
+You stir soup until it is mixed. You wash dishes until the sink is empty. You walk until you reach the corner. In each case, you are doing something over and over again, but not forever. You stop when you achieve your goal.
 
-Jewish life contains the same pattern. You count the Omer each night until the count is complete. You may search a room for chametz by checking area after area until there is nothing left to find. Tzitzit wrapping also has a repeated structure: wind, knot, wind, knot, according to a defined pattern.
+Jewish life contains the same pattern. You count the Omer each night until you complete the count. You may search a room for chametz by checking area after area until there is no chametz left to find. Creating Tzitzit also has a repeated structure: wind, knot, wind, knot, according to a pre-defined pattern.
 
-Repetition is one of the main ways simple instructions become powerful. Without repetition, you could only describe tasks with a fixed number of steps. With repetition, a process can handle a table full of dishes, a long stretch of road, or a search that continues until the job is really done.
+Iteration is one of the main ways simple instructions can become powerful. The following example illustrates the utility of iteration. Imagine trying to tell someone how to clean a sink full of dirty dishes. Without iteration (looping), you would need to specify in advance how many dirty dishes are in the sink. For example, you would need to say "first clean the first dirty dish, then clean the second dirty dish, and so on. With iteration, you can just say keep cleaning dirty dishes until there are no more dirty dishes left in the sink.
 
-The most fundamental form of iteration is the while-loop:
+The following is an example of a while-loop (The `od` at the end is just `do` backwards and conveys that the while clause has ended):
 
 > while ⟨condition is true⟩ do
 >
@@ -276,11 +276,17 @@ The most fundamental form of iteration is the while-loop:
 >
 > od;
 
-The `od` at the end is just `do` backwards and conveys that the while clause has ended.
+For example:
 
-The algorithm evaluates the condition. If TRUE, it executes the enclosed actions, then evaluates the condition again. The cycle repeats until the condition becomes FALSE. 
+> while ⟨there are dirty dishes in the sink⟩ do
+>
+>     ⟨clean the next dirty dish⟩
+>
+> od;
 
-A related form is the for-loop, which iterates a specific number of times:
+The `condition` is the part between that's between `while` and `do`. The algorithm keeps checking if the condition is True or False. Whenever the condition is TRUE, the algorithm executes those instuctions. As soon as the condition is False, the loop terminates.
+
+The following is and of a for-loop, which iterates a specific number of times:
 
 > for ⟨variable⟩ from 1 to ⟨n⟩ do
 >
@@ -288,9 +294,15 @@ A related form is the for-loop, which iterates a specific number of times:
 >
 > od;
 
-Every for-loop can be expressed as a while-loop (by managing a counter manually), so the for-loop adds no new computational power; it just makes certain patterns easier to express.
+For example, if wsashing 50 dirty dishes:
 
-Iteration appears throughout halakhic algorithms. The wrapping of tzitzit fringes (wind seven times, knot; wind eight times, knot; wind eleven times, knot; wind thirteen times, knot) is a for-loop. The annual cycle of Torah readings is an iteration. Talmudic dialectical reasoning (raise an objection, resolve it, raise another, resolve it, continue until no objections remain) is a while-loop whose condition is "are there still unresolved objections?"
+> for ⟨num_dishes⟩ from 1 to ⟨50⟩ do
+>
+>     ⟨wash the next dirty dish⟩
+>
+> od;
+
+Every for-loop can be expressed as a while-loop (by managing a counter manually), so the for-loop adds no new computational power; it just makes certain patterns easier to express.
 
 ### Keeping Track: Status and Memory
 
